@@ -1,5 +1,6 @@
 /**
- * This script takes as arguments two gexf files exported from the network visualization of gephi
+ * This script takes as arguments two gexf files exported from the network visualization of hyphe
+ * and returns a unified graphology graph
  * Nodes get a property "period_type" with enum{3}: ["past", "future", "bridge"]
  * Edges get a property "period_type" with enum{5}: ["past", "future", "bridge", "past_bridge", "future_bridge"]
  */

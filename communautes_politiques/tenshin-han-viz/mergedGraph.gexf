@@ -1,0 +1,1684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="directed">
+    <attributes class="node">
+      <attribute id="status" title="status" type="string"/>
+      <attribute id="pages_total" title="pages_total" type="integer"/>
+      <attribute id="undirected_degree" title="undirected_degree" type="integer"/>
+      <attribute id="crawling_status" title="crawling_status" type="string"/>
+      <attribute id="indegree" title="indegree" type="integer"/>
+      <attribute id="outdegree" title="outdegree" type="integer"/>
+      <attribute id="creation_date" title="creation_date" type="double"/>
+      <attribute id="indexing_status" title="indexing_status" type="string"/>
+      <attribute id="crawled" title="crawled" type="boolean"/>
+      <attribute id="last_modification_date" title="last_modification_date" type="double"/>
+      <attribute id="pages_crawled" title="pages_crawled" type="integer"/>
+      <attribute id="name" title="name" type="string"/>
+      <attribute id="Crawl Source" title="Crawl Source" type="liststring"/>
+      <attribute id="period_type" title="period_type" type="string"/>
+      <attribute id="homepage" title="homepage" type="string"/>
+      <attribute id="highlighted" title="highlighted" type="boolean"/>
+    </attributes>
+    <attributes class="edge">
+      <attribute id="count" title="count" type="integer"/>
+      <attribute id="periode_type" title="periode_type" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="0" label="fr.Wikipedia.org /.../Front_de_gauche_(France)">
+        <attvalues>
+          <attvalue for="status" value="UNDECIDED"/>
+          <attvalue for="pages_total" value="0"/>
+          <attvalue for="undirected_degree" value="0"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649154116397"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649162334576"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="fr.Wikipedia.org /.../Front_de_gauche_(France)"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+        </attvalues>
+        <viz:color r="173" g="162" b="153"/>
+        <viz:size value="4"/>
+        <viz:position x="168.21214294433594" y="-103.8314437866211"/>
+      </node>
+      <node id="1" label="fr.Wikipedia.org /.../Jean-Luc_Mélenchon">
+        <attvalues>
+          <attvalue for="status" value="UNDECIDED"/>
+          <attvalue for="pages_total" value="556"/>
+          <attvalue for="undirected_degree" value="101"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="101"/>
+          <attvalue for="creation_date" value="1649154116405"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649162334577"/>
+          <attvalue for="pages_crawled" value="1"/>
+          <attvalue for="name" value="fr.Wikipedia.org /.../Jean-Luc_Mélenchon"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+          <attvalue for="homepage" value="http://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"/>
+        </attvalues>
+        <viz:color r="173" g="162" b="153"/>
+        <viz:size value="8"/>
+        <viz:position x="-15.737502098083496" y="-35.68025207519531"/>
+      </node>
+      <node id="2" label="fr.Wikipedia.org /.../La_France_insoumise">
+        <attvalues>
+          <attvalue for="status" value="UNDECIDED"/>
+          <attvalue for="pages_total" value="186"/>
+          <attvalue for="undirected_degree" value="51"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="51"/>
+          <attvalue for="creation_date" value="1649154116415"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649162334579"/>
+          <attvalue for="pages_crawled" value="1"/>
+          <attvalue for="name" value="fr.Wikipedia.org /.../La_France_insoumise"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+          <attvalue for="homepage" value="http://fr.wikipedia.org/wiki/La_France_insoumise"/>
+        </attvalues>
+        <viz:color r="173" g="162" b="153"/>
+        <viz:size value="8"/>
+        <viz:position x="41.82665252685547" y="-56.56425094604492"/>
+      </node>
+      <node id="3" label="fr.Wikipedia.org /.../Parti_de_gauche">
+        <attvalues>
+          <attvalue for="status" value="UNDECIDED"/>
+          <attvalue for="pages_total" value="3"/>
+          <attvalue for="undirected_degree" value="6"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="6"/>
+          <attvalue for="creation_date" value="1649154116424"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649162334581"/>
+          <attvalue for="pages_crawled" value="1"/>
+          <attvalue for="name" value="fr.Wikipedia.org /.../Parti_de_gauche"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+        </attvalues>
+        <viz:color r="173" g="162" b="153"/>
+        <viz:size value="4"/>
+        <viz:position x="69.03682708740234" y="-184.5697784423828"/>
+      </node>
+      <node id="4" label="Gauche-Anticapitaliste.org">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="2"/>
+          <attvalue for="undirected_degree" value="0"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649154147392"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164908084"/>
+          <attvalue for="pages_crawled" value="2"/>
+          <attvalue for="name" value="Gauche-Anticapitaliste.org"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="-80.70651245117188" y="-171.38340759277344"/>
+      </node>
+      <node id="5" label="Lafederation.org">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1282"/>
+          <attvalue for="undirected_degree" value="78"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="77"/>
+          <attvalue for="creation_date" value="1649154147392"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164908011"/>
+          <attvalue for="pages_crawled" value="567"/>
+          <attvalue for="name" value="Lafederation.org"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="-70.96981811523438" y="60.490699768066406"/>
+      </node>
+      <node id="6" label="Pcf.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="7835"/>
+          <attvalue for="undirected_degree" value="86"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="5"/>
+          <attvalue for="outdegree" value="82"/>
+          <attvalue for="creation_date" value="1649154147392"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164908475"/>
+          <attvalue for="pages_crawled" value="557"/>
+          <attvalue for="name" value="Pcf.fr"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12.94427190999916"/>
+        <viz:position x="-33.362308502197266" y="56.5220947265625"/>
+      </node>
+      <node id="7" label="Pcf-Gresivaudan.blogspot.com">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="2"/>
+          <attvalue for="undirected_degree" value="0"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649154147393"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164909013"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Pcf-Gresivaudan.blogspot.com"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="141.0554656982422" y="122.61576843261719"/>
+      </node>
+      <node id="8" label="Gauche-Unitaire.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="4"/>
+          <attvalue for="undirected_degree" value="2"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649154147393"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164909258"/>
+          <attvalue for="pages_crawled" value="3"/>
+          <attvalue for="name" value="Gauche-Unitaire.fr"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="9.65685424949238"/>
+        <viz:position x="-76.46406555175781" y="34.3553466796875"/>
+      </node>
+      <node id="9" label="Convergencesetalternative.blogspot.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="503"/>
+          <attvalue for="undirected_degree" value="92"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="92"/>
+          <attvalue for="creation_date" value="1649154147393"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164909319"/>
+          <attvalue for="pages_crawled" value="323"/>
+          <attvalue for="name" value="Convergencesetalternative.blogspot.fr"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="-54.430171966552734" y="42.513511657714844"/>
+      </node>
+      <node id="10" label="Eurocitoyenne.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="997"/>
+          <attvalue for="undirected_degree" value="39"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="36"/>
+          <attvalue for="creation_date" value="1649154147393"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164909436"/>
+          <attvalue for="pages_crawled" value="549"/>
+          <attvalue for="name" value="Eurocitoyenne.fr"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12"/>
+        <viz:position x="-15.193288803100586" y="62.82251739501953"/>
+      </node>
+      <node id="11" label="Antoineleaument.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="10"/>
+          <attvalue for="undirected_degree" value="2"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649154152171"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164910119"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Antoineleaument.fr"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="9.65685424949238"/>
+        <viz:position x="-2.034984827041626" y="-49.22243881225586"/>
+      </node>
+      <node id="12" label="Marxiste.org">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="2983"/>
+          <attvalue for="undirected_degree" value="49"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="48"/>
+          <attvalue for="creation_date" value="1649154155636"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164910348"/>
+          <attvalue for="pages_crawled" value="527"/>
+          <attvalue for="name" value="Marxiste.org"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="64.96112823486328" y="-77.2218246459961"/>
+      </node>
+      <node id="13" label="Youtube.com /.../PlaceauPeuple">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="22"/>
+          <attvalue for="undirected_degree" value="37"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="35"/>
+          <attvalue for="creation_date" value="1649154155636"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164910426"/>
+          <attvalue for="pages_crawled" value="20"/>
+          <attvalue for="name" value="Youtube.com /.../PlaceauPeuple"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12"/>
+        <viz:position x="38.13916778564453" y="9.220410346984863"/>
+      </node>
+      <node id="14" label="Insoumis.online">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="173"/>
+          <attvalue for="undirected_degree" value="41"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="40"/>
+          <attvalue for="creation_date" value="1649154155636"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164910777"/>
+          <attvalue for="pages_crawled" value="21"/>
+          <attvalue for="name" value="Insoumis.online"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="9.65685424949238"/>
+        <viz:position x="49.493751525878906" y="-28.114849090576172"/>
+      </node>
+      <node id="15" label="Gaucherevolutionnaire.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1235"/>
+          <attvalue for="undirected_degree" value="27"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="26"/>
+          <attvalue for="creation_date" value="1649154155636"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164911104"/>
+          <attvalue for="pages_crawled" value="531"/>
+          <attvalue for="name" value="Gaucherevolutionnaire.fr"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="48.77325439453125" y="-86.9725112915039"/>
+      </node>
+      <node id="16" label="Initiative-Communiste.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="8516"/>
+          <attvalue for="undirected_degree" value="104"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="102"/>
+          <attvalue for="creation_date" value="1649154155636"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164911093"/>
+          <attvalue for="pages_crawled" value="527"/>
+          <attvalue for="name" value="Initiative-Communiste.fr"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="9.65685424949238"/>
+        <viz:position x="61.38452911376953" y="-45.38618087768555"/>
+      </node>
+      <node id="17" label="fraternitecitoyenne.Blog4Ever.com">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="58"/>
+          <attvalue for="undirected_degree" value="5"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="4"/>
+          <attvalue for="creation_date" value="1649161290029"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164911122"/>
+          <attvalue for="pages_crawled" value="52"/>
+          <attvalue for="name" value="fraternitecitoyenne.Blog4Ever.com"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="period_type" value="past"/>
+          <attvalue for="homepage" value="http://fraternitecitoyenne.blog4ever.com"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="39.11034393310547" y="-86.20879364013672"/>
+      </node>
+      <node id="18" label="Frontdegauche.eu">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="19"/>
+          <attvalue for="undirected_degree" value="3"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="creation_date" value="1649153733493"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164925334"/>
+          <attvalue for="pages_crawled" value="6"/>
+          <attvalue for="name" value="Frontdegauche.eu"/>
+          <attvalue for="period_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="-43.481685638427734" y="14.95616626739502"/>
+      </node>
+      <node id="19" label="Lepartidegauche.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="355"/>
+          <attvalue for="undirected_degree" value="20"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="5"/>
+          <attvalue for="outdegree" value="15"/>
+          <attvalue for="creation_date" value="1649153733493"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164925222"/>
+          <attvalue for="pages_crawled" value="31"/>
+          <attvalue for="name" value="Lepartidegauche.fr"/>
+          <attvalue for="period_type" value="bridge"/>
+          <attvalue for="highlighted" value="false"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12"/>
+        <viz:position x="14.024754524230957" y="-29.796382904052734"/>
+      </node>
+      <node id="20" label="Placeaupeuple2012.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="50"/>
+          <attvalue for="undirected_degree" value="4"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649153733493"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164926002"/>
+          <attvalue for="pages_crawled" value="15"/>
+          <attvalue for="name" value="Placeaupeuple2012.fr"/>
+          <attvalue for="period_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12"/>
+        <viz:position x="-30.66203498840332" y="24.378637313842773"/>
+      </node>
+      <node id="21" label="Melenchon.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1050"/>
+          <attvalue for="undirected_degree" value="41"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="6"/>
+          <attvalue for="outdegree" value="36"/>
+          <attvalue for="creation_date" value="1649153733494"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164925935"/>
+          <attvalue for="pages_crawled" value="102"/>
+          <attvalue for="name" value="Melenchon.fr"/>
+          <attvalue for="period_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12"/>
+        <viz:position x="-1.1620464324951172" y="-11.015274047851562"/>
+      </node>
+      <node id="22" label="Placeaupeuple.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="116"/>
+          <attvalue for="undirected_degree" value="23"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="23"/>
+          <attvalue for="creation_date" value="1649153733494"/>
+          <attvalue for="indexing_status" value="BATCH_RUNNING"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164926100"/>
+          <attvalue for="pages_crawled" value="10"/>
+          <attvalue for="name" value="Placeaupeuple.fr"/>
+          <attvalue for="period_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="-27.346790313720703" y="43.91354751586914"/>
+      </node>
+      <node id="23" label="Frontdegauche-Europe.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="5"/>
+          <attvalue for="undirected_degree" value="1"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649153733495"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164926693"/>
+          <attvalue for="pages_crawled" value="1"/>
+          <attvalue for="name" value="Frontdegauche-Europe.fr"/>
+          <attvalue for="period_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="-36.664608001708984" y="61.960960388183594"/>
+      </node>
+      <node id="24" label="M6R.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="8"/>
+          <attvalue for="undirected_degree" value="5"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="creation_date" value="1649153803804"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164926772"/>
+          <attvalue for="pages_crawled" value="4"/>
+          <attvalue for="name" value="M6R.fr"/>
+          <attvalue for="period_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="10.928203230275509"/>
+        <viz:position x="15.925753593444824" y="-13.328195571899414"/>
+      </node>
+      <node id="25" label="Laec.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="563"/>
+          <attvalue for="undirected_degree" value="16"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="3"/>
+          <attvalue for="outdegree" value="13"/>
+          <attvalue for="creation_date" value="1649153803805"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164926895"/>
+          <attvalue for="pages_crawled" value="63"/>
+          <attvalue for="name" value="Laec.fr"/>
+          <attvalue for="period_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="42.6329460144043" y="18.864360809326172"/>
+      </node>
+      <node id="26" label="Jean-Luc-Melenchon.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1083"/>
+          <attvalue for="undirected_degree" value="105"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="5"/>
+          <attvalue for="outdegree" value="101"/>
+          <attvalue for="creation_date" value="1649153803805"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164927591"/>
+          <attvalue for="pages_crawled" value="59"/>
+          <attvalue for="name" value="Jean-Luc-Melenchon.fr"/>
+          <attvalue for="period_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12"/>
+        <viz:position x="-13.962661743164062" y="7.237539768218994"/>
+      </node>
+      <node id="27" label="Jeanluc-Melenchon2017.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1"/>
+          <attvalue for="undirected_degree" value="1"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649153803805"/>
+          <attvalue for="indexing_status" value="PENDING"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164927642"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Jeanluc-Melenchon2017.fr"/>
+          <attvalue for="period_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="-63.200836181640625" y="-114.20992279052734"/>
+      </node>
+      <node id="28" label="Ensemble-Fdg.org">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1268"/>
+          <attvalue for="undirected_degree" value="112"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="111"/>
+          <attvalue for="creation_date" value="1649153803805"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164928421"/>
+          <attvalue for="pages_crawled" value="250"/>
+          <attvalue for="name" value="Ensemble-Fdg.org"/>
+          <attvalue for="period_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="2.6507790088653564" y="-43.188079833984375"/>
+      </node>
+      <node id="29" label="Lavenirencommun.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1"/>
+          <attvalue for="undirected_degree" value="1"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649153843774"/>
+          <attvalue for="indexing_status" value="PENDING"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164931024"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Lavenirencommun.fr"/>
+          <attvalue for="period_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="-1.9926964044570923" y="-131.5092315673828"/>
+      </node>
+      <node id="30" label="Jlm2017.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="3"/>
+          <attvalue for="undirected_degree" value="1"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649153843774"/>
+          <attvalue for="indexing_status" value="PENDING"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164932302"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Jlm2017.fr"/>
+          <attvalue for="period_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="129.77232360839844" y="-31.67778968811035"/>
+      </node>
+      <node id="31" label="Lafranceinsoumise.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="259"/>
+          <attvalue for="undirected_degree" value="32"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="5"/>
+          <attvalue for="outdegree" value="27"/>
+          <attvalue for="creation_date" value="1649153733493"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164924952"/>
+          <attvalue for="pages_crawled" value="31"/>
+          <attvalue for="name" value="Lafranceinsoumise.fr"/>
+          <attvalue for="period_type" value="future"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="10.928203230275509"/>
+        <viz:position x="35.18751525878906" y="-19.424739837646484"/>
+      </node>
+      <node id="32" label="Lemediatv.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="658"/>
+          <attvalue for="undirected_degree" value="54"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="53"/>
+          <attvalue for="creation_date" value="1649153803805"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164927734"/>
+          <attvalue for="pages_crawled" value="162"/>
+          <attvalue for="name" value="Lemediatv.fr"/>
+          <attvalue for="period_type" value="future"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="83.04227447509766" y="102.35470581054688"/>
+      </node>
+      <node id="33" label="Le-Bon-Sens.com">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1344"/>
+          <attvalue for="undirected_degree" value="172"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="171"/>
+          <attvalue for="creation_date" value="1649153803805"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164928381"/>
+          <attvalue for="pages_crawled" value="248"/>
+          <attvalue for="name" value="Le-Bon-Sens.com"/>
+          <attvalue for="period_type" value="future"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="19.842926025390625" y="4.917821407318115"/>
+      </node>
+      <node id="34" label="Opiam.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="2445"/>
+          <attvalue for="undirected_degree" value="100"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="98"/>
+          <attvalue for="creation_date" value="1649153803805"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164928497"/>
+          <attvalue for="pages_crawled" value="250"/>
+          <attvalue for="name" value="Opiam.fr"/>
+          <attvalue for="period_type" value="future"/>
+          <attvalue for="highlighted" value="true"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="-6.935431003570557" y="-23.624608993530273"/>
+      </node>
+      <node id="35" label="Twitter.com /JLMelenchon">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="12"/>
+          <attvalue for="undirected_degree" value="5"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="5"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649153843774"/>
+          <attvalue for="indexing_status" value="PENDING"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164931919"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Twitter.com /JLMelenchon"/>
+          <attvalue for="period_type" value="future"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12"/>
+        <viz:position x="-3.6608448028564453" y="26.529138565063477"/>
+      </node>
+      <node id="36" label="Avenirencommun.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="7"/>
+          <attvalue for="undirected_degree" value="3"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="3"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649153843774"/>
+          <attvalue for="indexing_status" value="PENDING"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164931283"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Avenirencommun.fr"/>
+          <attvalue for="period_type" value="future"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="9.65685424949238"/>
+        <viz:position x="48.09770202636719" y="-7.6557207107543945"/>
+      </node>
+      <node id="37" label="Martine-Billard.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="3"/>
+          <attvalue for="undirected_degree" value="3"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="3"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649153843774"/>
+          <attvalue for="indexing_status" value="PENDING"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164932240"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Martine-Billard.fr"/>
+          <attvalue for="period_type" value="future"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="9.65685424949238"/>
+        <viz:position x="13.296504020690918" y="25.027299880981445"/>
+      </node>
+      <node id="38" label="Guengl.eu">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="2"/>
+          <attvalue for="undirected_degree" value="2"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649153843775"/>
+          <attvalue for="indexing_status" value="PENDING"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164934169"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Guengl.eu"/>
+          <attvalue for="period_type" value="future"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="-20.9566593170166" y="27.07721519470215"/>
+      </node>
+      <node id="39" label="Facebook - Les Artistes avec Mélenchon">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="2"/>
+          <attvalue for="undirected_degree" value="1"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649153843775"/>
+          <attvalue for="indexing_status" value="PENDING"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164934476"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Facebook - Les Artistes avec Mélenchon"/>
+          <attvalue for="period_type" value="future"/>
+          <attvalue for="homepage" value="http://www.facebook.com/799817863495050"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="-131.45703125" y="-10.183873176574707"/>
+      </node>
+      <node id="40" label="Lafaqdelavenirencommun.com">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1"/>
+          <attvalue for="undirected_degree" value="1"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649153843775"/>
+          <attvalue for="indexing_status" value="PENDING"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649164934502"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Lafaqdelavenirencommun.com"/>
+          <attvalue for="period_type" value="future"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="-114.00643920898438" y="-64.86486053466797"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="geid_26_0" source="2" target="1">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_1" source="1" target="2">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_2" source="1" target="18">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_3" source="6" target="18">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_4" source="9" target="18">
+        <attvalues>
+          <attvalue for="count" value="231"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_5" source="9" target="5">
+        <attvalues>
+          <attvalue for="count" value="231"/>
+          <attvalue for="periode_type" value="past"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_6" source="22" target="6">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_7" source="9" target="6">
+        <attvalues>
+          <attvalue for="count" value="233"/>
+          <attvalue for="periode_type" value="past"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_8" source="21" target="6">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_9" source="28" target="6">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_10" source="10" target="6">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+          <attvalue for="periode_type" value="past"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_11" source="5" target="20">
+        <attvalues>
+          <attvalue for="count" value="81"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_12" source="6" target="20">
+        <attvalues>
+          <attvalue for="count" value="17"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_13" source="22" target="20">
+        <attvalues>
+          <attvalue for="count" value="315"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_14" source="9" target="20">
+        <attvalues>
+          <attvalue for="count" value="270"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_15" source="28" target="22">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_16" source="21" target="22">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_17" source="9" target="22">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_18" source="22" target="23">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_19" source="1" target="19">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_20" source="26" target="19">
+        <attvalues>
+          <attvalue for="count" value="123"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_21" source="9" target="19">
+        <attvalues>
+          <attvalue for="count" value="230"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_22" source="21" target="19">
+        <attvalues>
+          <attvalue for="count" value="10"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_23" source="22" target="19">
+        <attvalues>
+          <attvalue for="count" value="6"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_24" source="28" target="19">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_25" source="9" target="8">
+        <attvalues>
+          <attvalue for="count" value="232"/>
+          <attvalue for="periode_type" value="past"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_26" source="28" target="8">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_27" source="22" target="9">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_28" source="26" target="10">
+        <attvalues>
+          <attvalue for="count" value="122"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_29" source="6" target="10">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+          <attvalue for="periode_type" value="past"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_30" source="22" target="10">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_31" source="28" target="10">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_32" source="1" target="26">
+        <attvalues>
+          <attvalue for="count" value="9"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_33" source="13" target="26">
+        <attvalues>
+          <attvalue for="count" value="16"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_34" source="9" target="26">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_35" source="21" target="26">
+        <attvalues>
+          <attvalue for="count" value="1794"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_36" source="22" target="26">
+        <attvalues>
+          <attvalue for="count" value="145"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_37" source="28" target="26">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_38" source="1" target="24">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_39" source="21" target="24">
+        <attvalues>
+          <attvalue for="count" value="545"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_40" source="19" target="24">
+        <attvalues>
+          <attvalue for="count" value="135"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_41" source="22" target="24">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_42" source="1" target="21">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_43" source="26" target="21">
+        <attvalues>
+          <attvalue for="count" value="8"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_44" source="19" target="21">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_45" source="14" target="21">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_46" source="2" target="21">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_47" source="13" target="21">
+        <attvalues>
+          <attvalue for="count" value="10"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_48" source="22" target="21">
+        <attvalues>
+          <attvalue for="count" value="73"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_49" source="1" target="27">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_50" source="1" target="28">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_51" source="21" target="28">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_52" source="5" target="28">
+        <attvalues>
+          <attvalue for="count" value="60"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_53" source="22" target="28">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_54" source="9" target="28">
+        <attvalues>
+          <attvalue for="count" value="231"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_55" source="1" target="11">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_56" source="21" target="11">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_57" source="2" target="12">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+          <attvalue for="periode_type" value="past"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_58" source="2" target="13">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_59" source="21" target="13">
+        <attvalues>
+          <attvalue for="count" value="544"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_60" source="22" target="13">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_61" source="30" target="13">
+        <attvalues>
+          <attvalue for="count" value="89"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_62" source="2" target="29">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_63" source="2" target="30">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_64" source="21" target="30">
+        <attvalues>
+          <attvalue for="count" value="2759"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_65" source="19" target="30">
+        <attvalues>
+          <attvalue for="count" value="130"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_66" source="14" target="30">
+        <attvalues>
+          <attvalue for="count" value="7"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_67" source="13" target="30">
+        <attvalues>
+          <attvalue for="count" value="18"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_68" source="22" target="30">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_69" source="2" target="14">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+          <attvalue for="periode_type" value="past"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_70" source="21" target="14">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_71" source="2" target="25">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_72" source="30" target="25">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_73" source="14" target="25">
+        <attvalues>
+          <attvalue for="count" value="9"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_74" source="21" target="25">
+        <attvalues>
+          <attvalue for="count" value="7"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_75" source="16" target="25">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_76" source="2" target="15">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_77" source="2" target="16">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_78" source="21" target="16">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_79" source="2" target="17">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_80" source="26" target="18">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_81" source="33" target="19">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_82" source="34" target="19">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="147" g="189" b="224"/>
+        <viz:size value="3.5"/>
+      </edge>
+      <edge id="geid_26_83" source="21" target="31">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="future_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_84" source="19" target="31">
+        <attvalues>
+          <attvalue for="count" value="21"/>
+          <attvalue for="periode_type" value="future_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_85" source="18" target="20">
+        <attvalues>
+          <attvalue for="count" value="6"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_86" source="26" target="20">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_87" source="33" target="20">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_88" source="28" target="21">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_89" source="33" target="21">
+        <attvalues>
+          <attvalue for="count" value="9"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_90" source="34" target="21">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="147" g="189" b="224"/>
+        <viz:size value="3.5"/>
+      </edge>
+      <edge id="geid_26_91" source="33" target="24">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_92" source="26" target="24">
+        <attvalues>
+          <attvalue for="count" value="33"/>
+          <attvalue for="periode_type" value="bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_93" source="33" target="25">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_94" source="34" target="26">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="147" g="189" b="224"/>
+        <viz:size value="3.5"/>
+      </edge>
+      <edge id="geid_26_95" source="33" target="26">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+          <attvalue for="periode_type" value="past_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_96" source="21" target="35">
+        <attvalues>
+          <attvalue for="count" value="98"/>
+          <attvalue for="periode_type" value="future_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_97" source="26" target="35">
+        <attvalues>
+          <attvalue for="count" value="31"/>
+          <attvalue for="periode_type" value="future_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_98" source="22" target="35">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+          <attvalue for="periode_type" value="future_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_99" source="26" target="37">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+          <attvalue for="periode_type" value="future_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="geid_26_100" source="26" target="38">
+        <attvalues>
+          <attvalue for="count" value="14"/>
+          <attvalue for="periode_type" value="future_bridge"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

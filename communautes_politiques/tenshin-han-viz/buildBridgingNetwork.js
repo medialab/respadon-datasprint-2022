@@ -7,7 +7,7 @@
 const fs = require('fs')
 const Graph = require('graphology');
 
-const buildBridgingNetwork = (graph1, graph2, output = 'mergedGraph.gexf') => {
+const buildBridgingNetwork = (graph1, graph2) => {
 
   const nodesFromGraphPast = new Set();
   const nodesFromGraphFuture = new Set();

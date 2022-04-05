@@ -1,0 +1,15 @@
+{
+  "name": "tenshin-han-viz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphology": "^0.24.1",
+    "graphology-gexf": "^0.10.1"
+  }
+}

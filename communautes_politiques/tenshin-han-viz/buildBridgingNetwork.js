@@ -3,8 +3,6 @@
  * Nodes get a property "period_type" with enum{3}: ["past", "future", "bridge"]
  * Edges get a property "period_type" with enum{5}: ["past", "future", "bridge", "past_bridge", "future_bridge"]
  */
-
-const fs = require('fs')
 const Graph = require('graphology');
 
 const buildBridgingNetwork = (graph1, graph2) => {
@@ -42,7 +40,6 @@ const buildBridgingNetwork = (graph1, graph2) => {
   const nodesIdsFromFutureOnly = new Set();
   // store ids of nodes from future graph concerning the bridge
   const nodesIdsFromBothYears = new Set();
-  // store ids of bridges from path
   // iterate within past nodes to fill nodesIdsFromPastOnly
   graph1.forEachNode((nodeId, attributes) => {
     if (nodesLabelsFromPastOnly.has(attributes['label'])) {
@@ -60,6 +57,7 @@ const buildBridgingNetwork = (graph1, graph2) => {
   // record past-to-future id links
   const pastIdToFutureIdForBridgeNodesMap = {};
   const bridgeLabelsProcessed = new Set();
+  // @todo this is expensive, could be improved by setting label-to-id maps previously
   let numberOfLabelDuplicates = 0;
   [...nodesLabelsFromBothYears].forEach(label => {
     graph1.forEachNode((id1, attr1) => {
@@ -80,6 +78,7 @@ const buildBridgingNetwork = (graph1, graph2) => {
       }
     })
   });
+  // control we are doing no crap
   console.log('%s duplicates', numberOfLabelDuplicates)
 
   const pastIdsToNewIdsMap = {};
@@ -116,6 +115,7 @@ const buildBridgingNetwork = (graph1, graph2) => {
     });
     indexCounter++;
   });
+  // for logging purpose
   let numberOfPastEdges = 0,
       numberOfPastToBridgeEdges = 0,
       numberOfBridgeEdges = 0,
@@ -171,7 +171,7 @@ const buildBridgingNetwork = (graph1, graph2) => {
     let edgeType;
     const sourceLabel = graph2.getNodeAttribute(source, 'label');
     const targetLabel = graph2.getNodeAttribute(target, 'label');
-    // both are past
+    // both are future
     if (nodesLabelsFromFutureOnly.has(sourceLabel) && nodesLabelsFromFutureOnly.has(targetLabel)) {
       edgeType = 'future';
       newSourceId = pastIdsToNewIdsMap[source];
@@ -205,8 +205,8 @@ const buildBridgingNetwork = (graph1, graph2) => {
       // console.log('target is bridge', newSourceId, newTargetId);
     }
     if(newSourceId && newTargetId) {
+      // adding edge if it is new
       if (!resultGraph.hasEdge(newSourceId, newTargetId)) {
-        // console.log('add new edge')
          resultGraph.addEdge(newSourceId, newTargetId, {
           ...attr,
           periode_type: edgeType

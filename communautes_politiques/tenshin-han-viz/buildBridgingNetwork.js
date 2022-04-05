@@ -6,10 +6,6 @@
 
 const fs = require('fs')
 const Graph = require('graphology');
-const gexf = require('graphology-gexf');
-
-const graph2017 = gexf.parse(Graph, fs.readFileSync('melenchon_2017.gexf', 'utf8'));
-const graph2022 = gexf.parse(Graph, fs.readFileSync('melenchon_2022.gexf', 'utf8'));
 
 const buildBridgingNetwork = (graph1, graph2, output = 'mergedGraph.gexf') => {
 
@@ -84,10 +80,6 @@ const buildBridgingNetwork = (graph1, graph2, output = 'mergedGraph.gexf') => {
       }
     })
   });
-
-  console.log('check past : ', [...nodesIdsFromPastOnly].length);
-  console.log('check future : ', [...nodesIdsFromFutureOnly].length);
-  console.log('check bridge : ', [...nodesIdsFromBothYears].length);
   console.log('%s duplicates', numberOfLabelDuplicates)
 
   const pastIdsToNewIdsMap = {};
@@ -124,6 +116,11 @@ const buildBridgingNetwork = (graph1, graph2, output = 'mergedGraph.gexf') => {
     });
     indexCounter++;
   });
+  let numberOfPastEdges = 0,
+      numberOfPastToBridgeEdges = 0,
+      numberOfBridgeEdges = 0,
+      numberOfBridgeToFutureEdges = 0,
+      numberOfFutureEdges = 0;
   // iterate within past edges
   graph1.forEachEdge((edge, attr, source, target) => {
     // console.log(edge, attr, source, target)
@@ -137,24 +134,28 @@ const buildBridgingNetwork = (graph1, graph2, output = 'mergedGraph.gexf') => {
       edgeType = 'past';
       newSourceId = pastIdsToNewIdsMap[source];
       newTargetId = pastIdsToNewIdsMap[target];
+      numberOfPastEdges++;
     } 
     // both are bridge
     else if (nodesLabelsFromBothYears.has(sourceLabel) && nodesLabelsFromBothYears.has(targetLabel)) {
       edgeType = 'bridge';
       newSourceId = futureIdsToNewIdsMap[pastIdToFutureIdForBridgeNodesMap[source]];
       newTargetId =  futureIdsToNewIdsMap[pastIdToFutureIdForBridgeNodesMap[target]];
+      numberOfBridgeEdges++;
     } 
     // source is bridge
     else if (nodesLabelsFromBothYears.has(sourceLabel)) {
       edgeType = 'past_bridge';
       newSourceId = futureIdsToNewIdsMap[pastIdToFutureIdForBridgeNodesMap[source]];
       newTargetId = pastIdsToNewIdsMap[target];
+      numberOfPastToBridgeEdges++;
     } 
     // target is bridge
     else {
       edgeType = 'past_bridge';
       newSourceId = pastIdsToNewIdsMap[source];
       newTargetId = futureIdsToNewIdsMap[pastIdToFutureIdForBridgeNodesMap[target]];
+      numberOfPastToBridgeEdges++;
     }
     if(newSourceId && newTargetId) {
        resultGraph.addEdge(newSourceId, newTargetId, {
@@ -175,6 +176,7 @@ const buildBridgingNetwork = (graph1, graph2, output = 'mergedGraph.gexf') => {
       edgeType = 'future';
       newSourceId = pastIdsToNewIdsMap[source];
       newTargetId = pastIdsToNewIdsMap[target];
+      numberOfFutureEdges++;
     } 
     // both are bridge
     else if (nodesLabelsFromBothYears.has(sourceLabel) && nodesLabelsFromBothYears.has(targetLabel)) {
@@ -182,6 +184,7 @@ const buildBridgingNetwork = (graph1, graph2, output = 'mergedGraph.gexf') => {
       edgeType = 'bridge';
       newSourceId = futureIdsToNewIdsMap[source];
       newTargetId =  futureIdsToNewIdsMap[target];
+      numberOfBridgeEdges++;
       // console.log('both are bridge', newSourceId, newTargetId);
     } 
     // source is bridge
@@ -189,14 +192,16 @@ const buildBridgingNetwork = (graph1, graph2, output = 'mergedGraph.gexf') => {
       edgeType = 'future_bridge';
       newSourceId = futureIdsToNewIdsMap[source];
       newTargetId = futureIdsToNewIdsMap[target];
+      numberOfBridgeToFutureEdges++;
       // console.log('source is bridge', newSourceId, newTargetId);
 
     } 
     // target is bridge
     else {
-      edgeType = 'past_bridge';
+      edgeType = 'future_bridge';
       newSourceId = futureIdsToNewIdsMap[source];
       newTargetId = futureIdsToNewIdsMap[target];
+      numberOfBridgeToFutureEdges++;
       // console.log('target is bridge', newSourceId, newTargetId);
     }
     if(newSourceId && newTargetId) {
@@ -211,12 +216,13 @@ const buildBridgingNetwork = (graph1, graph2, output = 'mergedGraph.gexf') => {
 
     }
   })
+  console.log('Number of past edges : ', numberOfPastEdges);
+  console.log('Number of past to bridge edges : ', numberOfPastToBridgeEdges);
+  console.log('Number of bridge edges : ', numberOfBridgeEdges);
+  console.log('Number of bridge to future edges : ', numberOfBridgeToFutureEdges);
+  console.log('Number of future edges : ', numberOfFutureEdges)
 
-  // write graph
-  const gexfString = gexf.write(resultGraph);
-  return fs.writeFileSync(output, gexfString, 'utf8')
+  return resultGraph;
 }
-
-buildBridgingNetwork(graph2017, graph2022);
 
 module.exports = buildBridgingNetwork;

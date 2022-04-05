@@ -8,6 +8,8 @@ const Graph = require('graphology');
 
 const buildBridgingNetwork = (graph1, graph2) => {
 
+  console.log('Starting to bridge the two graphs');
+
   const nodesFromGraphPast = new Set();
   const nodesFromGraphFuture = new Set();
 
@@ -29,7 +31,6 @@ const buildBridgingNetwork = (graph1, graph2) => {
   const nodesLabelsFromFutureOnly = new Set(
     [...nodesFromGraphFuture].filter(label => !nodesFromGraphPast.has(label))
   )
-  console.log('parsing two graphs for merging into one');
   console.log('Past : %s nodes', [...nodesLabelsFromPastOnly].length);
   console.log('Future : %s nodes', [...nodesLabelsFromFutureOnly].length);
   console.log('Both years : %s nodes', [...nodesLabelsFromBothYears].length);

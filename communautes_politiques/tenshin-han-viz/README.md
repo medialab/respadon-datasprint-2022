@@ -1,9 +1,12 @@
-This little script merges to graphs from different periods of time and creates a unified graph merging them into one single graph.
+# Ten Shin Han viz (three eyes viz !!)
+
+This little script merges two graphs from different periods of time and creates a unified graph merging them into one single graph with three types of nodes: "past" only, "bridge" (nodes which are in two graphs), "future" only.
 
 Nodes get a property "period_type" with enum{3}: `["past", "future", "bridge"]`
+
 Edges get a property "period_type" with enum{5}: `["past", "future", "bridge", "past_bridge", "future_bridge"]`
 
-This allows further visualization of the transition between two graphs.
+It returns a `graphology` graph to be used for visualizing  the transition between two graphs.
 
 # Installation
 

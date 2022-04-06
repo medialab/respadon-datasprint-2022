@@ -17,6 +17,8 @@
       <attribute id="name" title="name" type="string"/>
       <attribute id="Crawl Source" title="Crawl Source" type="liststring"/>
       <attribute id="homepage" title="homepage" type="string"/>
+      <attribute id="forme éditoriale" title="forme éditoriale" type="liststring"/>
+      <attribute id="acteur" title="acteur" type="liststring"/>
     </attributes>
     <attributes class="edge">
       <attribute id="count" title="count" type="integer"/>
@@ -40,15 +42,15 @@
         </attvalues>
         <viz:color r="173" g="162" b="153"/>
         <viz:size value="4"/>
-        <viz:position x="168.21214294433594" y="-103.8314437866211"/>
+        <viz:position x="197.4327392578125" y="307.73297119140625"/>
       </node>
       <node id="2" label="fr.Wikipedia.org /.../Jean-Luc_Mélenchon">
         <attvalues>
           <attvalue for="status" value="UNDECIDED"/>
           <attvalue for="pages_total" value="556"/>
-          <attvalue for="undirected_degree" value="101"/>
+          <attvalue for="undirected_degree" value="102"/>
           <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="1"/>
+          <attvalue for="indegree" value="2"/>
           <attvalue for="outdegree" value="101"/>
           <attvalue for="creation_date" value="1649154116405"/>
           <attvalue for="indexing_status" value="FINISHED"/>
@@ -60,8 +62,8 @@
           <attvalue for="homepage" value="http://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"/>
         </attvalues>
         <viz:color r="173" g="162" b="153"/>
-        <viz:size value="8"/>
-        <viz:position x="-15.737502098083496" y="-35.68025207519531"/>
+        <viz:size value="9.65685424949238"/>
+        <viz:position x="15.433441162109375" y="56.34712600708008"/>
       </node>
       <node id="3" label="fr.Wikipedia.org /.../La_France_insoumise">
         <attvalues>
@@ -82,7 +84,7 @@
         </attvalues>
         <viz:color r="173" g="162" b="153"/>
         <viz:size value="8"/>
-        <viz:position x="41.82665252685547" y="-56.56425094604492"/>
+        <viz:position x="97.00463104248047" y="69.63214874267578"/>
       </node>
       <node id="4" label="fr.Wikipedia.org /.../Parti_de_gauche">
         <attvalues>
@@ -102,207 +104,214 @@
         </attvalues>
         <viz:color r="173" g="162" b="153"/>
         <viz:size value="4"/>
-        <viz:position x="69.03682708740234" y="-184.5697784423828"/>
+        <viz:position x="-184.4691619873047" y="313.9622802734375"/>
       </node>
       <node id="9" label="Gauche-Anticapitaliste.org">
         <attvalues>
-          <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="2"/>
-          <attvalue for="undirected_degree" value="0"/>
+          <attvalue for="status" value="UNDECIDED"/>
+          <attvalue for="pages_total" value="8"/>
+          <attvalue for="undirected_degree" value="5"/>
           <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="0"/>
+          <attvalue for="indegree" value="5"/>
           <attvalue for="outdegree" value="0"/>
           <attvalue for="creation_date" value="1649154147392"/>
           <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164908084"/>
+          <attvalue for="last_modification_date" value="1649234694183"/>
           <attvalue for="pages_crawled" value="2"/>
           <attvalue for="name" value="Gauche-Anticapitaliste.org"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.gauche-anticapitaliste.org"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="formation politique"/>
         </attvalues>
-        <viz:color r="51" g="51" b="51"/>
-        <viz:size value="4"/>
-        <viz:position x="-80.70651245117188" y="-171.38340759277344"/>
+        <viz:color r="173" g="162" b="153"/>
+        <viz:size value="12.94427190999916"/>
+        <viz:position x="-128.28997802734375" y="-67.68610382080078"/>
       </node>
       <node id="12" label="Frontdegauche.eu">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="19"/>
-          <attvalue for="undirected_degree" value="3"/>
+          <attvalue for="pages_total" value="24"/>
+          <attvalue for="undirected_degree" value="6"/>
           <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="3"/>
+          <attvalue for="indegree" value="6"/>
           <attvalue for="outdegree" value="0"/>
           <attvalue for="creation_date" value="1649154147392"/>
           <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164908253"/>
+          <attvalue for="last_modification_date" value="1649170501828"/>
           <attvalue for="pages_crawled" value="2"/>
           <attvalue for="name" value="Frontdegauche.eu"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.frontdegauche.eu"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="formation politique"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="10.928203230275509"/>
-        <viz:position x="-58.39252853393555" y="9.208410263061523"/>
+        <viz:size value="13.797958971132712"/>
+        <viz:position x="-56.73694610595703" y="68.18319702148438"/>
       </node>
       <node id="17" label="Lafederation.org">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="1282"/>
-          <attvalue for="undirected_degree" value="78"/>
-          <attvalue for="crawling_status" value="RUNNING"/>
-          <attvalue for="indegree" value="1"/>
-          <attvalue for="outdegree" value="77"/>
+          <attvalue for="pages_total" value="4034"/>
+          <attvalue for="undirected_degree" value="168"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="167"/>
           <attvalue for="creation_date" value="1649154147392"/>
-          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164908011"/>
-          <attvalue for="pages_crawled" value="567"/>
+          <attvalue for="last_modification_date" value="1649170851334"/>
+          <attvalue for="pages_crawled" value="2934"/>
           <attvalue for="name" value="Lafederation.org"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.lafederation.org/refuser-la-confusion-et-la-xenophobie"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="formation politique"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="8"/>
-        <viz:position x="-70.96981811523438" y="60.490699768066406"/>
+        <viz:size value="12"/>
+        <viz:position x="-115.26065826416016" y="-38.93894577026367"/>
       </node>
       <node id="18" label="Pcf.fr">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="7835"/>
-          <attvalue for="undirected_degree" value="86"/>
-          <attvalue for="crawling_status" value="RUNNING"/>
-          <attvalue for="indegree" value="5"/>
-          <attvalue for="outdegree" value="82"/>
+          <attvalue for="pages_total" value="128344"/>
+          <attvalue for="undirected_degree" value="511"/>
+          <attvalue for="crawling_status" value="CANCELED"/>
+          <attvalue for="indegree" value="15"/>
+          <attvalue for="outdegree" value="505"/>
           <attvalue for="creation_date" value="1649154147392"/>
-          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
-          <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164908475"/>
-          <attvalue for="pages_crawled" value="557"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="false"/>
+          <attvalue for="last_modification_date" value="1649239912675"/>
+          <attvalue for="pages_crawled" value="15147"/>
           <attvalue for="name" value="Pcf.fr"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.pcf.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="formation politique"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="12.94427190999916"/>
-        <viz:position x="-33.362308502197266" y="56.5220947265625"/>
+        <viz:size value="19.491933384829668"/>
+        <viz:position x="-30.07649040222168" y="44.44564437866211"/>
       </node>
       <node id="27" label="Placeaupeuple2012.fr">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="440"/>
-          <attvalue for="undirected_degree" value="11"/>
+          <attvalue for="pages_total" value="471"/>
+          <attvalue for="undirected_degree" value="13"/>
           <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="4"/>
+          <attvalue for="indegree" value="6"/>
           <attvalue for="outdegree" value="7"/>
           <attvalue for="creation_date" value="1649154147392"/>
           <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164908598"/>
+          <attvalue for="last_modification_date" value="1649170299759"/>
           <attvalue for="pages_crawled" value="76"/>
           <attvalue for="name" value="Placeaupeuple2012.fr"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.placeaupeuple2012.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="campagne"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="12"/>
-        <viz:position x="-54.409427642822266" y="70.31216430664062"/>
+        <viz:size value="13.797958971132712"/>
+        <viz:position x="-115.4561996459961" y="14.154844284057617"/>
       </node>
       <node id="28" label="Placeaupeuple.fr">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="1287"/>
-          <attvalue for="undirected_degree" value="94"/>
-          <attvalue for="crawling_status" value="RUNNING"/>
-          <attvalue for="indegree" value="3"/>
+          <attvalue for="pages_total" value="1351"/>
+          <attvalue for="undirected_degree" value="95"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="5"/>
           <attvalue for="outdegree" value="94"/>
           <attvalue for="creation_date" value="1649154147392"/>
-          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164908621"/>
-          <attvalue for="pages_crawled" value="549"/>
+          <attvalue for="last_modification_date" value="1649170299758"/>
+          <attvalue for="pages_crawled" value="615"/>
           <attvalue for="name" value="Placeaupeuple.fr"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.placeaupeuple.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="campagne"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="10.928203230275509"/>
-        <viz:position x="-14.540914535522461" y="33.97471618652344"/>
+        <viz:size value="12.94427190999916"/>
+        <viz:position x="0.5079928040504456" y="-23.06324005126953"/>
       </node>
       <node id="31" label="Frontdegauche-Europe.fr">
         <attvalues>
           <attvalue for="status" value="IN"/>
           <attvalue for="pages_total" value="5"/>
-          <attvalue for="undirected_degree" value="4"/>
+          <attvalue for="undirected_degree" value="6"/>
           <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="1"/>
+          <attvalue for="indegree" value="3"/>
           <attvalue for="outdegree" value="3"/>
           <attvalue for="creation_date" value="1649154147392"/>
           <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164908849"/>
+          <attvalue for="last_modification_date" value="1649170501827"/>
           <attvalue for="pages_crawled" value="2"/>
           <attvalue for="name" value="Frontdegauche-Europe.fr"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://nord.frontdegauche-europe.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="formation politique"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="8"/>
-        <viz:position x="-54.14670944213867" y="24.97885513305664"/>
+        <viz:size value="10.928203230275509"/>
+        <viz:position x="-94.54129028320312" y="63.59874725341797"/>
       </node>
       <node id="47" label="Lepartidegauche.fr">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="592"/>
-          <attvalue for="undirected_degree" value="63"/>
+          <attvalue for="pages_total" value="639"/>
+          <attvalue for="undirected_degree" value="73"/>
           <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="6"/>
+          <attvalue for="indegree" value="17"/>
           <attvalue for="outdegree" value="58"/>
           <attvalue for="creation_date" value="1649154147392"/>
           <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164909147"/>
+          <attvalue for="last_modification_date" value="1649170501835"/>
           <attvalue for="pages_crawled" value="384"/>
           <attvalue for="name" value="Lepartidegauche.fr"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.lepartidegauche.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="formation politique"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="13.797958971132712"/>
-        <viz:position x="-14.192386627197266" y="-0.3717201054096222"/>
-      </node>
-      <node id="52" label="Pcf-Gresivaudan.blogspot.com">
-        <attvalues>
-          <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="2"/>
-          <attvalue for="undirected_degree" value="0"/>
-          <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="0"/>
-          <attvalue for="outdegree" value="0"/>
-          <attvalue for="creation_date" value="1649154147393"/>
-          <attvalue for="indexing_status" value="FINISHED"/>
-          <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164909013"/>
-          <attvalue for="pages_crawled" value="0"/>
-          <attvalue for="name" value="Pcf-Gresivaudan.blogspot.com"/>
-          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
-        </attvalues>
-        <viz:color r="51" g="51" b="51"/>
-        <viz:size value="4"/>
-        <viz:position x="141.0554656982422" y="122.61576843261719"/>
+        <viz:size value="20.492422502470642"/>
+        <viz:position x="-21.137487411499023" y="-54.77763748168945"/>
       </node>
       <node id="53" label="Gauche-Unitaire.fr">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="4"/>
-          <attvalue for="undirected_degree" value="2"/>
+          <attvalue for="pages_total" value="5"/>
+          <attvalue for="undirected_degree" value="4"/>
           <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="2"/>
+          <attvalue for="indegree" value="4"/>
           <attvalue for="outdegree" value="0"/>
           <attvalue for="creation_date" value="1649154147393"/>
           <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164909258"/>
+          <attvalue for="last_modification_date" value="1649170501832"/>
           <attvalue for="pages_crawled" value="3"/>
           <attvalue for="name" value="Gauche-Unitaire.fr"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://gauche-unitaire.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="formation politique"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="9.65685424949238"/>
-        <viz:position x="-76.46406555175781" y="34.3553466796875"/>
+        <viz:size value="12"/>
+        <viz:position x="-133.90835571289062" y="14.241100311279297"/>
       </node>
       <node id="61" label="Convergencesetalternative.blogspot.fr">
         <attvalues>
@@ -315,314 +324,293 @@
           <attvalue for="creation_date" value="1649154147393"/>
           <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164909319"/>
+          <attvalue for="last_modification_date" value="1649170559126"/>
           <attvalue for="pages_crawled" value="323"/>
           <attvalue for="name" value="Convergencesetalternative.blogspot.fr"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://convergencesetalternative.blogspot.fr"/>
+          <attvalue for="forme éditoriale" value="blog"/>
+          <attvalue for="acteur" value="formation politique"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="8"/>
-        <viz:position x="-54.430171966552734" y="42.513511657714844"/>
+        <viz:position x="-109.26062774658203" y="-18.0866756439209"/>
       </node>
       <node id="62" label="Eurocitoyenne.fr">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="997"/>
-          <attvalue for="undirected_degree" value="39"/>
-          <attvalue for="crawling_status" value="RUNNING"/>
-          <attvalue for="indegree" value="4"/>
-          <attvalue for="outdegree" value="36"/>
+          <attvalue for="pages_total" value="6160"/>
+          <attvalue for="undirected_degree" value="126"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="5"/>
+          <attvalue for="outdegree" value="124"/>
           <attvalue for="creation_date" value="1649154147393"/>
-          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164909436"/>
-          <attvalue for="pages_crawled" value="549"/>
+          <attvalue for="last_modification_date" value="1649170434526"/>
+          <attvalue for="pages_crawled" value="5946"/>
           <attvalue for="name" value="Eurocitoyenne.fr"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.eurocitoyenne.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="professionnel de la politique"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="12"/>
-        <viz:position x="-15.193288803100586" y="62.82251739501953"/>
+        <viz:size value="12.94427190999916"/>
+        <viz:position x="-103.80260467529297" y="34.47129440307617"/>
       </node>
       <node id="75" label="Jean-Luc-Melenchon.fr">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="2567"/>
-          <attvalue for="undirected_degree" value="51"/>
+          <attvalue for="pages_total" value="2928"/>
+          <attvalue for="undirected_degree" value="61"/>
           <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="6"/>
+          <attvalue for="indegree" value="17"/>
           <attvalue for="outdegree" value="46"/>
           <attvalue for="creation_date" value="1649154152171"/>
           <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164909720"/>
+          <attvalue for="last_modification_date" value="1649170172630"/>
           <attvalue for="pages_crawled" value="257"/>
           <attvalue for="name" value="Jean-Luc-Melenchon.fr"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://europe.jean-luc-melenchon.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="candidat"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="13.797958971132712"/>
-        <viz:position x="1.4511916637420654" y="20.51786994934082"/>
-      </node>
-      <node id="83" label="M6R.fr">
-        <attvalues>
-          <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="7"/>
-          <attvalue for="undirected_degree" value="4"/>
-          <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="4"/>
-          <attvalue for="outdegree" value="0"/>
-          <attvalue for="creation_date" value="1649154152171"/>
-          <attvalue for="indexing_status" value="FINISHED"/>
-          <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164909648"/>
-          <attvalue for="pages_crawled" value="0"/>
-          <attvalue for="name" value="M6R.fr"/>
-          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
-        </attvalues>
-        <viz:color r="51" g="51" b="51"/>
-        <viz:size value="12"/>
-        <viz:position x="-23.972070693969727" y="-16.01913070678711"/>
+        <viz:size value="20.492422502470642"/>
+        <viz:position x="-32.50528335571289" y="-19.873857498168945"/>
       </node>
       <node id="86" label="Melenchon.fr">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="2357"/>
-          <attvalue for="undirected_degree" value="249"/>
-          <attvalue for="crawling_status" value="RUNNING"/>
-          <attvalue for="indegree" value="7"/>
-          <attvalue for="outdegree" value="247"/>
-          <attvalue for="creation_date" value="1649154152171"/>
-          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
-          <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164909765"/>
-          <attvalue for="pages_crawled" value="544"/>
-          <attvalue for="name" value="Melenchon.fr"/>
-          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
-        </attvalues>
-        <viz:color r="51" g="51" b="51"/>
-        <viz:size value="14.583005244258363"/>
-        <viz:position x="16.467897415161133" y="-9.28697681427002"/>
-      </node>
-      <node id="117" label="Jeanluc-Melenchon2017.fr">
-        <attvalues>
-          <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="3"/>
-          <attvalue for="undirected_degree" value="1"/>
+          <attvalue for="pages_total" value="3339"/>
+          <attvalue for="undirected_degree" value="314"/>
           <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="1"/>
-          <attvalue for="outdegree" value="0"/>
-          <attvalue for="creation_date" value="1649154152172"/>
+          <attvalue for="indegree" value="19"/>
+          <attvalue for="outdegree" value="310"/>
+          <attvalue for="creation_date" value="1649154152171"/>
           <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164910026"/>
-          <attvalue for="pages_crawled" value="3"/>
-          <attvalue for="name" value="Jeanluc-Melenchon2017.fr"/>
+          <attvalue for="last_modification_date" value="1649170526087"/>
+          <attvalue for="pages_crawled" value="776"/>
+          <attvalue for="name" value="Melenchon.fr"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://melenchon.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="candidat"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="8"/>
-        <viz:position x="-34.15486526489258" y="-62.869468688964844"/>
+        <viz:size value="21.435595774162696"/>
+        <viz:position x="43.31689453125" y="-13.126388549804688"/>
       </node>
       <node id="125" label="Ensemble-Fdg.org">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="2584"/>
-          <attvalue for="undirected_degree" value="282"/>
-          <attvalue for="crawling_status" value="RUNNING"/>
-          <attvalue for="indegree" value="5"/>
-          <attvalue for="outdegree" value="278"/>
+          <attvalue for="pages_total" value="10505"/>
+          <attvalue for="undirected_degree" value="690"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="9"/>
+          <attvalue for="outdegree" value="687"/>
           <attvalue for="creation_date" value="1649154152172"/>
-          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164910110"/>
-          <attvalue for="pages_crawled" value="549"/>
+          <attvalue for="last_modification_date" value="1649170667591"/>
+          <attvalue for="pages_crawled" value="2863"/>
           <attvalue for="name" value="Ensemble-Fdg.org"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.ensemble-fdg.org"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="formation politique"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="12.94427190999916"/>
-        <viz:position x="-37.93528747558594" y="25.48729705810547"/>
+        <viz:size value="16"/>
+        <viz:position x="-70.41193389892578" y="-48.56591796875"/>
       </node>
       <node id="133" label="Antoineleaument.fr">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="10"/>
-          <attvalue for="undirected_degree" value="2"/>
+          <attvalue for="pages_total" value="12"/>
+          <attvalue for="undirected_degree" value="3"/>
           <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="2"/>
+          <attvalue for="indegree" value="3"/>
           <attvalue for="outdegree" value="0"/>
           <attvalue for="creation_date" value="1649154152171"/>
           <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164910119"/>
+          <attvalue for="last_modification_date" value="1649170117439"/>
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Antoineleaument.fr"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://antoineleaument.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="professionnel de la politique"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="9.65685424949238"/>
-        <viz:position x="-2.034984827041626" y="-49.22243881225586"/>
+        <viz:size value="10.928203230275509"/>
+        <viz:position x="34.32271194458008" y="83.27743530273438"/>
       </node>
       <node id="138" label="Marxiste.org">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="2983"/>
-          <attvalue for="undirected_degree" value="49"/>
-          <attvalue for="crawling_status" value="RUNNING"/>
-          <attvalue for="indegree" value="1"/>
-          <attvalue for="outdegree" value="48"/>
+          <attvalue for="pages_total" value="12706"/>
+          <attvalue for="undirected_degree" value="251"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="248"/>
           <attvalue for="creation_date" value="1649154155636"/>
-          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164910348"/>
-          <attvalue for="pages_crawled" value="527"/>
+          <attvalue for="last_modification_date" value="1649170988515"/>
+          <attvalue for="pages_crawled" value="3490"/>
           <attvalue for="name" value="Marxiste.org"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.marxiste.org/soutenez-nous"/>
+          <attvalue for="forme éditoriale" value="blog"/>
+          <attvalue for="acteur" value="formation politique"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="8"/>
-        <viz:position x="64.96112823486328" y="-77.2218246459961"/>
+        <viz:size value="12"/>
+        <viz:position x="32.94994354248047" y="33.68679428100586"/>
       </node>
       <node id="139" label="Youtube.com /.../PlaceauPeuple">
         <attvalues>
           <attvalue for="status" value="IN"/>
           <attvalue for="pages_total" value="22"/>
-          <attvalue for="undirected_degree" value="37"/>
+          <attvalue for="undirected_degree" value="40"/>
           <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="4"/>
+          <attvalue for="indegree" value="8"/>
           <attvalue for="outdegree" value="35"/>
           <attvalue for="creation_date" value="1649154155636"/>
           <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164910426"/>
+          <attvalue for="last_modification_date" value="1649170317359"/>
           <attvalue for="pages_crawled" value="20"/>
           <attvalue for="name" value="Youtube.com /.../PlaceauPeuple"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.youtube.com/user/PlaceauPeuple"/>
+          <attvalue for="forme éditoriale" value="plateforme vidéo"/>
+          <attvalue for="acteur" value="campagne"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="12"/>
-        <viz:position x="38.13916778564453" y="9.220410346984863"/>
-      </node>
-      <node id="141" label="Lavenirencommun.fr">
-        <attvalues>
-          <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="1"/>
-          <attvalue for="undirected_degree" value="1"/>
-          <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="1"/>
-          <attvalue for="outdegree" value="0"/>
-          <attvalue for="creation_date" value="1649154155636"/>
-          <attvalue for="indexing_status" value="FINISHED"/>
-          <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164910415"/>
-          <attvalue for="pages_crawled" value="0"/>
-          <attvalue for="name" value="Lavenirencommun.fr"/>
-          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
-        </attvalues>
-        <viz:color r="51" g="51" b="51"/>
-        <viz:size value="8"/>
-        <viz:position x="57.04289627075195" y="-82.90833282470703"/>
+        <viz:size value="15.313708498984761"/>
+        <viz:position x="101.56935119628906" y="13.693873405456543"/>
       </node>
       <node id="143" label="Jlm2017.fr">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="389"/>
-          <attvalue for="undirected_degree" value="31"/>
+          <attvalue for="pages_total" value="472"/>
+          <attvalue for="undirected_degree" value="36"/>
           <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="6"/>
-          <attvalue for="outdegree" value="26"/>
+          <attvalue for="indegree" value="15"/>
+          <attvalue for="outdegree" value="27"/>
           <attvalue for="creation_date" value="1649154155636"/>
           <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164910755"/>
+          <attvalue for="last_modification_date" value="1649170172634"/>
           <attvalue for="pages_crawled" value="139"/>
           <attvalue for="name" value="Jlm2017.fr"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.jlm2017.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="candidat"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="13.797958971132712"/>
-        <viz:position x="46.59961700439453" y="-6.732132911682129"/>
+        <viz:size value="19.491933384829668"/>
+        <viz:position x="116.93818664550781" y="-10.627090454101562"/>
       </node>
       <node id="144" label="Insoumis.online">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="173"/>
-          <attvalue for="undirected_degree" value="41"/>
+          <attvalue for="pages_total" value="174"/>
+          <attvalue for="undirected_degree" value="42"/>
           <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="2"/>
+          <attvalue for="indegree" value="3"/>
           <attvalue for="outdegree" value="40"/>
           <attvalue for="creation_date" value="1649154155636"/>
           <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164910777"/>
+          <attvalue for="last_modification_date" value="1649170807901"/>
           <attvalue for="pages_crawled" value="21"/>
           <attvalue for="name" value="Insoumis.online"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://tribune.insoumis.online"/>
+          <attvalue for="forme éditoriale" value="réseau social"/>
+          <attvalue for="acteur" value="militant"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="9.65685424949238"/>
-        <viz:position x="49.493751525878906" y="-28.114849090576172"/>
+        <viz:size value="10.928203230275509"/>
+        <viz:position x="107.30683898925781" y="39.99053955078125"/>
       </node>
       <node id="151" label="Laec.fr">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="6"/>
-          <attvalue for="undirected_degree" value="5"/>
+          <attvalue for="pages_total" value="12"/>
+          <attvalue for="undirected_degree" value="8"/>
           <attvalue for="crawling_status" value="FINISHED"/>
-          <attvalue for="indegree" value="5"/>
+          <attvalue for="indegree" value="8"/>
           <attvalue for="outdegree" value="0"/>
           <attvalue for="creation_date" value="1649154155636"/>
           <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164910753"/>
+          <attvalue for="last_modification_date" value="1649170829951"/>
           <attvalue for="pages_crawled" value="2"/>
           <attvalue for="name" value="Laec.fr"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://laec.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="campagne"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="12.94427190999916"/>
-        <viz:position x="66.03117370605469" y="-31.296098709106445"/>
+        <viz:size value="15.313708498984761"/>
+        <viz:position x="133.6759490966797" y="15.91804027557373"/>
       </node>
       <node id="152" label="Gaucherevolutionnaire.fr">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="1235"/>
-          <attvalue for="undirected_degree" value="27"/>
-          <attvalue for="crawling_status" value="RUNNING"/>
-          <attvalue for="indegree" value="1"/>
-          <attvalue for="outdegree" value="26"/>
+          <attvalue for="pages_total" value="1466"/>
+          <attvalue for="undirected_degree" value="30"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="28"/>
           <attvalue for="creation_date" value="1649154155636"/>
-          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164911104"/>
-          <attvalue for="pages_crawled" value="531"/>
+          <attvalue for="last_modification_date" value="1649170501834"/>
+          <attvalue for="pages_crawled" value="722"/>
           <attvalue for="name" value="Gaucherevolutionnaire.fr"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.gaucherevolutionnaire.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="formation politique"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="8"/>
-        <viz:position x="48.77325439453125" y="-86.9725112915039"/>
+        <viz:size value="9.65685424949238"/>
+        <viz:position x="51.296634674072266" y="109.59124755859375"/>
       </node>
       <node id="153" label="Initiative-Communiste.fr">
         <attvalues>
           <attvalue for="status" value="IN"/>
-          <attvalue for="pages_total" value="8516"/>
-          <attvalue for="undirected_degree" value="104"/>
-          <attvalue for="crawling_status" value="RUNNING"/>
-          <attvalue for="indegree" value="2"/>
-          <attvalue for="outdegree" value="102"/>
+          <attvalue for="pages_total" value="58495"/>
+          <attvalue for="undirected_degree" value="2231"/>
+          <attvalue for="crawling_status" value="CANCELED"/>
+          <attvalue for="indegree" value="3"/>
+          <attvalue for="outdegree" value="2230"/>
           <attvalue for="creation_date" value="1649154155636"/>
-          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
-          <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164911093"/>
-          <attvalue for="pages_crawled" value="527"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="false"/>
+          <attvalue for="last_modification_date" value="1649239904561"/>
+          <attvalue for="pages_crawled" value="14612"/>
           <attvalue for="name" value="Initiative-Communiste.fr"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.initiative-communiste.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="formation politique"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
-        <viz:size value="9.65685424949238"/>
-        <viz:position x="61.38452911376953" y="-45.38618087768555"/>
+        <viz:size value="10.928203230275509"/>
+        <viz:position x="8.267863273620605" y="23.2901611328125"/>
       </node>
       <node id="156" label="fraternitecitoyenne.Blog4Ever.com">
         <attvalues>
@@ -635,15 +623,517 @@
           <attvalue for="creation_date" value="1649161290029"/>
           <attvalue for="indexing_status" value="FINISHED"/>
           <attvalue for="crawled" value="true"/>
-          <attvalue for="last_modification_date" value="1649164911122"/>
+          <attvalue for="last_modification_date" value="1649171027620"/>
           <attvalue for="pages_crawled" value="52"/>
           <attvalue for="name" value="fraternitecitoyenne.Blog4Ever.com"/>
           <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
           <attvalue for="homepage" value="http://fraternitecitoyenne.blog4ever.com"/>
+          <attvalue for="forme éditoriale" value="blog"/>
+          <attvalue for="acteur" value="association"/>
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="8"/>
-        <viz:position x="39.11034393310547" y="-86.20879364013672"/>
+        <viz:position x="135.9619903564453" y="113.42588806152344"/>
+      </node>
+      <node id="187" label="Elunet.org">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="9719"/>
+          <attvalue for="undirected_degree" value="245"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="5"/>
+          <attvalue for="outdegree" value="241"/>
+          <attvalue for="creation_date" value="1649164965511"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649238591563"/>
+          <attvalue for="pages_crawled" value="1660"/>
+          <attvalue for="name" value="Elunet.org"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.elunet.org"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12.94427190999916"/>
+        <viz:position x="-79.39299774169922" y="57.253761291503906"/>
+      </node>
+      <node id="198" label="Jeunes-Communistes.org">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="2233"/>
+          <attvalue for="undirected_degree" value="87"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="84"/>
+          <attvalue for="creation_date" value="1649164965511"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649238285561"/>
+          <attvalue for="pages_crawled" value="667"/>
+          <attvalue for="name" value="Jeunes-Communistes.org"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.jeunes-communistes.org"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12"/>
+        <viz:position x="-7.165711879730225" y="90.6863784790039"/>
+      </node>
+      <node id="203" label="Pcf-Gresivaudan.blogspot.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="7803"/>
+          <attvalue for="undirected_degree" value="376"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="376"/>
+          <attvalue for="creation_date" value="1649164974022"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649234935000"/>
+          <attvalue for="pages_crawled" value="2602"/>
+          <attvalue for="name" value="Pcf-Gresivaudan.blogspot.fr"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://pcf-gresivaudan.blogspot.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="formation politique"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="-55.277488708496094" y="28.9646053314209"/>
+      </node>
+      <node id="206" label="Groupe-Crc.org">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="24283"/>
+          <attvalue for="undirected_degree" value="55"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="5"/>
+          <attvalue for="outdegree" value="51"/>
+          <attvalue for="creation_date" value="1649164974022"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649238285640"/>
+          <attvalue for="pages_crawled" value="1714"/>
+          <attvalue for="name" value="Groupe-Crc.org"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.groupe-crc.org"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12.94427190999916"/>
+        <viz:position x="-81.6675796508789" y="33.08686447143555"/>
+      </node>
+      <node id="217" label="Guengl.eu">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="4638"/>
+          <attvalue for="undirected_degree" value="78"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="5"/>
+          <attvalue for="outdegree" value="75"/>
+          <attvalue for="creation_date" value="1649164974022"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649238591871"/>
+          <attvalue for="pages_crawled" value="1077"/>
+          <attvalue for="name" value="Guengl.eu"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.guengl.eu"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12.94427190999916"/>
+        <viz:position x="-71.98210906982422" y="76.54177856445312"/>
+      </node>
+      <node id="242" label="Alexis-Corbiere.com">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1236"/>
+          <attvalue for="undirected_degree" value="121"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="3"/>
+          <attvalue for="outdegree" value="120"/>
+          <attvalue for="creation_date" value="1649164995204"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649246567161"/>
+          <attvalue for="pages_crawled" value="113"/>
+          <attvalue for="name" value="Alexis-Corbiere.com"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="10.928203230275509"/>
+        <viz:position x="13.399596214294434" y="-65.31159973144531"/>
+      </node>
+      <node id="252" label="Mouvement6Erepublique.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="11"/>
+          <attvalue for="undirected_degree" value="6"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="6"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649165003055"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649234973567"/>
+          <attvalue for="pages_crawled" value="2"/>
+          <attvalue for="name" value="Mouvement6Erepublique.fr"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.m6r.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="association"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="13.797958971132712"/>
+        <viz:position x="22.938127517700195" y="-36.49284744262695"/>
+      </node>
+      <node id="256" label="Facebook.com /JLMelenchon">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="106"/>
+          <attvalue for="undirected_degree" value="73"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="12"/>
+          <attvalue for="outdegree" value="64"/>
+          <attvalue for="creation_date" value="1649165009530"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649241122417"/>
+          <attvalue for="pages_crawled" value="50"/>
+          <attvalue for="name" value="Facebook.com /JLMelenchon"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.facebook.com/JLMelenchon"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="17.856406460551018"/>
+        <viz:position x="70.99774169921875" y="13.185495376586914"/>
+      </node>
+      <node id="257" label="plus.Google.com /+JLMelenchon">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="22"/>
+          <attvalue for="undirected_degree" value="39"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="7"/>
+          <attvalue for="outdegree" value="34"/>
+          <attvalue for="creation_date" value="1649165009530"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649246567318"/>
+          <attvalue for="pages_crawled" value="22"/>
+          <attvalue for="name" value="plus.Google.com /+JLMelenchon"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://plus.google.com/+JLMelenchon"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="14.583005244258363"/>
+        <viz:position x="107.40399169921875" y="-44.43891525268555"/>
+      </node>
+      <node id="260" label="Twitter.com /JLMelenchon">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="312"/>
+          <attvalue for="undirected_degree" value="35"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="11"/>
+          <attvalue for="outdegree" value="25"/>
+          <attvalue for="creation_date" value="1649165009531"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649241122390"/>
+          <attvalue for="pages_crawled" value="127"/>
+          <attvalue for="name" value="Twitter.com /JLMelenchon"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://twitter.com/JLMelenchon"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="17.2664991614216"/>
+        <viz:position x="79.45713806152344" y="30.156299591064453"/>
+      </node>
+      <node id="261" label="Lafranceinsoumise.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="640"/>
+          <attvalue for="undirected_degree" value="77"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="7"/>
+          <attvalue for="outdegree" value="74"/>
+          <attvalue for="creation_date" value="1649165009531"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649238591597"/>
+          <attvalue for="pages_crawled" value="405"/>
+          <attvalue for="name" value="Lafranceinsoumise.fr"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://lafranceinsoumise.fr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="14.583005244258363"/>
+        <viz:position x="92.48503875732422" y="-14.072449684143066"/>
+      </node>
+      <node id="262" label="18Mars2017.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="5"/>
+          <attvalue for="undirected_degree" value="12"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="9"/>
+          <attvalue for="creation_date" value="1649165009531"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649246567472"/>
+          <attvalue for="pages_crawled" value="1"/>
+          <attvalue for="name" value="18Mars2017.fr"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://18mars2017.fr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12"/>
+        <viz:position x="128.8351593017578" y="-39.80963134765625"/>
+      </node>
+      <node id="272" label="Attac.org">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="73"/>
+          <attvalue for="undirected_degree" value="11"/>
+          <attvalue for="crawling_status" value="UNCRAWLED"/>
+          <attvalue for="indegree" value="11"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649165027606"/>
+          <attvalue for="indexing_status" value="UNINDEXED"/>
+          <attvalue for="crawled" value="false"/>
+          <attvalue for="last_modification_date" value="1649235247743"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Attac.org"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="17.2664991614216"/>
+        <viz:position x="-86.64810180664062" y="-22.457172393798828"/>
+      </node>
+      <node id="315" label="Patrick-Le-Hyaric.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="6477"/>
+          <attvalue for="undirected_degree" value="261"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="5"/>
+          <attvalue for="outdegree" value="256"/>
+          <attvalue for="creation_date" value="1649165054379"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649238285675"/>
+          <attvalue for="pages_crawled" value="1895"/>
+          <attvalue for="name" value="Patrick-Le-Hyaric.fr"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://patrick-le-hyaric.fr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12.94427190999916"/>
+        <viz:position x="-42.405033111572266" y="5.305327892303467"/>
+      </node>
+      <node id="316" label="Avenirencommun.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="615"/>
+          <attvalue for="undirected_degree" value="41"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="12"/>
+          <attvalue for="outdegree" value="31"/>
+          <attvalue for="creation_date" value="1649165054541"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649234911383"/>
+          <attvalue for="pages_crawled" value="315"/>
+          <attvalue for="name" value="Avenirencommun.fr"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://avenirencommun.fr"/>
+          <attvalue for="forme éditoriale" value="site"/>
+          <attvalue for="acteur" value="campagne"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="17.856406460551018"/>
+        <viz:position x="72.68561553955078" y="-40.29999542236328"/>
+      </node>
+      <node id="328" label="Facebook.com /events">
+        <attvalues>
+          <attvalue for="status" value="UNDECIDED"/>
+          <attvalue for="pages_total" value="52"/>
+          <attvalue for="undirected_degree" value="15"/>
+          <attvalue for="crawling_status" value="UNCRAWLED"/>
+          <attvalue for="indegree" value="15"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649165066388"/>
+          <attvalue for="indexing_status" value="UNINDEXED"/>
+          <attvalue for="crawled" value="false"/>
+          <attvalue for="last_modification_date" value="1649235977915"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Facebook.com /events"/>
+          <attvalue for="homepage" value="http://www.facebook.com/events/1233027596736903"/>
+        </attvalues>
+        <viz:color r="173" g="162" b="153"/>
+        <viz:size value="19.491933384829668"/>
+        <viz:position x="41.22482681274414" y="62.861427307128906"/>
+      </node>
+      <node id="512" label="Fondation-Copernic.org">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="26"/>
+          <attvalue for="undirected_degree" value="6"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="6"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649165154843"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649238286154"/>
+          <attvalue for="pages_crawled" value="6"/>
+          <attvalue for="name" value="Fondation-Copernic.org"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.fondation-copernic.org"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="13.797958971132712"/>
+        <viz:position x="-109.76370239257812" y="-64.50813293457031"/>
+      </node>
+      <node id="584" label="Cerisesenligne.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="2896"/>
+          <attvalue for="undirected_degree" value="105"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="103"/>
+          <attvalue for="creation_date" value="1649165344035"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649246568108"/>
+          <attvalue for="pages_crawled" value="190"/>
+          <attvalue for="name" value="Cerisesenligne.fr"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12"/>
+        <viz:position x="-82.21796417236328" y="-69.40288543701172"/>
+      </node>
+      <node id="622" label="Contretemps.eu">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="17180"/>
+          <attvalue for="undirected_degree" value="901"/>
+          <attvalue for="crawling_status" value="RUNNING"/>
+          <attvalue for="indegree" value="5"/>
+          <attvalue for="outdegree" value="897"/>
+          <attvalue for="creation_date" value="1649165522111"/>
+          <attvalue for="indexing_status" value="BATCH_FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649238286883"/>
+          <attvalue for="pages_crawled" value="1641"/>
+          <attvalue for="name" value="Contretemps.eu"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://www.contretemps.eu"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12.94427190999916"/>
+        <viz:position x="-101.02310943603516" y="-79.3803482055664"/>
+      </node>
+      <node id="624" label="Cgt.fr">
+        <attvalues>
+          <attvalue for="status" value="UNDECIDED"/>
+          <attvalue for="pages_total" value="119"/>
+          <attvalue for="undirected_degree" value="9"/>
+          <attvalue for="crawling_status" value="UNCRAWLED"/>
+          <attvalue for="indegree" value="9"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649165530133"/>
+          <attvalue for="indexing_status" value="UNINDEXED"/>
+          <attvalue for="crawled" value="false"/>
+          <attvalue for="last_modification_date" value="1649235281650"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Cgt.fr"/>
+        </attvalues>
+        <viz:color r="173" g="162" b="153"/>
+        <viz:size value="16"/>
+        <viz:position x="-68.38749694824219" y="1.8763020038604736"/>
+      </node>
+      <node id="3730" label="Instagram.com /jlmelenchon">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="2"/>
+          <attvalue for="undirected_degree" value="8"/>
+          <attvalue for="crawling_status" value="UNCRAWLED"/>
+          <attvalue for="indegree" value="8"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649235411271"/>
+          <attvalue for="indexing_status" value="UNINDEXED"/>
+          <attvalue for="crawled" value="false"/>
+          <attvalue for="last_modification_date" value="1649235458333"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Instagram.com /jlmelenchon"/>
+          <attvalue for="homepage" value="http://www.instagram.com/jlmelenchon/"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="15.313708498984761"/>
+        <viz:position x="91.94332885742188" y="-57.611846923828125"/>
+      </node>
+      <node id="3731" label="Instagram.com /lebonsensyt">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1"/>
+          <attvalue for="undirected_degree" value="0"/>
+          <attvalue for="crawling_status" value="UNCRAWLED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649235411271"/>
+          <attvalue for="indexing_status" value="UNINDEXED"/>
+          <attvalue for="crawled" value="false"/>
+          <attvalue for="last_modification_date" value="1649235518956"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Instagram.com /lebonsensyt"/>
+          <attvalue for="homepage" value="http://www.instagram.com/lebonsensyt/"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="116.14680480957031" y="-341.9565734863281"/>
+      </node>
+      <node id="3732" label="Instagram.com /parti_communiste">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1"/>
+          <attvalue for="undirected_degree" value="1"/>
+          <attvalue for="crawling_status" value="UNCRAWLED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1649235411271"/>
+          <attvalue for="indexing_status" value="UNINDEXED"/>
+          <attvalue for="crawled" value="false"/>
+          <attvalue for="last_modification_date" value="1649235648180"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Instagram.com /parti_communiste"/>
+          <attvalue for="homepage" value="http://www.instagram.com/parti_communiste/"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="-49.893741607666016" y="118.68224334716797"/>
+      </node>
+      <node id="4604" label="jceyraud.Blogspirit.com">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="90"/>
+          <attvalue for="undirected_degree" value="27"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="26"/>
+          <attvalue for="creation_date" value="1649242904724"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1649242955169"/>
+          <attvalue for="pages_crawled" value="69"/>
+          <attvalue for="name" value="jceyraud.Blogspirit.com"/>
+          <attvalue for="Crawl Source" value="archivesinternet.bnf.fr"/>
+          <attvalue for="homepage" value="http://jceyraud.blogspirit.com"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="9.65685424949238"/>
+        <viz:position x="-72.3045425415039" y="-94.28455352783203"/>
       </node>
     </nodes>
     <edges>
@@ -654,7 +1144,49 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="153>2" source="153" target="2">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="2>3" source="2" target="3">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="584>9" source="584" target="9">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="622>9" source="622" target="9">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="17>9" source="17" target="9">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>9" source="18" target="9">
+        <attvalues>
+          <attvalue for="count" value="29"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="125>9" source="125" target="9">
         <attvalues>
           <attvalue for="count" value="1"/>
         </attvalues>
@@ -668,9 +1200,30 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="203>12" source="203" target="12">
+        <attvalues>
+          <attvalue for="count" value="7"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="18>12" source="18" target="12">
         <attvalues>
-          <attvalue for="count" value="3"/>
+          <attvalue for="count" value="58"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="242>12" source="242" target="12">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="217>12" source="217" target="12">
+        <attvalues>
+          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -682,9 +1235,51 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="584>17" source="584" target="17">
+        <attvalues>
+          <attvalue for="count" value="6"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="125>17" source="125" target="17">
+        <attvalues>
+          <attvalue for="count" value="7"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>17" source="18" target="17">
+        <attvalues>
+          <attvalue for="count" value="18"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="61>17" source="61" target="17">
         <attvalues>
-          <attvalue for="count" value="231"/>
+          <attvalue for="count" value="232"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="138>18" source="138" target="18">
+        <attvalues>
+          <attvalue for="count" value="7"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="17>18" source="17" target="18">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>18" source="153" target="18">
+        <attvalues>
+          <attvalue for="count" value="7"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -696,6 +1291,13 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="187>18" source="187" target="18">
+        <attvalues>
+          <attvalue for="count" value="12"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="61>18" source="61" target="18">
         <attvalues>
           <attvalue for="count" value="233"/>
@@ -703,44 +1305,93 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="86>18" source="86" target="18">
-        <attvalues>
-          <attvalue for="count" value="1"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="125>18" source="125" target="18">
-        <attvalues>
-          <attvalue for="count" value="1"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="62>18" source="62" target="18">
+        <attvalues>
+          <attvalue for="count" value="20"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="198>18" source="198" target="18">
         <attvalues>
           <attvalue for="count" value="2"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="584>18" source="584" target="18">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>18" source="203" target="18">
+        <attvalues>
+          <attvalue for="count" value="12261"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="206>18" source="206" target="18">
+        <attvalues>
+          <attvalue for="count" value="104"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>18" source="86" target="18">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="217>18" source="217" target="18">
+        <attvalues>
+          <attvalue for="count" value="40"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="315>18" source="315" target="18">
+        <attvalues>
+          <attvalue for="count" value="489"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="125>18" source="125" target="18">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>27" source="203" target="27">
+        <attvalues>
+          <attvalue for="count" value="14"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="17>27" source="17" target="27">
         <attvalues>
-          <attvalue for="count" value="81"/>
+          <attvalue for="count" value="496"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
       <edge id="18>27" source="18" target="27">
         <attvalues>
-          <attvalue for="count" value="17"/>
+          <attvalue for="count" value="95"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
       <edge id="28>27" source="28" target="27">
         <attvalues>
-          <attvalue for="count" value="315"/>
+          <attvalue for="count" value="351"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -752,6 +1403,13 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="62>27" source="62" target="27">
+        <attvalues>
+          <attvalue for="count" value="6"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="125>28" source="125" target="28">
         <attvalues>
           <attvalue for="count" value="1"/>
@@ -759,9 +1417,23 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="17>28" source="17" target="28">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>28" source="18" target="28">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="86>28" source="86" target="28">
         <attvalues>
-          <attvalue for="count" value="3"/>
+          <attvalue for="count" value="4"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -773,9 +1445,23 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="18>31" source="18" target="31">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="28>31" source="28" target="31">
         <attvalues>
           <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="62>31" source="62" target="31">
+        <attvalues>
+          <attvalue for="count" value="2"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -787,23 +1473,30 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="75>47" source="75" target="47">
+      <edge id="138>47" source="138" target="47">
         <attvalues>
-          <attvalue for="count" value="123"/>
+          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="61>47" source="61" target="47">
+      <edge id="17>47" source="17" target="47">
         <attvalues>
-          <attvalue for="count" value="230"/>
+          <attvalue for="count" value="4"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="86>47" source="86" target="47">
+      <edge id="18>47" source="18" target="47">
         <attvalues>
-          <attvalue for="count" value="10"/>
+          <attvalue for="count" value="131"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>47" source="153" target="47">
+        <attvalues>
+          <attvalue for="count" value="2"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -815,9 +1508,93 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="125>47" source="125" target="47">
+      <edge id="61>47" source="61" target="47">
+        <attvalues>
+          <attvalue for="count" value="230"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="62>47" source="62" target="47">
+        <attvalues>
+          <attvalue for="count" value="16"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>47" source="203" target="47">
+        <attvalues>
+          <attvalue for="count" value="8"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="584>47" source="584" target="47">
         <attvalues>
           <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="75>47" source="75" target="47">
+        <attvalues>
+          <attvalue for="count" value="123"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="206>47" source="206" target="47">
+        <attvalues>
+          <attvalue for="count" value="102"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>47" source="86" target="47">
+        <attvalues>
+          <attvalue for="count" value="40"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="622>47" source="622" target="47">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="242>47" source="242" target="47">
+        <attvalues>
+          <attvalue for="count" value="7"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="4604>47" source="4604" target="47">
+        <attvalues>
+          <attvalue for="count" value="6"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="125>47" source="125" target="47">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="125>53" source="125" target="53">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>53" source="18" target="53">
+        <attvalues>
+          <attvalue for="count" value="131"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -829,9 +1606,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="125>53" source="125" target="53">
+      <edge id="62>53" source="62" target="53">
         <attvalues>
-          <attvalue for="count" value="1"/>
+          <attvalue for="count" value="16"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -852,7 +1629,14 @@
       </edge>
       <edge id="18>62" source="18" target="62">
         <attvalues>
-          <attvalue for="count" value="2"/>
+          <attvalue for="count" value="6"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="217>62" source="217" target="62">
+        <attvalues>
+          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -866,7 +1650,7 @@
       </edge>
       <edge id="125>62" source="125" target="62">
         <attvalues>
-          <attvalue for="count" value="1"/>
+          <attvalue for="count" value="2"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -878,23 +1662,30 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="139>75" source="139" target="75">
+      <edge id="261>75" source="261" target="75">
         <attvalues>
-          <attvalue for="count" value="16"/>
+          <attvalue for="count" value="2"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="61>75" source="61" target="75">
+      <edge id="138>75" source="138" target="75">
         <attvalues>
-          <attvalue for="count" value="4"/>
+          <attvalue for="count" value="5"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="86>75" source="86" target="75">
+      <edge id="18>75" source="18" target="75">
         <attvalues>
-          <attvalue for="count" value="1794"/>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>75" source="153" target="75">
+        <attvalues>
+          <attvalue for="count" value="8"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -906,6 +1697,76 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="315>75" source="315" target="75">
+        <attvalues>
+          <attvalue for="count" value="490"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="316>75" source="316" target="75">
+        <attvalues>
+          <attvalue for="count" value="7"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="61>75" source="61" target="75">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="62>75" source="62" target="75">
+        <attvalues>
+          <attvalue for="count" value="8"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="139>75" source="139" target="75">
+        <attvalues>
+          <attvalue for="count" value="16"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>75" source="203" target="75">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>75" source="86" target="75">
+        <attvalues>
+          <attvalue for="count" value="2614"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="622>75" source="622" target="75">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="242>75" source="242" target="75">
+        <attvalues>
+          <attvalue for="count" value="9"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="4604>75" source="4604" target="75">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="125>75" source="125" target="75">
         <attvalues>
           <attvalue for="count" value="1"/>
@@ -913,30 +1774,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="2>83" source="2" target="83">
+      <edge id="256>86" source="256" target="86">
         <attvalues>
-          <attvalue for="count" value="2"/>
+          <attvalue for="count" value="3"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="86>83" source="86" target="83">
+      <edge id="257>86" source="257" target="86">
         <attvalues>
-          <attvalue for="count" value="545"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="47>83" source="47" target="83">
-        <attvalues>
-          <attvalue for="count" value="135"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="28>83" source="28" target="83">
-        <attvalues>
-          <attvalue for="count" value="1"/>
+          <attvalue for="count" value="8"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -948,16 +1795,30 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="75>86" source="75" target="86">
+      <edge id="3>86" source="3" target="86">
         <attvalues>
-          <attvalue for="count" value="8"/>
+          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="47>86" source="47" target="86">
+      <edge id="260>86" source="260" target="86">
         <attvalues>
-          <attvalue for="count" value="1"/>
+          <attvalue for="count" value="5"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="261>86" source="261" target="86">
+        <attvalues>
+          <attvalue for="count" value="421"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="138>86" source="138" target="86">
+        <attvalues>
+          <attvalue for="count" value="6"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -969,16 +1830,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3>86" source="3" target="86">
+      <edge id="18>86" source="18" target="86">
         <attvalues>
-          <attvalue for="count" value="1"/>
+          <attvalue for="count" value="5"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="139>86" source="139" target="86">
+      <edge id="153>86" source="153" target="86">
         <attvalues>
-          <attvalue for="count" value="10"/>
+          <attvalue for="count" value="4"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -990,9 +1851,58 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="2>117" source="2" target="117">
+      <edge id="47>86" source="47" target="86">
         <attvalues>
           <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="315>86" source="315" target="86">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="316>86" source="316" target="86">
+        <attvalues>
+          <attvalue for="count" value="34"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="139>86" source="139" target="86">
+        <attvalues>
+          <attvalue for="count" value="10"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="584>86" source="584" target="86">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="75>86" source="75" target="86">
+        <attvalues>
+          <attvalue for="count" value="8"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="242>86" source="242" target="86">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="125>86" source="125" target="86">
+        <attvalues>
+          <attvalue for="count" value="4"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -1004,16 +1914,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="86>125" source="86" target="125">
+      <edge id="584>125" source="584" target="125">
         <attvalues>
-          <attvalue for="count" value="2"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="17>125" source="17" target="125">
-        <attvalues>
-          <attvalue for="count" value="60"/>
+          <attvalue for="count" value="3"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -1021,6 +1924,41 @@
       <edge id="28>125" source="28" target="125">
         <attvalues>
           <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="622>125" source="622" target="125">
+        <attvalues>
+          <attvalue for="count" value="15"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="17>125" source="17" target="125">
+        <attvalues>
+          <attvalue for="count" value="136"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>125" source="86" target="125">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>125" source="153" target="125">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="4604>125" source="4604" target="125">
+        <attvalues>
+          <attvalue for="count" value="6"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -1046,9 +1984,37 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="153>133" source="153" target="133">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="3>138" source="3" target="138">
         <attvalues>
           <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>138" source="203" target="138">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>138" source="86" target="138">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>138" source="153" target="138">
+        <attvalues>
+          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -1062,7 +2028,14 @@
       </edge>
       <edge id="86>139" source="86" target="139">
         <attvalues>
-          <attvalue for="count" value="544"/>
+          <attvalue for="count" value="756"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="262>139" source="262" target="139">
+        <attvalues>
+          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -1081,9 +2054,37 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3>141" source="3" target="141">
+      <edge id="18>139" source="18" target="139">
         <attvalues>
           <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="316>139" source="316" target="139">
+        <attvalues>
+          <attvalue for="count" value="206"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="261>139" source="261" target="139">
+        <attvalues>
+          <attvalue for="count" value="403"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="256>143" source="256" target="143">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="257>143" source="257" target="143">
+        <attvalues>
+          <attvalue for="count" value="4"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -1095,16 +2096,23 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="86>143" source="86" target="143">
+      <edge id="261>143" source="261" target="143">
         <attvalues>
-          <attvalue for="count" value="2759"/>
+          <attvalue for="count" value="9300"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="47>143" source="47" target="143">
+      <edge id="262>143" source="262" target="143">
         <attvalues>
-          <attvalue for="count" value="130"/>
+          <attvalue for="count" value="52"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="138>143" source="138" target="143">
+        <attvalues>
+          <attvalue for="count" value="6"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -1116,9 +2124,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="139>143" source="139" target="143">
+      <edge id="18>143" source="18" target="143">
         <attvalues>
-          <attvalue for="count" value="18"/>
+          <attvalue for="count" value="27"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>143" source="153" target="143">
+        <attvalues>
+          <attvalue for="count" value="2"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -1126,6 +2141,41 @@
       <edge id="28>143" source="28" target="143">
         <attvalues>
           <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="47>143" source="47" target="143">
+        <attvalues>
+          <attvalue for="count" value="130"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="316>143" source="316" target="143">
+        <attvalues>
+          <attvalue for="count" value="3973"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="139>143" source="139" target="143">
+        <attvalues>
+          <attvalue for="count" value="18"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>143" source="86" target="143">
+        <attvalues>
+          <attvalue for="count" value="3858"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="242>143" source="242" target="143">
+        <attvalues>
+          <attvalue for="count" value="55"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -1139,7 +2189,21 @@
       </edge>
       <edge id="86>144" source="86" target="144">
         <attvalues>
-          <attvalue for="count" value="4"/>
+          <attvalue for="count" value="5"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>144" source="203" target="144">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="257>151" source="257" target="151">
+        <attvalues>
+          <attvalue for="count" value="2"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -1167,7 +2231,7 @@
       </edge>
       <edge id="86>151" source="86" target="151">
         <attvalues>
-          <attvalue for="count" value="7"/>
+          <attvalue for="count" value="9"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -1179,6 +2243,20 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="316>151" source="316" target="151">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="261>151" source="261" target="151">
+        <attvalues>
+          <attvalue for="count" value="13"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="3>152" source="3" target="152">
         <attvalues>
           <attvalue for="count" value="1"/>
@@ -1186,9 +2264,23 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="18>152" source="18" target="152">
+        <attvalues>
+          <attvalue for="count" value="35"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="3>153" source="3" target="153">
         <attvalues>
           <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>153" source="18" target="153">
+        <attvalues>
+          <attvalue for="count" value="44"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -1201,6 +2293,1035 @@
         <viz:size value="1"/>
       </edge>
       <edge id="3>156" source="3" target="156">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>187" source="203" target="187">
+        <attvalues>
+          <attvalue for="count" value="2538"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="17>187" source="17" target="187">
+        <attvalues>
+          <attvalue for="count" value="6"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>187" source="18" target="187">
+        <attvalues>
+          <attvalue for="count" value="30480"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>187" source="153" target="187">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="62>187" source="62" target="187">
+        <attvalues>
+          <attvalue for="count" value="8"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>198" source="203" target="198">
+        <attvalues>
+          <attvalue for="count" value="27"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="138>198" source="138" target="198">
+        <attvalues>
+          <attvalue for="count" value="8"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>198" source="18" target="198">
+        <attvalues>
+          <attvalue for="count" value="10345"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>198" source="153" target="198">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>206" source="203" target="206">
+        <attvalues>
+          <attvalue for="count" value="2509"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="17>206" source="17" target="206">
+        <attvalues>
+          <attvalue for="count" value="6"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>206" source="18" target="206">
+        <attvalues>
+          <attvalue for="count" value="240"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>206" source="153" target="206">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="187>206" source="187" target="206">
+        <attvalues>
+          <attvalue for="count" value="12"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="75>217" source="75" target="217">
+        <attvalues>
+          <attvalue for="count" value="245"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>217" source="203" target="217">
+        <attvalues>
+          <attvalue for="count" value="2493"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>217" source="18" target="217">
+        <attvalues>
+          <attvalue for="count" value="19"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>217" source="86" target="217">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="62>217" source="62" target="217">
+        <attvalues>
+          <attvalue for="count" value="958"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>242" source="86" target="242">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="47>242" source="47" target="242">
+        <attvalues>
+          <attvalue for="count" value="38"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>242" source="153" target="242">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="2>252" source="2" target="252">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="138>252" source="138" target="252">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="47>252" source="47" target="252">
+        <attvalues>
+          <attvalue for="count" value="135"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>252" source="86" target="252">
+        <attvalues>
+          <attvalue for="count" value="762"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>252" source="153" target="252">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="28>252" source="28" target="252">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="139>256" source="139" target="256">
+        <attvalues>
+          <attvalue for="count" value="16"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>256" source="86" target="256">
+        <attvalues>
+          <attvalue for="count" value="1575"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="262>256" source="262" target="256">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="316>256" source="316" target="256">
+        <attvalues>
+          <attvalue for="count" value="413"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>256" source="203" target="256">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="144>256" source="144" target="256">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>256" source="18" target="256">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>256" source="153" target="256">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="143>256" source="143" target="256">
+        <attvalues>
+          <attvalue for="count" value="178"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="28>256" source="28" target="256">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="315>256" source="315" target="256">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="261>256" source="261" target="256">
+        <attvalues>
+          <attvalue for="count" value="756"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>257" source="86" target="257">
+        <attvalues>
+          <attvalue for="count" value="747"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="262>257" source="262" target="257">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="316>257" source="316" target="257">
+        <attvalues>
+          <attvalue for="count" value="206"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="143>257" source="143" target="257">
+        <attvalues>
+          <attvalue for="count" value="98"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>257" source="18" target="257">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="28>257" source="28" target="257">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="261>257" source="261" target="257">
+        <attvalues>
+          <attvalue for="count" value="403"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="139>260" source="139" target="260">
+        <attvalues>
+          <attvalue for="count" value="16"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>260" source="86" target="260">
+        <attvalues>
+          <attvalue for="count" value="772"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="262>260" source="262" target="260">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="28>260" source="28" target="260">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="47>260" source="47" target="260">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="144>260" source="144" target="260">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>260" source="18" target="260">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>260" source="153" target="260">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="143>260" source="143" target="260">
+        <attvalues>
+          <attvalue for="count" value="129"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="316>260" source="316" target="260">
+        <attvalues>
+          <attvalue for="count" value="206"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="261>260" source="261" target="260">
+        <attvalues>
+          <attvalue for="count" value="410"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="256>261" source="256" target="261">
+        <attvalues>
+          <attvalue for="count" value="9"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="139>261" source="139" target="261">
+        <attvalues>
+          <attvalue for="count" value="6"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>261" source="86" target="261">
+        <attvalues>
+          <attvalue for="count" value="780"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="143>261" source="143" target="261">
+        <attvalues>
+          <attvalue for="count" value="12"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>261" source="18" target="261">
+        <attvalues>
+          <attvalue for="count" value="9"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>261" source="153" target="261">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="28>261" source="28" target="261">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="261>262" source="261" target="262">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>262" source="86" target="262">
+        <attvalues>
+          <attvalue for="count" value="756"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="143>262" source="143" target="262">
+        <attvalues>
+          <attvalue for="count" value="6"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="28>262" source="28" target="262">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="584>272" source="584" target="272">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>272" source="203" target="272">
+        <attvalues>
+          <attvalue for="count" value="12"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="622>272" source="622" target="272">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="125>272" source="125" target="272">
+        <attvalues>
+          <attvalue for="count" value="41"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="17>272" source="17" target="272">
+        <attvalues>
+          <attvalue for="count" value="73"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="75>272" source="75" target="272">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>272" source="86" target="272">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>272" source="153" target="272">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="315>272" source="315" target="272">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="61>272" source="61" target="272">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="62>272" source="62" target="272">
+        <attvalues>
+          <attvalue for="count" value="8"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>315" source="203" target="315">
+        <attvalues>
+          <attvalue for="count" value="18"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="17>315" source="17" target="315">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>315" source="153" target="315">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="187>315" source="187" target="315">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="28>315" source="28" target="315">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="261>316" source="261" target="316">
+        <attvalues>
+          <attvalue for="count" value="2146"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="262>316" source="262" target="316">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="584>316" source="584" target="316">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="138>316" source="138" target="316">
+        <attvalues>
+          <attvalue for="count" value="13"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>316" source="203" target="316">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>316" source="18" target="316">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="143>316" source="143" target="316">
+        <attvalues>
+          <attvalue for="count" value="7"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="144>316" source="144" target="316">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="242>316" source="242" target="316">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="3>316" source="3" target="316">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>316" source="86" target="316">
+        <attvalues>
+          <attvalue for="count" value="34"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="47>316" source="47" target="316">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="256>328" source="256" target="328">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="260>328" source="260" target="328">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="261>328" source="261" target="328">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="198>328" source="198" target="328">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="28>328" source="28" target="328">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="138>328" source="138" target="328">
+        <attvalues>
+          <attvalue for="count" value="21"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="139>328" source="139" target="328">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="143>328" source="143" target="328">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>328" source="18" target="328">
+        <attvalues>
+          <attvalue for="count" value="205"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>328" source="203" target="328">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="152>328" source="152" target="328">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>328" source="153" target="328">
+        <attvalues>
+          <attvalue for="count" value="8"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="187>328" source="187" target="328">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>328" source="86" target="328">
+        <attvalues>
+          <attvalue for="count" value="748"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="125>328" source="125" target="328">
+        <attvalues>
+          <attvalue for="count" value="11"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="584>512" source="584" target="512">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>512" source="203" target="512">
+        <attvalues>
+          <attvalue for="count" value="8"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="61>512" source="61" target="512">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="17>512" source="17" target="512">
+        <attvalues>
+          <attvalue for="count" value="9"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="242>512" source="242" target="512">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="125>512" source="125" target="512">
+        <attvalues>
+          <attvalue for="count" value="17"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>584" source="203" target="584">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="61>584" source="61" target="584">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="17>584" source="17" target="584">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="125>584" source="125" target="584">
+        <attvalues>
+          <attvalue for="count" value="26"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="584>622" source="584" target="622">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="61>622" source="61" target="622">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="17>622" source="17" target="622">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>622" source="153" target="622">
+        <attvalues>
+          <attvalue for="count" value="22"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="125>622" source="125" target="622">
+        <attvalues>
+          <attvalue for="count" value="363"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="584>624" source="584" target="624">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="138>624" source="138" target="624">
+        <attvalues>
+          <attvalue for="count" value="10"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="203>624" source="203" target="624">
+        <attvalues>
+          <attvalue for="count" value="19"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="17>624" source="17" target="624">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>624" source="18" target="624">
+        <attvalues>
+          <attvalue for="count" value="11"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>624" source="86" target="624">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="153>624" source="153" target="624">
+        <attvalues>
+          <attvalue for="count" value="81"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="187>624" source="187" target="624">
+        <attvalues>
+          <attvalue for="count" value="17"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="125>624" source="125" target="624">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="139>3730" source="139" target="3730">
+        <attvalues>
+          <attvalue for="count" value="6"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="261>3730" source="261" target="3730">
+        <attvalues>
+          <attvalue for="count" value="403"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="262>3730" source="262" target="3730">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="28>3730" source="28" target="3730">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="143>3730" source="143" target="3730">
+        <attvalues>
+          <attvalue for="count" value="98"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>3730" source="18" target="3730">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="86>3730" source="86" target="3730">
+        <attvalues>
+          <attvalue for="count" value="747"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="316>3730" source="316" target="3730">
+        <attvalues>
+          <attvalue for="count" value="206"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>3732" source="18" target="3732">
+        <attvalues>
+          <attvalue for="count" value="9"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="17>4604" source="17" target="4604">
+        <attvalues>
+          <attvalue for="count" value="492"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="125>4604" source="125" target="4604">
         <attvalues>
           <attvalue for="count" value="1"/>
         </attvalues>

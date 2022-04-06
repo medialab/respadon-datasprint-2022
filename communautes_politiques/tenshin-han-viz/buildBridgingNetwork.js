@@ -5,6 +5,7 @@
  * Edges get a property "period_type" with enum{5}: ["past", "future", "bridge", "past_bridge", "future_bridge"]
  */
 const Graph = require('graphology');
+const forceAtlas2 = require('graphology-layout-forceatlas2');
 
 const buildBridgingNetwork = (graph1, graph2) => {
 
@@ -119,10 +120,10 @@ const buildBridgingNetwork = (graph1, graph2) => {
   });
   // for logging purpose
   let numberOfPastEdges = 0,
-      numberOfPastToBridgeEdges = 0,
-      numberOfBridgeEdges = 0,
-      numberOfBridgeToFutureEdges = 0,
-      numberOfFutureEdges = 0;
+    numberOfPastToBridgeEdges = 0,
+    numberOfBridgeEdges = 0,
+    numberOfBridgeToFutureEdges = 0,
+    numberOfFutureEdges = 0;
   // iterate within past edges
   graph1.forEachEdge((edge, attr, source, target) => {
     // console.log(edge, attr, source, target)
@@ -137,21 +138,21 @@ const buildBridgingNetwork = (graph1, graph2) => {
       newSourceId = pastIdsToNewIdsMap[source];
       newTargetId = pastIdsToNewIdsMap[target];
       numberOfPastEdges++;
-    } 
+    }
     // both are bridge
     else if (nodesLabelsFromBothYears.has(sourceLabel) && nodesLabelsFromBothYears.has(targetLabel)) {
       edgeType = 'bridge';
       newSourceId = futureIdsToNewIdsMap[pastIdToFutureIdForBridgeNodesMap[source]];
-      newTargetId =  futureIdsToNewIdsMap[pastIdToFutureIdForBridgeNodesMap[target]];
+      newTargetId = futureIdsToNewIdsMap[pastIdToFutureIdForBridgeNodesMap[target]];
       numberOfBridgeEdges++;
-    } 
+    }
     // source is bridge
     else if (nodesLabelsFromBothYears.has(sourceLabel)) {
       edgeType = 'past_bridge';
       newSourceId = futureIdsToNewIdsMap[pastIdToFutureIdForBridgeNodesMap[source]];
       newTargetId = pastIdsToNewIdsMap[target];
       numberOfPastToBridgeEdges++;
-    } 
+    }
     // target is bridge
     else {
       edgeType = 'past_bridge';
@@ -159,10 +160,10 @@ const buildBridgingNetwork = (graph1, graph2) => {
       newTargetId = futureIdsToNewIdsMap[pastIdToFutureIdForBridgeNodesMap[target]];
       numberOfPastToBridgeEdges++;
     }
-    if(newSourceId && newTargetId) {
-       resultGraph.addEdge(newSourceId, newTargetId, {
+    if (newSourceId && newTargetId) {
+      resultGraph.addEdge(newSourceId, newTargetId, {
         ...attr,
-        periode_type: edgeType
+        period_type: edgeType
       })
     }
   })
@@ -179,16 +180,16 @@ const buildBridgingNetwork = (graph1, graph2) => {
       newSourceId = pastIdsToNewIdsMap[source];
       newTargetId = pastIdsToNewIdsMap[target];
       numberOfFutureEdges++;
-    } 
+    }
     // both are bridge
     else if (nodesLabelsFromBothYears.has(sourceLabel) && nodesLabelsFromBothYears.has(targetLabel)) {
       // @todo handle bridge issues
       edgeType = 'bridge';
       newSourceId = futureIdsToNewIdsMap[source];
-      newTargetId =  futureIdsToNewIdsMap[target];
+      newTargetId = futureIdsToNewIdsMap[target];
       numberOfBridgeEdges++;
       // console.log('both are bridge', newSourceId, newTargetId);
-    } 
+    }
     // source is bridge
     else if (nodesLabelsFromBothYears.has(sourceLabel)) {
       edgeType = 'future_bridge';
@@ -197,7 +198,7 @@ const buildBridgingNetwork = (graph1, graph2) => {
       numberOfBridgeToFutureEdges++;
       // console.log('source is bridge', newSourceId, newTargetId);
 
-    } 
+    }
     // target is bridge
     else {
       edgeType = 'future_bridge';
@@ -206,25 +207,62 @@ const buildBridgingNetwork = (graph1, graph2) => {
       numberOfBridgeToFutureEdges++;
       // console.log('target is bridge', newSourceId, newTargetId);
     }
-    if(newSourceId && newTargetId) {
+    if (newSourceId && newTargetId) {
       // adding edge if it is new
       if (!resultGraph.hasEdge(newSourceId, newTargetId)) {
-         resultGraph.addEdge(newSourceId, newTargetId, {
+        resultGraph.addEdge(newSourceId, newTargetId, {
           ...attr,
-          periode_type: edgeType
+          period_type: edgeType
         })
       }
       // @todo weighten existing edge in the bridge ?
 
     }
   })
+  // set nodes color
+  resultGraph.forEachNode((id, attr) => {
+    let color;
+    switch (attr.period_type) {
+      case 'past':
+        color = 'rgb(200, 0, 0)';
+        break;
+      case 'bridge':
+        color = 'rgb(200, 200, 200)';
+        break;
+      case 'future':
+      default:
+        color = 'rgb(0, 200, 0)';
+        break;
+    }
+    resultGraph.setNodeAttribute(id, 'color', color);
+  });
+  // set edges color
+  resultGraph.forEachEdge((id, attr) => {
+    let color;
+    switch (attr.period_type) {
+      case 'past':
+      case 'past_bridge':
+        color = 'rgb(255, 0, 0)';
+        break;
+      case 'bridge':
+        color = 'rgb(200, 200, 200)';
+        break;
+      case 'future':
+      case 'future_bridge':
+      default:
+        color = 'rgb(0, 255, 0)';
+        break;
+    }
+    resultGraph.setEdgeAttribute(id, 'color', color);
+  });
   console.log('Number of past edges : ', numberOfPastEdges);
   console.log('Number of past to bridge edges : ', numberOfPastToBridgeEdges);
   console.log('Number of bridge edges : ', numberOfBridgeEdges);
   console.log('Number of bridge to future edges : ', numberOfBridgeToFutureEdges);
   console.log('Number of future edges : ', numberOfFutureEdges)
 
+  // Run force atlas spatialization
+  forceAtlas2.assign(resultGraph, {iterations: 50});
   return resultGraph;
 }
-
 module.exports = buildBridgingNetwork;

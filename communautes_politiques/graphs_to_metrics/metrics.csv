@@ -1,83 +1,83 @@
-label,year,degree,betweennessCentrality
-fr.Wikipedia.org /.../Front_de_gauche_(France),2017,0,0
-fr.Wikipedia.org /.../Front_de_gauche_(France),2022,,
-fr.Wikipedia.org /.../Jean-Luc_Mélenchon,2017,10,0.005883962780514504
-fr.Wikipedia.org /.../Jean-Luc_Mélenchon,2022,,
-fr.Wikipedia.org /.../La_France_insoumise,2017,12,0.0072796934865900385
-fr.Wikipedia.org /.../La_France_insoumise,2022,,
-fr.Wikipedia.org /.../Parti_de_gauche,2017,0,0
-fr.Wikipedia.org /.../Parti_de_gauche,2022,,
-Gauche-Anticapitaliste.org,2017,0,0
-Gauche-Anticapitaliste.org,2022,,
-Frontdegauche.eu,2017,3,0
-Frontdegauche.eu,2022,2,0
-Lafederation.org,2017,3,0
-Lafederation.org,2022,,
-Pcf.fr,2017,8,0.018746579091406677
-Pcf.fr,2022,,
-Placeaupeuple2012.fr,2017,4,0
-Placeaupeuple2012.fr,2022,4,0
-Placeaupeuple.fr,2017,15,0.05365079365079365
-Placeaupeuple.fr,2022,4,0
-Frontdegauche-Europe.fr,2017,1,0
-Frontdegauche-Europe.fr,2022,1,0
-Lepartidegauche.fr,2017,9,0.01095785440613027
-Lepartidegauche.fr,2022,6,0.011904761904761904
-Pcf-Gresivaudan.blogspot.com,2017,0,0
-Pcf-Gresivaudan.blogspot.com,2022,,
-Gauche-Unitaire.fr,2017,2,0
-Gauche-Unitaire.fr,2022,,
-Convergencesetalternative.blogspot.fr,2017,10,0.01264367816091954
-Convergencesetalternative.blogspot.fr,2022,,
-Eurocitoyenne.fr,2017,5,0.001532567049808429
-Eurocitoyenne.fr,2022,,
-Jean-Luc-Melenchon.fr,2017,9,0.010952380952380951
-Jean-Luc-Melenchon.fr,2022,12,0.05411255411255411
-M6R.fr,2017,4,0
-M6R.fr,2022,3,0
-Melenchon.fr,2017,19,0.11575259989053092
-Melenchon.fr,2022,7,0.022727272727272728
-Jeanluc-Melenchon2017.fr,2017,1,0
-Jeanluc-Melenchon2017.fr,2022,0,0
-Ensemble-Fdg.org,2017,11,0.034811165845648605
-Ensemble-Fdg.org,2022,2,0
-Antoineleaument.fr,2017,2,0
-Antoineleaument.fr,2022,,
-Marxiste.org,2017,1,0
-Marxiste.org,2022,,
-Youtube.com /.../PlaceauPeuple,2017,7,0.02008757525998905
-Youtube.com /.../PlaceauPeuple,2022,,
-Lavenirencommun.fr,2017,1,0
-Lavenirencommun.fr,2022,0,0
-Jlm2017.fr,2017,8,0.00425287356321839
-Jlm2017.fr,2022,0,0
-Insoumis.online,2017,5,0
-Insoumis.online,2022,,
-Laec.fr,2017,5,0
-Laec.fr,2022,1,0
-Gaucherevolutionnaire.fr,2017,1,0
-Gaucherevolutionnaire.fr,2022,,
-Initiative-Communiste.fr,2017,3,0
-Initiative-Communiste.fr,2022,,
-fraternitecitoyenne.Blog4Ever.com,2017,1,0
-fraternitecitoyenne.Blog4Ever.com,2022,,
-Lafranceinsoumise.fr,2017,,
-Lafranceinsoumise.fr,2022,4,0.012987012987012988
-Lemediatv.fr,2017,,
-Lemediatv.fr,2022,0,0
-Le-Bon-Sens.com,2017,,
-Le-Bon-Sens.com,2022,11,0
-Opiam.fr,2017,,
-Opiam.fr,2022,4,0
-Twitter.com /JLMelenchon,2017,,
-Twitter.com /JLMelenchon,2022,4,0
-Avenirencommun.fr,2017,,
-Avenirencommun.fr,2022,2,0
-Martine-Billard.fr,2017,,
-Martine-Billard.fr,2022,2,0
-Guengl.eu,2017,,
-Guengl.eu,2022,1,0
-Facebook - Les Artistes avec Mélenchon,2017,,
-Facebook - Les Artistes avec Mélenchon,2022,0,0
-Lafaqdelavenirencommun.com,2017,,
-Lafaqdelavenirencommun.com,2022,0,0
+label,year,degree,betweennessCentrality,pageRank
+fr.Wikipedia.org /.../Front_de_gauche_(France),2017,0,0,0.01637846863668177
+fr.Wikipedia.org /.../Front_de_gauche_(France),2022,,,
+fr.Wikipedia.org /.../Jean-Luc_Mélenchon,2017,10,0.005883962780514504,0.017773785971199423
+fr.Wikipedia.org /.../Jean-Luc_Mélenchon,2022,,,
+fr.Wikipedia.org /.../La_France_insoumise,2017,12,0.0072796934865900385,0.018057100282372923
+fr.Wikipedia.org /.../La_France_insoumise,2022,,,
+fr.Wikipedia.org /.../Parti_de_gauche,2017,0,0,0.01637846863668177
+fr.Wikipedia.org /.../Parti_de_gauche,2022,,,
+Gauche-Anticapitaliste.org,2017,0,0,0.01637846863668177
+Gauche-Anticapitaliste.org,2022,,,
+Frontdegauche.eu,2017,3,0,0.04227035604369494
+Frontdegauche.eu,2022,2,0,0.0352001640334688
+Lafederation.org,2017,3,0,0.01811058863482793
+Lafederation.org,2022,,,
+Pcf.fr,2017,8,0.018746579091406677,0.07934171258895009
+Pcf.fr,2022,,,
+Placeaupeuple2012.fr,2017,4,0,0.05025032401348054
+Placeaupeuple2012.fr,2022,4,0,0.07340783392912575
+Placeaupeuple.fr,2017,15,0.05365079365079365,0.027693318942433827
+Placeaupeuple.fr,2022,4,0,0.028598901926699616
+Frontdegauche-Europe.fr,2017,1,0,0.018340087370500902
+Frontdegauche-Europe.fr,2022,1,0,0.034676211844467626
+Lepartidegauche.fr,2017,9,0.01095785440613027,0.04412743594097099
+Lepartidegauche.fr,2022,6,0.011904761904761904,0.05829387031302334
+Pcf-Gresivaudan.blogspot.com,2017,0,0,0.01637846863668177
+Pcf-Gresivaudan.blogspot.com,2022,,,
+Gauche-Unitaire.fr,2017,2,0,0.022953763436741284
+Gauche-Unitaire.fr,2022,,,
+Convergencesetalternative.blogspot.fr,2017,10,0.01264367816091954,0.018340087370500902
+Convergencesetalternative.blogspot.fr,2022,,,
+Eurocitoyenne.fr,2017,5,0.001532567049808429,0.058458264554616994
+Eurocitoyenne.fr,2022,,,
+Jean-Luc-Melenchon.fr,2017,9,0.010952380952380951,0.04515361656597374
+Jean-Luc-Melenchon.fr,2022,12,0.05411255411255411,0.062131264394885505
+M6R.fr,2017,4,0,0.03726112801161196
+M6R.fr,2022,3,0,0.062184044072256216
+Melenchon.fr,2017,19,0.11575259989053092,0.06690962837135606
+Melenchon.fr,2022,7,0.022727272727272728,0.05829387031302334
+Jeanluc-Melenchon2017.fr,2017,1,0,0.018057100282372923
+Jeanluc-Melenchon2017.fr,2022,0,0,0.028598901926699616
+Ensemble-Fdg.org,2017,11,0.034811165845648605,0.03418737540168838
+Ensemble-Fdg.org,2022,2,0,0.028598901926699616
+Antoineleaument.fr,2017,2,0,0.022796655788065466
+Antoineleaument.fr,2022,,,
+Marxiste.org,2017,1,0,0.017773785971199423
+Marxiste.org,2022,,,
+Youtube.com /.../PlaceauPeuple,2017,7,0.02008757525998905,0.04877580174668519
+Youtube.com /.../PlaceauPeuple,2022,,,
+Lavenirencommun.fr,2017,1,0,0.017773785971199423
+Lavenirencommun.fr,2022,0,0,0.028598901926699616
+Jlm2017.fr,2017,8,0.00425287356321839,0.057176685612330566
+Jlm2017.fr,2022,0,0,0.028598901926699616
+Insoumis.online,2017,5,0,0.022513341476891966
+Insoumis.online,2022,,,
+Laec.fr,2017,5,0,0.072329481684316
+Laec.fr,2022,1,0,0.030808832805887983
+Gaucherevolutionnaire.fr,2017,1,0,0.017773785971199423
+Gaucherevolutionnaire.fr,2022,,,
+Initiative-Communiste.fr,2017,3,0,0.022513341476891966
+Initiative-Communiste.fr,2022,,,
+fraternitecitoyenne.Blog4Ever.com,2017,1,0,0.017773785971199423
+fraternitecitoyenne.Blog4Ever.com,2022,,,
+Lafranceinsoumise.fr,2017,,,
+Lafranceinsoumise.fr,2022,4,0.012987012987012988,0.07209874807188639
+Lemediatv.fr,2017,,,
+Lemediatv.fr,2022,0,0,0.028598901926699616
+Le-Bon-Sens.com,2017,,,
+Le-Bon-Sens.com,2022,11,0,0.028598901926699616
+Opiam.fr,2017,,,
+Opiam.fr,2022,4,0,0.030808832805887983
+Twitter.com /JLMelenchon,2017,,,
+Twitter.com /JLMelenchon,2022,4,0,0.06000337093682454
+Avenirencommun.fr,2017,,,
+Avenirencommun.fr,2022,2,0,0.09209258019283986
+Martine-Billard.fr,2017,,,
+Martine-Billard.fr,2022,2,0,0.03741009491265717
+Guengl.eu,2017,,,
+Guengl.eu,2022,1,0,0.0352001640334688
+Facebook - Les Artistes avec Mélenchon,2017,,,
+Facebook - Les Artistes avec Mélenchon,2022,0,0,0.028598901926699616
+Lafaqdelavenirencommun.com,2017,,,
+Lafaqdelavenirencommun.com,2022,0,0,0.028598901926699616

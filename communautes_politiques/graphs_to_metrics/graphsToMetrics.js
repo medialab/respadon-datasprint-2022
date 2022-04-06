@@ -1,7 +1,7 @@
 const Graph = require('graphology');
 const metrics = require('graphology-metrics')
 const betweennessCentrality = require('graphology-metrics/centrality/betweenness');
-
+const pagerankLib = require('graphology-metrics/centrality/pagerank');
 
 const graphsToMetrics = (graphs) => {
   const labels = new Set();
@@ -23,12 +23,15 @@ const graphsToMetrics = (graphs) => {
   }, {})
   graphs.forEach(({graph, year}) => {
     const centralities = betweennessCentrality(graph);
+    const pageRanks = pagerankLib(graph);
     graph.forEachNode((id, {label}) => {
       const degree = graph.degree(id);
-      const betweennessCentrality = centralities[id]
+      const betweennessCentrality = centralities[id];
+      const pageRank = pageRanks[id];
       labelsMap[label][year] = {
         degree,
-        betweennessCentrality
+        betweennessCentrality,
+        pageRank
       }
     })
   })

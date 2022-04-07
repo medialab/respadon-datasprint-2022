@@ -84,13 +84,13 @@ import('d3-dsv')
             count: valuesMap[key][year].count + 1
           }
         });
-        Object.entries(valuesMap).forEach(([key, years]) => {
-          Object.entries(years).forEach(([year, metrics]) => {
-            metricsOutput.push({
-              year,
-              key,
-              ...metrics,
-            })
+      });
+      Object.entries(valuesMap).forEach(([key, years]) => {
+        Object.entries(years).forEach(([year, metrics]) => {
+          metricsOutput.push({
+            year,
+            key,
+            ...metrics,
           })
         })
       })

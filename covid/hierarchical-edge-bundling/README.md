@@ -1,6 +1,8 @@
 # Hierarchical edge bundling
 
-Generate a *hierarchical edge bundling wheel* from GEXF file, export from Hyphe. Use *louvain* cluster to place the nodes.
+Generate a *hierarchical edge bundling wheel* (Danny Holten) from GEXF file, export from Hyphe. Use *louvain* cluster to place the nodes.
+
+From https://bl.ocks.org/mbostock/1044242
 
 ## Requirements
 

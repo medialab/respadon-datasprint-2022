@@ -9,3 +9,5 @@ node_modules
 
 private_paul
 *.code-workspace
+.python-version
+.ipynb_checkpoints

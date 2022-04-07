@@ -42,6 +42,10 @@ d3.json("data.json", function (error, classes) {
         .attr("transform", function (d) { return "rotate(" + (d.x - 90) + ")translate(" + (d.y + 8) + ",0)" + (d.x < 180 ? "" : "rotate(180)"); })
         .attr("text-anchor", function (d) { return d.x < 180 ? "start" : "end"; })
         .text(function (d) { console.log(d); return d.data.label; });
+
+    node = node.attr('fill', (d) => {
+        return d.data.color;
+    });
 });
 
 // Lazily construct the package hierarchy from class names.

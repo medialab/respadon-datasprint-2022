@@ -13,11 +13,13 @@ const toExport = [];
 
 louvain.assign(graph);
 
-graph.forEachNode((nodeId, { label, color, community, ...attrs }) => {
+graph.forEachNode((nodeId, { label, color, community, pages_total, ...attrs }) => {
+    console.log(attrs);
     toExport.push({
         name: `${community}.${nodeId}`,
-        label: label,
-        color: color,
+        label,
+        color,
+        pages_total,
         imports: [
             ...graph.neighbors(nodeId).map(nodeId => `${graph.getNodeAttribute(nodeId, 'community')}.${nodeId}`)
         ]

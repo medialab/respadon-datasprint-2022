@@ -6,6 +6,7 @@
  */
 const Graph = require('graphology');
 const forceAtlas2 = require('graphology-layout-forceatlas2');
+const noverlap = require('graphology-layout-noverlap');
 
 const extent = arr => {
   let max = -Infinity;
@@ -20,7 +21,7 @@ const extent = arr => {
   return [min, max]
 }
 
-const buildTripartiteLayout = (graph, laterlMarginPortion = 0.2) => {
+const buildTripartiteLayout = (graph, laterlMarginPortion = 0.7) => {
   /**
    * STEP 1 : build three layouts of the separate layouts
    */
@@ -74,9 +75,12 @@ const buildTripartiteLayout = (graph, laterlMarginPortion = 0.2) => {
   /**
    * STEP 2 : build layout
    */
-  let positionsPast = forceAtlas2(pastGraph, { iterations: 50 });
-  let positionsBridge = forceAtlas2(bridgeGraph, { iterations: 50 });
-  let positionsFuture = forceAtlas2(futureGraph, { iterations: 50 });
+  forceAtlas2.assign(pastGraph, { iterations: 50 });
+  forceAtlas2.assign(bridgeGraph, { iterations: 50 });
+  forceAtlas2.assign(futureGraph, { iterations: 50 });
+  let positionsPast = noverlap(pastGraph, {maxIterations: 1000});
+  let positionsBridge = noverlap(bridgeGraph, {maxIterations: 1000});
+  let positionsFuture = noverlap(futureGraph, {maxIterations: 1000});
   const xExtent = extent([
 
     ...Object.values(positionsPast).map(({ x }) => x),
@@ -85,7 +89,7 @@ const buildTripartiteLayout = (graph, laterlMarginPortion = 0.2) => {
 
   ])
   const maxWidth = xExtent[1] - xExtent[0];
-  const lateralMargin = maxWidth;
+  const lateralMargin = maxWidth * laterlMarginPortion;
   positionsPast = Object.entries(positionsPast).reduce((res, [id, {x, y}]) => {
     return {
       ...res,

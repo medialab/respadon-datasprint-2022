@@ -7,6 +7,16 @@
 const Graph = require('graphology');
 const forceAtlas2 = require('graphology-layout-forceatlas2');
 
+const pastEdgeColor = 'rgb(211, 121, 101)',
+      pastNodeColor = 'rgb(201, 43, 8)',
+
+      bridgeEdgeColor = 'rgb(151, 162, 222)',
+      bridgeNodeColor = 'rgb(79, 99, 203)',
+
+      futureEdgeColor = 'rgb(166, 214, 117)',
+      futureNodeColor = 'rgb(38, 139, 60)';
+
+
 const buildBridgingNetwork = (graph1, graph2) => {
 
   console.log('Starting to bridge the two graphs');
@@ -21,7 +31,6 @@ const buildBridgingNetwork = (graph1, graph2) => {
   graph2.forEachNode((node) => {
     nodesFromGraphFuture.add(graph2.getNodeAttribute(node, 'label'));
   });
-
 
   const nodesLabelsFromBothYears = new Set(
     [...nodesFromGraphPast].filter(label => nodesFromGraphFuture.has(label))
@@ -160,11 +169,13 @@ const buildBridgingNetwork = (graph1, graph2) => {
       newTargetId = futureIdsToNewIdsMap[pastIdToFutureIdForBridgeNodesMap[target]];
       numberOfPastToBridgeEdges++;
     }
-    if (newSourceId && newTargetId) {
+    if (newSourceId !== undefined && newTargetId !== undefined) {
       resultGraph.addEdge(newSourceId, newTargetId, {
         ...attr,
         period_type: edgeType
       })
+    } else {
+      console.log('problem in graph1', attr, { source, target, newSourceId, newTargetId});
     }
   })
   // iterate within future edges
@@ -177,8 +188,8 @@ const buildBridgingNetwork = (graph1, graph2) => {
     // both are future
     if (nodesLabelsFromFutureOnly.has(sourceLabel) && nodesLabelsFromFutureOnly.has(targetLabel)) {
       edgeType = 'future';
-      newSourceId = pastIdsToNewIdsMap[source];
-      newTargetId = pastIdsToNewIdsMap[target];
+      newSourceId = futureIdsToNewIdsMap[source];
+      newTargetId = futureIdsToNewIdsMap[target];
       numberOfFutureEdges++;
     }
     // both are bridge
@@ -207,7 +218,7 @@ const buildBridgingNetwork = (graph1, graph2) => {
       numberOfBridgeToFutureEdges++;
       // console.log('target is bridge', newSourceId, newTargetId);
     }
-    if (newSourceId && newTargetId) {
+    if (newSourceId !== undefined && newTargetId !== undefined) {
       // adding edge if it is new
       if (!resultGraph.hasEdge(newSourceId, newTargetId)) {
         resultGraph.addEdge(newSourceId, newTargetId, {
@@ -217,6 +228,8 @@ const buildBridgingNetwork = (graph1, graph2) => {
       }
       // @todo weighten existing edge in the bridge ?
 
+    } else {
+      console.log('problem in graph2', attr, { source, target, newSourceId, newTargetId});
     }
   })
   // set nodes color
@@ -224,14 +237,14 @@ const buildBridgingNetwork = (graph1, graph2) => {
     let color;
     switch (attr.period_type) {
       case 'past':
-        color = 'rgb(200, 0, 0)';
+        color = pastNodeColor;
         break;
       case 'bridge':
-        color = 'rgb(200, 200, 200)';
+        color = bridgeNodeColor;
         break;
       case 'future':
       default:
-        color = 'rgb(0, 200, 0)';
+        color = futureNodeColor;
         break;
     }
     resultGraph.setNodeAttribute(id, 'color', color);
@@ -242,15 +255,15 @@ const buildBridgingNetwork = (graph1, graph2) => {
     switch (attr.period_type) {
       case 'past':
       case 'past_bridge':
-        color = 'rgb(255, 0, 0)';
+        color = pastEdgeColor;
         break;
       case 'bridge':
-        color = 'rgb(200, 200, 200)';
+        color = bridgeEdgeColor;
         break;
       case 'future':
       case 'future_bridge':
       default:
-        color = 'rgb(0, 255, 0)';
+        color = futureEdgeColor;
         break;
     }
     resultGraph.setEdgeAttribute(id, 'color', color);

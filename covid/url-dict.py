@@ -28,7 +28,39 @@ dictionnaire = {
     'santé': [
         'infirm',
         'docteur',
+        'medecin',
         'soignant',
+        'professeur',
+    ],
+    'blog': [
+        'blog',
+        'blog personnel',
+        'blog militant',
+        'expressions individuelles',
+        'journal de confinement',
+        'journal personnel',
+        'témoignage',
+        'journal d’un médecin',
+    ],
+    'presse & plateformes medicales': [
+        'doctissimo',
+        'presse pro'
+    ],
+    'collectivites territoriales': [
+        'mairies',
+        'col. Corse',
+        'munici',
+        'local'
+    ],
+    'media influence/infox': [
+       'france soir',
+       'infox',
+        'sputnik'
+    ],
+    'pharmaco, pharmaco vigileance': [],
+    'etablissmeents de sante': [
+        'ehpad',
+        'chu'
     ]
 }
 url_thown = [
@@ -98,6 +130,9 @@ with open(FILE_DATA, newline='') as csvfile:
     heads.append('categorie')
 
     for row in reader:
+        if row['Profondeur'] in {'websocial', 'vidéo'}:
+            continue
+
         extraction = get_category(row, heads)
 
         urls = [url for url in row['URL supplémentaires'].split(' - ') if url != '']
@@ -111,21 +146,35 @@ with open(FILE_DATA, newline='') as csvfile:
                 'note': extraction['note'] if extraction['note'] != False else '',
                 'preuves': extraction['preuves'],
                 'url': url,
+                'mots-clés': row['Mots clés'],
+                'notes de contenu': row['Notes de contenu'],
+                'notes techniques': row['Notes techniques']
             })
 
 rows = sorted(rows, key=lambda d: d['categorie'], reverse=True)
 
 with open('dist/url-dict.csv', 'w', newline='') as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames=['url', 'categorie', 'note', 'preuves'])
+    writer = csv.DictWriter(csvfile, fieldnames=[
+        'url',
+        'categorie',
+        'note',
+        'preuves',
+        'mots-clés',
+        'notes de contenu',
+        'notes techniques'
+    ])
 
     writer.writeheader()
 
     for row in rows:
-        if row['categorie'] != 'santé':
+        if row['categorie'] == '':
             continue
         writer.writerow({
             'url': row['url'],
             'categorie': row['categorie'],
             'note': row['note'],
             'preuves': row['preuves'],
+            'mots-clés': row['mots-clés'],
+            'notes de contenu': row['notes de contenu'],
+            'notes techniques': row['notes techniques']
         })

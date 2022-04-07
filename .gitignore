@@ -3,6 +3,8 @@ node_modules
 # groupe Covid
 
 /covid/**/*.csv
+/covid/**/*.json
+/covid/**/*.gexf
 .DS_Store
 
 private_paul

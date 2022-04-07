@@ -1,23 +1,23 @@
 year,key,indegree,totalKnownPages,count
 2012,formation politique,224,110748,32
 2017,formation politique,206,276875,36
-2022,formation politique,92,28640,22
+2022,formation politique,90,28644,23
 2012,campagne,45,1240,1
 2017,campagne,49,2519,7
-2022,campagne,57,16948,9
+2022,campagne,52,16948,9
 2012,candidat,34,30445,1
 2017,candidat,141,7654,10
-2022,candidat,106,52209,18
+2022,candidat,104,52212,18
 2012,association,16,9063,2
 2017,association,12,96,3
-2022,association,6,1079,2
+2022,association,4,1079,2
 2012,professionnel de la politique,182,18314,26
 2017,professionnel de la politique,286,26662,49
-2022,professionnel de la politique,141,9283,58
+2022,professionnel de la politique,143,9345,58
 2012,militant,124,19091,23
 2017,militant,24,4283,7
-2022,militant,27,46982,8
+2022,militant,29,47076,9
 2012,autre,17,223,4
 2017,autre,25,78,4
-2022,média ami,44,12649,11
-2022,pas de clé,57,5124,14
+2022,autre,42,2584,6
+2022,média ami,42,12649,11

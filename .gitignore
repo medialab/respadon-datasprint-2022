@@ -3,4 +3,11 @@ node_modules
 # groupe Covid
 
 /covid/**/*.csv
+/covid/**/*.json
+/covid/**/*.gexf
 .DS_Store
+
+private_paul
+*.code-workspace
+.python-version
+.ipynb_checkpoints

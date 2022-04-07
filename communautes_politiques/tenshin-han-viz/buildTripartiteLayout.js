@@ -85,7 +85,7 @@ const buildTripartiteLayout = (graph, laterlMarginPortion = 0.2) => {
 
   ])
   const maxWidth = xExtent[1] - xExtent[0];
-  const lateralMargin = maxWidth * laterlMarginPortion;
+  const lateralMargin = maxWidth;
   positionsPast = Object.entries(positionsPast).reduce((res, [id, {x, y}]) => {
     return {
       ...res,

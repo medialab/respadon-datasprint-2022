@@ -5,7 +5,7 @@ var settings = {}
 // Feel free to edit following settings
 
 // General
-settings.save_at_the_end = false
+settings.save_at_the_end = true
 settings.width = 2000
 settings.height = 2000
 settings.offset = 20 // Margin

@@ -75,8 +75,24 @@ with open(
         if domaine in urls:
             new_tag = new_tag | urls[domaine]
         urls[domaine] = new_tag
-        print(domaine, new_tag)
         trie.set(domaine, new_tag)
+
+themes_fields = set()
+with open("domaine_theme.json", "r") as f:
+    domaine_theme = json.load(f)
+    for (domaine, themes) in domaine_theme.items():
+        url = ensure_protocol(domaine)
+        nb_page_total = 0
+        for (theme, nb_page) in themes.items():
+            nb_page_total += nb_page
+            print(url, theme, nb_page)
+            themes_fields.add(theme)
+            new_tag = {theme: nb_page}
+            if url in urls:
+                new_tag = new_tag | urls[url]
+            urls[url] = new_tag
+            trie.set(url, new_tag)
+        trie.set(url, {"total_tfidf": nb_page_total} | urls[url])
 
 # on part d'un corpus hyphe
 # pour chauque préfixe de WE on cherche un match dans l'arbre des tags
@@ -84,7 +100,7 @@ with open(
 
 output_data = defaultdict(dict)
 
-fields = ["Thème", "candidat", "parti", "tfidf"]
+fields = ["Thème", "candidat", "parti", "tfidf", "total_tfidf"] + list(themes_fields)
 
 with open(os.path.join(DATA_PATH, CORPUS_FILE), "r") as webs_f:
     hyphe_incunable = json.load(webs_f)
@@ -108,5 +124,8 @@ with open(os.path.join(DATA_PATH, f"{CORPUS_FILE.split('.')[0]}.tags.csv"), "w")
     for (web_entity_id, values) in output_data.items():
         writer.writerow(
             {"web_entity_id": web_entity_id}
-            | {k: "|".join(v) if k in fields else v for k, v in values.items()}
+            | {
+                k: "|".join((str(e) for e in v)) if isinstance(v, set) else str(v)
+                for k, v in values.items()
+            }
         )

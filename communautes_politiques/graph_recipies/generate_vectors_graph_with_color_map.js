@@ -2,8 +2,8 @@ var settings = {}
 
 
 const acteursColorMap = { 
-  "professionnel de la politique": "color: rgb(212, 194, 255)", 
-  "formation politique": "color: rgb(155, 249, 179)",
+  "professionnel de la politique": "rgb(212, 194, 255)", 
+  "formation politique": "rgb(155, 249, 179)",
    militant: "rgb(145, 137, 224)", 
    candidat: "rgb(225, 111, 138)", 
    campagne: "rgb(1, 228, 200)", 
@@ -23,7 +23,7 @@ const colorAttribute = 'forme éditoriale';
 // Feel free to edit following settings
 
 // General
-settings.save_at_the_end = false
+settings.save_at_the_end = true
 settings.width = 2000
 settings.height = 2000
 settings.offset = 20 // Margin

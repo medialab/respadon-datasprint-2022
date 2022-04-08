@@ -1,5 +1,5 @@
 /*
-Array.from(document.querySelectorAll('#GraphLegend li')).map(item => {return {label: item.textContent.trim().split(' ').slice(1).join(' '), color: item.querySelector('span').getAttribute('style').split('color :').pop()}}).reduce((res, {label, color}) => ({...res, [label]: color}), {})
+Array.from(document.querySelectorAll('#GraphLegend li')).map(item => {return {label: item.textContent.trim().split(' ').slice(1).join(' '), color: item.querySelector('span').getAttribute('style').split('color: ').pop()}}).reduce((res, {label, color}) => ({...res, [label]: color}), {})
 */
 
 const acteursColorMap = { 

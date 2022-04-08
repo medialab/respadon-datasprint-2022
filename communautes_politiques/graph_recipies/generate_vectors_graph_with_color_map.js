@@ -1,24 +1,25 @@
 var settings = {}
 
-
-const acteursColorMap = { 
-  "professionnel de la politique": "rgb(212, 194, 255)", 
-  "formation politique": "rgb(155, 249, 179)",
-   militant: "rgb(145, 137, 224)", 
-   candidat: "rgb(225, 111, 138)", 
-   campagne: "rgb(1, 228, 200)", 
-   association: "rgb(248, 158, 91)", 
-   autre: "rgb(65, 164, 124)" 
-}
-const formeColorMap = { 
-  site: "rgb(136, 194, 98)", 
-  "réseau social": "rgb(226, 125, 206)", 
-  blog: "rgb(198, 132, 83)" 
-}
+const colorsMap = {
+// acteurs
+  "professionnel de la politique": "rgb(231,222,0)",
+  militant: "rgb(2,101,250)",
+  candidat: "rgb(182,171,255)",
+  campagne: "rgb(105,255,228)",
+  association: "rgb(255,75,200)",
+  "formation politique": "rgb(0,159,112)",
+  autre: "rgb(255,101,22)",
+  "média ami": "rgb(255,0,90)",
+// formes éditoriales
+   site: "rgb(208,87,68)",
+   blog: "rgb(153,78,185)",
+  "réseau social": "rgb(151,198,83)"
+};
 
 // change this to change colors
-const colorsMap = formeColorMap;
-const colorAttribute = 'forme éditoriale';
+var colorAttribute;
+colorAttribute = 'forme éditoriale';
+colorAttribute = 'acteur';
 
 // Feel free to edit following settings
 
@@ -71,14 +72,8 @@ rescaleGraphToGraphicSpace()
 // Set a default color to each node (in case they have no "color" attribute)
 g.nodes().forEach(function(nid){
 	var n = g.getNodeAttributes(nid)
-	
-	console.log(colorAttribute, n[colorAttribute], colorsMap, colorsMap[n[colorAttribute]])
-    var color = colorsMap[n[colorAttribute]]
-	if (color === undefined){
-		n.color = 'rgb(100,100,100)'
-	} else {
-    n.color = color;
-  }
+	n.color = colorsMap[n[colorAttribute]]
+	console.log(n[colorAttribute], colorsMap[n[colorAttribute]])
 })
 
 // Draw edges

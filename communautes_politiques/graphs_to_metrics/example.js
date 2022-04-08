@@ -3,9 +3,9 @@ const Graph = require('graphology');
 const gexf = require('graphology-gexf');
 const graphsToMetrics = require('./graphsToMetrics.js');
 
-const graph2012 = gexf.parse(Graph, fs.readFileSync('melenchon_2012.gexf', 'utf8'));
-const graph2017 = gexf.parse(Graph, fs.readFileSync('melenchon_2017.gexf', 'utf8'));
-const graph2022 = gexf.parse(Graph, fs.readFileSync('melenchon_2022.gexf', 'utf8'));
+const graph2012 = gexf.parse(Graph, fs.readFileSync('../data/melenchon_2012.gexf', 'utf8'));
+const graph2017 = gexf.parse(Graph, fs.readFileSync('../data/melenchon_2017.gexf', 'utf8'));
+const graph2022 = gexf.parse(Graph, fs.readFileSync('../data/melenchon_2022.gexf', 'utf8'));
 
 const metrics = graphsToMetrics([
   {
@@ -24,5 +24,5 @@ const metrics = graphsToMetrics([
 
 import('d3-dsv')
 .then(({csvFormat}) => {
-  fs.writeFileSync('metrics.csv', csvFormat(metrics), 'utf8')
+  fs.writeFileSync('../data/metrics.csv', csvFormat(metrics), 'utf8')
 })

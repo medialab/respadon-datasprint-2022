@@ -1,18 +1,18 @@
 const fs = require('fs');
-const y2012 = fs.readFileSync('melenchon_2012.csv', 'utf8');
-const y2017 = fs.readFileSync('melenchon_2017.csv', 'utf8');
-const y2022 = fs.readFileSync('melenchon_2022.csv', 'utf8');
+const y2012 = fs.readFileSync('../data/melenchon_2012.csv', 'utf8');
+const y2017 = fs.readFileSync('../data/melenchon_2017.csv', 'utf8');
+const y2022 = fs.readFileSync('../data/melenchon_2022.csv', 'utf8');
 
 import('d3-dsv')
   .then(dsv => {
     const outputs = [
       {
         field: 'forme éditoriale (TAGS)',
-        output: 'evolution_formes.csv',
+        output: '../data/evolution_formes.csv',
       },
       {
         field: 'acteur (TAGS)',
-        output: 'evolution_acteurs.csv',
+        output: '../data/evolution_acteurs.csv',
       },
 
     ]

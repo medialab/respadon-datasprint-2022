@@ -11,6 +11,7 @@
   "dependencies": {
     "graphology": "^0.24.1",
     "graphology-gexf": "^0.10.1",
+    "graphology-layout-forceatlas2": "^0.9.1",
     "graphology-layout-noverlap": "^0.4.2"
   }
 }

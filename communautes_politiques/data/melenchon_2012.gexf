@@ -45,7 +45,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="29.92296279363144"/>
-        <viz:position x="25.5723876953125" y="9.954034805297852"/>
+        <viz:position x="42.56929016113281" y="62.37873077392578"/>
       </node>
       <node id="12" label="Gauche-Unitaire.fr">
         <attvalues>
@@ -68,7 +68,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="20.97056274847714"/>
-        <viz:position x="-45.926185607910156" y="99.35823059082031"/>
+        <viz:position x="-65.42240142822266" y="87.04200744628906"/>
       </node>
       <node id="13" label="Lafederation.org">
         <attvalues>
@@ -91,7 +91,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="18.966629547095764"/>
-        <viz:position x="-3.9699273109436035" y="148.7281036376953"/>
+        <viz:position x="-92.48919677734375" y="114.5849380493164"/>
       </node>
       <node id="16" label="Pcf.fr">
         <attvalues>
@@ -114,7 +114,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="27.664319132398465"/>
-        <viz:position x="-99.49507141113281" y="44.49825668334961"/>
+        <viz:position x="-103.25274658203125" y="14.271346092224121"/>
       </node>
       <node id="20" label="Pcof.net">
         <attvalues>
@@ -137,7 +137,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="0.19663271307945251" y="185.46612548828125"/>
+        <viz:position x="-55.49977111816406" y="176.72959899902344"/>
       </node>
       <node id="23" label="Placeaupeuple2012.fr">
         <attvalues>
@@ -160,7 +160,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="30.832815729997478"/>
-        <viz:position x="-19.406387329101562" y="-17.31329345703125"/>
+        <viz:position x="15.184785842895508" y="7.0199408531188965"/>
       </node>
       <node id="24" label="Republiqueetsocialisme.fr">
         <attvalues>
@@ -183,7 +183,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="-156.19117736816406" y="98.2853012084961"/>
+        <viz:position x="-170.41854858398438" y="25.499298095703125"/>
       </node>
       <node id="26" label="Alternatifs.org">
         <attvalues>
@@ -206,7 +206,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="16"/>
-        <viz:position x="-13.35682201385498" y="96.83063507080078"/>
+        <viz:position x="-5.336284160614014" y="159.5793914794922"/>
       </node>
       <node id="31" label="Jean-Luc-Melenchon.fr">
         <attvalues>
@@ -229,7 +229,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="27.323807579381203"/>
-        <viz:position x="30.29405403137207" y="-38.426979064941406"/>
+        <viz:position x="29.41520118713379" y="-47.08876037597656"/>
       </node>
       <node id="34" label="M-Pep.org">
         <attvalues>
@@ -252,7 +252,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="17.2664991614216"/>
-        <viz:position x="-61.446929931640625" y="77.56866455078125"/>
+        <viz:position x="-98.53692626953125" y="-21.492576599121094"/>
       </node>
       <node id="38" label="Pcf-Gresivaudan.blogspot.com">
         <attvalues>
@@ -275,7 +275,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="8"/>
-        <viz:position x="-190.14385986328125" y="-64.70287322998047"/>
+        <viz:position x="-152.66741943359375" y="-172.71463012695312"/>
       </node>
       <node id="41" label="Communistesunitaires.net">
         <attvalues>
@@ -298,7 +298,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="14.583005244258363"/>
-        <viz:position x="-32.4833984375" y="186.52694702148438"/>
+        <viz:position x="-83.59563446044922" y="169.8921661376953"/>
       </node>
       <node id="43" label="mcvergiat.Over-Blog.com">
         <attvalues>
@@ -321,7 +321,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="-124.82987213134766" y="93.98728942871094"/>
+        <viz:position x="-127.6800537109375" y="62.11198425292969"/>
       </node>
       <node id="47" label="Convergencesetalternative.org">
         <attvalues>
@@ -344,7 +344,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="14.583005244258363"/>
-        <viz:position x="-53.770748138427734" y="132.2134552001953"/>
+        <viz:position x="-67.5772476196289" y="116.92725372314453"/>
       </node>
       <node id="50" label="danactu-resistance.Over-Blog.com">
         <attvalues>
@@ -367,7 +367,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="8"/>
-        <viz:position x="104.99942016601562" y="108.90119934082031"/>
+        <viz:position x="-67.4427490234375" y="-91.92630767822266"/>
       </node>
       <node id="75" label="Lepartidelagauche.fr">
         <attvalues>
@@ -389,7 +389,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="4"/>
-        <viz:position x="246.16673278808594" y="456.23529052734375"/>
+        <viz:position x="105.89244842529297" y="-511.90753173828125"/>
       </node>
       <node id="82" label="Jacquesgenereux.fr">
         <attvalues>
@@ -412,7 +412,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="17.2664991614216"/>
-        <viz:position x="69.61931610107422" y="-50.04520034790039"/>
+        <viz:position x="84.50313568115234" y="11.123194694519043"/>
       </node>
       <node id="92" label="Guengl.eu">
         <attvalues>
@@ -435,7 +435,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="15.313708498984761"/>
-        <viz:position x="-150.37591552734375" y="49.489959716796875"/>
+        <viz:position x="-148.7716522216797" y="1.327996850013733"/>
       </node>
       <node id="99" label="Gabrielamard.fr">
         <attvalues>
@@ -458,7 +458,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="17.2664991614216"/>
-        <viz:position x="43.646026611328125" y="-138.3154296875"/>
+        <viz:position x="157.8625946044922" y="21.701915740966797"/>
       </node>
       <node id="102" label="Olivier-Dartigolles.com">
         <attvalues>
@@ -481,7 +481,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-186.73223876953125" y="15.902016639709473"/>
+        <viz:position x="-157.13565063476562" y="-28.87360191345215"/>
       </node>
       <node id="104" label="Twitter.com /LePartideGauche">
         <attvalues>
@@ -504,7 +504,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="-97.76264953613281" y="-112.65715026855469"/>
+        <viz:position x="128.55300903320312" y="78.63282012939453"/>
       </node>
       <node id="111" label="Romain-Jammes.fr">
         <attvalues>
@@ -527,7 +527,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="151.79811096191406" y="-89.20347595214844"/>
+        <viz:position x="35.83772277832031" y="-173.4936065673828"/>
       </node>
       <node id="156" label="Eric-Coquerel.fr">
         <attvalues>
@@ -550,7 +550,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="15.313708498984761"/>
-        <viz:position x="-28.473758697509766" y="-139.33360290527344"/>
+        <viz:position x="127.15033721923828" y="46.43705749511719"/>
       </node>
       <node id="166" label="Penseelibre.fr">
         <attvalues>
@@ -573,7 +573,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="18.42220510185596"/>
-        <viz:position x="119.81844329833984" y="-22.553197860717773"/>
+        <viz:position x="47.97983932495117" y="-108.18826293945312"/>
       </node>
       <node id="170" label="Francoisdelapierre.fr">
         <attvalues>
@@ -596,7 +596,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="18.42220510185596"/>
-        <viz:position x="-48.931575775146484" y="-70.34720611572266"/>
+        <viz:position x="82.82709503173828" y="96.65563201904297"/>
       </node>
       <node id="173" label="fatimabenomar.Wordpress.com">
         <attvalues>
@@ -619,7 +619,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="-4.643012046813965" y="-76.9622573852539"/>
+        <viz:position x="-4.432647228240967" y="-33.65980529785156"/>
       </node>
       <node id="196" label="Blogfinel.com">
         <attvalues>
@@ -642,7 +642,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="13.797958971132712"/>
-        <viz:position x="-14.797466278076172" y="-54.30746841430664"/>
+        <viz:position x="83.93489837646484" y="54.98881149291992"/>
       </node>
       <node id="197" label="Alexis-Corbiere.com">
         <attvalues>
@@ -665,7 +665,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="20.97056274847714"/>
-        <viz:position x="8.522239685058594" y="-113.40164184570312"/>
+        <viz:position x="103.78144073486328" y="-34.26502990722656"/>
       </node>
       <node id="198" label="Martine-Billard.fr">
         <attvalues>
@@ -688,7 +688,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="19.491933384829668"/>
-        <viz:position x="53.39030456542969" y="-94.59407806396484"/>
+        <viz:position x="112.02642822265625" y="1.2777996063232422"/>
       </node>
       <node id="199" label="Raquel-Garrido.net">
         <attvalues>
@@ -711,7 +711,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-52.48345947265625" y="-42.157371520996094"/>
+        <viz:position x="-25.629810333251953" y="-62.43339157104492"/>
       </node>
       <node id="221" label="Despasperdus.com">
         <attvalues>
@@ -734,7 +734,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="17.856406460551018"/>
-        <viz:position x="146.462890625" y="-43.99066925048828"/>
+        <viz:position x="38.50890350341797" y="-143.72581481933594"/>
       </node>
       <node id="252" label="Dynamique-Frontdegauche.fr">
         <attvalues>
@@ -757,7 +757,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12"/>
-        <viz:position x="19.5872802734375" y="61.43370819091797"/>
+        <viz:position x="-39.101478576660156" y="-12.634944915771484"/>
       </node>
       <node id="291" label="andrechassaigne.Over-Blog.com">
         <attvalues>
@@ -780,7 +780,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-177.9373779296875" y="-39.21562576293945"/>
+        <viz:position x="-141.27391052246094" y="-92.0809326171875"/>
       </node>
       <node id="339" label="Lutopick.fr">
         <attvalues>
@@ -802,7 +802,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12"/>
-        <viz:position x="156.1704864501953" y="-66.47248077392578"/>
+        <viz:position x="90.64794158935547" y="-134.92698669433594"/>
       </node>
       <node id="441" label="Bruno-Leprince.fr">
         <attvalues>
@@ -825,7 +825,7 @@
         </attvalues>
         <viz:color r="173" g="162" b="153"/>
         <viz:size value="13.797958971132712"/>
-        <viz:position x="89.60537719726562" y="-100.5752182006836"/>
+        <viz:position x="153.97654724121094" y="-14.374856948852539"/>
       </node>
       <node id="676" label="longerinas.Typepad.fr">
         <attvalues>
@@ -848,7 +848,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="74.31136322021484" y="12.352365493774414"/>
+        <viz:position x="57.53357696533203" y="15.76831340789795"/>
       </node>
       <node id="713" label="lecridupeuple.Wordpress.com">
         <attvalues>
@@ -871,7 +871,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="16.64911064067352"/>
-        <viz:position x="102.34390258789062" y="31.877038955688477"/>
+        <viz:position x="-35.81441879272461" y="-141.64207458496094"/>
       </node>
       <node id="729" label="Marc-Dolez.net">
         <attvalues>
@@ -894,7 +894,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12"/>
-        <viz:position x="83.33171844482422" y="-16.441722869873047"/>
+        <viz:position x="72.64742279052734" y="-53.31605529785156"/>
       </node>
       <node id="751" label="Jackyhenin.fr">
         <attvalues>
@@ -917,7 +917,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12"/>
-        <viz:position x="-172.11048889160156" y="41.51523971557617"/>
+        <viz:position x="-141.72764587402344" y="-59.29771423339844"/>
       </node>
       <node id="777" label="Clementineautain.fr">
         <attvalues>
@@ -940,7 +940,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="18.966629547095764"/>
-        <viz:position x="26.176664352416992" y="107.71322631835938"/>
+        <viz:position x="-58.32815933227539" y="44.64939880371094"/>
       </node>
       <node id="883" label="Yetiblog.org">
         <attvalues>
@@ -963,7 +963,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="142.822021484375" y="48.236297607421875"/>
+        <viz:position x="-8.785665512084961" y="-130.38699340820312"/>
       </node>
       <node id="885" label="Lariposte.com">
         <attvalues>
@@ -986,7 +986,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="-124.89454650878906" y="-4.6008381843566895"/>
+        <viz:position x="-130.9016876220703" y="-108.03472900390625"/>
       </node>
       <node id="924" label="European-Left.org">
         <attvalues>
@@ -1009,7 +1009,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="14.583005244258363"/>
-        <viz:position x="-109.18718719482422" y="89.68700408935547"/>
+        <viz:position x="-141.27297973632812" y="60.13856506347656"/>
       </node>
       <node id="957" label="Lhumaindabord2012.fr">
         <attvalues>
@@ -1032,7 +1032,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="31.233640670776367" y="-81.20146942138672"/>
+        <viz:position x="125.81037902832031" y="21.98822784423828"/>
       </node>
       <node id="982" label="Lagaucheparlexemple.fr">
         <attvalues>
@@ -1055,7 +1055,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="13.797958971132712"/>
-        <viz:position x="7.375121116638184" y="-153.1483917236328"/>
+        <viz:position x="154.92518615722656" y="61.09208297729492"/>
       </node>
       <node id="1074" label="Lepartidegauche45.com">
         <attvalues>
@@ -1078,7 +1078,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12"/>
-        <viz:position x="48.72117614746094" y="80.47978973388672"/>
+        <viz:position x="35.241634368896484" y="142.2206573486328"/>
       </node>
       <node id="1091" label="Frontdegauche-Alters.fr">
         <attvalues>
@@ -1101,7 +1101,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="13.797958971132712"/>
-        <viz:position x="-74.64437103271484" y="-113.36701202392578"/>
+        <viz:position x="104.67223358154297" y="114.3380355834961"/>
       </node>
       <node id="1092" label="Pascale-Le-Neouannic.fr">
         <attvalues>
@@ -1124,7 +1124,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="17.2664991614216"/>
-        <viz:position x="-34.03568649291992" y="-106.89205169677734"/>
+        <viz:position x="107.97905731201172" y="72.36071014404297"/>
       </node>
       <node id="1093" label="Gauchemip.org">
         <attvalues>
@@ -1147,7 +1147,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="-4.622869968414307" y="42.94671630859375"/>
+        <viz:position x="-3.925532341003418" y="59.26668930053711"/>
       </node>
       <node id="1306" label="57Lepartidegauche.fr">
         <attvalues>
@@ -1170,7 +1170,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="93.56986999511719" y="117.42339324951172"/>
+        <viz:position x="61.636688232421875" y="181.89959716796875"/>
       </node>
       <node id="1340" label="Christophe-Miqueu.fr">
         <attvalues>
@@ -1193,7 +1193,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="85.45904541015625" y="-118.94520568847656"/>
+        <viz:position x="145.92002868652344" y="-36.96626663208008"/>
       </node>
       <node id="1347" label="Daniellesimonnet.fr">
         <attvalues>
@@ -1216,7 +1216,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="16"/>
-        <viz:position x="-53.529048919677734" y="-140.51002502441406"/>
+        <viz:position x="103.01822662353516" y="35.26285171508789"/>
       </node>
       <node id="1388" label="legavroche.Wordpress.com">
         <attvalues>
@@ -1239,7 +1239,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12"/>
-        <viz:position x="65.6612548828125" y="-75.36327362060547"/>
+        <viz:position x="73.705322265625" y="-19.54196548461914"/>
       </node>
       <node id="1412" label="Patricklehyaric.net">
         <attvalues>
@@ -1262,7 +1262,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="17.856406460551018"/>
-        <viz:position x="-129.05845642089844" y="23.073190689086914"/>
+        <viz:position x="-118.1087646484375" y="-41.45514678955078"/>
       </node>
       <node id="1587" label="Jeunes-Communistes.org">
         <attvalues>
@@ -1285,7 +1285,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="13.797958971132712"/>
-        <viz:position x="-208.1555938720703" y="-5.371301651000977"/>
+        <viz:position x="-187.16725158691406" y="-108.44225311279297"/>
       </node>
       <node id="1592" label="Gabrielperi.fr">
         <attvalues>
@@ -1307,7 +1307,7 @@
         </attvalues>
         <viz:color r="173" g="162" b="153"/>
         <viz:size value="13.797958971132712"/>
-        <viz:position x="-87.45684814453125" y="104.64232635498047"/>
+        <viz:position x="-110.96219635009766" y="89.36520385742188"/>
       </node>
       <node id="1602" label="Groupe-Crc.org">
         <attvalues>
@@ -1330,7 +1330,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="-144.39085388183594" y="-21.70064353942871"/>
+        <viz:position x="-130.31605529785156" y="-6.597862720489502"/>
       </node>
       <node id="1607" label="Frontdegauche-Pcfguac-Idf.org">
         <attvalues>
@@ -1353,7 +1353,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12"/>
-        <viz:position x="-140.529296875" y="-0.6062002778053284"/>
+        <viz:position x="-130.6532745361328" y="33.96377182006836"/>
       </node>
       <node id="1665" label="Audit-Citoyen.org">
         <attvalues>
@@ -1376,7 +1376,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="16"/>
-        <viz:position x="37.66946029663086" y="146.71922302246094"/>
+        <viz:position x="-94.97579956054688" y="63.692787170410156"/>
       </node>
       <node id="1801" label="Pcf-Pg-Paris.org">
         <attvalues>
@@ -1399,7 +1399,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12"/>
-        <viz:position x="-107.06766510009766" y="-69.19367218017578"/>
+        <viz:position x="-35.31360626220703" y="9.372549057006836"/>
       </node>
       <node id="1815" label="Facebook.com /events">
         <attvalues>
@@ -1420,7 +1420,7 @@
         </attvalues>
         <viz:color r="173" g="162" b="153"/>
         <viz:size value="12"/>
-        <viz:position x="93.52920532226562" y="82.76339721679688"/>
+        <viz:position x="-80.9880142211914" y="-134.3984832763672"/>
       </node>
       <node id="1861" label="Cerisesenligne.fr">
         <attvalues>
@@ -1443,7 +1443,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-50.6207275390625" y="171.11231994628906"/>
+        <viz:position x="-97.44343566894531" y="158.4522247314453"/>
       </node>
       <node id="2000" label="cassetoi-vlp.Over-Blog.com">
         <attvalues>
@@ -1466,7 +1466,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12"/>
-        <viz:position x="158.52227783203125" y="-2.8220176696777344"/>
+        <viz:position x="72.58483123779297" y="-130.61671447753906"/>
       </node>
       <node id="2005" label="Pierrelaurent.org">
         <attvalues>
@@ -1489,7 +1489,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="16.64911064067352"/>
-        <viz:position x="-150.8795928955078" y="-69.86226654052734"/>
+        <viz:position x="-67.930419921875" y="-37.62816619873047"/>
       </node>
       <node id="2034" label="Francoisasensi.com">
         <attvalues>
@@ -1512,7 +1512,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12"/>
-        <viz:position x="-17.537187576293945" y="201.87635803222656"/>
+        <viz:position x="-129.89065551757812" y="146.80958557128906"/>
       </node>
       <node id="2306" label="Twitter.com /alexiscorbiere">
         <attvalues>
@@ -1535,7 +1535,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="-52.09955978393555" y="-188.13009643554688"/>
+        <viz:position x="194.67376708984375" y="-1.9151841402053833"/>
       </node>
       <node id="2308" label="ianbrossat.Typepad.fr">
         <attvalues>
@@ -1558,7 +1558,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12"/>
-        <viz:position x="-62.627559661865234" y="-94.3744888305664"/>
+        <viz:position x="-22.995471954345703" y="-80.02275848388672"/>
       </node>
       <node id="2549" label="Partageux.blogspot.com">
         <attvalues>
@@ -1581,7 +1581,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="14.583005244258363"/>
-        <viz:position x="197.94097900390625" y="0.9288397431373596"/>
+        <viz:position x="40.6875114440918" y="-192.49581909179688"/>
       </node>
       <node id="2556" label="Agauchepourdevrai.fr">
         <attvalues>
@@ -1604,7 +1604,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="14.583005244258363"/>
-        <viz:position x="142.06947326660156" y="6.563892841339111"/>
+        <viz:position x="9.920204162597656" y="-165.83595275878906"/>
       </node>
       <node id="3413" label="letang-moderne.Over-Blog.com">
         <attvalues>
@@ -1627,7 +1627,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="107.75202178955078" y="-135.06678771972656"/>
+        <viz:position x="130.1530303955078" y="-98.8958511352539"/>
       </node>
       <node id="3415" label="Gauchedecombat.com">
         <attvalues>
@@ -1650,7 +1650,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="17.856406460551018"/>
-        <viz:position x="175.78997802734375" y="-26.778608322143555"/>
+        <viz:position x="59.14132308959961" y="-170.12550354003906"/>
       </node>
       <node id="3427" label="lepartidegauche23.Over-Blog.fr">
         <attvalues>
@@ -1673,7 +1673,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="84.72724914550781" y="114.97998809814453"/>
+        <viz:position x="72.72405242919922" y="178.46681213378906"/>
       </node>
       <node id="3428" label="jeunesfg37.Over-Blog.fr">
         <attvalues>
@@ -1695,7 +1695,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="88.08486938476562" y="-83.33584594726562"/>
+        <viz:position x="-8.8541898727417" y="34.36243438720703"/>
       </node>
       <node id="3439" label="cafemusique.Wordpress.com">
         <attvalues>
@@ -1718,7 +1718,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12"/>
-        <viz:position x="187.140869140625" y="52.217491149902344"/>
+        <viz:position x="-17.58451271057129" y="-179.19143676757812"/>
       </node>
       <node id="3450" label="Lheninois.com">
         <attvalues>
@@ -1741,7 +1741,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12"/>
-        <viz:position x="-160.09329223632812" y="28.649812698364258"/>
+        <viz:position x="-159.8016815185547" y="-95.69509887695312"/>
       </node>
       <node id="3569" label="partidegauche66.Over-Blog.fr">
         <attvalues>
@@ -1764,7 +1764,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="61.733192443847656" y="51.86697769165039"/>
+        <viz:position x="48.054527282714844" y="103.79478454589844"/>
       </node>
       <node id="3572" label="marc-dolez.Over-Blog.fr">
         <attvalues>
@@ -1787,7 +1787,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="75.11058044433594" y="-194.21730041503906"/>
+        <viz:position x="199.3419189453125" y="-63.965614318847656"/>
       </node>
       <node id="3573" label="reveilcommuniste.Over-Blog.fr">
         <attvalues>
@@ -1810,7 +1810,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-88.17192077636719" y="11.441672325134277"/>
+        <viz:position x="-82.65856170654297" y="-66.43856048583984"/>
       </node>
       <node id="3574" label="pg51.Over-Blog.fr">
         <attvalues>
@@ -1833,7 +1833,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-53.75838088989258" y="12.264900207519531"/>
+        <viz:position x="-10.730192184448242" y="100.76081085205078"/>
       </node>
       <node id="3581" label="Bab007-Babelouest.blogspot.fr">
         <attvalues>
@@ -1856,7 +1856,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12"/>
-        <viz:position x="115.7020034790039" y="64.38885498046875"/>
+        <viz:position x="-29.42977523803711" y="-108.31526947021484"/>
       </node>
       <node id="3795" label="adsblog.Unblog.fr">
         <attvalues>
@@ -1879,7 +1879,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="8"/>
-        <viz:position x="-31.06743621826172" y="145.9315948486328"/>
+        <viz:position x="-58.40538024902344" y="148.8465576171875"/>
       </node>
       <node id="3798" label="jeanlouisberland.Unblog.fr">
         <attvalues>
@@ -1902,7 +1902,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="-36.65232467651367" y="43.04511642456055"/>
+        <viz:position x="14.866406440734863" y="110.83592224121094"/>
       </node>
       <node id="3803" label="atoucoeur.Unblog.fr">
         <attvalues>
@@ -1925,7 +1925,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="8"/>
-        <viz:position x="-99.3017578125" y="122.74732208251953"/>
+        <viz:position x="-133.5167236328125" y="86.33654022216797"/>
       </node>
       <node id="3804" label="communistefeigniesunblogfr.Unblog.fr">
         <attvalues>
@@ -1948,7 +1948,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-90.97396087646484" y="-15.814023971557617"/>
+        <viz:position x="-97.4268798828125" y="-101.70637512207031"/>
       </node>
       <node id="3814" label="pcfmaubeuge.Unblog.fr">
         <attvalues>
@@ -1971,7 +1971,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-179.19229125976562" y="-0.47106724977493286"/>
+        <viz:position x="-165.56668090820312" y="-66.11369323730469"/>
       </node>
       <node id="3913" label="Jean-Jaures.org">
         <attvalues>
@@ -1994,7 +1994,7 @@
         </attvalues>
         <viz:color r="173" g="162" b="153"/>
         <viz:size value="8"/>
-        <viz:position x="-119.6054916381836" y="134.3131561279297"/>
+        <viz:position x="30.525592803955078" y="209.4157257080078"/>
       </node>
       <node id="4371" label="Twitter.com /Auditcitoyen">
         <attvalues>
@@ -2017,7 +2017,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="8"/>
-        <viz:position x="71.12968444824219" y="226.24659729003906"/>
+        <viz:position x="-186.00587463378906" y="109.40093994140625"/>
       </node>
       <node id="4430" label="autonpourprinten.Skyrock.com">
         <attvalues>
@@ -2040,7 +2040,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="8"/>
-        <viz:position x="-154.4073944091797" y="189.78286743164062"/>
+        <viz:position x="-210.04161071777344" y="128.60914611816406"/>
       </node>
       <node id="4869" label="lepartidegauche81.Blog.fr">
         <attvalues>
@@ -2063,7 +2063,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="12"/>
-        <viz:position x="77.7291030883789" y="88.9018783569336"/>
+        <viz:position x="62.489532470703125" y="141.79869079589844"/>
       </node>
     </nodes>
     <edges>
@@ -2088,6 +2088,13 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="173>8" source="173" target="8">
+        <attvalues>
+          <attvalue for="count" value="241"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="16>8" source="16" target="8">
         <attvalues>
           <attvalue for="count" value="2142"/>
@@ -2095,9 +2102,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1091>8" source="1091" target="8">
+      <edge id="1347>8" source="1347" target="8">
         <attvalues>
-          <attvalue for="count" value="74"/>
+          <attvalue for="count" value="103"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2126,6 +2133,13 @@
       <edge id="31>8" source="31" target="8">
         <attvalues>
           <attvalue for="count" value="574"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="1092>8" source="1092" target="8">
+        <attvalues>
+          <attvalue for="count" value="57"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2165,13 +2179,6 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="173>8" source="173" target="8">
-        <attvalues>
-          <attvalue for="count" value="241"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="47>8" source="47" target="8">
         <attvalues>
           <attvalue for="count" value="53"/>
@@ -2186,9 +2193,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="883>8" source="883" target="8">
+      <edge id="3795>8" source="3795" target="8">
         <attvalues>
-          <attvalue for="count" value="69"/>
+          <attvalue for="count" value="63"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2221,16 +2228,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1347>8" source="1347" target="8">
+      <edge id="1091>8" source="1091" target="8">
         <attvalues>
-          <attvalue for="count" value="103"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="1092>8" source="1092" target="8">
-        <attvalues>
-          <attvalue for="count" value="57"/>
+          <attvalue for="count" value="74"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2263,9 +2263,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3795>8" source="3795" target="8">
+      <edge id="339>8" source="339" target="8">
         <attvalues>
-          <attvalue for="count" value="63"/>
+          <attvalue for="count" value="2"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2333,9 +2333,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="339>8" source="339" target="8">
+      <edge id="883>8" source="883" target="8">
         <attvalues>
-          <attvalue for="count" value="2"/>
+          <attvalue for="count" value="69"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2501,13 +2501,6 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1861>13" source="1861" target="13">
-        <attvalues>
-          <attvalue for="count" value="16"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="8>13" source="8" target="13">
         <attvalues>
           <attvalue for="count" value="1"/>
@@ -2515,9 +2508,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="41>13" source="41" target="13">
+      <edge id="777>13" source="777" target="13">
         <attvalues>
-          <attvalue for="count" value="40"/>
+          <attvalue for="count" value="90"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="31>13" source="31" target="13">
+        <attvalues>
+          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2550,9 +2550,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="777>13" source="777" target="13">
+      <edge id="41>13" source="41" target="13">
         <attvalues>
-          <attvalue for="count" value="90"/>
+          <attvalue for="count" value="40"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2578,9 +2578,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="31>13" source="31" target="13">
+      <edge id="1861>13" source="1861" target="13">
         <attvalues>
-          <attvalue for="count" value="1"/>
+          <attvalue for="count" value="16"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2627,9 +2627,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1093>16" source="1093" target="16">
+      <edge id="31>16" source="31" target="16">
         <attvalues>
-          <attvalue for="count" value="6"/>
+          <attvalue for="count" value="203"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="1092>16" source="1092" target="16">
+        <attvalues>
+          <attvalue for="count" value="24"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2683,16 +2690,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="777>16" source="777" target="16">
+      <edge id="1861>16" source="1861" target="16">
         <attvalues>
-          <attvalue for="count" value="88"/>
+          <attvalue for="count" value="4"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="31>16" source="31" target="16">
+      <edge id="777>16" source="777" target="16">
         <attvalues>
-          <attvalue for="count" value="203"/>
+          <attvalue for="count" value="88"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2704,16 +2711,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1092>16" source="1092" target="16">
+      <edge id="1093>16" source="1093" target="16">
         <attvalues>
-          <attvalue for="count" value="24"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="1861>16" source="1861" target="16">
-        <attvalues>
-          <attvalue for="count" value="4"/>
+          <attvalue for="count" value="6"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2774,13 +2774,6 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3814>16" source="3814" target="16">
-        <attvalues>
-          <attvalue for="count" value="660"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="102>16" source="102" target="16">
         <attvalues>
           <attvalue for="count" value="89"/>
@@ -2791,6 +2784,13 @@
       <edge id="1388>16" source="1388" target="16">
         <attvalues>
           <attvalue for="count" value="38"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="3814>16" source="3814" target="16">
+        <attvalues>
+          <attvalue for="count" value="660"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2837,13 +2837,6 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="47>20" source="47" target="20">
-        <attvalues>
-          <attvalue for="count" value="90"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="3798>20" source="3798" target="20">
         <attvalues>
           <attvalue for="count" value="117"/>
@@ -2851,9 +2844,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3798>23" source="3798" target="23">
+      <edge id="47>20" source="47" target="20">
         <attvalues>
-          <attvalue for="count" value="117"/>
+          <attvalue for="count" value="90"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="982>23" source="982" target="23">
+        <attvalues>
+          <attvalue for="count" value="5"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2886,6 +2886,13 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="173>23" source="173" target="23">
+        <attvalues>
+          <attvalue for="count" value="311"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="16>23" source="16" target="23">
         <attvalues>
           <attvalue for="count" value="2307"/>
@@ -2893,9 +2900,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1092>23" source="1092" target="23">
+      <edge id="1347>23" source="1347" target="23">
         <attvalues>
-          <attvalue for="count" value="27"/>
+          <attvalue for="count" value="58"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="196>23" source="196" target="23">
+        <attvalues>
+          <attvalue for="count" value="175"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2910,13 +2924,6 @@
       <edge id="31>23" source="31" target="23">
         <attvalues>
           <attvalue for="count" value="2009"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="197>23" source="197" target="23">
-        <attvalues>
-          <attvalue for="count" value="5"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2956,13 +2963,6 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="173>23" source="173" target="23">
-        <attvalues>
-          <attvalue for="count" value="311"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="47>23" source="47" target="23">
         <attvalues>
           <attvalue for="count" value="438"/>
@@ -2973,6 +2973,13 @@
       <edge id="1074>23" source="1074" target="23">
         <attvalues>
           <attvalue for="count" value="118"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="883>23" source="883" target="23">
+        <attvalues>
+          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -2998,21 +3005,21 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1347>23" source="1347" target="23">
-        <attvalues>
-          <attvalue for="count" value="58"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="196>23" source="196" target="23">
-        <attvalues>
-          <attvalue for="count" value="175"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="1093>23" source="1093" target="23">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="1092>23" source="1092" target="23">
+        <attvalues>
+          <attvalue for="count" value="27"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="197>23" source="197" target="23">
         <attvalues>
           <attvalue for="count" value="5"/>
         </attvalues>
@@ -3029,13 +3036,6 @@
       <edge id="199>23" source="199" target="23">
         <attvalues>
           <attvalue for="count" value="6"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="339>23" source="339" target="23">
-        <attvalues>
-          <attvalue for="count" value="38"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -3061,9 +3061,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="982>23" source="982" target="23">
+      <edge id="2556>23" source="2556" target="23">
         <attvalues>
-          <attvalue for="count" value="5"/>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="3798>23" source="3798" target="23">
+        <attvalues>
+          <attvalue for="count" value="117"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -3117,13 +3124,6 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="252>23" source="252" target="23">
-        <attvalues>
-          <attvalue for="count" value="5"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="1388>23" source="1388" target="23">
         <attvalues>
           <attvalue for="count" value="39"/>
@@ -3138,6 +3138,13 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="339>23" source="339" target="23">
+        <attvalues>
+          <attvalue for="count" value="38"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="3574>23" source="3574" target="23">
         <attvalues>
           <attvalue for="count" value="40"/>
@@ -3145,16 +3152,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="883>23" source="883" target="23">
+      <edge id="252>23" source="252" target="23">
         <attvalues>
-          <attvalue for="count" value="1"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="2556>23" source="2556" target="23">
-        <attvalues>
-          <attvalue for="count" value="2"/>
+          <attvalue for="count" value="5"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -3176,6 +3176,13 @@
       <edge id="3803>24" source="3803" target="24">
         <attvalues>
           <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="1092>26" source="1092" target="26">
+        <attvalues>
+          <attvalue for="count" value="30"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -3215,13 +3222,6 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3798>26" source="3798" target="26">
-        <attvalues>
-          <attvalue for="count" value="116"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="3795>26" source="3795" target="26">
         <attvalues>
           <attvalue for="count" value="64"/>
@@ -3229,9 +3229,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1092>26" source="1092" target="26">
+      <edge id="3798>26" source="3798" target="26">
         <attvalues>
-          <attvalue for="count" value="30"/>
+          <attvalue for="count" value="116"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -3264,9 +3264,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1347>31" source="1347" target="31">
+      <edge id="173>31" source="173" target="31">
         <attvalues>
-          <attvalue for="count" value="54"/>
+          <attvalue for="count" value="61"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -3299,9 +3299,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="197>31" source="197" target="31">
+      <edge id="1093>31" source="1093" target="31">
         <attvalues>
-          <attvalue for="count" value="39"/>
+          <attvalue for="count" value="12"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="1092>31" source="1092" target="31">
+        <attvalues>
+          <attvalue for="count" value="60"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -3316,13 +3323,6 @@
       <edge id="166>31" source="166" target="31">
         <attvalues>
           <attvalue for="count" value="9"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="173>31" source="173" target="31">
-        <attvalues>
-          <attvalue for="count" value="61"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -3355,16 +3355,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1092>31" source="1092" target="31">
+      <edge id="1347>31" source="1347" target="31">
         <attvalues>
-          <attvalue for="count" value="60"/>
+          <attvalue for="count" value="54"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1093>31" source="1093" target="31">
+      <edge id="197>31" source="197" target="31">
         <attvalues>
-          <attvalue for="count" value="12"/>
+          <attvalue for="count" value="39"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -3488,16 +3488,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1412>34" source="1412" target="34">
+      <edge id="1093>34" source="1093" target="34">
         <attvalues>
-          <attvalue for="count" value="1"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="3798>34" source="3798" target="34">
-        <attvalues>
-          <attvalue for="count" value="119"/>
+          <attvalue for="count" value="2"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -3530,16 +3523,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3450>34" source="3450" target="34">
+      <edge id="3798>34" source="3798" target="34">
         <attvalues>
-          <attvalue for="count" value="2"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="31>34" source="31" target="34">
-        <attvalues>
-          <attvalue for="count" value="7"/>
+          <attvalue for="count" value="119"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -3551,7 +3537,21 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1093>34" source="1093" target="34">
+      <edge id="1412>34" source="1412" target="34">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="31>34" source="31" target="34">
+        <attvalues>
+          <attvalue for="count" value="7"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="3450>34" source="3450" target="34">
         <attvalues>
           <attvalue for="count" value="2"/>
         </attvalues>
@@ -3635,16 +3635,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3574>47" source="3574" target="47">
+      <edge id="777>47" source="777" target="47">
         <attvalues>
-          <attvalue for="count" value="20"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="41>47" source="41" target="47">
-        <attvalues>
-          <attvalue for="count" value="10"/>
+          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -3656,9 +3649,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="777>47" source="777" target="47">
+      <edge id="3574>47" source="3574" target="47">
         <attvalues>
-          <attvalue for="count" value="1"/>
+          <attvalue for="count" value="20"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="41>47" source="41" target="47">
+        <attvalues>
+          <attvalue for="count" value="10"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -3678,6 +3678,13 @@
         <viz:size value="1"/>
       </edge>
       <edge id="31>50" source="31" target="50">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="166>82" source="166" target="82">
         <attvalues>
           <attvalue for="count" value="1"/>
         </attvalues>
@@ -3733,6 +3740,13 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="1093>82" source="1093" target="82">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="31>82" source="31" target="82">
         <attvalues>
           <attvalue for="count" value="3"/>
@@ -3747,37 +3761,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1093>82" source="1093" target="82">
-        <attvalues>
-          <attvalue for="count" value="2"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="166>82" source="166" target="82">
-        <attvalues>
-          <attvalue for="count" value="1"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="16>92" source="16" target="92">
-        <attvalues>
-          <attvalue for="count" value="107"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="1412>92" source="1412" target="92">
         <attvalues>
           <attvalue for="count" value="178"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="3574>92" source="3574" target="92">
-        <attvalues>
-          <attvalue for="count" value="20"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -3789,9 +3775,23 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="16>92" source="16" target="92">
+        <attvalues>
+          <attvalue for="count" value="107"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="43>92" source="43" target="92">
         <attvalues>
           <attvalue for="count" value="184"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="3574>92" source="3574" target="92">
+        <attvalues>
+          <attvalue for="count" value="20"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4034,9 +4034,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="2556>166" source="2556" target="166">
+      <edge id="883>166" source="883" target="166">
         <attvalues>
-          <attvalue for="count" value="1"/>
+          <attvalue for="count" value="3"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4048,9 +4048,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="221>166" source="221" target="166">
+      <edge id="31>166" source="31" target="166">
         <attvalues>
-          <attvalue for="count" value="25"/>
+          <attvalue for="count" value="33"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4076,23 +4076,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="2556>166" source="2556" target="166">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="3415>166" source="3415" target="166">
         <attvalues>
           <attvalue for="count" value="23"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="883>166" source="883" target="166">
-        <attvalues>
-          <attvalue for="count" value="3"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="3804>166" source="3804" target="166">
-        <attvalues>
-          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4104,9 +4097,23 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="31>166" source="31" target="166">
+      <edge id="3804>166" source="3804" target="166">
         <attvalues>
-          <attvalue for="count" value="33"/>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="221>166" source="221" target="166">
+        <attvalues>
+          <attvalue for="count" value="25"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="1091>170" source="1091" target="170">
+        <attvalues>
+          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4146,13 +4153,6 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1347>170" source="1347" target="170">
-        <attvalues>
-          <attvalue for="count" value="54"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="1388>170" source="1388" target="170">
         <attvalues>
           <attvalue for="count" value="1"/>
@@ -4160,16 +4160,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1861>170" source="1861" target="170">
+      <edge id="1347>170" source="1347" target="170">
         <attvalues>
-          <attvalue for="count" value="8"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="1091>170" source="1091" target="170">
-        <attvalues>
-          <attvalue for="count" value="1"/>
+          <attvalue for="count" value="54"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4198,6 +4191,13 @@
       <edge id="1093>170" source="1093" target="170">
         <attvalues>
           <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="1861>170" source="1861" target="170">
+        <attvalues>
+          <attvalue for="count" value="8"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4426,6 +4426,13 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="173>198" source="173" target="198">
+        <attvalues>
+          <attvalue for="count" value="33"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="1092>198" source="1092" target="198">
         <attvalues>
           <attvalue for="count" value="30"/>
@@ -4433,9 +4440,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="31>198" source="31" target="198">
+      <edge id="1093>198" source="1093" target="198">
         <attvalues>
-          <attvalue for="count" value="3"/>
+          <attvalue for="count" value="2"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4454,9 +4461,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="173>198" source="173" target="198">
+      <edge id="31>198" source="31" target="198">
         <attvalues>
-          <attvalue for="count" value="33"/>
+          <attvalue for="count" value="3"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4464,13 +4471,6 @@
       <edge id="1340>198" source="1340" target="198">
         <attvalues>
           <attvalue for="count" value="78"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="1093>198" source="1093" target="198">
-        <attvalues>
-          <attvalue for="count" value="2"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4552,9 +4552,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="777>221" source="777" target="221">
+      <edge id="31>221" source="31" target="221">
         <attvalues>
-          <attvalue for="count" value="1"/>
+          <attvalue for="count" value="47"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4566,9 +4566,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3581>221" source="3581" target="221">
+      <edge id="777>221" source="777" target="221">
         <attvalues>
-          <attvalue for="count" value="168"/>
+          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4576,6 +4576,13 @@
       <edge id="339>221" source="339" target="221">
         <attvalues>
           <attvalue for="count" value="9"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="2556>221" source="2556" target="221">
+        <attvalues>
+          <attvalue for="count" value="6"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4601,16 +4608,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="2556>221" source="2556" target="221">
+      <edge id="3581>221" source="3581" target="221">
         <attvalues>
-          <attvalue for="count" value="6"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="31>221" source="31" target="221">
-        <attvalues>
-          <attvalue for="count" value="47"/>
+          <attvalue for="count" value="168"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4720,16 +4720,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="957>441" source="957" target="441">
+      <edge id="31>441" source="31" target="441">
         <attvalues>
-          <attvalue for="count" value="8"/>
+          <attvalue for="count" value="10"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="31>441" source="31" target="441">
+      <edge id="957>441" source="957" target="441">
         <attvalues>
-          <attvalue for="count" value="10"/>
+          <attvalue for="count" value="8"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4769,13 +4769,6 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3804>713" source="3804" target="713">
-        <attvalues>
-          <attvalue for="count" value="5"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="166>713" source="166" target="713">
         <attvalues>
           <attvalue for="count" value="8"/>
@@ -4797,9 +4790,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="221>713" source="221" target="713">
+      <edge id="3581>713" source="3581" target="713">
         <attvalues>
-          <attvalue for="count" value="2"/>
+          <attvalue for="count" value="13"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="2556>713" source="2556" target="713">
+        <attvalues>
+          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4818,16 +4818,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="2556>713" source="2556" target="713">
+      <edge id="3804>713" source="3804" target="713">
         <attvalues>
-          <attvalue for="count" value="1"/>
+          <attvalue for="count" value="5"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3581>713" source="3581" target="713">
+      <edge id="221>713" source="221" target="713">
         <attvalues>
-          <attvalue for="count" value="13"/>
+          <attvalue for="count" value="2"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4895,6 +4895,13 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="2034>777" source="2034" target="777">
+        <attvalues>
+          <attvalue for="count" value="83"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="676>777" source="676" target="777">
         <attvalues>
           <attvalue for="count" value="513"/>
@@ -4937,7 +4944,7 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="50>777" source="50" target="777">
+      <edge id="1861>777" source="1861" target="777">
         <attvalues>
           <attvalue for="count" value="4"/>
         </attvalues>
@@ -4951,9 +4958,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="2034>777" source="2034" target="777">
+      <edge id="50>777" source="50" target="777">
         <attvalues>
-          <attvalue for="count" value="83"/>
+          <attvalue for="count" value="4"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -4982,13 +4989,6 @@
       <edge id="1340>777" source="1340" target="777">
         <attvalues>
           <attvalue for="count" value="77"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="1861>777" source="1861" target="777">
-        <attvalues>
-          <attvalue for="count" value="4"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -5049,6 +5049,13 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="31>885" source="31" target="885">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="3804>885" source="3804" target="885">
         <attvalues>
           <attvalue for="count" value="7"/>
@@ -5056,9 +5063,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="31>885" source="31" target="885">
+      <edge id="43>924" source="43" target="924">
         <attvalues>
-          <attvalue for="count" value="2"/>
+          <attvalue for="count" value="95"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -5073,13 +5080,6 @@
       <edge id="1801>924" source="1801" target="924">
         <attvalues>
           <attvalue for="count" value="4"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="43>924" source="43" target="924">
-        <attvalues>
-          <attvalue for="count" value="95"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -5168,9 +5168,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3798>982" source="3798" target="982">
+      <edge id="3574>982" source="3574" target="982">
         <attvalues>
-          <attvalue for="count" value="117"/>
+          <attvalue for="count" value="90"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -5182,9 +5182,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3574>982" source="3574" target="982">
+      <edge id="3798>982" source="3798" target="982">
         <attvalues>
-          <attvalue for="count" value="90"/>
+          <attvalue for="count" value="117"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -5259,6 +5259,13 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="1091>1092" source="1091" target="1092">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="1347>1092" source="1347" target="1092">
         <attvalues>
           <attvalue for="count" value="53"/>
@@ -5301,13 +5308,6 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1091>1092" source="1091" target="1092">
-        <attvalues>
-          <attvalue for="count" value="4"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="23>1092" source="23" target="1092">
         <attvalues>
           <attvalue for="count" value="3"/>
@@ -5322,16 +5322,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="156>1092" source="156" target="1092">
+      <edge id="31>1092" source="31" target="1092">
         <attvalues>
-          <attvalue for="count" value="2"/>
+          <attvalue for="count" value="3"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="31>1092" source="31" target="1092">
+      <edge id="156>1092" source="156" target="1092">
         <attvalues>
-          <attvalue for="count" value="3"/>
+          <attvalue for="count" value="2"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -5357,16 +5357,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3581>1093" source="3581" target="1093">
+      <edge id="31>1093" source="31" target="1093">
         <attvalues>
-          <attvalue for="count" value="1"/>
+          <attvalue for="count" value="5"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="31>1093" source="31" target="1093">
+      <edge id="3581>1093" source="3581" target="1093">
         <attvalues>
-          <attvalue for="count" value="5"/>
+          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -5469,6 +5469,13 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="3574>1388" source="3574" target="1388">
+        <attvalues>
+          <attvalue for="count" value="20"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="8>1388" source="8" target="1388">
         <attvalues>
           <attvalue for="count" value="61"/>
@@ -5483,13 +5490,6 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3574>1388" source="3574" target="1388">
-        <attvalues>
-          <attvalue for="count" value="20"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="221>1388" source="221" target="1388">
         <attvalues>
           <attvalue for="count" value="1"/>
@@ -5497,9 +5497,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3804>1412" source="3804" target="1412">
+      <edge id="166>1412" source="166" target="1412">
         <attvalues>
-          <attvalue for="count" value="33"/>
+          <attvalue for="count" value="4"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -5521,6 +5521,13 @@
       <edge id="1801>1412" source="1801" target="1412">
         <attvalues>
           <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="252>1412" source="252" target="1412">
+        <attvalues>
+          <attvalue for="count" value="9"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -5560,9 +5567,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="252>1412" source="252" target="1412">
+      <edge id="3804>1412" source="3804" target="1412">
         <attvalues>
-          <attvalue for="count" value="9"/>
+          <attvalue for="count" value="33"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -5570,13 +5577,6 @@
       <edge id="102>1412" source="102" target="1412">
         <attvalues>
           <attvalue for="count" value="84"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="166>1412" source="166" target="1412">
-        <attvalues>
-          <attvalue for="count" value="4"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -5644,6 +5644,13 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="1861>1592" source="1861" target="1592">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="82>1592" source="82" target="1592">
         <attvalues>
           <attvalue for="count" value="10"/>
@@ -5658,16 +5665,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1861>1592" source="1861" target="1592">
+      <edge id="3574>1602" source="3574" target="1602">
         <attvalues>
-          <attvalue for="count" value="4"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="16>1602" source="16" target="1602">
-        <attvalues>
-          <attvalue for="count" value="119"/>
+          <attvalue for="count" value="20"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -5679,9 +5679,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3574>1602" source="3574" target="1602">
+      <edge id="16>1602" source="16" target="1602">
         <attvalues>
-          <attvalue for="count" value="20"/>
+          <attvalue for="count" value="119"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -5770,14 +5770,14 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3439>1665" source="3439" target="1665">
+      <edge id="3804>1665" source="3804" target="1665">
         <attvalues>
           <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3804>1665" source="3804" target="1665">
+      <edge id="3439>1665" source="3439" target="1665">
         <attvalues>
           <attvalue for="count" value="1"/>
         </attvalues>
@@ -5945,6 +5945,13 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="31>2005" source="31" target="2005">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="156>2005" source="156" target="2005">
         <attvalues>
           <attvalue for="count" value="2"/>
@@ -5955,13 +5962,6 @@
       <edge id="102>2005" source="102" target="2005">
         <attvalues>
           <attvalue for="count" value="85"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="31>2005" source="31" target="2005">
-        <attvalues>
-          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -6050,9 +6050,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="221>2549" source="221" target="2549">
+      <edge id="3581>2549" source="3581" target="2549">
         <attvalues>
-          <attvalue for="count" value="1"/>
+          <attvalue for="count" value="142"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -6078,9 +6078,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3581>2549" source="3581" target="2549">
+      <edge id="221>2549" source="221" target="2549">
         <attvalues>
-          <attvalue for="count" value="142"/>
+          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -6099,27 +6099,6 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="252>2556" source="252" target="2556">
-        <attvalues>
-          <attvalue for="count" value="3"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="221>2556" source="221" target="2556">
-        <attvalues>
-          <attvalue for="count" value="2"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
-      <edge id="3415>2556" source="3415" target="2556">
-        <attvalues>
-          <attvalue for="count" value="14"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="3804>2556" source="3804" target="2556">
         <attvalues>
           <attvalue for="count" value="9"/>
@@ -6134,6 +6113,27 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
+      <edge id="3415>2556" source="3415" target="2556">
+        <attvalues>
+          <attvalue for="count" value="14"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="252>2556" source="252" target="2556">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="221>2556" source="221" target="2556">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
       <edge id="166>3413" source="166" target="3413">
         <attvalues>
           <attvalue for="count" value="6"/>
@@ -6141,9 +6141,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3804>3413" source="3804" target="3413">
+      <edge id="1340>3413" source="1340" target="3413">
         <attvalues>
-          <attvalue for="count" value="3"/>
+          <attvalue for="count" value="152"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -6155,9 +6155,9 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1340>3413" source="1340" target="3413">
+      <edge id="3804>3413" source="3804" target="3413">
         <attvalues>
-          <attvalue for="count" value="152"/>
+          <attvalue for="count" value="3"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -6190,13 +6190,6 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3804>3415" source="3804" target="3415">
-        <attvalues>
-          <attvalue for="count" value="18"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="1388>3415" source="1388" target="3415">
         <attvalues>
           <attvalue for="count" value="1"/>
@@ -6218,16 +6211,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="339>3415" source="339" target="3415">
+      <edge id="221>3415" source="221" target="3415">
         <attvalues>
-          <attvalue for="count" value="11"/>
+          <attvalue for="count" value="18"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="3581>3415" source="3581" target="3415">
+      <edge id="339>3415" source="339" target="3415">
         <attvalues>
-          <attvalue for="count" value="146"/>
+          <attvalue for="count" value="11"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -6239,16 +6232,23 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="221>3415" source="221" target="3415">
+      <edge id="31>3415" source="31" target="3415">
+        <attvalues>
+          <attvalue for="count" value="21"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="3804>3415" source="3804" target="3415">
         <attvalues>
           <attvalue for="count" value="18"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="31>3415" source="31" target="3415">
+      <edge id="3581>3415" source="3581" target="3415">
         <attvalues>
-          <attvalue for="count" value="21"/>
+          <attvalue for="count" value="146"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -6372,13 +6372,6 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1093>3573" source="1093" target="3573">
-        <attvalues>
-          <attvalue for="count" value="2"/>
-        </attvalues>
-        <viz:color r="221" g="221" b="221"/>
-        <viz:size value="1"/>
-      </edge>
       <edge id="3450>3573" source="3450" target="3573">
         <attvalues>
           <attvalue for="count" value="259"/>
@@ -6389,6 +6382,13 @@
       <edge id="31>3573" source="31" target="3573">
         <attvalues>
           <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="1093>3573" source="1093" target="3573">
+        <attvalues>
+          <attvalue for="count" value="2"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
@@ -6449,16 +6449,16 @@
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="31>3798" source="31" target="3798">
+      <edge id="1093>3798" source="1093" target="3798">
         <attvalues>
-          <attvalue for="count" value="1"/>
+          <attvalue for="count" value="2"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>
       </edge>
-      <edge id="1093>3798" source="1093" target="3798">
+      <edge id="31>3798" source="31" target="3798">
         <attvalues>
-          <attvalue for="count" value="2"/>
+          <attvalue for="count" value="1"/>
         </attvalues>
         <viz:color r="221" g="221" b="221"/>
         <viz:size value="1"/>

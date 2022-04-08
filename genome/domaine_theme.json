@@ -1,0 +1,3719 @@
+{
+  "vouzemoi.net": {
+    "adn": 17449,
+    "FIV": 409,
+    "genes": 4271,
+    "chretien": 3544,
+    "brevets": 1209,
+    "embryon": 287,
+    "clonage": 2457,
+    "telethon": 266,
+    "vache_folle": 3844,
+    "avortement": 1013,
+    "bioethique": 192,
+    "souches": 1217
+  },
+  "chiennesdegarde.org": {
+    "adn": 5350,
+    "eugenisme": 323,
+    "genome": 31,
+    "FIV": 3554,
+    "genes": 15177,
+    "chretien": 9747,
+    "brevets": 373,
+    "embryon": 7184,
+    "clonage": 3763,
+    "ogm": 3,
+    "transgenetique": 1171,
+    "telethon": 3,
+    "vache_folle": 21028,
+    "avortement": 19315,
+    "bioethique": 49,
+    "souches": 1330
+  },
+  "ladepeche.com": {
+    "adn": 2056,
+    "eugenisme": 5,
+    "genome": 1173,
+    "FIV": 4543,
+    "genes": 16930,
+    "chretien": 36794,
+    "brevets": 7778,
+    "embryon": 1422,
+    "clonage": 4392,
+    "ogm": 1387,
+    "bayer": 621,
+    "transgenetique": 11749,
+    "telethon": 14232,
+    "vache_folle": 36126,
+    "avortement": 4063,
+    "bioethique": 253,
+    "souches": 4271
+  },
+  "levillage.org": {
+    "adn": 1140,
+    "genes": 64,
+    "chretien": 1066,
+    "brevets": 40,
+    "embryon": 182,
+    "clonage": 1104,
+    "vache_folle": 1936,
+    "avortement": 1340,
+    "souches": 1812
+  },
+  "chevenement2002.com": {
+    "adn": 609,
+    "eugenisme": 209,
+    "genome": 52,
+    "FIV": 395,
+    "genes": 4861,
+    "chretien": 7821,
+    "brevets": 4059,
+    "embryon": 1340,
+    "clonage": 2391,
+    "bayer": 127,
+    "transgenetique": 13,
+    "telethon": 51,
+    "vache_folle": 2821,
+    "avortement": 3101,
+    "bioethique": 39,
+    "souches": 4825
+  },
+  "pcf.fr": {
+    "adn": 432,
+    "eugenisme": 140,
+    "genome": 2914,
+    "FIV": 1618,
+    "genes": 6539,
+    "chretien": 1615,
+    "brevets": 5225,
+    "embryon": 2900,
+    "clonage": 3027,
+    "ogm": 79,
+    "bayer": 85,
+    "transgenetique": 796,
+    "telethon": 345,
+    "vache_folle": 2794,
+    "avortement": 291,
+    "bioethique": 14945,
+    "souches": 1069
+  },
+  "topchretien.com": {
+    "adn": 391,
+    "eugenisme": 300,
+    "genome": 110,
+    "FIV": 982,
+    "genes": 1392,
+    "chretien": 76211,
+    "brevets": 259,
+    "embryon": 1180,
+    "clonage": 1480,
+    "ogm": 15,
+    "bayer": 29,
+    "transgenetique": 33,
+    "telethon": 68,
+    "vache_folle": 252,
+    "avortement": 2351,
+    "bioethique": 389,
+    "souches": 865
+  },
+  "generation-ecologie.com": {
+    "adn": 254,
+    "eugenisme": 326,
+    "genome": 136,
+    "FIV": 316,
+    "genes": 1771,
+    "chretien": 1112,
+    "brevets": 680,
+    "embryon": 337,
+    "clonage": 975,
+    "ogm": 24,
+    "bayer": 88,
+    "transgenetique": 1273,
+    "vache_folle": 1828,
+    "avortement": 318,
+    "bioethique": 97,
+    "souches": 1117
+  },
+  "teaser.fr": {
+    "adn": 204,
+    "genome": 772,
+    "FIV": 104,
+    "genes": 1080,
+    "chretien": 526,
+    "brevets": 116,
+    "embryon": 206,
+    "clonage": 690,
+    "ogm": 668,
+    "bayer": 1216,
+    "transgenetique": 100,
+    "avortement": 218,
+    "bioethique": 100,
+    "souches": 308
+  },
+  "senat.fr": {
+    "adn": 189,
+    "eugenisme": 115,
+    "genome": 430,
+    "FIV": 1571,
+    "genes": 2300,
+    "chretien": 996,
+    "brevets": 2450,
+    "embryon": 883,
+    "clonage": 372,
+    "ogm": 395,
+    "bayer": 45,
+    "transgenetique": 313,
+    "telethon": 76,
+    "vache_folle": 3355,
+    "avortement": 662,
+    "bioethique": 601,
+    "souches": 494
+  },
+  "derstandard.at": {
+    "adn": 173,
+    "genome": 8068,
+    "FIV": 121,
+    "genes": 897,
+    "chretien": 25,
+    "embryon": 1109,
+    "clonage": 167,
+    "bayer": 1282,
+    "transgenetique": 698
+  },
+  "presidentielles.net": {
+    "adn": 172,
+    "eugenisme": 912,
+    "FIV": 532,
+    "genes": 5825,
+    "chretien": 2289,
+    "brevets": 955,
+    "embryon": 16,
+    "clonage": 5401,
+    "telethon": 22,
+    "vache_folle": 3280,
+    "avortement": 7101,
+    "bioethique": 33,
+    "souches": 5417
+  },
+  "assemblee-nationale.fr": {
+    "adn": 169,
+    "eugenisme": 111,
+    "genome": 256,
+    "FIV": 961,
+    "genes": 1490,
+    "chretien": 595,
+    "brevets": 1870,
+    "embryon": 676,
+    "clonage": 283,
+    "ogm": 342,
+    "bayer": 23,
+    "transgenetique": 205,
+    "telethon": 56,
+    "vache_folle": 1893,
+    "avortement": 581,
+    "bioethique": 891,
+    "souches": 295
+  },
+  "france-sites.com": {
+    "adn": 165,
+    "genome": 44,
+    "FIV": 44,
+    "genes": 66,
+    "chretien": 473,
+    "brevets": 66,
+    "clonage": 22,
+    "telethon": 68,
+    "vache_folle": 231,
+    "souches": 121
+  },
+  "mei-fr.org": {
+    "adn": 133,
+    "genome": 171,
+    "FIV": 29,
+    "genes": 1080,
+    "chretien": 29,
+    "brevets": 170,
+    "embryon": 29,
+    "clonage": 52,
+    "ogm": 212,
+    "bayer": 29,
+    "transgenetique": 1027,
+    "vache_folle": 697,
+    "avortement": 104,
+    "souches": 146
+  },
+  "samizdat.net": {
+    "adn": 129,
+    "eugenisme": 18,
+    "genome": 59,
+    "FIV": 22,
+    "genes": 738,
+    "chretien": 566,
+    "brevets": 774,
+    "embryon": 66,
+    "clonage": 96,
+    "ogm": 8,
+    "transgenetique": 256,
+    "telethon": 4,
+    "vache_folle": 268,
+    "avortement": 221,
+    "bioethique": 2,
+    "souches": 34
+  },
+  "mhr-viandes.com": {
+    "adn": 128,
+    "genome": 86,
+    "FIV": 282,
+    "genes": 812,
+    "chretien": 80,
+    "brevets": 94,
+    "embryon": 174,
+    "clonage": 280,
+    "ogm": 120,
+    "bayer": 8,
+    "transgenetique": 180,
+    "vache_folle": 4458,
+    "avortement": 38,
+    "souches": 228
+  },
+  "lcr-rouge.org": {
+    "adn": 108,
+    "eugenisme": 270,
+    "genome": 245,
+    "FIV": 389,
+    "genes": 1460,
+    "chretien": 1667,
+    "brevets": 1333,
+    "embryon": 495,
+    "clonage": 392,
+    "ogm": 193,
+    "bayer": 56,
+    "transgenetique": 1001,
+    "telethon": 54,
+    "vache_folle": 2838,
+    "avortement": 1672,
+    "bioethique": 54,
+    "souches": 222
+  },
+  "journaldunet.com": {
+    "adn": 85,
+    "genome": 43,
+    "FIV": 1412,
+    "genes": 94,
+    "chretien": 72,
+    "brevets": 896,
+    "embryon": 1520,
+    "clonage": 167,
+    "bayer": 186,
+    "transgenetique": 47,
+    "telethon": 109,
+    "vache_folle": 514,
+    "avortement": 228,
+    "bioethique": 17
+  },
+  "largeur.com": {
+    "adn": 62,
+    "eugenisme": 26,
+    "genome": 2,
+    "FIV": 222,
+    "genes": 622,
+    "chretien": 993,
+    "brevets": 88,
+    "embryon": 178,
+    "clonage": 220,
+    "ogm": 12,
+    "bayer": 4,
+    "transgenetique": 56,
+    "vache_folle": 1078,
+    "avortement": 15239,
+    "bioethique": 2,
+    "souches": 278
+  },
+  "eu.org": {
+    "adn": 54,
+    "eugenisme": 48,
+    "genome": 108,
+    "FIV": 244,
+    "genes": 1026,
+    "chretien": 52,
+    "brevets": 2510,
+    "embryon": 212,
+    "clonage": 237,
+    "transgenetique": 196,
+    "vache_folle": 706,
+    "avortement": 185,
+    "bioethique": 1764,
+    "souches": 190
+  },
+  "les-verts.org": {
+    "adn": 54,
+    "eugenisme": 148,
+    "genome": 81,
+    "FIV": 121,
+    "genes": 2420,
+    "chretien": 556,
+    "brevets": 796,
+    "embryon": 156,
+    "clonage": 370,
+    "ogm": 178,
+    "bayer": 88,
+    "transgenetique": 1724,
+    "vache_folle": 2484,
+    "avortement": 529,
+    "bioethique": 232,
+    "souches": 97
+  },
+  "fluctuat.net": {
+    "adn": 48,
+    "eugenisme": 30,
+    "genome": 36,
+    "FIV": 57,
+    "genes": 338,
+    "chretien": 370,
+    "brevets": 24,
+    "embryon": 31,
+    "clonage": 258,
+    "ogm": 6,
+    "bayer": 3,
+    "transgenetique": 78,
+    "telethon": 30,
+    "vache_folle": 614,
+    "avortement": 153,
+    "bioethique": 6,
+    "souches": 40
+  },
+  "wanadoo.fr": {
+    "adn": 46,
+    "eugenisme": 56,
+    "genome": 88,
+    "FIV": 225,
+    "genes": 752,
+    "chretien": 362,
+    "brevets": 522,
+    "embryon": 152,
+    "clonage": 116,
+    "ogm": 93,
+    "bayer": 6,
+    "transgenetique": 201,
+    "telethon": 127,
+    "vache_folle": 1497,
+    "avortement": 322,
+    "bioethique": 183,
+    "souches": 103
+  },
+  "actupp.org": {
+    "adn": 38,
+    "eugenisme": 20,
+    "genome": 16,
+    "FIV": 80,
+    "genes": 58,
+    "chretien": 102,
+    "brevets": 883,
+    "bayer": 106,
+    "transgenetique": 82,
+    "vache_folle": 39,
+    "avortement": 168,
+    "souches": 85
+  },
+  "chevenement.net": {
+    "adn": 38,
+    "eugenisme": 26,
+    "genome": 2,
+    "FIV": 16,
+    "genes": 354,
+    "chretien": 399,
+    "brevets": 83,
+    "embryon": 109,
+    "clonage": 207,
+    "bayer": 10,
+    "vache_folle": 32,
+    "avortement": 106,
+    "bioethique": 3,
+    "souches": 114
+  },
+  "chiracaveclafrance.net": {
+    "adn": 38,
+    "eugenisme": 362,
+    "genome": 18,
+    "FIV": 130,
+    "genes": 5535,
+    "chretien": 5752,
+    "brevets": 5564,
+    "clonage": 306,
+    "transgenetique": 32,
+    "telethon": 82,
+    "vache_folle": 10962,
+    "avortement": 3590,
+    "bioethique": 34,
+    "souches": 2070
+  },
+  "academie-sciences.fr": {
+    "adn": 34,
+    "genome": 106,
+    "FIV": 19,
+    "genes": 130,
+    "chretien": 5,
+    "brevets": 26,
+    "embryon": 15,
+    "clonage": 25,
+    "transgenetique": 28,
+    "telethon": 3,
+    "vache_folle": 23,
+    "avortement": 1,
+    "bioethique": 14,
+    "souches": 21
+  },
+  "lycos.fr": {
+    "adn": 31,
+    "eugenisme": 8,
+    "genome": 30,
+    "FIV": 50,
+    "genes": 232,
+    "chretien": 326,
+    "brevets": 76,
+    "embryon": 103,
+    "clonage": 49,
+    "ogm": 14,
+    "bayer": 32,
+    "transgenetique": 58,
+    "telethon": 68,
+    "vache_folle": 213,
+    "avortement": 338,
+    "bioethique": 38,
+    "souches": 75
+  },
+  "free.fr": {
+    "adn": 30,
+    "eugenisme": 26,
+    "genome": 78,
+    "FIV": 260,
+    "genes": 481,
+    "chretien": 677,
+    "brevets": 531,
+    "embryon": 102,
+    "clonage": 131,
+    "ogm": 31,
+    "bayer": 20,
+    "transgenetique": 79,
+    "telethon": 16,
+    "vache_folle": 690,
+    "avortement": 358,
+    "bioethique": 4618,
+    "souches": 79
+  },
+  "mauvaisgenres.com": {
+    "adn": 28,
+    "eugenisme": 4,
+    "genome": 16,
+    "FIV": 24,
+    "genes": 172,
+    "chretien": 132,
+    "brevets": 8,
+    "embryon": 24,
+    "clonage": 112,
+    "transgenetique": 8,
+    "telethon": 4,
+    "vache_folle": 172,
+    "avortement": 48,
+    "bioethique": 4,
+    "souches": 24
+  },
+  "turigoloukoi.com": {
+    "adn": 28,
+    "genome": 4,
+    "FIV": 8,
+    "genes": 12,
+    "chretien": 5,
+    "clonage": 8,
+    "vache_folle": 16,
+    "avortement": 8
+  },
+  "demlib.com": {
+    "adn": 26,
+    "eugenisme": 132,
+    "genome": 735,
+    "FIV": 802,
+    "genes": 2035,
+    "chretien": 752,
+    "brevets": 1307,
+    "embryon": 1071,
+    "clonage": 824,
+    "ogm": 178,
+    "transgenetique": 118,
+    "telethon": 74,
+    "vache_folle": 2215,
+    "avortement": 672,
+    "bioethique": 1097,
+    "souches": 246
+  },
+  "gauchestory.com": {
+    "adn": 26,
+    "FIV": 143,
+    "genes": 759,
+    "chretien": 26843,
+    "brevets": 206,
+    "embryon": 8,
+    "clonage": 83,
+    "transgenetique": 26,
+    "telethon": 10,
+    "vache_folle": 9545,
+    "avortement": 254,
+    "souches": 316
+  },
+  "raslfront.org": {
+    "adn": 26,
+    "eugenisme": 38,
+    "genome": 8,
+    "FIV": 52,
+    "genes": 88,
+    "chretien": 430,
+    "brevets": 8,
+    "embryon": 38,
+    "clonage": 48,
+    "ogm": 8,
+    "transgenetique": 8,
+    "vache_folle": 42,
+    "avortement": 402,
+    "bioethique": 14,
+    "souches": 64
+  },
+  "terredescale.net": {
+    "adn": 24,
+    "chretien": 178,
+    "embryon": 12,
+    "avortement": 4,
+    "souches": 28
+  },
+  "touscitoyens.org": {
+    "adn": 24,
+    "genes": 64,
+    "chretien": 24,
+    "brevets": 16,
+    "transgenetique": 20,
+    "vache_folle": 44
+  },
+  "u-m-p.org": {
+    "adn": 24,
+    "eugenisme": 712,
+    "genome": 4,
+    "FIV": 67,
+    "genes": 2898,
+    "chretien": 2854,
+    "brevets": 1663,
+    "clonage": 437,
+    "transgenetique": 10,
+    "telethon": 20,
+    "vache_folle": 4482,
+    "avortement": 2216,
+    "souches": 1050
+  },
+  "infodujour.com": {
+    "adn": 21,
+    "eugenisme": 21,
+    "genome": 7,
+    "FIV": 18,
+    "genes": 63,
+    "chretien": 170,
+    "brevets": 42,
+    "clonage": 44,
+    "telethon": 35,
+    "vache_folle": 219,
+    "avortement": 35,
+    "souches": 9
+  },
+  "d-l-c.org": {
+    "adn": 20,
+    "eugenisme": 47,
+    "FIV": 80,
+    "genes": 126,
+    "chretien": 464,
+    "brevets": 35,
+    "embryon": 93,
+    "clonage": 100,
+    "bayer": 80,
+    "transgenetique": 20,
+    "telethon": 20,
+    "vache_folle": 227,
+    "avortement": 61,
+    "bioethique": 61,
+    "souches": 179
+  },
+  "publico.pt": {
+    "adn": 20,
+    "genome": 69,
+    "FIV": 4,
+    "genes": 78,
+    "chretien": 4,
+    "brevets": 2,
+    "clonage": 10,
+    "bayer": 10,
+    "vache_folle": 22
+  },
+  "temps-reels.net": {
+    "adn": 20,
+    "eugenisme": 20,
+    "genome": 38,
+    "FIV": 74,
+    "genes": 102,
+    "chretien": 4,
+    "brevets": 765,
+    "embryon": 40,
+    "clonage": 76,
+    "telethon": 4,
+    "vache_folle": 76,
+    "avortement": 60,
+    "souches": 5
+  },
+  "tempspublic.com": {
+    "adn": 20,
+    "eugenisme": 20,
+    "genes": 74,
+    "chretien": 42,
+    "embryon": 20,
+    "clonage": 72,
+    "ogm": 40,
+    "bayer": 8,
+    "transgenetique": 20,
+    "vache_folle": 128,
+    "avortement": 56,
+    "bioethique": 20
+  },
+  "nicematin.fr": {
+    "adn": 18,
+    "FIV": 76,
+    "genes": 163,
+    "chretien": 1199,
+    "brevets": 110,
+    "embryon": 9,
+    "clonage": 44,
+    "bayer": 48,
+    "telethon": 18,
+    "vache_folle": 62,
+    "avortement": 224,
+    "bioethique": 8,
+    "souches": 19
+  },
+  "reforme.net": {
+    "adn": 18,
+    "eugenisme": 12,
+    "genome": 54,
+    "FIV": 54,
+    "genes": 110,
+    "chretien": 1890,
+    "brevets": 44,
+    "embryon": 54,
+    "clonage": 36,
+    "transgenetique": 24,
+    "vache_folle": 100,
+    "avortement": 172,
+    "bioethique": 66,
+    "souches": 44
+  },
+  "c6r-fr.org": {
+    "adn": 16,
+    "genome": 20,
+    "genes": 22,
+    "chretien": 2,
+    "brevets": 22,
+    "embryon": 16,
+    "clonage": 14,
+    "telethon": 16,
+    "vache_folle": 19
+  },
+  "laicite-republique.org": {
+    "adn": 16,
+    "genome": 12,
+    "FIV": 36,
+    "genes": 70,
+    "chretien": 766,
+    "brevets": 12,
+    "embryon": 24,
+    "clonage": 24,
+    "vache_folle": 8,
+    "avortement": 24,
+    "bioethique": 32,
+    "souches": 20
+  },
+  "ouvaton.org": {
+    "adn": 16,
+    "eugenisme": 31,
+    "genome": 17,
+    "FIV": 25,
+    "genes": 284,
+    "chretien": 78,
+    "brevets": 73,
+    "embryon": 15,
+    "clonage": 72,
+    "ogm": 28,
+    "transgenetique": 53,
+    "vache_folle": 93,
+    "avortement": 38,
+    "bioethique": 8,
+    "souches": 35
+  },
+  "premier-ministre.gouv.fr": {
+    "adn": 15,
+    "eugenisme": 6,
+    "genome": 279,
+    "FIV": 289,
+    "genes": 682,
+    "chretien": 458,
+    "brevets": 701,
+    "embryon": 200,
+    "clonage": 182,
+    "ogm": 63,
+    "transgenetique": 159,
+    "telethon": 122,
+    "vache_folle": 1217,
+    "avortement": 129,
+    "bioethique": 722,
+    "souches": 170
+  },
+  "front-national.com": {
+    "adn": 14,
+    "genome": 32,
+    "FIV": 28,
+    "genes": 165,
+    "chretien": 323,
+    "brevets": 106,
+    "embryon": 69,
+    "clonage": 76,
+    "ogm": 28,
+    "transgenetique": 14,
+    "vache_folle": 477,
+    "avortement": 263,
+    "bioethique": 34,
+    "souches": 195
+  },
+  "christineboutin2002.com": {
+    "adn": 12,
+    "eugenisme": 96,
+    "genome": 12,
+    "FIV": 32,
+    "genes": 56,
+    "chretien": 20,
+    "brevets": 24,
+    "embryon": 249,
+    "clonage": 106,
+    "avortement": 134,
+    "bioethique": 165,
+    "souches": 62
+  },
+  "citegay.fr": {
+    "adn": 12,
+    "eugenisme": 6,
+    "genome": 6,
+    "FIV": 112,
+    "genes": 48,
+    "chretien": 320,
+    "brevets": 72,
+    "embryon": 60,
+    "clonage": 28,
+    "transgenetique": 160,
+    "telethon": 6,
+    "vache_folle": 150,
+    "avortement": 120,
+    "bioethique": 22,
+    "souches": 56
+  },
+  "lesverts-lorraine.org": {
+    "adn": 12,
+    "FIV": 8,
+    "genes": 76,
+    "chretien": 20,
+    "brevets": 12,
+    "embryon": 8,
+    "clonage": 4,
+    "ogm": 12,
+    "transgenetique": 36,
+    "vache_folle": 112,
+    "avortement": 8,
+    "bioethique": 4,
+    "souches": 28
+  },
+  "mrap.asso.fr": {
+    "adn": 12,
+    "genome": 6,
+    "FIV": 6,
+    "genes": 26,
+    "chretien": 42,
+    "brevets": 6,
+    "avortement": 12,
+    "bioethique": 6,
+    "souches": 12
+  },
+  "online.fr": {
+    "adn": 12,
+    "eugenisme": 48,
+    "genome": 24,
+    "FIV": 4,
+    "genes": 118,
+    "chretien": 246,
+    "brevets": 78,
+    "embryon": 24,
+    "clonage": 30,
+    "bayer": 24,
+    "transgenetique": 30,
+    "telethon": 4,
+    "vache_folle": 232,
+    "avortement": 62,
+    "bioethique": 4,
+    "souches": 74
+  },
+  "parti-du-plaisir.com": {
+    "adn": 11,
+    "genes": 11,
+    "ogm": 11
+  },
+  "csa.fr": {
+    "adn": 10,
+    "genome": 10,
+    "FIV": 10,
+    "genes": 40,
+    "chretien": 38,
+    "brevets": 10,
+    "embryon": 40,
+    "clonage": 10,
+    "vache_folle": 10,
+    "avortement": 10,
+    "souches": 10
+  },
+  "liberation.fr": {
+    "adn": 10,
+    "FIV": 17,
+    "genes": 33,
+    "chretien": 108,
+    "brevets": 35,
+    "embryon": 18,
+    "clonage": 28,
+    "ogm": 4,
+    "bayer": 10,
+    "transgenetique": 6,
+    "vache_folle": 87,
+    "avortement": 56,
+    "bioethique": 2,
+    "souches": 23
+  },
+  "routard.com": {
+    "adn": 10,
+    "FIV": 25,
+    "genes": 124,
+    "chretien": 827,
+    "brevets": 44,
+    "embryon": 8,
+    "clonage": 7,
+    "transgenetique": 8,
+    "vache_folle": 290,
+    "avortement": 18,
+    "souches": 109
+  },
+  "uzine.net": {
+    "adn": 10,
+    "eugenisme": 6,
+    "genome": 4,
+    "FIV": 16,
+    "genes": 94,
+    "chretien": 24,
+    "brevets": 124,
+    "embryon": 36,
+    "clonage": 28,
+    "ogm": 2,
+    "bayer": 2,
+    "transgenetique": 12,
+    "telethon": 2,
+    "vache_folle": 116,
+    "avortement": 42,
+    "bioethique": 2,
+    "souches": 16
+  },
+  "cidem.org": {
+    "adn": 9,
+    "eugenisme": 9,
+    "FIV": 42,
+    "genes": 87,
+    "chretien": 153,
+    "brevets": 54,
+    "embryon": 9,
+    "clonage": 27,
+    "ogm": 30,
+    "transgenetique": 9,
+    "vache_folle": 45,
+    "avortement": 72,
+    "bioethique": 9,
+    "souches": 18
+  },
+  "ctanet.fr": {
+    "adn": 8,
+    "genes": 32,
+    "brevets": 16,
+    "embryon": 8,
+    "ogm": 4,
+    "bayer": 8,
+    "transgenetique": 12,
+    "vache_folle": 48,
+    "souches": 12
+  },
+  "radikalweb.com": {
+    "adn": 8,
+    "genes": 12,
+    "chretien": 20,
+    "brevets": 8,
+    "clonage": 4,
+    "vache_folle": 4,
+    "souches": 32
+  },
+  "unite-radicale.com": {
+    "adn": 8,
+    "eugenisme": 16,
+    "FIV": 40,
+    "genes": 74,
+    "chretien": 122,
+    "brevets": 18,
+    "embryon": 24,
+    "clonage": 24,
+    "transgenetique": 24,
+    "telethon": 8,
+    "vache_folle": 108,
+    "avortement": 64,
+    "bioethique": 4,
+    "souches": 100
+  },
+  "france2.fr": {
+    "adn": 7,
+    "eugenisme": 3,
+    "FIV": 22,
+    "genes": 65,
+    "chretien": 49,
+    "brevets": 19,
+    "embryon": 4,
+    "clonage": 5,
+    "telethon": 76,
+    "vache_folle": 19,
+    "avortement": 17,
+    "bioethique": 2,
+    "souches": 23
+  },
+  "club-internet.fr": {
+    "adn": 6,
+    "FIV": 32,
+    "genes": 26,
+    "chretien": 8,
+    "brevets": 46,
+    "embryon": 4,
+    "vache_folle": 46,
+    "souches": 20
+  },
+  "ifrance.com": {
+    "adn": 6,
+    "FIV": 2,
+    "genes": 30,
+    "chretien": 32,
+    "brevets": 2,
+    "embryon": 12,
+    "clonage": 6,
+    "vache_folle": 34,
+    "avortement": 11,
+    "souches": 8
+  },
+  "boycottyes.com": {
+    "adn": 4,
+    "FIV": 12,
+    "genes": 20,
+    "chretien": 12,
+    "brevets": 16,
+    "embryon": 12,
+    "clonage": 14,
+    "ogm": 8,
+    "vache_folle": 14,
+    "avortement": 8,
+    "bioethique": 4,
+    "souches": 8
+  },
+  "democratie-continue.org": {
+    "adn": 4,
+    "eugenisme": 6,
+    "genes": 4906,
+    "chretien": 34,
+    "embryon": 16,
+    "clonage": 6,
+    "vache_folle": 14,
+    "avortement": 60,
+    "bioethique": 4892
+  },
+  "elysee.fr": {
+    "adn": 4,
+    "eugenisme": 6,
+    "genome": 62,
+    "FIV": 29,
+    "genes": 116,
+    "chretien": 198,
+    "brevets": 102,
+    "embryon": 24,
+    "clonage": 47,
+    "ogm": 2,
+    "telethon": 2,
+    "vache_folle": 166,
+    "bioethique": 92,
+    "souches": 12
+  },
+  "gldf.org": {
+    "adn": 4,
+    "genes": 4,
+    "chretien": 64,
+    "brevets": 4,
+    "embryon": 4,
+    "clonage": 4
+  },
+  "hoaxbuster.com": {
+    "adn": 4,
+    "genes": 4
+  },
+  "leparisien.com": {
+    "adn": 4,
+    "FIV": 6,
+    "genes": 20,
+    "chretien": 24,
+    "embryon": 18,
+    "clonage": 6,
+    "vache_folle": 136,
+    "avortement": 4
+  },
+  "sos-racaille.org": {
+    "adn": 4,
+    "genes": 6,
+    "chretien": 10,
+    "brevets": 4,
+    "clonage": 2,
+    "vache_folle": 2,
+    "souches": 16
+  },
+  "tiscali.fr": {
+    "adn": 4,
+    "FIV": 10,
+    "genes": 31,
+    "chretien": 14,
+    "embryon": 4,
+    "transgenetique": 12,
+    "telethon": 2,
+    "vache_folle": 34,
+    "avortement": 4
+  },
+  "trdd.org": {
+    "adn": 4,
+    "eugenisme": 250,
+    "genome": 4,
+    "FIV": 106,
+    "genes": 48,
+    "chretien": 64,
+    "brevets": 4,
+    "embryon": 68,
+    "clonage": 20,
+    "transgenetique": 16,
+    "vache_folle": 24,
+    "avortement": 274,
+    "bioethique": 40,
+    "souches": 20
+  },
+  "approches-croisees.net": {
+    "adn": 3,
+    "eugenisme": 4,
+    "FIV": 2,
+    "genes": 4,
+    "chretien": 15,
+    "brevets": 10,
+    "embryon": 4,
+    "clonage": 2,
+    "telethon": 2,
+    "vache_folle": 6,
+    "avortement": 11,
+    "bioethique": 2,
+    "souches": 2
+  },
+  "joueb.com": {
+    "adn": 3,
+    "genome": 3,
+    "FIV": 3,
+    "genes": 6,
+    "chretien": 12,
+    "brevets": 3,
+    "clonage": 6,
+    "vache_folle": 9,
+    "souches": 3
+  },
+  "0plus0.com": {
+    "adn": 2,
+    "FIV": 10,
+    "genes": 146,
+    "chretien": 2,
+    "brevets": 2,
+    "embryon": 146,
+    "clonage": 146,
+    "vache_folle": 10
+  },
+  "25lignes.org": {
+    "adn": 2,
+    "FIV": 4,
+    "clonage": 22,
+    "vache_folle": 18,
+    "souches": 2
+  },
+  "issy.com": {
+    "adn": 2,
+    "FIV": 10,
+    "chretien": 36,
+    "brevets": 10,
+    "clonage": 2,
+    "vache_folle": 28,
+    "avortement": 2,
+    "bioethique": 10,
+    "souches": 2
+  },
+  "lemonde.fr": {
+    "adn": 2,
+    "eugenisme": 12,
+    "genome": 12,
+    "FIV": 28,
+    "genes": 280,
+    "chretien": 166,
+    "brevets": 692,
+    "embryon": 22,
+    "clonage": 880,
+    "ogm": 6,
+    "transgenetique": 16,
+    "vache_folle": 179,
+    "avortement": 50,
+    "bioethique": 30,
+    "souches": 30
+  },
+  "lentreprise.com": {
+    "adn": 2,
+    "FIV": 24,
+    "genes": 14,
+    "chretien": 14,
+    "brevets": 106,
+    "embryon": 4,
+    "clonage": 44,
+    "vache_folle": 22,
+    "avortement": 8
+  },
+  "yahoo.com": {
+    "adn": 2,
+    "brevets": 8,
+    "telethon": 4,
+    "vache_folle": 12,
+    "avortement": 24
+  },
+  "chiracvsjospin.com": {
+    "eugenisme": 180,
+    "genes": 737,
+    "chretien": 230,
+    "vache_folle": 477,
+    "avortement": 460,
+    "souches": 9
+  },
+  "mpf-villiers.org": {
+    "eugenisme": 170,
+    "genome": 80,
+    "FIV": 174,
+    "genes": 269,
+    "chretien": 23,
+    "brevets": 58,
+    "embryon": 158,
+    "clonage": 130,
+    "vache_folle": 366,
+    "avortement": 212,
+    "bioethique": 208,
+    "souches": 64
+  },
+  "udf.org": {
+    "eugenisme": 125,
+    "genome": 99,
+    "FIV": 230,
+    "genes": 615,
+    "chretien": 706,
+    "brevets": 235,
+    "embryon": 420,
+    "clonage": 275,
+    "ogm": 42,
+    "vache_folle": 1099,
+    "avortement": 374,
+    "bioethique": 8091,
+    "souches": 126
+  },
+  "m-n-r.com": {
+    "eugenisme": 101,
+    "genome": 99,
+    "FIV": 172,
+    "genes": 384,
+    "chretien": 1376,
+    "brevets": 260,
+    "embryon": 231,
+    "clonage": 45,
+    "transgenetique": 286,
+    "vache_folle": 1606,
+    "avortement": 900,
+    "souches": 786
+  },
+  "bruno-megret.com": {
+    "eugenisme": 62,
+    "FIV": 94,
+    "chretien": 173,
+    "brevets": 142,
+    "embryon": 47,
+    "transgenetique": 78,
+    "vache_folle": 78,
+    "avortement": 296,
+    "souches": 104
+  },
+  "rpr.asso.fr": {
+    "eugenisme": 46,
+    "genome": 17,
+    "FIV": 53,
+    "genes": 259,
+    "chretien": 58,
+    "brevets": 286,
+    "embryon": 17,
+    "clonage": 53,
+    "transgenetique": 46,
+    "vache_folle": 181,
+    "avortement": 34,
+    "bioethique": 97
+  },
+  "jean-francoismattei.com": {
+    "eugenisme": 40,
+    "genome": 40,
+    "FIV": 82,
+    "genes": 1090,
+    "brevets": 1088,
+    "embryon": 86,
+    "clonage": 114,
+    "vache_folle": 70,
+    "avortement": 12,
+    "bioethique": 1090,
+    "souches": 22
+  },
+  "bayrou.net": {
+    "eugenisme": 38,
+    "genes": 7187,
+    "chretien": 5974,
+    "brevets": 2823,
+    "embryon": 604,
+    "clonage": 486,
+    "ogm": 36,
+    "vache_folle": 8313,
+    "avortement": 2254,
+    "bioethique": 38,
+    "souches": 3568
+  },
+  "mdc-france.org": {
+    "eugenisme": 33,
+    "genome": 66,
+    "FIV": 66,
+    "genes": 195,
+    "brevets": 339,
+    "embryon": 78,
+    "clonage": 99,
+    "vache_folle": 336,
+    "avortement": 99,
+    "bioethique": 78,
+    "souches": 119
+  },
+  "lapolitique.com": {
+    "eugenisme": 32,
+    "genome": 17,
+    "FIV": 219,
+    "genes": 85,
+    "chretien": 202,
+    "brevets": 270,
+    "embryon": 51,
+    "clonage": 50,
+    "bayer": 51,
+    "vache_folle": 709,
+    "avortement": 221,
+    "bioethique": 988,
+    "souches": 76
+  },
+  "ornitho.org": {
+    "eugenisme": 24,
+    "genes": 36,
+    "chretien": 48,
+    "brevets": 36,
+    "clonage": 24,
+    "vache_folle": 12,
+    "avortement": 48,
+    "souches": 72
+  },
+  "lafrancehumaine.net": {
+    "eugenisme": 19,
+    "genes": 2486,
+    "chretien": 1730,
+    "brevets": 1025,
+    "embryon": 186,
+    "vache_folle": 3092,
+    "avortement": 686,
+    "bioethique": 19,
+    "souches": 1244
+  },
+  "cef.fr": {
+    "eugenisme": 18,
+    "genome": 10,
+    "FIV": 71,
+    "genes": 83,
+    "chretien": 6662,
+    "brevets": 4,
+    "embryon": 127,
+    "clonage": 61,
+    "ogm": 4,
+    "telethon": 8,
+    "vache_folle": 24,
+    "avortement": 126,
+    "bioethique": 350,
+    "souches": 45
+  },
+  "prochoix.org": {
+    "eugenisme": 14,
+    "FIV": 26,
+    "genes": 56,
+    "chretien": 160,
+    "brevets": 40,
+    "embryon": 32,
+    "clonage": 6,
+    "bayer": 6,
+    "transgenetique": 8,
+    "vache_folle": 26,
+    "avortement": 458,
+    "bioethique": 62,
+    "souches": 16
+  },
+  "voila.fr": {
+    "eugenisme": 14,
+    "FIV": 32,
+    "genes": 80,
+    "chretien": 32,
+    "brevets": 23,
+    "embryon": 58,
+    "clonage": 52,
+    "transgenetique": 8,
+    "vache_folle": 74,
+    "avortement": 92,
+    "bioethique": 38,
+    "souches": 20
+  },
+  "tf1.fr": {
+    "eugenisme": 12,
+    "genes": 58,
+    "chretien": 14,
+    "brevets": 24,
+    "embryon": 12,
+    "transgenetique": 12,
+    "vache_folle": 2,
+    "avortement": 16,
+    "bioethique": 10,
+    "souches": 8
+  },
+  "ac-rouen.fr": {
+    "eugenisme": 10,
+    "genes": 4,
+    "chretien": 38,
+    "clonage": 22,
+    "vache_folle": 6,
+    "avortement": 6,
+    "bioethique": 18,
+    "souches": 4
+  },
+  "latribune.fr": {
+    "eugenisme": 8,
+    "FIV": 8,
+    "genes": 94,
+    "chretien": 23,
+    "brevets": 71,
+    "embryon": 21,
+    "clonage": 26,
+    "ogm": 8,
+    "transgenetique": 6,
+    "telethon": 10,
+    "vache_folle": 158,
+    "avortement": 6,
+    "bioethique": 22
+  },
+  "plagnol.org": {
+    "eugenisme": 8,
+    "genome": 20,
+    "FIV": 8,
+    "genes": 20,
+    "brevets": 8,
+    "embryon": 8,
+    "clonage": 8,
+    "bioethique": 28
+  },
+  "amaurynardone.net": {
+    "eugenisme": 6,
+    "FIV": 12,
+    "chretien": 6,
+    "embryon": 6
+  },
+  "libres.org": {
+    "eugenisme": 6,
+    "FIV": 4,
+    "genes": 16,
+    "chretien": 26,
+    "brevets": 18,
+    "embryon": 6,
+    "clonage": 6,
+    "ogm": 4,
+    "transgenetique": 6,
+    "vache_folle": 14,
+    "avortement": 30,
+    "bioethique": 2
+  },
+  "sitelibre.com": {
+    "eugenisme": 6,
+    "chretien": 6,
+    "vache_folle": 18,
+    "avortement": 6
+  },
+  "cgt.fr": {
+    "eugenisme": 4,
+    "genome": 20,
+    "genes": 40,
+    "brevets": 24,
+    "embryon": 6,
+    "bayer": 4,
+    "telethon": 20,
+    "vache_folle": 52,
+    "avortement": 20,
+    "bioethique": 4
+  },
+  "chez.com": {
+    "eugenisme": 4,
+    "FIV": 8,
+    "genes": 59,
+    "chretien": 82,
+    "brevets": 12,
+    "embryon": 8,
+    "clonage": 8,
+    "transgenetique": 27,
+    "vache_folle": 44,
+    "avortement": 28,
+    "bioethique": 12,
+    "souches": 8
+  },
+  "geocities.com": {
+    "eugenisme": 4,
+    "genes": 20,
+    "chretien": 24,
+    "brevets": 20,
+    "embryon": 12,
+    "clonage": 12,
+    "transgenetique": 12,
+    "vache_folle": 4,
+    "avortement": 24,
+    "souches": 8
+  },
+  "rajf.org": {
+    "eugenisme": 4,
+    "genome": 4,
+    "FIV": 6,
+    "genes": 10,
+    "chretien": 4,
+    "brevets": 6,
+    "embryon": 10,
+    "clonage": 6,
+    "ogm": 2,
+    "bayer": 2,
+    "vache_folle": 4,
+    "avortement": 10,
+    "bioethique": 10,
+    "souches": 2
+  },
+  "lexpress.fr": {
+    "eugenisme": 3,
+    "genome": 5,
+    "FIV": 17,
+    "genes": 28,
+    "chretien": 30,
+    "brevets": 23,
+    "vache_folle": 88,
+    "avortement": 36,
+    "bioethique": 6
+  },
+  "fmd.asso.fr": {
+    "eugenisme": 2,
+    "vache_folle": 6
+  },
+  "lepoint.fr": {
+    "eugenisme": 2,
+    "chretien": 2,
+    "vache_folle": 4,
+    "avortement": 2,
+    "bioethique": 2
+  },
+  "national-hebdo.com": {
+    "eugenisme": 2,
+    "FIV": 10,
+    "genes": 58,
+    "chretien": 232,
+    "brevets": 20,
+    "embryon": 8,
+    "clonage": 8,
+    "ogm": 16,
+    "transgenetique": 16,
+    "vache_folle": 126,
+    "avortement": 20,
+    "bioethique": 2,
+    "souches": 48
+  },
+  "oxymore.com": {
+    "eugenisme": 2,
+    "FIV": 2,
+    "genes": 2,
+    "chretien": 2,
+    "clonage": 4,
+    "vache_folle": 8,
+    "avortement": 8,
+    "souches": 22
+  },
+  "professionpolitique.com": {
+    "eugenisme": 2,
+    "genome": 20,
+    "FIV": 62,
+    "genes": 205,
+    "chretien": 77,
+    "brevets": 131,
+    "embryon": 27,
+    "clonage": 38,
+    "transgenetique": 9,
+    "telethon": 11,
+    "vache_folle": 146,
+    "avortement": 50,
+    "bioethique": 78,
+    "souches": 10
+  },
+  "roger-mei.org": {
+    "eugenisme": 2,
+    "genome": 12,
+    "FIV": 10,
+    "genes": 14,
+    "chretien": 2,
+    "brevets": 18,
+    "embryon": 8,
+    "clonage": 6,
+    "transgenetique": 2,
+    "vache_folle": 4,
+    "bioethique": 30,
+    "souches": 4
+  },
+  "scrutins.net": {
+    "eugenisme": 2,
+    "genome": 2,
+    "FIV": 16,
+    "genes": 6,
+    "chretien": 42,
+    "brevets": 4,
+    "embryon": 2,
+    "clonage": 2,
+    "vache_folle": 6,
+    "avortement": 4,
+    "bioethique": 4
+  },
+  "lioneljospin.net": {
+    "genome": 657,
+    "genes": 765,
+    "chretien": 494,
+    "brevets": 462,
+    "embryon": 233,
+    "telethon": 777,
+    "vache_folle": 723,
+    "avortement": 59,
+    "bioethique": 193,
+    "souches": 38
+  },
+  "spiegel.de": {
+    "genome": 212,
+    "FIV": 2,
+    "genes": 2,
+    "embryon": 6,
+    "bayer": 12
+  },
+  "independent.co.uk": {
+    "genome": 156,
+    "genes": 1237,
+    "embryon": 14,
+    "clonage": 212,
+    "bayer": 14,
+    "transgenetique": 42,
+    "vache_folle": 16
+  },
+  "auxurnescitoyens.com": {
+    "genome": 94,
+    "chretien": 332,
+    "telethon": 5
+  },
+  "roberthue2002.net": {
+    "genome": 89,
+    "FIV": 127,
+    "genes": 284,
+    "chretien": 193,
+    "brevets": 337,
+    "embryon": 139,
+    "clonage": 369,
+    "telethon": 40,
+    "vache_folle": 315,
+    "avortement": 94,
+    "bioethique": 561,
+    "souches": 74
+  },
+  "corriere.it": {
+    "genome": 84,
+    "FIV": 9,
+    "genes": 68,
+    "chretien": 16,
+    "brevets": 74,
+    "clonage": 73,
+    "bayer": 4,
+    "transgenetique": 30,
+    "vache_folle": 146
+  },
+  "parti-socialiste.fr": {
+    "genome": 76,
+    "FIV": 120,
+    "genes": 6186,
+    "chretien": 5288,
+    "brevets": 5874,
+    "embryon": 256,
+    "clonage": 776,
+    "transgenetique": 204,
+    "telethon": 391,
+    "vache_folle": 3945,
+    "avortement": 9042,
+    "bioethique": 254,
+    "souches": 232
+  },
+  "corinne-lepage.com": {
+    "genome": 70,
+    "genes": 702,
+    "chretien": 68,
+    "brevets": 578,
+    "embryon": 38,
+    "clonage": 110,
+    "ogm": 39,
+    "transgenetique": 179,
+    "vache_folle": 1046,
+    "avortement": 35,
+    "bioethique": 35,
+    "souches": 72
+  },
+  "skynet.be": {
+    "genome": 64,
+    "FIV": 56,
+    "genes": 28,
+    "chretien": 676,
+    "brevets": 28,
+    "clonage": 30,
+    "transgenetique": 10,
+    "vache_folle": 78,
+    "avortement": 42,
+    "bioethique": 2,
+    "souches": 358
+  },
+  "olivierbesancenot.org": {
+    "genome": 48,
+    "genes": 176,
+    "chretien": 70,
+    "brevets": 216,
+    "clonage": 64,
+    "ogm": 32,
+    "transgenetique": 64,
+    "vache_folle": 220,
+    "avortement": 192,
+    "souches": 56
+  },
+  "sueddeutsche.de": {
+    "genome": 44,
+    "genes": 5,
+    "embryon": 138,
+    "bayer": 40,
+    "vache_folle": 5
+  },
+  "nouvelledonne.net": {
+    "genome": 40,
+    "genes": 44,
+    "chretien": 28,
+    "brevets": 60,
+    "embryon": 32,
+    "vache_folle": 16,
+    "avortement": 28
+  },
+  "planeteradicale.org": {
+    "genome": 36,
+    "FIV": 142,
+    "genes": 374,
+    "chretien": 600,
+    "brevets": 174,
+    "embryon": 444,
+    "clonage": 240,
+    "transgenetique": 67,
+    "vache_folle": 269,
+    "avortement": 323,
+    "bioethique": 255,
+    "souches": 111
+  },
+  "2002enseignement-recherche.net": {
+    "genome": 27,
+    "genes": 38,
+    "brevets": 30,
+    "telethon": 32,
+    "vache_folle": 38,
+    "bioethique": 38
+  },
+  "christianetaubira.org": {
+    "genome": 24,
+    "FIV": 92,
+    "genes": 214,
+    "chretien": 359,
+    "brevets": 96,
+    "embryon": 269,
+    "clonage": 142,
+    "transgenetique": 44,
+    "vache_folle": 167,
+    "avortement": 223,
+    "bioethique": 157,
+    "souches": 71
+  },
+  "aschieri.net": {
+    "genome": 20,
+    "FIV": 10,
+    "genes": 143,
+    "chretien": 10,
+    "brevets": 72,
+    "embryon": 20,
+    "clonage": 10,
+    "ogm": 10,
+    "transgenetique": 21,
+    "vache_folle": 132,
+    "avortement": 10,
+    "bioethique": 30,
+    "souches": 10
+  },
+  "expression-publique.com": {
+    "genome": 18,
+    "brevets": 3,
+    "embryon": 18,
+    "clonage": 18,
+    "bioethique": 18
+  },
+  "sclerose-en-plaques.com.fr": {
+    "genome": 12,
+    "FIV": 4,
+    "genes": 56,
+    "brevets": 4,
+    "clonage": 12,
+    "telethon": 4,
+    "vache_folle": 4
+  },
+  "herve-morin.net": {
+    "genome": 8,
+    "genes": 8,
+    "brevets": 16,
+    "clonage": 4,
+    "vache_folle": 140,
+    "avortement": 12
+  },
+  "nrc.nl": {
+    "genome": 8
+  },
+  "alternatifs.org": {
+    "genome": 6,
+    "FIV": 6,
+    "genes": 60,
+    "chretien": 51,
+    "brevets": 24,
+    "clonage": 18,
+    "transgenetique": 12,
+    "vache_folle": 60,
+    "avortement": 18,
+    "souches": 6
+  },
+  "hellier2002.com": {
+    "genome": 6,
+    "FIV": 6,
+    "genes": 12,
+    "brevets": 12,
+    "embryon": 6,
+    "clonage": 6,
+    "ogm": 6,
+    "vache_folle": 12,
+    "bioethique": 18,
+    "souches": 6
+  },
+  "nzz.ch": {
+    "genome": 6,
+    "vache_folle": 2
+  },
+  "laurent-dominati.net": {
+    "genome": 5,
+    "FIV": 13,
+    "genes": 5,
+    "chretien": 37,
+    "brevets": 21,
+    "embryon": 18,
+    "ogm": 5,
+    "telethon": 8,
+    "vache_folle": 34,
+    "bioethique": 5
+  },
+  "lemulot.com": {
+    "genome": 5,
+    "FIV": 15,
+    "genes": 35,
+    "chretien": 34,
+    "brevets": 51,
+    "embryon": 5,
+    "clonage": 85,
+    "transgenetique": 5,
+    "telethon": 10,
+    "vache_folle": 32,
+    "avortement": 15,
+    "bioethique": 10,
+    "souches": 12
+  },
+  "ps-paris15mitterrand.org": {
+    "genome": 5,
+    "genes": 8,
+    "chretien": 13,
+    "brevets": 10,
+    "embryon": 8,
+    "clonage": 10,
+    "vache_folle": 11,
+    "avortement": 5,
+    "bioethique": 20
+  },
+  "ajc.net": {
+    "genome": 4,
+    "FIV": 12,
+    "genes": 28,
+    "chretien": 28,
+    "brevets": 44,
+    "embryon": 4,
+    "clonage": 68,
+    "transgenetique": 4,
+    "telethon": 8,
+    "vache_folle": 32,
+    "avortement": 12,
+    "bioethique": 8,
+    "souches": 12
+  },
+  "andre-gerin-depute.net": {
+    "genome": 4,
+    "FIV": 4,
+    "genes": 12,
+    "brevets": 28,
+    "embryon": 4,
+    "clonage": 4,
+    "bayer": 12,
+    "vache_folle": 24,
+    "bioethique": 12,
+    "souches": 4
+  },
+  "davidlorion.net": {
+    "genome": 4,
+    "genes": 4,
+    "chretien": 12,
+    "clonage": 4
+  },
+  "fromion.org": {
+    "genome": 4,
+    "FIV": 4,
+    "genes": 8,
+    "clonage": 4,
+    "vache_folle": 16,
+    "souches": 4
+  },
+  "prg-2b.org": {
+    "genome": 4,
+    "chretien": 8,
+    "brevets": 8,
+    "embryon": 12,
+    "telethon": 4,
+    "vache_folle": 8
+  },
+  "emmanuelle-prouet.org": {
+    "genome": 3,
+    "FIV": 3,
+    "genes": 3,
+    "brevets": 3,
+    "embryon": 3,
+    "clonage": 3,
+    "vache_folle": 3,
+    "bioethique": 9,
+    "souches": 3
+  },
+  "2002pourlafrance.net": {
+    "genome": 2,
+    "genes": 449,
+    "chretien": 430,
+    "brevets": 54,
+    "clonage": 24,
+    "transgenetique": 2,
+    "telethon": 6,
+    "vache_folle": 754,
+    "avortement": 130,
+    "bioethique": 4,
+    "souches": 142
+  },
+  "ambafrance-il.org": {
+    "genome": 2,
+    "genes": 16,
+    "chretien": 62,
+    "brevets": 4,
+    "embryon": 8,
+    "clonage": 4,
+    "ogm": 2,
+    "bayer": 2,
+    "vache_folle": 18,
+    "avortement": 16,
+    "souches": 2
+  },
+  "bilanchirac.net": {
+    "genome": 2,
+    "FIV": 2,
+    "genes": 2,
+    "chretien": 44,
+    "brevets": 9,
+    "embryon": 8,
+    "transgenetique": 9,
+    "vache_folle": 53,
+    "avortement": 21,
+    "souches": 2
+  },
+  "pcf-rhone.net": {
+    "genome": 2,
+    "FIV": 2,
+    "genes": 6,
+    "chretien": 8,
+    "brevets": 2,
+    "embryon": 2,
+    "clonage": 2,
+    "ogm": 2,
+    "vache_folle": 6,
+    "avortement": 4
+  },
+  "ps-nord.org": {
+    "genome": 2,
+    "brevets": 4,
+    "vache_folle": 8,
+    "bioethique": 2
+  },
+  "voxlatina.com": {
+    "genome": 2,
+    "FIV": 4,
+    "genes": 8,
+    "chretien": 14,
+    "brevets": 80,
+    "embryon": 4,
+    "clonage": 2,
+    "ogm": 2,
+    "transgenetique": 2,
+    "vache_folle": 2,
+    "avortement": 4,
+    "souches": 4
+  },
+  "welt.de": {
+    "genome": 2
+  },
+  "daniel-lebigot.net": {
+    "genome": 1,
+    "brevets": 1
+  },
+  "e1789.com": {
+    "FIV": 182,
+    "genes": 1741,
+    "chretien": 976,
+    "brevets": 18,
+    "embryon": 132,
+    "clonage": 3283,
+    "telethon": 72,
+    "vache_folle": 1645,
+    "avortement": 917,
+    "bioethique": 274,
+    "souches": 505
+  },
+  "voixdujura.fr": {
+    "FIV": 104,
+    "genes": 60,
+    "chretien": 17052,
+    "brevets": 172,
+    "embryon": 42,
+    "clonage": 34,
+    "transgenetique": 2,
+    "telethon": 116,
+    "vache_folle": 858,
+    "avortement": 12,
+    "souches": 72
+  },
+  "ipsos.fr": {
+    "FIV": 63,
+    "genes": 162,
+    "chretien": 104,
+    "brevets": 26,
+    "clonage": 52,
+    "ogm": 19,
+    "vache_folle": 117,
+    "avortement": 26
+  },
+  "place-publique.fr": {
+    "FIV": 52,
+    "genes": 174,
+    "chretien": 196,
+    "brevets": 158,
+    "embryon": 56,
+    "clonage": 12,
+    "transgenetique": 28,
+    "telethon": 24,
+    "vache_folle": 70,
+    "avortement": 40,
+    "souches": 10
+  },
+  "interieur.gouv.fr": {
+    "FIV": 50,
+    "genes": 44,
+    "chretien": 50,
+    "brevets": 81,
+    "bayer": 30,
+    "vache_folle": 70
+  },
+  "infoceane.com": {
+    "FIV": 44,
+    "genes": 14,
+    "chretien": 14,
+    "brevets": 28,
+    "vache_folle": 14
+  },
+  "politique-opinion.com": {
+    "FIV": 43,
+    "vache_folle": 2
+  },
+  "net-campagne.net": {
+    "FIV": 42,
+    "genes": 27,
+    "chretien": 22,
+    "brevets": 34,
+    "embryon": 27,
+    "clonage": 4,
+    "vache_folle": 25,
+    "avortement": 38,
+    "souches": 27
+  },
+  "service-public.fr": {
+    "FIV": 32,
+    "genes": 42,
+    "brevets": 32,
+    "embryon": 16,
+    "clonage": 16,
+    "vache_folle": 32,
+    "bioethique": 16
+  },
+  "ternova.com": {
+    "FIV": 30,
+    "chretien": 104
+  },
+  "libanvision.com": {
+    "FIV": 28,
+    "chretien": 64,
+    "brevets": 7,
+    "vache_folle": 14,
+    "avortement": 14,
+    "bioethique": 7
+  },
+  "oumma.com": {
+    "FIV": 28,
+    "genes": 10,
+    "chretien": 182,
+    "brevets": 2,
+    "embryon": 40,
+    "clonage": 4,
+    "vache_folle": 38,
+    "avortement": 4,
+    "bioethique": 2,
+    "souches": 20
+  },
+  "lavoixdunord.fr": {
+    "FIV": 24,
+    "genes": 16,
+    "chretien": 12,
+    "brevets": 12,
+    "embryon": 8,
+    "clonage": 12,
+    "transgenetique": 4,
+    "vache_folle": 20,
+    "avortement": 12,
+    "bioethique": 20,
+    "souches": 4
+  },
+  "patrickbloche.org": {
+    "FIV": 24,
+    "chretien": 40,
+    "embryon": 8,
+    "souches": 40
+  },
+  "cnip.asso.fr": {
+    "FIV": 17
+  },
+  "gayaube.com": {
+    "FIV": 16,
+    "genes": 8,
+    "chretien": 20,
+    "brevets": 2,
+    "clonage": 4,
+    "vache_folle": 60,
+    "bioethique": 4
+  },
+  "lejsl.com": {
+    "FIV": 16,
+    "chretien": 4
+  },
+  "abc-politique.com": {
+    "FIV": 15,
+    "chretien": 31,
+    "brevets": 30,
+    "embryon": 15,
+    "vache_folle": 45,
+    "avortement": 61,
+    "bioethique": 15
+  },
+  "lesmauves.org": {
+    "FIV": 14,
+    "chretien": 42,
+    "clonage": 14,
+    "vache_folle": 14,
+    "avortement": 14,
+    "bioethique": 28
+  },
+  "bilanjospin.com": {
+    "FIV": 12,
+    "chretien": 17,
+    "brevets": 17,
+    "transgenetique": 17,
+    "vache_folle": 68,
+    "avortement": 17
+  },
+  "francaix-michel.nom.fr": {
+    "FIV": 12,
+    "genes": 8,
+    "chretien": 72,
+    "embryon": 8,
+    "clonage": 16,
+    "telethon": 48,
+    "vache_folle": 24,
+    "bioethique": 16
+  },
+  "pslegislativeneuillyputeaux.com": {
+    "FIV": 12,
+    "brevets": 12,
+    "vache_folle": 12
+  },
+  "tetu.com": {
+    "FIV": 12,
+    "genes": 12,
+    "chretien": 68,
+    "brevets": 8,
+    "clonage": 4,
+    "bayer": 4,
+    "transgenetique": 40,
+    "vache_folle": 12,
+    "avortement": 26,
+    "souches": 4
+  },
+  "versdemain.com": {
+    "FIV": 12,
+    "chretien": 28,
+    "clonage": 20,
+    "vache_folle": 68,
+    "avortement": 12
+  },
+  "lautre.net": {
+    "FIV": 10,
+    "genes": 2,
+    "brevets": 12,
+    "transgenetique": 12,
+    "vache_folle": 12,
+    "avortement": 30
+  },
+  "clicanoo.com": {
+    "FIV": 9,
+    "genes": 7,
+    "chretien": 226,
+    "brevets": 10,
+    "embryon": 7,
+    "clonage": 2,
+    "vache_folle": 16,
+    "avortement": 12,
+    "souches": 6
+  },
+  "81.80.37.164": {
+    "FIV": 8
+  },
+  "citoyen95.org": {
+    "FIV": 8,
+    "genes": 8,
+    "transgenetique": 8
+  },
+  "fcpe.asso.fr": {
+    "FIV": 8,
+    "genes": 4,
+    "chretien": 4,
+    "brevets": 32,
+    "telethon": 4,
+    "vache_folle": 4
+  },
+  "fnmr.asso.fr": {
+    "FIV": 8,
+    "genes": 8,
+    "chretien": 4,
+    "vache_folle": 25
+  },
+  "jpblazy-depute.org": {
+    "FIV": 8,
+    "genes": 8,
+    "chretien": 24,
+    "brevets": 12,
+    "vache_folle": 8,
+    "souches": 24
+  },
+  "mathieu-obadia.info": {
+    "FIV": 8,
+    "genes": 8,
+    "chretien": 9,
+    "brevets": 8,
+    "embryon": 8,
+    "clonage": 8,
+    "avortement": 8,
+    "bioethique": 8
+  },
+  "qrd.org": {
+    "FIV": 8,
+    "genes": 22,
+    "chretien": 58,
+    "brevets": 4,
+    "embryon": 18,
+    "transgenetique": 24,
+    "vache_folle": 10,
+    "avortement": 20
+  },
+  "leparisien.fr": {
+    "FIV": 7,
+    "chretien": 15,
+    "embryon": 25,
+    "clonage": 15,
+    "telethon": 5,
+    "vache_folle": 30,
+    "avortement": 10,
+    "souches": 5
+  },
+  "aricia.fr": {
+    "FIV": 6,
+    "genes": 10,
+    "brevets": 10,
+    "vache_folle": 41
+  },
+  "courrier-picard.fr": {
+    "FIV": 6,
+    "genes": 2,
+    "chretien": 98,
+    "brevets": 2
+  },
+  "isabelle-galesne.net": {
+    "FIV": 6,
+    "genes": 2,
+    "brevets": 2,
+    "clonage": 2,
+    "bioethique": 2
+  },
+  "isabelledehouck.com": {
+    "FIV": 6,
+    "genes": 6,
+    "embryon": 6,
+    "clonage": 6,
+    "bioethique": 12,
+    "souches": 6
+  },
+  "lesbeursavecchirac.com": {
+    "FIV": 6,
+    "genes": 8,
+    "chretien": 8
+  },
+  "lesbleus-gemarseille.com": {
+    "FIV": 6,
+    "genes": 28,
+    "brevets": 6,
+    "clonage": 12,
+    "bioethique": 6
+  },
+  "mnr-sartrouville.com": {
+    "FIV": 6,
+    "souches": 8
+  },
+  "agitateur.org": {
+    "FIV": 5,
+    "genes": 27,
+    "chretien": 12,
+    "brevets": 33,
+    "clonage": 6,
+    "transgenetique": 10,
+    "vache_folle": 40
+  },
+  "aol.fr": {
+    "FIV": 4,
+    "chretien": 10,
+    "brevets": 4,
+    "vache_folle": 8
+  },
+  "bienpublic.com": {
+    "FIV": 4,
+    "vache_folle": 10
+  },
+  "bizland.com": {
+    "FIV": 4,
+    "genes": 12,
+    "chretien": 16,
+    "clonage": 4,
+    "souches": 20
+  },
+  "cahiers-pedagogiques.com": {
+    "FIV": 4,
+    "genes": 6,
+    "chretien": 10,
+    "brevets": 16,
+    "embryon": 2,
+    "clonage": 6,
+    "vache_folle": 6,
+    "avortement": 4,
+    "bioethique": 2,
+    "souches": 2
+  },
+  "caullet.net": {
+    "FIV": 4,
+    "genes": 6,
+    "brevets": 2,
+    "embryon": 2,
+    "clonage": 2,
+    "vache_folle": 36,
+    "avortement": 2,
+    "bioethique": 2,
+    "souches": 2
+  },
+  "conscience-politique.org": {
+    "FIV": 4,
+    "vache_folle": 81,
+    "souches": 16
+  },
+  "lesechos.fr": {
+    "FIV": 4,
+    "genes": 13,
+    "chretien": 2,
+    "brevets": 39,
+    "clonage": 18,
+    "vache_folle": 64,
+    "avortement": 16,
+    "bioethique": 26
+  },
+  "lexpress.presse.fr": {
+    "FIV": 4,
+    "genes": 4,
+    "chretien": 4,
+    "vache_folle": 4,
+    "souches": 8
+  },
+  "lutte-ouvriere-centre.org": {
+    "FIV": 4,
+    "vache_folle": 4
+  },
+  "lutte-ouvriere.org": {
+    "FIV": 4,
+    "genes": 33,
+    "chretien": 92,
+    "brevets": 4,
+    "ogm": 33,
+    "bayer": 10,
+    "telethon": 33,
+    "vache_folle": 259
+  },
+  "perben.com": {
+    "FIV": 4
+  },
+  "tony-dreyfus.org": {
+    "FIV": 4,
+    "genes": 4,
+    "clonage": 4,
+    "bioethique": 4
+  },
+  "uni.asso.fr": {
+    "FIV": 4,
+    "brevets": 4,
+    "vache_folle": 8,
+    "avortement": 2,
+    "bioethique": 4
+  },
+  "homme-moderne.org": {
+    "FIV": 3,
+    "genes": 5,
+    "chretien": 2,
+    "embryon": 2,
+    "vache_folle": 7,
+    "souches": 3
+  },
+  "cplus.fr": {
+    "FIV": 2
+  },
+  "dualpha.com": {
+    "FIV": 2,
+    "chretien": 19,
+    "clonage": 2,
+    "vache_folle": 16,
+    "souches": 5
+  },
+  "figaro.net": {
+    "FIV": 2,
+    "genes": 10,
+    "chretien": 73,
+    "brevets": 2,
+    "embryon": 12,
+    "clonage": 16,
+    "vache_folle": 38,
+    "avortement": 16,
+    "bioethique": 5
+  },
+  "francetv.fr": {
+    "FIV": 2,
+    "genes": 10,
+    "chretien": 15,
+    "brevets": 4,
+    "clonage": 2,
+    "bayer": 20,
+    "transgenetique": 4,
+    "telethon": 14,
+    "vache_folle": 7,
+    "avortement": 6,
+    "bioethique": 2
+  },
+  "gay.com": {
+    "FIV": 2,
+    "chretien": 6
+  },
+  "globenet.org": {
+    "FIV": 2,
+    "genes": 4,
+    "chretien": 6,
+    "transgenetique": 2,
+    "vache_folle": 16
+  },
+  "godfrain.net": {
+    "FIV": 2,
+    "chretien": 2
+  },
+  "jean-marc-nesme.com": {
+    "FIV": 2,
+    "genes": 2,
+    "clonage": 2,
+    "vache_folle": 2,
+    "bioethique": 2
+  },
+  "legislativesps69.org": {
+    "FIV": 2,
+    "genes": 9,
+    "chretien": 9,
+    "clonage": 2,
+    "vache_folle": 2,
+    "bioethique": 2,
+    "souches": 7
+  },
+  "midilibre.com": {
+    "FIV": 2,
+    "genes": 14,
+    "chretien": 26,
+    "clonage": 14,
+    "vache_folle": 62,
+    "avortement": 20,
+    "souches": 28
+  },
+  "mjwiemert2002.net": {
+    "FIV": 2,
+    "genes": 2,
+    "embryon": 2,
+    "clonage": 2,
+    "vache_folle": 2,
+    "bioethique": 2,
+    "souches": 2
+  },
+  "nonalahaine.net": {
+    "FIV": 2,
+    "genes": 2,
+    "chretien": 10,
+    "brevets": 2,
+    "embryon": 2,
+    "clonage": 2,
+    "vache_folle": 106,
+    "avortement": 10
+  },
+  "nouvelobs.com": {
+    "FIV": 2,
+    "genes": 8,
+    "chretien": 14,
+    "clonage": 6,
+    "telethon": 2,
+    "vache_folle": 28,
+    "avortement": 6,
+    "souches": 40
+  },
+  "uniondesvictimesdeletat.com": {
+    "FIV": 2,
+    "genes": 2,
+    "clonage": 2,
+    "transgenetique": 2,
+    "vache_folle": 2,
+    "avortement": 4,
+    "bioethique": 2
+  },
+  "verts87.org": {
+    "FIV": 2,
+    "chretien": 2,
+    "brevets": 2
+  },
+  "lepen.tv": {
+    "FIV": 1,
+    "genes": 2,
+    "brevets": 3,
+    "vache_folle": 3,
+    "avortement": 1
+  },
+  "pierre-albertini.com": {
+    "FIV": 1,
+    "clonage": 4,
+    "vache_folle": 1,
+    "bioethique": 3
+  },
+  "scolanet.org": {
+    "FIV": 1,
+    "chretien": 3
+  },
+  "puzzletfactory.com": {
+    "genes": 446,
+    "chretien": 8,
+    "vache_folle": 114
+  },
+  "electionsverts.org": {
+    "genes": 104,
+    "brevets": 104,
+    "embryon": 52,
+    "clonage": 52,
+    "transgenetique": 26,
+    "vache_folle": 126,
+    "souches": 26
+  },
+  "csa-tmo.fr": {
+    "genes": 90,
+    "chretien": 75,
+    "embryon": 30,
+    "clonage": 15,
+    "transgenetique": 30,
+    "vache_folle": 326,
+    "avortement": 15
+  },
+  "avecchirac.com": {
+    "genes": 58,
+    "chretien": 4,
+    "telethon": 20,
+    "vache_folle": 44,
+    "souches": 28
+  },
+  "chirac33.org": {
+    "genes": 44,
+    "brevets": 22,
+    "vache_folle": 44
+  },
+  "forum-citoyen.com": {
+    "genes": 44,
+    "brevets": 29,
+    "embryon": 18,
+    "vache_folle": 22,
+    "bioethique": 9
+  },
+  "ps-gironde.org": {
+    "genes": 42,
+    "bioethique": 6
+  },
+  "rabhi2002.net": {
+    "genes": 42,
+    "chretien": 14,
+    "clonage": 4,
+    "vache_folle": 14
+  },
+  "lapetition.com": {
+    "genes": 36,
+    "chretien": 10,
+    "brevets": 36,
+    "embryon": 30,
+    "clonage": 8,
+    "vache_folle": 6,
+    "souches": 30
+  },
+  "legraindesable.com": {
+    "genes": 36,
+    "chretien": 48,
+    "brevets": 12,
+    "clonage": 24,
+    "ogm": 6,
+    "vache_folle": 18,
+    "avortement": 18,
+    "souches": 6
+  },
+  "lipietz2002.net": {
+    "genes": 32,
+    "chretien": 18,
+    "clonage": 18,
+    "vache_folle": 26,
+    "avortement": 26
+  },
+  "miguet2002.com": {
+    "genes": 28,
+    "embryon": 28,
+    "vache_folle": 36
+  },
+  "jeunes-communistes.org": {
+    "genes": 24,
+    "chretien": 186,
+    "brevets": 24,
+    "vache_folle": 18,
+    "avortement": 178,
+    "souches": 178
+  },
+  "aliceleroy.org": {
+    "genes": 20,
+    "vache_folle": 6
+  },
+  "alainmadelin.com": {
+    "genes": 18,
+    "chretien": 34,
+    "brevets": 25,
+    "embryon": 5,
+    "vache_folle": 65,
+    "souches": 68
+  },
+  "sitemestre.net": {
+    "genes": 18,
+    "transgenetique": 9,
+    "vache_folle": 36,
+    "avortement": 9
+  },
+  "saintjosse2002.net": {
+    "genes": 17,
+    "transgenetique": 25,
+    "vache_folle": 82
+  },
+  "bernarddeflesselles.com": {
+    "genes": 16,
+    "brevets": 32,
+    "transgenetique": 16,
+    "vache_folle": 16
+  },
+  "charlescova.com": {
+    "genes": 16
+  },
+  "francois-rochebloine.com": {
+    "genes": 16,
+    "brevets": 16,
+    "clonage": 8,
+    "vache_folle": 16,
+    "avortement": 16,
+    "bioethique": 8
+  },
+  "politis.fr": {
+    "genes": 16,
+    "chretien": 32,
+    "brevets": 8,
+    "embryon": 16,
+    "vache_folle": 16,
+    "souches": 8
+  },
+  "renaudmuselier.com": {
+    "genes": 16,
+    "chretien": 10,
+    "bioethique": 4
+  },
+  "france-elections.net": {
+    "genes": 14
+  },
+  "martinebillard2002.net": {
+    "genes": 14,
+    "brevets": 5,
+    "embryon": 5,
+    "clonage": 5,
+    "ogm": 5,
+    "transgenetique": 5,
+    "vache_folle": 14,
+    "avortement": 9,
+    "souches": 5
+  },
+  "naturellement-a-gauche.org": {
+    "genes": 14,
+    "brevets": 2,
+    "embryon": 2,
+    "clonage": 2,
+    "ogm": 2,
+    "transgenetique": 2,
+    "vache_folle": 10,
+    "souches": 2
+  },
+  "lesfemmesavecchirac.com": {
+    "genes": 13,
+    "vache_folle": 15
+  },
+  "195.246.155.17": {
+    "genes": 12,
+    "chretien": 102,
+    "vache_folle": 12,
+    "avortement": 10,
+    "bioethique": 12,
+    "souches": 24
+  },
+  "internationalism.org": {
+    "genes": 12,
+    "chretien": 22,
+    "embryon": 12,
+    "vache_folle": 36,
+    "avortement": 12,
+    "souches": 6
+  },
+  "les-verts-du-montargois.org": {
+    "genes": 12,
+    "chretien": 4,
+    "clonage": 4,
+    "vache_folle": 28
+  },
+  "lionnel-luca.org": {
+    "genes": 12,
+    "clonage": 4,
+    "bayer": 8,
+    "transgenetique": 8,
+    "vache_folle": 4,
+    "bioethique": 8
+  },
+  "e-boyer.org": {
+    "genes": 10,
+    "chretien": 16,
+    "brevets": 8,
+    "clonage": 8
+  },
+  "jeanlouisjoseph.com": {
+    "genes": 10,
+    "chretien": 10,
+    "brevets": 16,
+    "transgenetique": 10
+  },
+  "213.186.36.114": {
+    "genes": 8,
+    "transgenetique": 4,
+    "vache_folle": 16,
+    "avortement": 4
+  },
+  "aris.asso.fr": {
+    "genes": 8,
+    "chretien": 16,
+    "transgenetique": 8,
+    "vache_folle": 8,
+    "avortement": 16
+  },
+  "estrosi.com": {
+    "genes": 8,
+    "chretien": 8,
+    "brevets": 8,
+    "ogm": 8,
+    "avortement": 16
+  },
+  "laprovence-presse.fr": {
+    "genes": 8,
+    "chretien": 8,
+    "transgenetique": 4,
+    "vache_folle": 8
+  },
+  "lesverts-rennes.org": {
+    "genes": 8,
+    "chretien": 4,
+    "transgenetique": 4,
+    "vache_folle": 40
+  },
+  "marcalbouy.org": {
+    "genes": 8,
+    "vache_folle": 8,
+    "bioethique": 8
+  },
+  "ovh.org": {
+    "genes": 8,
+    "ogm": 4,
+    "transgenetique": 4,
+    "vache_folle": 4
+  },
+  "aol.com": {
+    "genes": 7,
+    "chretien": 6,
+    "transgenetique": 1,
+    "vache_folle": 9
+  },
+  "annuaire-au-feminin.tm.fr": {
+    "genes": 6,
+    "chretien": 40,
+    "brevets": 4,
+    "clonage": 2,
+    "transgenetique": 2,
+    "vache_folle": 8,
+    "avortement": 20,
+    "bioethique": 6,
+    "souches": 2
+  },
+  "claude-goasguen.org": {
+    "genes": 6,
+    "chretien": 102
+  },
+  "lyon-dubernard.com": {
+    "genes": 6,
+    "chretien": 6,
+    "brevets": 9,
+    "bioethique": 12
+  },
+  "politiquementnet.fr": {
+    "genes": 6,
+    "clonage": 6
+  },
+  "leguerinel.com": {
+    "genes": 5,
+    "clonage": 5,
+    "bioethique": 5
+  },
+  "agnesgc.net": {
+    "genes": 4,
+    "chretien": 4,
+    "brevets": 4
+  },
+  "anti-rev.org": {
+    "genes": 4,
+    "chretien": 4,
+    "vache_folle": 4,
+    "avortement": 20,
+    "bioethique": 4,
+    "souches": 12
+  },
+  "axeria.com": {
+    "genes": 4,
+    "clonage": 4,
+    "transgenetique": 4,
+    "vache_folle": 4,
+    "bioethique": 4
+  },
+  "claudeliebermann.com": {
+    "genes": 4
+  },
+  "d-paille-udf.org": {
+    "genes": 4,
+    "chretien": 6,
+    "brevets": 4,
+    "vache_folle": 26
+  },
+  "dominique-martin.com": {
+    "genes": 4,
+    "vache_folle": 8,
+    "souches": 4
+  },
+  "fresh-agency.net": {
+    "genes": 4,
+    "brevets": 4,
+    "clonage": 4,
+    "vache_folle": 4,
+    "bioethique": 4
+  },
+  "h-arevalo.org": {
+    "genes": 4
+  },
+  "journaldespresidentielles.com": {
+    "genes": 4,
+    "chretien": 21,
+    "brevets": 13,
+    "embryon": 1,
+    "clonage": 8,
+    "vache_folle": 22,
+    "avortement": 6,
+    "bioethique": 17
+  },
+  "laurentfeutry.com": {
+    "genes": 4,
+    "brevets": 4,
+    "vache_folle": 4
+  },
+  "lutte-ouvriere-midi-pyrenees.org": {
+    "genes": 4,
+    "souches": 4
+  },
+  "luttes-etudiantes.com": {
+    "genes": 4,
+    "transgenetique": 4
+  },
+  "philippe-folliot.com": {
+    "genes": 4,
+    "chretien": 2
+  },
+  "pierre-morange.com": {
+    "genes": 4
+  },
+  "ps65.org": {
+    "genes": 4
+  },
+  "rpf-06.org": {
+    "genes": 4
+  },
+  "stelia.net": {
+    "genes": 4,
+    "chretien": 4,
+    "bioethique": 140,
+    "souches": 4
+  },
+  "libertysurf.fr": {
+    "genes": 3,
+    "souches": 2
+  },
+  "mi-2002.com": {
+    "genes": 3,
+    "brevets": 2,
+    "clonage": 2,
+    "vache_folle": 2
+  },
+  "afaa.asso.fr": {
+    "genes": 2,
+    "chretien": 2,
+    "clonage": 2,
+    "vache_folle": 8,
+    "avortement": 4
+  },
+  "emmanuel-hamelin.com": {
+    "genes": 2
+  },
+  "emploi-design.com": {
+    "genes": 2,
+    "avortement": 6
+  },
+  "fnjeunesse.com": {
+    "genes": 2,
+    "vache_folle": 2,
+    "avortement": 4
+  },
+  "jacquesberthelot.com": {
+    "genes": 2
+  },
+  "mjs49.org": {
+    "genes": 2,
+    "chretien": 2,
+    "brevets": 2,
+    "embryon": 6,
+    "clonage": 2,
+    "ogm": 2,
+    "telethon": 4,
+    "vache_folle": 2,
+    "avortement": 2
+  },
+  "planetecologie.org": {
+    "genes": 2,
+    "brevets": 2,
+    "transgenetique": 2,
+    "vache_folle": 2,
+    "avortement": 2
+  },
+  "psangers.org": {
+    "genes": 2,
+    "brevets": 2,
+    "embryon": 2,
+    "clonage": 2,
+    "vache_folle": 2,
+    "bioethique": 2,
+    "souches": 2
+  },
+  "rpr21.org": {
+    "genes": 2,
+    "ogm": 2,
+    "vache_folle": 4
+  },
+  "socialiste-martinique.mq": {
+    "genes": 2
+  },
+  "soubien.net": {
+    "genes": 2,
+    "brevets": 12,
+    "embryon": 2,
+    "clonage": 2,
+    "ogm": 2,
+    "transgenetique": 2,
+    "vache_folle": 2,
+    "souches": 2
+  },
+  "syndicat-enseignants.org": {
+    "genes": 2,
+    "brevets": 1
+  },
+  "verts-yvelines.org": {
+    "genes": 2,
+    "chretien": 2,
+    "transgenetique": 2,
+    "avortement": 2
+  },
+  "verts.net": {
+    "genes": 2
+  },
+  "vertsbesancon2002.org": {
+    "genes": 2,
+    "brevets": 2,
+    "vache_folle": 4
+  },
+  "vertsdesevres.net": {
+    "genes": 2,
+    "vache_folle": 6
+  },
+  "confederationpaysanne.fr": {
+    "genes": 1,
+    "brevets": 1,
+    "vache_folle": 5
+  },
+  "francinebavay.net": {
+    "genes": 1,
+    "brevets": 3,
+    "embryon": 1,
+    "clonage": 1,
+    "ogm": 1,
+    "transgenetique": 1,
+    "vache_folle": 1,
+    "souches": 1
+  },
+  "gerardborvon.org": {
+    "genes": 1,
+    "vache_folle": 3
+  },
+  "centrefrance.com": {
+    "chretien": 632
+  },
+  "cftc.fr": {
+    "chretien": 431
+  },
+  "jeunesavecmadelin.com": {
+    "chretien": 140,
+    "brevets": 72,
+    "vache_folle": 233
+  },
+  "moutoussamy.com": {
+    "chretien": 112,
+    "avortement": 72
+  },
+  "depute-dumoulin.com": {
+    "chretien": 84,
+    "brevets": 8
+  },
+  "paris-normandie.fr": {
+    "chretien": 59
+  },
+  "pole-republicain.org": {
+    "chretien": 46
+  },
+  "comparini.net": {
+    "chretien": 36,
+    "clonage": 4,
+    "bioethique": 4,
+    "souches": 4
+  },
+  "force-ouvriere.fr": {
+    "chretien": 30,
+    "brevets": 4,
+    "embryon": 4,
+    "souches": 16
+  },
+  "presidentielles.org": {
+    "chretien": 28,
+    "vache_folle": 18,
+    "souches": 12
+  },
+  "paris-normandie.com": {
+    "chretien": 27
+  },
+  "amipublic.com": {
+    "chretien": 26,
+    "brevets": 26,
+    "embryon": 16,
+    "vache_folle": 8,
+    "avortement": 14
+  },
+  "frederic-esquevin.org": {
+    "chretien": 24
+  },
+  "ifop.com": {
+    "chretien": 24,
+    "clonage": 56,
+    "vache_folle": 84
+  },
+  "monclocher.com": {
+    "chretien": 20,
+    "brevets": 5
+  },
+  "admi.net": {
+    "chretien": 19,
+    "embryon": 40,
+    "avortement": 19
+  },
+  "sofres.com": {
+    "chretien": 18,
+    "avortement": 12
+  },
+  "3revolution.com": {
+    "chretien": 17
+  },
+  "elysee.org": {
+    "chretien": 17,
+    "vache_folle": 17
+  },
+  "scorbut.be": {
+    "chretien": 16,
+    "vache_folle": 34,
+    "avortement": 2
+  },
+  "nordnet.fr": {
+    "chretien": 15,
+    "brevets": 10,
+    "clonage": 5,
+    "vache_folle": 5
+  },
+  "francisdemay.org": {
+    "chretien": 14
+  },
+  "cisonline.org": {
+    "chretien": 12,
+    "brevets": 4,
+    "vache_folle": 2
+  },
+  "ledroitpublic.com": {
+    "chretien": 12
+  },
+  "udf-aix.org": {
+    "chretien": 12,
+    "brevets": 4,
+    "embryon": 8,
+    "clonage": 8,
+    "vache_folle": 4,
+    "avortement": 4
+  },
+  "alain-veyret.com": {
+    "chretien": 8
+  },
+  "depute-vuilque.org": {
+    "chretien": 8,
+    "vache_folle": 16
+  },
+  "icor.fr": {
+    "chretien": 8,
+    "vache_folle": 8,
+    "bioethique": 8
+  },
+  "prg30.org": {
+    "chretien": 8
+  },
+  "ps-paris12.org": {
+    "chretien": 8,
+    "embryon": 4,
+    "vache_folle": 4,
+    "avortement": 4
+  },
+  "patricklabrousse.org": {
+    "chretien": 7,
+    "vache_folle": 8
+  },
+  "alain-cousin.org": {
+    "chretien": 6,
+    "brevets": 8,
+    "vache_folle": 2
+  },
+  "amidrac.com": {
+    "chretien": 6,
+    "embryon": 12,
+    "clonage": 12,
+    "avortement": 6,
+    "bioethique": 12
+  },
+  "gilbertlebris.net": {
+    "chretien": 6,
+    "vache_folle": 6
+  },
+  "lutte-ouvriere-normandie-basse.org": {
+    "chretien": 6
+  },
+  "partipiednoir.org": {
+    "chretien": 6,
+    "vache_folle": 6,
+    "souches": 24
+  },
+  "puechabon.net": {
+    "chretien": 6
+  },
+  "abf.asso.fr": {
+    "chretien": 4
+  },
+  "andre-santini.net": {
+    "chretien": 4,
+    "brevets": 2
+  },
+  "balligand.org": {
+    "chretien": 4
+  },
+  "bareges2002.com": {
+    "chretien": 4
+  },
+  "bretagne.com": {
+    "chretien": 4,
+    "clonage": 4,
+    "avortement": 4
+  },
+  "catherine-normandin.com": {
+    "chretien": 4
+  },
+  "ccfd.asso.fr": {
+    "chretien": 4
+  },
+  "dassault-oise.com": {
+    "chretien": 4
+  },
+  "jeanclaudethomas.com": {
+    "chretien": 4,
+    "brevets": 4,
+    "transgenetique": 12,
+    "vache_folle": 6
+  },
+  "lcr77.org": {
+    "chretien": 4
+  },
+  "lutte-ouvriere-corse.org": {
+    "chretien": 4
+  },
+  "lutte-ouvriere-pays-de-la-loire.org": {
+    "chretien": 4,
+    "vache_folle": 4
+  },
+  "mjsfrance.org": {
+    "chretien": 4
+  },
+  "nexenservices.com": {
+    "chretien": 4
+  },
+  "prg17.org": {
+    "chretien": 4
+  },
+  "prg78.org": {
+    "chretien": 4,
+    "brevets": 4
+  },
+  "ps-paris13e.org": {
+    "chretien": 4
+  },
+  "ps44.com": {
+    "chretien": 4
+  },
+  "soutienvoguet.com": {
+    "chretien": 4
+  },
+  "univ-lyon2.fr": {
+    "chretien": 4
+  },
+  "chirac-en-vrac.com": {
+    "chretien": 2,
+    "clonage": 4,
+    "vache_folle": 8,
+    "bioethique": 2,
+    "souches": 2
+  },
+  "dna.fr": {
+    "chretien": 2,
+    "vache_folle": 2,
+    "souches": 2
+  },
+  "humanite.presse.fr": {
+    "chretien": 2,
+    "embryon": 2,
+    "avortement": 2
+  },
+  "journalechange.com": {
+    "chretien": 2,
+    "embryon": 2,
+    "vache_folle": 2,
+    "avortement": 2
+  },
+  "lutte-ouvriere-normandie-haute.org": {
+    "chretien": 2,
+    "vache_folle": 2
+  },
+  "marylisemartins.com": {
+    "chretien": 2
+  },
+  "udf24.org": {
+    "chretien": 2,
+    "vache_folle": 5,
+    "souches": 3
+  },
+  "ps87.com": {
+    "chretien": 1,
+    "vache_folle": 9
+  },
+  "alternance2002.com": {
+    "brevets": 73,
+    "bioethique": 44
+  },
+  "brochand.net": {
+    "brevets": 12,
+    "avortement": 4
+  },
+  "conseil-constitutionnel.fr": {
+    "brevets": 12,
+    "avortement": 6,
+    "souches": 30
+  },
+  "jean-claude-bois.com": {
+    "brevets": 12
+  },
+  "axelponiatowski.com": {
+    "brevets": 8
+  },
+  "demourgues.com": {
+    "brevets": 8
+  },
+  "unef.asso.fr": {
+    "brevets": 8,
+    "avortement": 2
+  },
+  "danielskowron.org": {
+    "brevets": 7
+  },
+  "2002citoyensnumeriques.net": {
+    "brevets": 6
+  },
+  "davidmartin-depute.org": {
+    "brevets": 6,
+    "vache_folle": 6
+  },
+  "maximebono.com": {
+    "brevets": 6,
+    "clonage": 4,
+    "vache_folle": 6
+  },
+  "brinkster.com": {
+    "brevets": 4
+  },
+  "comby.org": {
+    "brevets": 4,
+    "clonage": 4
+  },
+  "gollnisch.com": {
+    "brevets": 4
+  },
+  "herouville.com": {
+    "brevets": 4,
+    "vache_folle": 4
+  },
+  "unahfrance.org": {
+    "brevets": 4,
+    "embryon": 4,
+    "souches": 4
+  },
+  "vnunet.fr": {
+    "brevets": 3
+  },
+  "amf.asso.fr": {
+    "brevets": 2,
+    "vache_folle": 5
+  },
+  "jmbockel-depute.com": {
+    "brevets": 2
+  },
+  "paternotte.info": {
+    "brevets": 2
+  },
+  "ps-rueil.asso.fr": {
+    "brevets": 2
+  },
+  "paoletti.nom.fr": {
+    "brevets": 1
+  },
+  "giscarddestaing.com": {
+    "embryon": 18,
+    "vache_folle": 36,
+    "avortement": 18,
+    "souches": 18
+  },
+  "noos.fr": {
+    "embryon": 17,
+    "vache_folle": 26
+  },
+  "pauvrete-politique.com": {
+    "embryon": 6,
+    "clonage": 6,
+    "vache_folle": 18,
+    "bioethique": 6
+  },
+  "planning-familial.org": {
+    "embryon": 6,
+    "avortement": 66,
+    "bioethique": 46
+  },
+  "armes-ufa.org": {
+    "embryon": 4
+  },
+  "lafrancevote.com": {
+    "embryon": 4
+  },
+  "st-pierre-et-miquelon.com": {
+    "embryon": 4
+  },
+  "linternaute.com": {
+    "embryon": 2,
+    "vache_folle": 2
+  },
+  "dominique-richard.com": {
+    "embryon": 1,
+    "vache_folle": 1
+  },
+  "bva.fr": {
+    "clonage": 15,
+    "bayer": 15,
+    "vache_folle": 15
+  },
+  "expresso.pt": {
+    "clonage": 8
+  },
+  "leprogres.fr": {
+    "clonage": 8
+  },
+  "pemezec2002.com": {
+    "clonage": 8,
+    "bioethique": 8
+  },
+  "80.65.232.113": {
+    "clonage": 7
+  },
+  "commentvoterchirac.com": {
+    "clonage": 6
+  },
+  "pschitt2002.com": {
+    "clonage": 6
+  },
+  "tartrais.com": {
+    "clonage": 6,
+    "vache_folle": 6
+  },
+  "dieudo.com": {
+    "clonage": 4
+  },
+  "2002jeunes.org": {
+    "bayer": 9,
+    "vache_folle": 9,
+    "avortement": 7
+  },
+  "afjkansai.org": {
+    "bayer": 2
+  },
+  "newspress.fr": {
+    "transgenetique": 40
+  },
+  "jutier.net": {
+    "transgenetique": 25
+  },
+  "cglparis.org": {
+    "transgenetique": 20
+  },
+  "michelgregoire-depute.org": {
+    "transgenetique": 8,
+    "vache_folle": 8
+  },
+  "lcr54.org": {
+    "transgenetique": 2
+  },
+  "martial-saddier.com": {
+    "transgenetique": 2,
+    "vache_folle": 2,
+    "avortement": 3,
+    "bioethique": 2
+  },
+  "nperruchot.org": {
+    "transgenetique": 1
+  },
+  "angelfire.com": {
+    "telethon": 2
+  },
+  "2002femmes.com": {
+    "vache_folle": 105,
+    "avortement": 332
+  },
+  "parti-federaliste.com": {
+    "vache_folle": 32,
+    "bioethique": 12
+  },
+  "claudebillard.net": {
+    "vache_folle": 20
+  },
+  "internet2002-2007.org": {
+    "vache_folle": 16
+  },
+  "chiracopoly.com": {
+    "vache_folle": 15
+  },
+  "adami.org": {
+    "vache_folle": 14
+  },
+  "president2002.com": {
+    "vache_folle": 14
+  },
+  "qui-sera-president.com": {
+    "vache_folle": 12,
+    "avortement": 4,
+    "bioethique": 4
+  },
+  "respublica.fr": {
+    "vache_folle": 12
+  },
+  "bernard-raynaud.com": {
+    "vache_folle": 10
+  },
+  "cochet2002.net": {
+    "vache_folle": 10
+  },
+  "federation-anarchiste.org": {
+    "vache_folle": 9
+  },
+  "chassain2002.net": {
+    "vache_folle": 8
+  },
+  "preel.net": {
+    "vache_folle": 8
+  },
+  "renaud-dutreil.com": {
+    "vache_folle": 8
+  },
+  "jlevain-legislatives.org": {
+    "vache_folle": 7
+  },
+  "michelbouvard.com": {
+    "vache_folle": 7
+  },
+  "blessig2002.org": {
+    "vache_folle": 6
+  },
+  "gaborit-vouette.com": {
+    "vache_folle": 6
+  },
+  "germain-giraud.com": {
+    "vache_folle": 6
+  },
+  "jeandionis.com": {
+    "vache_folle": 6
+  },
+  "pschitt2002.net": {
+    "vache_folle": 6
+  },
+  "gauche-socialiste.com": {
+    "vache_folle": 5
+  },
+  "estelle2002.com": {
+    "vache_folle": 4,
+    "bioethique": 4
+  },
+  "fnloire.com": {
+    "vache_folle": 4
+  },
+  "grandmanitou.net": {
+    "vache_folle": 4,
+    "souches": 4
+  },
+  "jospin-et-moi.com": {
+    "vache_folle": 4
+  },
+  "lesverts2.org": {
+    "vache_folle": 4
+  },
+  "lexpansion.com": {
+    "vache_folle": 4
+  },
+  "lucile2002.com": {
+    "vache_folle": 4
+  },
+  "lutte-ouvriere-bretagne.org": {
+    "vache_folle": 4
+  },
+  "natalieriollet2002.net": {
+    "vache_folle": 4
+  },
+  "rodolphethomas.net": {
+    "vache_folle": 4
+  },
+  "weblogs.com": {
+    "vache_folle": 4,
+    "avortement": 4
+  },
+  "verts-noisy.org": {
+    "vache_folle": 3
+  },
+  "infini.fr": {
+    "vache_folle": 2
+  },
+  "jbpeyronel-lesverts2002.org": {
+    "avortement": 10
+  },
+  "edouardlandrain.net": {
+    "avortement": 5
+  },
+  "fluideglacial.tm.fr": {
+    "avortement": 4
+  },
+  "pierre-cardo.org": {
+    "avortement": 4
+  },
+  "anne-hidalgo.net": {
+    "avortement": 2
+  },
+  "claudereichman.com": {
+    "bioethique": 17
+  },
+  "georges-sarre.net": {
+    "bioethique": 10
+  },
+  "christophecaresche.org": {
+    "bioethique": 9
+  },
+  "radio-france.fr": {
+    "bioethique": 9
+  },
+  "davidalphand.com": {
+    "bioethique": 8
+  },
+  "christineboutin-legislatives.com": {
+    "bioethique": 6
+  },
+  "fzory.com": {
+    "bioethique": 6
+  },
+  "gillesgautronneau.com": {
+    "bioethique": 6
+  },
+  "francois-asensi.com": {
+    "bioethique": 4
+  },
+  "opinion-ind.presse.fr": {
+    "bioethique": 4
+  },
+  "lesverts4.com": {
+    "souches": 4
+  },
+  "lsdb.blogspot.com": {
+    "souches": 4
+  },
+  "cuarcan.com": {
+    "souches": 3
+  }
+}

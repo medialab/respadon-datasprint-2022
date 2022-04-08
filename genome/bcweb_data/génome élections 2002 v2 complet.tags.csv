@@ -1,0 +1,480 @@
+web_entity_id,name,Thème,candidat,parti,tfidf
+1,Demlib.com,Formations politiques,MADELIN Alain,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+2,Udf.org,Formations politiques,BAYROU François,,eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|vache_folle|avortement|bioethique|souches
+3,Mei-Fr.org,Formations politiques,WAECHTER Antoine,,adn|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|vache_folle|avortement|souches
+4,Mdc-France.org,Formations politiques,CHEVÉNEMENT Jean-Pierre,,eugenisme|genome|FIV|genes|brevets|embryon|clonage|vache_folle|avortement|bioethique|souches
+5,Rpr.asso.fr,Formations politiques,divers,,eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique
+6,Pcf.fr,science politique,HUE Robert,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+7,Planeteradicale.org,science politique,TAUBIRA Christiane,,genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+8,Parti-Socialiste.fr,science politique,JOSPIN Lionel,,genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+9,Roberthue2002.net,,HUE Robert,,genome|FIV|genes|chretien|brevets|embryon|clonage|telethon|vache_folle|avortement|bioethique|souches
+10,Chevenement.net,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|bayer|vache_folle|avortement|bioethique|souches
+11,Lcr-Rouge.org,Formations politiques,BESANCENOT Olivier,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+12,Generation-Ecologie.com,Formations politiques,LALONDE Brice,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|vache_folle|avortement|bioethique|souches
+13,Mpf-Villiers.org,Formations politiques,divers,,eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|vache_folle|avortement|bioethique|souches
+14,Noelmamere.eu.org,Candidats,MAMÈRE Noël,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+15,Temps-Reels.net,Soutiens et antis,JOSPIN Lionel,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|telethon|vache_folle|avortement|souches
+16,Corinne-Lepage.com,Candidats,LEPAGE Corinne,,genome|genes|chretien|brevets|embryon|clonage|ogm|transgenetique|vache_folle|avortement|bioethique|souches
+17,Front-National.com,Formations politiques,LE PEN Jean-Marie,,adn|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|transgenetique|vache_folle|avortement|bioethique|souches
+18,Ladepeche.com,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+19,Laurent-Dominati.net,Candidats,,,genome|FIV|genes|chretien|brevets|embryon|ogm|telethon|vache_folle|bioethique
+20,Lemulot.com,Soutiens et antis,CHIRAC Jacques,,genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+21,perso.Wanadoo.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+22,socdem.Free.fr,Soutiens et antis,JOSPIN Lionel,,
+23,solidariteetprogres.Online.fr,Formations politiques,CHEMINADE Jacques,,
+24,2002pourlafrance.net,,,,genome|genes|chretien|brevets|clonage|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+26,Chevenement2002.com,Candidats,CHEVÉNEMENT Jean-Pierre,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+27,Chiracaveclafrance.net,Candidats,CHIRAC Jacques,,adn|eugenisme|genome|FIV|genes|chretien|brevets|clonage|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+28,Christianetaubira.org,Candidats,TAUBIRA Christiane,,genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+29,Lapolitique.com,"Portails spécialisés présidentielles, répertoires, annuaires, autres",TOUS,,eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|bayer|vache_folle|avortement|bioethique|souches
+30,Les-Verts.org,Formations politiques,MAMÈRE Noël,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|vache_folle|avortement|bioethique|souches
+25,Auxurnescitoyens.com,"Portails spécialisés présidentielles, répertoires, annuaires, autres",TOUS,,genome|chretien|telethon
+31,Lioneljospin.net,Candidats,JOSPIN Lionel,,genome|genes|chretien|brevets|embryon|telethon|vache_folle|avortement|bioethique|souches
+32,M-N-R.com,Formations politiques,MÉGRET Bruno,,eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|souches
+33,Professionpolitique.com,Analyses et observatoires,TOUS,,eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+34,France-Sites.com,,,,adn|genome|FIV|genes|chretien|brevets|clonage|telethon|vache_folle|souches
+35,Journaldunet.com,économie,,,adn|genome|FIV|genes|chretien|brevets|embryon|clonage|bayer|transgenetique|telethon|vache_folle|avortement|bioethique
+36,Turigoloukoi.com,,,,adn|genome|FIV|genes|chretien|clonage|vache_folle|avortement
+37,Christineboutin2002.com,Candidats,BOUTIN Christine,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|avortement|bioethique|souches
+38,Csa.fr,autorités indépendantes,,,adn|genome|FIV|genes|chretien|brevets|embryon|clonage|vache_folle|avortement|souches
+39,Actupp.org,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|bayer|transgenetique|vache_folle|avortement|souches
+40,alainfabrepujol.Free.fr,Candidats,,,
+41,pluriel.Free.fr,Soutiens et antis,JOSPIN Lionel,,
+42,2002enseignement-Recherche.net,Soutiens et antis,JOSPIN Lionel,,genome|genes|brevets|telethon|vache_folle|bioethique
+44,Aschieri.net,Candidats,divers,,genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|transgenetique|vache_folle|avortement|bioethique|souches
+45,Fromion.org,Candidats,,,genome|FIV|genes|clonage|vache_folle|souches
+43,Andre-Gerin-Depute.net,Candidats,,,genome|FIV|genes|brevets|embryon|clonage|bayer|vache_folle|bioethique|souches
+46,groupe-communiste.Assemblee-Nationale.fr,Formations politiques,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+47,Jean-Francoismattei.com,Candidats,,,eugenisme|genome|FIV|genes|brevets|embryon|clonage|vache_folle|avortement|bioethique|souches
+48,Mhr-Viandes.com,,,,adn|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|vache_folle|avortement|souches
+49,Olivierbesancenot.org,Candidats,BESANCENOT Olivier,,genome|genes|chretien|brevets|clonage|ogm|transgenetique|vache_folle|avortement|souches
+50,Plagnol.org,Candidats,,,eugenisme|genome|FIV|genes|brevets|embryon|clonage|bioethique
+51,Premier-Ministre.gouv.fr,Officiels et institutionnels,divers,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+52,Sclerose-En-Plaques.com.fr,,,,genome|FIV|genes|brevets|clonage|telethon|vache_folle
+53,Chiennesdegarde.org,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+54,ecorev.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+55,hns.Samizdat.net,Formations politiques,TOUS,,
+56,Elysee.fr,administration centrale,CHIRAC Jacques,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|telethon|vache_folle|bioethique|souches
+57,Expression-Publique.com,science politique,,,genome|brevets|embryon|clonage|bioethique
+58,Largeur.com,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|vache_folle|avortement|bioethique|souches
+59,Rajf.org,droit,,,eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|vache_folle|avortement|bioethique|souches
+60,Senat.fr,administration centrale,TOUS,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+61,Laicite-Republique.org,*non classé,,,adn|genome|FIV|genes|chretien|brevets|embryon|clonage|vache_folle|avortement|bioethique|souches
+62,lemaquis.Ouvaton.org,Divers,LE PEN Jean-Marie,,
+63,presidentielles2002.Citegay.fr,Soutiens et antis,divers,,
+64,Ajc.net,Soutiens et antis,CHIRAC Jacques,,genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+65,Cef.fr,,,,eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|telethon|vache_folle|avortement|bioethique|souches
+66,Raslfront.org,Soutiens et antis,LE PEN Jean-Marie,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|transgenetique|vache_folle|avortement|bioethique|souches
+67,elections.Lemonde.fr,Médias traditionnels,divers,,
+68,Assemblee-Nationale.fr,administration centrale,TOUS,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+69,Ambafrance-Il.org,,,,genome|genes|chretien|brevets|embryon|clonage|ogm|bayer|vache_folle|avortement|souches
+70,Infodujour.com,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|clonage|telethon|vache_folle|avortement|souches
+71,Lexpress.fr,presse nationale,,,eugenisme|genome|FIV|genes|chretien|brevets|vache_folle|avortement|bioethique
+72,infos.Samizdat.net,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+73,mdh.limoges.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+74,membres.Lycos.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+75,Cgt.fr,science politique,,,eugenisme|genome|genes|brevets|embryon|bayer|telethon|vache_folle|avortement|bioethique
+76,Mauvaisgenres.com,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+77,Trdd.org,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+78,digipressetmp4.Teaser.fr,,,,adn|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|avortement|bioethique|souches
+79,Academie-Sciences.fr,sciences--généralités,,,adn|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+80,Bilanchirac.net,Humour,CHIRAC Jacques,,genome|FIV|genes|chretien|brevets|embryon|transgenetique|vache_folle|avortement|souches
+81,C6r-Fr.org,Formations politiques,divers,,adn|genome|genes|chretien|brevets|embryon|clonage|telethon|vache_folle
+82,Fluctuat.net,Soutiens et antis,LE PEN Jean-Marie,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+83,Mrap.asso.fr,Divers,LE PEN Jean-Marie,,adn|genome|FIV|genes|chretien|brevets|avortement|bioethique|souches
+84,Reforme.net,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+85,Uzine.net,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+86,Topchretien.com,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+87,dominique.bailly.93.Free.fr,Candidats,,,
+88,bdr13.Pcf.fr,Formations politiques,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+89,2002.Scrutins.net,,,,eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|vache_folle|avortement|bioethique
+90,elections.Ladepeche.com,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+91,jeanclaude.lefort.Free.fr,Candidats,,,
+92,vertsmp.Free.fr,,,,
+93,Alternatifs.org,science politique,,,genome|FIV|genes|chretien|brevets|clonage|transgenetique|vache_folle|avortement|souches
+94,Emmanuelle-Prouet.org,Candidats,,,genome|FIV|genes|brevets|embryon|clonage|vache_folle|bioethique|souches
+95,Hellier2002.com,Candidats,,,genome|FIV|genes|brevets|embryon|clonage|ogm|vache_folle|bioethique|souches
+96,mdc.arras.Free.fr,Formations politiques,,,
+97,mpf30.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+98,prg35.Free.fr,Formations politiques,,,
+99,ps.aix.Free.fr,Formations politiques,,,
+100,Davidlorion.net,Candidats,,,genome|genes|chretien|clonage
+101,Herve-Morin.net,Candidats,,,genome|genes|brevets|clonage|vache_folle|avortement
+102,Pcf-Rhone.net,Formations politiques,,,genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|vache_folle|avortement
+103,Prg-2b.org,Formations politiques,,,genome|chretien|brevets|embryon|telethon|vache_folle
+104,Ps-Nord.org,Formations politiques,,,genome|brevets|vache_folle|bioethique
+105,Ps-Paris15mitterrand.org,Formations politiques,,,genome|genes|chretien|brevets|embryon|clonage|vache_folle|avortement|bioethique
+106,Roger-Mei.org,Candidats,,,eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|bioethique|souches
+107,U-M-P.org,diffusion des connaissances,divers,,adn|eugenisme|genome|FIV|genes|chretien|brevets|clonage|transgenetique|telethon|vache_folle|avortement|souches
+108,lesverts.eragny.Free.fr,Formations politiques,,,
+109,m.jeanson.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+110,verts95.Ouvaton.org,Formations politiques,,,
+111,vertsdelyonne.Free.fr,Formations politiques,,,
+112,Daniel-Lebigot.net,Candidats,,,genome|brevets
+113,Nouvelledonne.net,Candidats,divers,,genome|genes|chretien|brevets|embryon|vache_folle|avortement
+164,Inra.fr,agronomie,,,
+183,Inserm.fr,santé,,,
+282,Agriculture.gouv.fr,administration centrale,,,
+289,Afssa.fr,autorités indépendantes,,,
+324,Greenpeace.fr,militantismes écologistes,,,
+326,Confederationpaysanne.fr,science politique,,,genes|brevets|vache_folle
+334,Infogm.org,agronomie,,,
+416,Greenpeace.fr /.../ogm,"associations, syndicats et ONG",,,
+484,Amisdelaterre.org,"associations, syndicats et ONG",,,
+639,Agrisalon.com,agronomie,,,
+874,Cite-Sciences.fr /.../vache_folle,sciences--généralités,,,
+875,Cite-Sciences.fr /.../bioethiq,sciences,,,
+879,Cnrs.fr /SDV,établissements publics,,,
+888,Globenet.org /tri,,,,FIV|genes|chretien|transgenetique|vache_folle
+1108,Sante.gouv.fr /egs,administration centrale,,,
+1109,Sante.gouv.fr /.../actu,administration centrale,,,
+133,Courrierinternational.com,presse,,,
+116,Latribune.fr,presse nationale,,,eugenisme|FIV|genes|chretien|brevets|embryon|clonage|ogm|transgenetique|telethon|vache_folle|avortement|bioethique
+117,Lefigaro.fr,presse nationale,,,
+127,Liberation.fr,presse nationale,,,adn|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|vache_folle|avortement|bioethique|souches
+147,fr.news.Yahoo.com,portail d'information,,,adn|brevets|telethon|vache_folle|avortement
+151,Lemonde.fr,presse nationale,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|transgenetique|vache_folle|avortement|bioethique|souches
+179,Radio-France.fr,Médias traditionnels,TOUS,,bioethique
+191,Cite-Sciences.fr,sciences,,,
+203,Humanite.presse.fr,,,,chretien|embryon|avortement
+209,Afp.com,presse,,,
+279,Midilibre.com,Médias traditionnels,TOUS,,FIV|genes|chretien|clonage|vache_folle|avortement|souches
+335,Globenet.org,,,,FIV|genes|chretien|transgenetique|vache_folle
+404,Cndp.fr,autre administration,,,
+465,Agora21.org,sciences de l'environnement,,,
+542,Chez.com,,,,eugenisme|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+114,Respublica.fr,,,,vache_folle
+128,Libres.org,publications en série,,,eugenisme|FIV|genes|chretien|brevets|embryon|clonage|ogm|transgenetique|vache_folle|avortement|bioethique
+130,Conscience-Politique.org,,,,FIV|vache_folle|souches
+134,jdj.Leparisien.com,,,,adn|FIV|genes|chretien|embryon|clonage|vache_folle|avortement
+136,epp-ed.Europarl.eu.int,,,,
+123,Valeursactuelles.com,presse,,,
+125,Lesechos.fr,presse,,,FIV|genes|chretien|brevets|clonage|vache_folle|avortement|bioethique
+138,Sitelibre.com,,,,eugenisme|chretien|vache_folle|avortement
+141,Insee.fr,éditeurs officiels,,,
+143,Telerama.fr,presse nationale,,,
+162,Lexpansion.com,,,,vache_folle
+152,www-compat.Tf1.fr,,,,eugenisme|genes|chretien|brevets|embryon|transgenetique|vache_folle|avortement|bioethique|souches
+154,Leparisien.fr,presse,,,FIV|chretien|embryon|clonage|telethon|vache_folle|avortement|souches
+155,Cnil.fr,autorités indépendantes,,,
+156,Ccomptes.fr,administration centrale,,,
+158,Francois-Goulard.com,Candidats,,,
+170,Zdnet.fr,informatique,,,
+194,Genethon.fr,santé,,,
+196,Legifrance.gouv.fr,éditeurs officiels,,,
+200,infos.Tf1.fr,,,,eugenisme|genes|chretien|brevets|embryon|transgenetique|vache_folle|avortement|bioethique|souches
+201,fr.search.Yahoo.com,,,,adn|brevets|telethon|vache_folle|avortement
+202,etats-generaux.Ras.eu.org,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+221,Wanadoo.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+227,Fnac.com,distribution de contenus,,,
+228,Issy.com,,,,adn|FIV|chretien|brevets|clonage|vache_folle|avortement|bioethique|souches
+229,E1789.com,Divers,TOUS,,FIV|genes|chretien|brevets|embryon|clonage|telethon|vache_folle|avortement|bioethique|souches
+234,Linternaute.com,,,,embryon|vache_folle
+245,lemesle.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+259,perso.Club-Internet.fr,,,,adn|FIV|genes|chretien|brevets|embryon|vache_folle|souches
+261,Ifrance.com,,,,adn|FIV|genes|chretien|brevets|embryon|clonage|vache_folle|avortement|souches
+264,Megret-Bdr.com,Candidats,,,
+280,invs.Sante.fr,établissements publics,,,
+287,fr.biz.Yahoo.com,,,,adn|brevets|telethon|vache_folle|avortement
+293,Cnrs.fr,établissements publics,,,
+296,maurice.legoy.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+304,jeanfrancois.mattei.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+317,Tf1.fr,,,,eugenisme|genes|chretien|brevets|embryon|transgenetique|vache_folle|avortement|bioethique|souches
+338,Lepen.tv,Candidats,LE PEN Jean-Marie,,FIV|genes|brevets|vache_folle|avortement
+343,Sante.gouv.fr,administration centrale,,,
+345,Citegay.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+352,Samizdat.net,presse,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+356,Freescape.eu.org,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+358,April.org,informatique,,,
+360,Rezo.net,mobilisations protestataires,,,
+362,Bugbrother.com,mobilisations protestataires,,,
+367,perso.Libertysurf.fr,,,,genes|souches
+368,patangel.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+372,digipressetmp3.Teaser.fr,,,,adn|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|avortement|bioethique|souches
+376,Amipublic.com,Candidats,BLANC Christian,,chretien|brevets|embryon|vache_folle|avortement
+377,Democratieactive.org,,,,
+378,Commentvoterchirac.com,,,,clonage
+382,Monde-Diplomatique.fr,presse,,,
+392,Bayrou.net,Candidats,BAYROU François,,eugenisme|genes|chretien|brevets|embryon|clonage|ogm|vache_folle|avortement|bioethique|souches
+393,Alainmadelin.com,Candidats,MADELIN Alain,,genes|chretien|brevets|embryon|vache_folle|souches
+394,Education.gouv.fr,administration centrale,,,
+398,Conseil-Constitutionnel.fr,administration centrale,,,brevets|avortement|souches
+399,educnet.Education.fr,filières du cinéma et de l'audiovisuel,,,
+405,perso.Wanadoo.fr /jean-francois.mattei,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+406,perso.Wanadoo.fr /depute.jean-claude.lefort,Candidats,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+407,perso.Wanadoo.fr /cpnt,Formations politiques,divers,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+408,perso.Wanadoo.fr /claude.rochet,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+409,perso.Wanadoo.fr /gvpc,Formations politiques,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+410,perso.Wanadoo.fr /jeanjacques.rosa,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+411,perso.Wanadoo.fr /pcf.26,Formations politiques,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+412,perso.Wanadoo.fr /mpf81,Formations politiques,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+413,perso.Wanadoo.fr /laufr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+414,perso.Wanadoo.fr /pcf.evry,Formations politiques,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+415,perso.Wanadoo.fr /vila.depute,Candidats,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+417,Greenpeace.org,sciences de l'environnement,,,
+418,Microsoft.com,filières du multimédia,,,
+420,Odilejacob.eu.org,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+439,Eau-Adour-Garonne.fr,ingénierie,,,
+442,Ined.fr,établissements publics,,,
+449,Rivernet.org,géographie,,,
+453,Agropolis.fr,agronomie,,,
+454,Oieau.fr,sciences de l'environnement,,,
+457,H2O.net,sciences de l'environnement,,,
+459,Univ-Lille1.fr,demandes externes,,,
+468,Amf.asso.fr,associations financées par des biens publics,,,brevets|vache_folle
+479,Ac-Toulouse.fr,déconcentration administrative,,,
+482,Club-Internet.fr,,,,adn|FIV|genes|chretien|brevets|embryon|vache_folle|souches
+483,perso.Wanadoo.fr /v.kulesza,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+486,perso.Wanadoo.fr /sde17,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+489,Eau-Artois-Picardie.fr,ingénierie,,,
+492,Ac-Grenoble.fr,déconcentration administrative,,,
+497,perso.Wanadoo.fr /joel.danion,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+498,Bretagne.com,,,,chretien|clonage|avortement
+505,Cieau.com,sciences de l'environnement,,,
+509,Unice.fr,établissements publics,,,
+514,Snpn.com,acteurs économiques,,,
+516,Cnam.fr,ingénierie,,,
+524,members.Aol.com,,,,genes|chretien|transgenetique|vache_folle
+543,Ademe.fr,administration centrale,,,
+547,Lahulotte.fr,médias généralistes et spécialisés,,,
+550,Biofutur.com,ingénierie,,,
+552,garance.voyageuse.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+558,Onf.fr,agronomie,,,
+574,Comite21.org,géographie,,,
+579,Terrevivante.org,sciences de l'environnement,,,
+589,perso.Wanadoo.fr /steph.gibon,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+591,Roc.asso.fr,sciences de la vie,,,
+621,Leparisien.com,,,,adn|FIV|genes|chretien|embryon|clonage|vache_folle|avortement
+624,Lavoixdunord.fr,presse locale,,,FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+625,Estrepublicain.fr,presse locale,,,
+628,news.Independent.co.uk,,,,genome|genes|embryon|clonage|bayer|transgenetique|vache_folle
+629,afp.Voila.fr,,,,eugenisme|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+630,Republicain-Lorrain.fr,presse locale,,,
+631,Leprogres.fr,presse locale,,,clonage
+632,Terre-Net.fr,agronomie,,,
+648,Ouest-France.fr,presse locale,,,
+650,Paris-Normandie.com,,,,chretien
+665,fr.fc.Yahoo.com,,,,adn|brevets|telethon|vache_folle|avortement
+667,quotidien.Nouvelobs.com,,,,FIV|genes|chretien|clonage|telethon|vache_folle|avortement|souches
+677,Nouvelobs.com,presse nationale,,,FIV|genes|chretien|clonage|telethon|vache_folle|avortement|souches
+681,uk.news.Yahoo.com,,,,adn|brevets|telethon|vache_folle|avortement
+635,Lepoint.fr,presse nationale,,,eugenisme|chretien|vache_folle|avortement|bioethique
+638,Midilibre.fr,presse locale,,,
+693,Graine-Idf.org,périodiques,,,
+694,Mnhn.fr,acteurs économiques,,,
+703,chrysopee.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+705,perso.Wanadoo.fr /barguillere,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+713,Bnf.fr,mémoire institutionnelle,,,
+721,Ac-Amiens.fr,déconcentration administrative,,,
+723,Geocities.com,,,,eugenisme|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|souches
+734,perso.Wanadoo.fr /jielge,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+736,Cplus.fr,,,,FIV
+743,w3.Teaser.fr,,,,adn|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|avortement|bioethique|souches
+745,perso.Wanadoo.fr /paul.kerrien,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+746,col.gueb.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+755,Fnsea.fr,science politique,,,
+766,Unfccc.int,sciences de la terre,,,
+768,afpc.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+773,users.Skynet.be,,,,genome|FIV|genes|chretien|brevets|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+780,perso.Wanadoo.fr /f.bon,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+783,perso.Wanadoo.fr /esperysage,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+785,paysagesdefrance.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+787,paris-lavillette.Archi.fr,chaîne du livre,,,
+794,stream.Online.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+805,Iaat.org,géographie,,,
+807,perso.Wanadoo.fr /paysage,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+810,Culture.gouv.fr,administration centrale,,,
+814,perso.Wanadoo.fr /sbv,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+816,zoo.artist.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+824,perso.Wanadoo.fr /proverbes,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+826,picardie.asvft.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+828,site.Voila.fr,,,,eugenisme|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+835,perso.Wanadoo.fr /a.f,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+843,France2.fr,,,,adn|eugenisme|FIV|genes|chretien|brevets|embryon|clonage|telethon|vache_folle|avortement|bioethique|souches
+847,Ifn.fr,établissements publics,,,
+850,Voila.fr,,,,eugenisme|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+863,Legifrance.gouv.fr /.../jorf_nor.ow ?numjo=AGRX0104811L,éditeurs officiels,,,
+864,Legifrance.gouv.fr /.../jorf_nor.ow ?numjo=AGRG0102262A,éditeurs officiels,,,
+865,Legifrance.gouv.fr /.../jorf_nor.ow ?numjo=AGRG0100994A,éditeurs officiels,,,
+866,Legifrance.gouv.fr /.../jorf_nor.ow ?numjo=AGRG0100993A,éditeurs officiels,,,
+867,Legifrance.gouv.fr /.../jorf_nor.ow ?numjo=AGRG0100727A,éditeurs officiels,,,
+868,Legifrance.gouv.fr /.../jorf_nor.ow ?numjo=MESX0104675D,éditeurs officiels,,,
+869,Legifrance.gouv.fr /.../jorf_nor.ow ?numjo=JUSX9400024L,éditeurs officiels,,,
+870,Legifrance.gouv.fr /.../jorf_nor.ow ?numjo=MESM0121040S,éditeurs officiels,,,
+871,Legifrance.gouv.fr /.../jorf_nor.ow ?numjo=SPSX9400032L,éditeurs officiels,,,
+872,Legifrance.gouv.fr /.../jorf_nor.ow ?numjo=SANM0121228S,éditeurs officiels,,,
+873,Legifrance.gouv.fr /.../jorf_nor.ow ?numjo=SPSX9400290L,éditeurs officiels,,,
+890,Civam.org,agronomie,,,
+891,Transrural-Initiatives.org,mobilisations protestataires,,,
+892,perso.Wanadoo.fr /villesuryron,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+893,Itab.asso.fr,agronomie,,,
+932,Oecd.org,organisations internationales,,,
+939,fr.Novartis.com,santé,,,
+949,Lejsl.com,presse locale,,,FIV|chretien
+959,Inrs.fr,information électronique des administrés,,,
+962,Justice.gouv.fr,administration centrale,,,
+963,Ladocumentationfrancaise.fr,éditeurs officiels,,,
+966,Cea.fr,ingénierie,,,
+970,Info-Europe.fr,,,,
+974,Commerce-Exterieur.gouv.fr,administration centrale,,,
+980,Simaonline.com,agronomie,,,
+982,Salon-Agriculture.com,agronomie,,,
+985,Foretpriveefrancaise.com,filières du multimédia,,,
+990,vinbio.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+995,perso.Wanadoo.fr /perigordtabac,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+997,Farre.org,sciences de l'environnement,,,
+1089,Reseau-Chu.org,santé,,,
+1116,Artisansdumonde.org,économie solidaire,,,
+1123,Commercequitable.org,économie solidaire,,,
+1124,Maxhavelaarfrance.org,économie solidaire,,,
+1133,Diplomatie.gouv.fr,administration centrale,,,
+1138,cnerta.Educagri.fr,information électronique des administrés,,,
+1142,perso.Wanadoo.fr /pierre.deligniere,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1147,Rac-F.org,sciences de l'environnement,,,
+1155,confederationpaysanne.Ouvaton.org,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|transgenetique|vache_folle|avortement|bioethique|souches
+1159,Ogmdangers.org,agronomie,,,
+1160,Fne.asso.fr,sciences de l'environnement,,,
+1168,Service-Public.fr,information électronique des administrés,,,FIV|genes|brevets|embryon|clonage|vache_folle|bioethique
+1181,dinomania.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1201,presidentielles.Figaro.net,"Webzine, Cyber-Médias",TOUS,,
+1205,perso.Wanadoo.fr /ces,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1209,perso.Wanadoo.fr /eric.ferrand,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1210,mdc55.Com02.com,Formations politiques,,,
+1211,mdc.34.Free.fr,Formations politiques,,,
+1212,87htevienneche2002.Free.fr,Formations politiques,,,
+1214,Georges-Sarre.net,Candidats,,,bioethique
+1216,mdc92sud.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1215,lemdc31.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1218,home.Nordnet.fr,,,,chretien|brevets|clonage|vache_folle
+1219,Tourisme.gouv.fr,administration centrale,,,
+1232,Philippe-Douste-Blazy.com,Candidats,,,
+1233,Pierre-Cardo.org,Candidats,,,avortement
+1234,jpgarraud.legislativ.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1235,Jpgrand.com,Candidats,,,
+1236,Mauricegiro.com,Candidats,,,
+1237,perso.Wanadoo.fr /gerard.lorgeoux,Candidats,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1238,Claudeliebermann.com,Candidats,,,genes
+1241,Jeantiberi.net,Candidats,,,
+1242,Pemezec2002.com,Candidats,,,clonage|bioethique
+1243,Roxane-Decorte.com,Candidats,,,
+1244,Comparini.net,Candidats,,,chretien|clonage|bioethique|souches
+1245,Alain-Juppe.com,Candidats,,,
+1246,Georgia-Vincent.com,Candidats,,,
+1247,Cochet2002.com,Candidats,,,
+1248,Christian-Kert.com,Candidats,,,
+1250,Deveyrinas.com,Candidats,,,
+1251,Valeriepecresse.net,,,,
+1252,Dominique-Richard.com,Candidats,,,embryon|vache_folle
+1253,perso.Wanadoo.fr /gabriel.biancheri,Candidats,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1254,Maryvonnebriot.net,Candidats,,,
+1255,daniele.damin.Free.fr,Candidats,,,
+1256,Michelpy.com,Candidats,,,
+1257,Brochand.net,Candidats,divers,,brevets|avortement
+1259,Jean-Diebold.com,Candidats,,,
+1261,Josettepons.net,Candidats,,,
+1262,Louiscosyns2002.org,Candidats,,,
+1263,Pierre-Morange.com,Candidats,,,genes
+1264,perso.Wanadoo.fr /devedjian,Candidats,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1266,perso.Wanadoo.fr /natacha-bouchart,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1267,Philippe-Auberger.com,Candidats,,,
+1268,Tremege.com,Candidats,,,
+1269,Christineboutin-Legislatives.com,Candidats,,,bioethique
+1270,Michel-Raison.net,Candidats,,,
+1271,Jeanclaudethomas.com,Candidats,,,chretien|brevets|transgenetique|vache_folle
+1274,Chassain2002.net,Candidats,,,vache_folle
+1275,Danielspagnou2002.com,Candidats,,,
+1277,pageperso.Aol.fr,,,,FIV|chretien|brevets|vache_folle
+1278,Franck-Reynier.com,Candidats,,,
+1279,Toubon.org,Candidats,,,
+1281,jeanmarc.morere.Free.fr,Candidats,,,
+1282,Richard-De-Puymorin.org,Candidats,,,
+1283,Dassault-Oise.com,Candidats,,,chretien
+1284,irene.tharin.Free.fr,Candidats,,,
+1285,Andre-Flajolet.com,Candidats,,,
+1286,Bignon.info,Candidats,,,
+1287,Jpsoisson.com,Candidats,,,
+1288,ph.waymel.Free.fr,Candidats,,,
+1289,Bareges2002.com,Candidats,,,chretien
+1290,Jean-Marc-Nesme.com,Candidats,,,FIV|genes|clonage|vache_folle|bioethique
+1291,Mj-Roig.org,Candidats,divers,,
+1292,Philippe-Rouault.com,Candidats,,,
+1293,b.defroment.Free.fr,Candidats,,,
+1295,xavierbertrand2002.Free.fr,Candidats,,,
+1301,Ilo.org,organisations internationales,,,
+1308,perso.Wanadoo.fr /droits.enfants,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1317,fr.encyclopedia.Yahoo.com,,,,adn|brevets|telethon|vache_folle|avortement
+1329,fullcoverage.Yahoo.com,,,,adn|brevets|telethon|vache_folle|avortement
+1343,Lireetfairelire.org,solidarité locale et nationale,,,
+1350,Marmiton.org,gastronomie,,,
+1362,ads.Tiscali.fr,,,,adn|FIV|genes|chretien|embryon|transgenetique|telethon|vache_folle|avortement
+1363,2002.Sofres.com,Analyses et observatoires,TOUS,,
+1365,Tiscali.fr,,,,adn|FIV|genes|chretien|embryon|transgenetique|telethon|vache_folle|avortement
+1367,2002Femmes.com,Soutiens et antis,JOSPIN Lionel,,vache_folle|avortement
+1368,2002Jeunes.org,Soutiens et antis,JOSPIN Lionel,,bayer|vache_folle|avortement
+1369,2002Citoyensnumeriques.net,,,,brevets
+1370,Mjsfrance.org,,TOUS,,chretien
+1373,enm.Justice.fr,établissements publics,,,
+1378,Astrosurf.com,astronomie,,,
+1380,Spasme.org,Formations politiques,,,
+1388,Industrie.gouv.fr,administration centrale,,,
+1389,Internet2002-2007.org,Divers,TOUS,,vache_folle
+1391,chiche.Ras.eu.org,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+1392,perso.Wanadoo.fr /racine,Formations politiques,divers,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1394,Jeunes-Communistes.org,Formations politiques,,,genes|chretien|brevets|vache_folle|avortement|souches
+1395,Unef.asso.fr,Divers,LE PEN Jean-Marie,,brevets|avortement
+1399,Jean-Jaures.org,science politique,,,
+1409,Cfdt.fr,science politique,,,
+1411,Adie.org,économie solidaire,,,
+1413,Amnistia.net,presse,,,
+1417,Mondialisations.org,sociologie,,,
+1418,Cfsi.asso.fr,agronomie,,,
+1419,Regards.fr,presse,,,
+1420,Unsa.org,science politique,,,
+1421,Psinfo.net,Formations politiques,JOSPIN Lionel,,
+1407,Politis.fr,presse,,,genes|chretien|brevets|embryon|vache_folle|souches
+1424,Alternatives-Economiques.fr,économie,,,
+1430,g10.Ras.eu.org,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+1431,Ornitho.org,,,,eugenisme|genes|chretien|brevets|clonage|vache_folle|avortement|souches
+1433,Socialisme-Et-Democratie.net,,,,
+1434,Bva.fr,,,,clonage|bayer|vache_folle
+1435,Place-Publique.fr,science politique,,,FIV|genes|chretien|brevets|embryon|clonage|transgenetique|telethon|vache_folle|avortement|souches
+1436,Force-Ouvriere.fr,science politique,TOUS,,chretien|brevets|embryon|souches
+1437,Socialistinternational.org,,,,
+1439,Cidem.org,science politique,TOUS,,adn|eugenisme|FIV|genes|chretien|brevets|embryon|clonage|ogm|transgenetique|vache_folle|avortement|bioethique|souches
+1441,iep.Univ-Lyon2.fr,,,,chretien
+1443,perso.Wanadoo.fr /ai288,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1446,Ldh-France.asso.fr,Divers,divers,,
+1447,01Net.com,sites à thème multimédia,,,
+1457,Ras.eu.org,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|transgenetique|vache_folle|avortement|bioethique|souches
+1459,perso.Wanadoo.fr /reagir-gier,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1461,Anti-Rev.org,,,,genes|chretien|vache_folle|avortement|bioethique|souches
+1539,histv2.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1553,bdactu.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1562,david.sdika.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1496,Reggaefrance.com,sites à thème musique et son,,,
+1498,1000et1oeil.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1511,emedia.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1523,Africultures.com,filières du cinéma et de l'audiovisuel,,,
+1525,Ramdam.com,filières de la musique et de l'édition phonographique,,,
+1532,jenesuispas.startup.Free.fr,,,,adn|eugenisme|genome|FIV|genes|chretien|brevets|embryon|clonage|ogm|bayer|transgenetique|telethon|vache_folle|avortement|bioethique|souches
+1565,rubannoir.Free.fr,Soutiens et antis,LE PEN Jean-Marie,,
+1567,Liberte-Egalite-Fraternite.net,"Net-politique, forums, chats, débats... en ligne",divers,,
+1568,Nonalahaine.net,Soutiens et antis,LE PEN Jean-Marie,,FIV|genes|chretien|brevets|embryon|clonage|vache_folle|avortement
+1571,letohubohu.Free.fr,mobilisations protestataires,,,
+1575,Cheminade2002.org,Candidats,CHEMINADE Jacques,,
+1578,rmedia.Francetv.fr,,,,FIV|genes|chretien|brevets|clonage|bayer|transgenetique|telethon|vache_folle|avortement|bioethique
+1586,edit.Yahoo.com,,,,adn|brevets|telethon|vache_folle|avortement
+1589,epf.Fr.fm,"Webzine, Cyber-Médias",divers,,
+1590,spoirier.Lautre.net,,,,FIV|genes|brevets|transgenetique|vache_folle|avortement
+1592,rpdbocal.Ovh.org,,,,genes|ogm|transgenetique|vache_folle
+1593,Nanterre.fr,administration territoriale,,,
+1594,Elunet.org,,,,
+1599,Legifrance.gouv.fr /.../jorf_nor.ow ?numjo=CSCX0200760K,éditeurs officiels,,,
+1600,Ifop.com,,,,chretien|clonage|vache_folle
+1601,Ipsos.fr,,,,FIV|genes|chretien|brevets|clonage|ogm|vache_folle|avortement
+1602,Territorial.fr,chaîne du livre,,,
+1603,Csa-Tmo.fr,,,,genes|chretien|embryon|clonage|transgenetique|vache_folle|avortement
+1604,Sofres.com,,,,chretien|avortement
+1607,Cg18.fr,administration territoriale,,,
+1609,Previsions-Elections.com,Analyses et observatoires,TOUS,,
+1612,Godf.org,religions et spiritualité,,,

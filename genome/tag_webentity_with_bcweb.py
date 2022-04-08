@@ -5,8 +5,8 @@ import json
 from ural.lru import LRUTrie
 from ural import ensure_protocol
 
-# CORPUS_FILE = "hyphe_genome_elections 2002.json"
-CORPUS_FILE = "génome incunable.json"
+CORPUS_FILE = "génome élections 2002 v2 complet.json"
+# CORPUS_FILE = "génome incunable.json"
 
 DATA_PATH = "bcweb_data"
 GENOME_PATH = os.path.join(DATA_PATH, "GENOME")
@@ -17,13 +17,19 @@ csv.register_dialect("tsv", delimiter=";")
 # créer un arbre d'URL à partir des données BCWeb
 # URL de départ de BCEB => TAGs
 trie = LRUTrie()
+urls = {}
+# BCWEB
 for filename in os.listdir(GENOME_PATH):
     with open(os.path.join(GENOME_PATH, filename), "r") as f:
 
         tags = csv.DictReader(f, dialect="tsv")
         for tag in tags:
-            trie.set(tag["URL de départ"], tag)
-
+            new_tag = tag
+            if tag["URL de départ"] in urls:
+                new_tag = tag | urls[tag["URL de départ"]]
+            urls[tag["URL de départ"]] = new_tag
+            trie.set(tag["URL de départ"], new_tag)
+# Elections 2004
 with open(
     os.path.join(DATA_PATH, "ELECTIONS", "Data_elections_bnf_2004.csv"), "r"
 ) as f:
@@ -34,8 +40,13 @@ with open(
             "parti": tag["Parti"],
             "candidat": tag["Candidat"],
         }
+        new_tag = tag
+        if tag["URL de départ"] in urls:
+            new_tag = tag | urls[tag["URL de départ"]]
+        urls[tag["URL de départ"]] = new_tag
         trie.set(tag["URL de départ"], new_tag)
 
+# special tags for 2002
 with open(
     os.path.join(DATA_PATH, "ELECTIONS", "domaines-etiquettes-1996-2004.json"), "r"
 ) as f:
@@ -46,7 +57,26 @@ with open(
             new_tag["candidat"] = tag["candidat"]
         if "category" in tag:
             new_tag["Thème"] = tag["category"].split("/")[0].strip()
-        trie.set(ensure_protocol(tag["domain"]), new_tag)
+        url = ensure_protocol(tag["domain"])
+        if url in urls:
+            new_tag = new_tag | urls[url]
+        urls[url] = new_tag
+        trie.set(url, new_tag)
+
+# tags from tf-idf analysis
+with open(
+    "domaine_theme.tags.csv",
+    "r",
+) as f:
+    dr = csv.DictReader(f)
+    for row in dr:
+        domaine = ensure_protocol(row["domaine"])
+        new_tag = {"tfidf": row["themes"]}
+        if domaine in urls:
+            new_tag = new_tag | urls[domaine]
+        urls[domaine] = new_tag
+        print(domaine, new_tag)
+        trie.set(domaine, new_tag)
 
 # on part d'un corpus hyphe
 # pour chauque préfixe de WE on cherche un match dans l'arbre des tags
@@ -54,7 +84,7 @@ with open(
 
 output_data = defaultdict(dict)
 
-fields = ["Thème", "candidat", "parti"]
+fields = ["Thème", "candidat", "parti", "tfidf"]
 
 with open(os.path.join(DATA_PATH, CORPUS_FILE), "r") as webs_f:
     hyphe_incunable = json.load(webs_f)

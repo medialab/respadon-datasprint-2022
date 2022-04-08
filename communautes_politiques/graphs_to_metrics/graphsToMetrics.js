@@ -21,7 +21,7 @@ const graphsToMetrics = (graphs) => {
       }, {})
     }
   }, {})
-  graphs.forEach(({graph, year}) => {
+  graphs.forEach(({graph, year, nodesAttributesMap}) => {
     const centralities = betweennessCentrality(graph);
     const pageRanks = pagerankLib(graph);
     graph.forEachNode((id, {label}) => {
@@ -31,7 +31,8 @@ const graphsToMetrics = (graphs) => {
       labelsMap[label][year] = {
         degree,
         betweennessCentrality,
-        pageRank
+        pageRank,
+        ...nodesAttributesMap[label]
       }
     })
   })

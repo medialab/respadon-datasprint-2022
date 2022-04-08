@@ -16,9 +16,9 @@
       <attribute id="pages_crawled" title="pages_crawled" type="integer"/>
       <attribute id="homepage" title="homepage" type="string"/>
       <attribute id="name" title="name" type="string"/>
-      <attribute id="Crawl Source" title="Crawl Source" type="liststring"/>
-      <attribute id="forme éditoriale" title="forme éditoriale" type="liststring"/>
-      <attribute id="acteur" title="acteur" type="liststring"/>
+      <attribute id="Crawl Source" title="Crawl Source" type="string"/>
+      <attribute id="forme éditoriale" title="forme éditoriale" type="string"/>
+      <attribute id="acteur" title="acteur" type="string"/>
     </attributes>
     <attributes class="edge">
       <attribute id="count" title="count" type="integer"/>

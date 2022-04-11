@@ -203,7 +203,7 @@ def datasprint_get_corpus_name(year:int) -> tuple[str,str]:
 def get_webentity_by_lruprefix(corpus_name:str, lru_prefix:str) -> EntitySemilight:
     return request_api(corpus_name, "store.get_webentity_by_lruprefix", lru_prefix=lru_prefix, raise_on_fail=True) #type:ignore
 
-def datasprint_import() -> None:
+def datasprint_populate_corpus() -> None:
     platform_rules, platform_rules_sequence = get_platform_rules_as_both(config.paths.PLATFORM_RULES_FILEPATH)
     site_tags:defaultdict[str,set[str]] =  defaultdict(set)
     site_urls:defaultdict[str,set[Url]] =  defaultdict(set)
@@ -227,8 +227,8 @@ def datasprint_import() -> None:
         urls = sorted([url.string for url in site_urls[sitename]])
         lru_prefix = get_lru_from_sitename(sitename)
         if len(site_is_path[sitename]) > 1:
-            raise ValueError(f"PLusieurs valeurs pour {sitename}:  {site_is_path[sitename]}")
-        #logger.info(f"{sitename} a le préfixe LRU {lru_prefix} et ces tags:  {tags['USER']['Acteur']}")
+            raise ValueError(f"Plusieurs valeurs pour {sitename}:  {site_is_path[sitename]}")
+        logger.info(f"{sitename} a le préfixe LRU {lru_prefix} et ces tags:  {tags['USER']['Acteur']}")
         for year in (2020,2021,2022):
             if year == 2020 and not site_exists_2020[sitename]:
                 continue

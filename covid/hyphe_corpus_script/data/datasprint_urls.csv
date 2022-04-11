@@ -1,0 +1,967 @@
+URL	Type d'acteur	Santé	Présence dans les archives du web du 31 janvier 2020 au 31 juillet 2020	Présence dans les archives du web en 2021	Crawl lancé ou pas dans les archives du web 2020	Crawl lancé ou pas dans les archives du web 2021	Crawl lancé ou pas sur le web vivant 2022	Notes
+http://www.academie-medecine.fr/?sfid=1000033776&_sf_s=covid-19	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.academie-medecine.fr/category/presse/communiques-de-presse/	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.academie-medecine.fr/category/travaux-et-publications/actualites/	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.academie-medecine.fr/le-dossier-%e2%80%89pandemie-covid-19%e2%80%89/	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.academie-medecine.fr/?sfid=1000033776&_sf_s=confinement?	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.academie-medecine.fr/?sfid=1000033776&_sf_s=coronavirus	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.academie-medecine.fr/coronavirus-covid-19-une-importance-a-relativiser-qui-ne-doit-pas-laisser-place-aux-rumeurs-et-a-la-stigmatisation-inadmissible/	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.academie-medecine.fr/?sfid=1000033776&_sf_s=coronavirus	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://comite-ethique.cnrs.fr/avis-du-comets-communication-scientifique-en-situation-de-crise-sanitaire-profusion-richesse-et-derives/	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://diffusonslascience.fr	Institutionnel	Science, Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	site de vulgarisation du CNRS
+https://lejournal.cnrs.fr/nos-blogs/covid-19-la-parole-a-la-science/covid-19-quelles-sont-les-strategies-possibles-pour-un	Institutionnel	Science, Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://mission-covid19.inria.fr	Institutionnel	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://modcov19.math.cnrs.fr	Institutionnel	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://popsciences.universite-lyon.fr/ressources/sinformer-sur-le-coronavirus/	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://popsciences.universite-lyon.fr/mots-cles/covid-19/	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://popsciences.universite-lyon.fr/ressources/covid-19-des-enquetes-en-cours-sur-les-effets-du-confinement/	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/points-de-situation-coronavirus-covid-19	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://solidarites-sante.gouv.fr/actualites/presse/dossiers-de-presse/	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/covid-19-informations-aux-professionnels-de-sante/article/covid-19-prise-en-charge-en-ambulatoire	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://solidarites-sante.gouv.fr/img/pdf/covid-19_consignes_services_psychiatrie.pdf	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://solidarites-sante.gouv.fr/actualites/presse/	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://solidarites-sante.gouv.fr/img/pdf/guide_methodologique_covid-19-2.pdf	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://solidarites-sante.gouv.fr/img/pdf/point-de-vigilance-20-avril-2021.pdf	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.academie-sciences.fr/fr/rapports-ouvrages-avis-et-recommandations-de-l-academie/questions-scientifiques-sur-la-maladie-a-coronavirus-covid-19.html	Institutionnel	Science, Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.academie-sciences.fr/fr/rapports-ouvrages-avis-et-recommandations-de-l-academie/covid-19-les-medicaments.html	Institutionnel	Science, Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.academie-sciences.fr/fr/rapports-ouvrages-avis-et-recommandations-de-l-academie/covid-19-maladie-virus-traitement.html	Institutionnel	Science, Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.academie-sciences.fr/fr/seances-publiques/covid-19-seance-exceptionnelle.html	Institutionnel	Science, Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.anrs.fr/fr/ressources/revue-de-litterature-covid-19	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ccne-ethique.fr/recherche?search_api_views_fulltext=covid-19	Institutionnel	Science, Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.cea.fr/pages/actualites/sante-sciences-du-vivant/cea-contre-epidemie-covid19.aspx	Institutionnel	Science	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.college-de-france.fr/site/actualites/covid-19chroniqueemergenceannoncee.htm	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.epicov.fr	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.espgg.org/confine-ta-science	Institutionnel	Science	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.hs3pe-crises.fr/revue-de-presse/	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.hs3pe-crises.fr/wp-content/uploads/2020/12/les-sciences-humaines-et-sociales-face-a-la-premiere-vague-de-la-pandemie-de-covid-19-enjeux-et-formes-de-la-recherche-2-12-2020.pdf	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.hs3pe-crises.fr/actualites/cnrs/les-sciences-humaines-et-sociales-face-a-la-premiere-vague-de-la-pandemie-de-covid-19-enjeux-et-formes-de-la-recherche/	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.inist.fr/nos-actualites/covid-19-lappel-science-ouverte-aux-editeurs-scientifiques/	Institutionnel	Science	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.insb.cnrs.fr	Institutionnel	Science, Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.insb.cnrs.fr/fr/news-list	Institutionnel	Science, Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.insb.cnrs.fr/fr/news-list-filtered?thematique_id=68	Institutionnel	Science, Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.insb.cnrs.fr/fr/cnrsinfo/covid-19-et-effets-sur-le-quotidien-participez-lenquete	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.inshs.cnrs.fr/fr/crises-sanitaires-et-environnementales-humanites-sciences-sociales-sante-publique	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.inshs.cnrs.fr/fr/evenement/rencontre-scientifique-les-effets-de-la-pandemie-de-covid-19-documenter-decrire-analyser	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.inshs.cnrs.fr/sites/institut_inshs/files/download-file/les%20effets%20de%20la%20pande%cc%81mie%20de%20covid-19%20documenter,%20de%cc%81crire,%20analyser%20-%20colloque%20-%2029%20et%2030%20juin%202021_2.pdf	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ouvrirlascience.fr/?s=covid-19	Institutionnel	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ouvrirlascience.fr/wp-content/uploads/2020/04/covid-19-et-communication-scientifique_blog-lse_5mars2020-fr.pdf	Institutionnel	Science	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.pasteur.fr/fr/actualites-covid-19	Institutionnel	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.pasteur.fr/fr/journal-recherche/evenements/conference-internationale-covid-19-advances-and-remaining-challenges	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.pasteur.fr/fr/espace-presse/documents-presse/covid-19-decouverte-signature-moleculaire-myocardites-pediatriques	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.pasteur.fr/fr/espace-presse/documents-presse/virus-proches-du-sars-cov-2-capables-infecter-cellules-humaines-decouverts-chauves-souris-au-nord-du	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.pasteur.fr/fr/espace-presse/documents-presse/sars-cov-2-deteriore-cellules-ciliees-inhibe-mecanisme-clairance-mucociliee-voies-respiratoires	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.pasteur.fr/fr/espace-presse/documents-presse/inhibiteurs-checkpoints-immunitaires-ameliorent-immunite-cellulaire-contre-sars-cov-2	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.pasteur.fr/fr/espace-presse/documents-presse/covid-19-quelles-strategies-teletravail-freiner-circulation-du-virus	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.pasteur.fr/fr/centre-medical/fiches-maladies/maladie-covid-19-nouveau-coronavirus	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.publicsenat.fr/article/societe/levee-des-brevets-sur-les-vaccins-macron-est-a-la-remorque-des-etats-unis-188999	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.sf2s-sterilisation.fr/infos/covid-19-toutes-les-infos/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.sfm-microbiologie.org/covid-19-actualites/	Institutionnel	Science, Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.sfm-microbiologie.org/2020/03/03/covid-19/	Institutionnel	Science, Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.sfm-microbiologie.org/2020/03/19/covid-19/	Institutionnel	Science, Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.sfm-microbiologie.org/2020/04/03/covid-19/	Institutionnel	Science, Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.soundofscience.fr/2231	Blog	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.soundofscience.fr/2210	Blog	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.soundofscience.fr/2193	Blog	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.soundofscience.fr/2169	Blog	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.mediterranee-infection.com/?s=coronavirus	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.mediterranee-infection.com/tout-sur-le-coronavirus/	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.mediterranee-infection.com/communication/actualites/	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.mediterranee-infection.com/covid-19/	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://covid-documentation.aphp.fr	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://covid-documentation.aphp.fr/ethique-et-droit/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/information-des-professionnels/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/restauration/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/urgences-et-regulation/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/deces/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/transferts-de-patients/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/reanimation/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/fonctions-supports/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/imagerie/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/hospitalisation-a-domicile/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/protection-des-professionnels/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/architecture-batiment-ingenierie/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/geriatrie/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/autres-logistiques/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/visiteurs/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/obstetrique/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/kinesitherapie/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/dechets/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/e-learning-covid-19/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/handicap/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/neurologie/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/soins-palliatifs/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/hebergement-pour-patients-covid-ne-pouvant-rentrer-chez-eux/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/information-aux-patients-et-proches/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/organisation/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/endocrinologie-diabetologie-nutrition/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/structures-de-prevention/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/ssr/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/systeme-dinformation/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/pedopsychiatrie/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/transports/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/prise-en-charge-des-patients/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/professionnels-de-sante/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/laboratoire/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/pneumologie/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/bionettoyage/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/anesthesie/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/douleur/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/psychiatrie/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/cancerologie-et-hematologie/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/mesures-barrieres/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/hepato-gastro-enterologie/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/chirurgie/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/pediatrie/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/odontologie/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/retour-et-suivi-a-domicile/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/approvisionnement-medical-et-pharmaceutique/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/depistage/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/neurologie-2/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/maladies-infectieuses-hors-covid-19/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/linge/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/adaptation-des-prises-en-charge/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/nephrologie-et-dialyse/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/telemedecine/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/cardiologie/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/organisation-generale-des-soins/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/renforts-covid-19/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/budget-et-finances/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-documentation.aphp.fr/soutien-aux-professionnels/	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://splf.fr/covid-19-informations-aux-professionnels/	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://splf.fr/centre-de-documentation-covid-19/	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://splf.fr/wp-content/uploads/2020/03/covid19-kassegne21-03-20-reduit.pdf	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://splf.fr/gavo2/	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.pasteur.fr/fr/espace-presse/documents-presse/ivermectine-attenue-symptomes-covid-19-modele-animal	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://conoravirus.fr	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.enseignementsup-recherche.gouv.fr/pid39540/covid-enseignement-superieur-rec-mobilises.html	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.enseignementsup-recherche.gouv.fr/pid39562/covid-19-l-enseignement-superieur-francais-mobilise.html	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.enseignementsup-recherche.gouv.fr/supsolidaire	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.fse.gouv.fr/covid-19-ce-que-font-les-acteurs-du-fse	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.justice.gouv.fr/la-garde-des-sceaux-10016/	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.justice.gouv.fr/publication/musee_memorial_rapport_vdef.pdf	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://chlorofil.fr/covid-19	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://covid-19.sante.gouv.fr	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://eureka.defense.gouv.fr/services/informations-covid-19	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/?mots[]=2348&annee=2021#articles	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-questions-reponses-pour-les-entreprises-et-les-salaries	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.data.gouv.fr/fr/datasets/indicateurs-dactivite-epidemique-covid-19-par-departement/	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.defense.gouv.fr/actualites	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.defense.gouv.fr/actualites/articles/ministere-des-armees-covid-19-foire-aux-questions	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.defense.gouv.fr/actualites/operations/genevieve-darrieussecq-en-vol-pour-la-mission-morphee	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.economie.gouv.fr/covid19-soutien-entreprises	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.economie.gouv.fr/covid19-soutien-entreprises/filiere-aeronautique-appel-manifestation-interet	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.economie.gouv.fr/covid19-soutien-entreprises/nouvelles-mesures-soutien-tresorerie-entreprises	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.economie.gouv.fr/covid19-soutien-entreprises/plan-commerce-proximite-artisanat-independants	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.economie.gouv.fr/covid19-soutien-entreprises/plans-de-soutien-sectoriels	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.economie.gouv.fr/coronavirus-covid-19-informations-recommandations-mesures-sanitaires	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.economie.gouv.fr/covid19-soutien-entreprises/les-mesures	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.economie.gouv.fr/covid19-soutien-entreprises/reponses-gouvernement-difficultes-independants	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.economie.gouv.fr/plan-de-relance	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.education.gouv.fr/covid19-documents-d-information-pour-les-ecoles-et-etablissements-305657	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.education.gouv.fr/covid19-mesures-pour-les-ecoles-colleges-et-lycees-modalites-pratiques-continuite-pedagogique-et-305467	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.education.gouv.fr/covid19-ouverture-des-ecoles-modalites-pratiques-et-protocole-sanitaire-305467	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.interieur.gouv.fr/actualites/communiques/duree-de-validite-des-titres-de-sejour	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://bourgogne-franche-comte.drdjscs.gouv.fr/spip.php?article1257	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://bourgogne-franche-comte.drdjscs.gouv.fr/spip.php?rubrique308	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://bourgogne-franche-comte.drdjscs.gouv.fr/spip.php?article1257	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://bourgogne-franche-comte.drdjscs.gouv.fr/spip.php?article1251	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://bourgogne-franche-comte.drdjscs.gouv.fr/spip.php?article1256	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://covid-coronavirus.fr	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://draaf.bourgogne-franche-comte.agriculture.gouv.fr/informations-covid-19	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://factuel.univ-lorraine.fr/institution	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://factuel.univ-lorraine.fr/coronavirus	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://nievre.fr/le-departement/restez-chez-vous-224/point-de-situation/	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://recherche.irsan.fr/fr/	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://recherche.irsan.fr/var/documentations/documentation_154/la%20mortalite%20de%20coronavirus%20france_preprint2021-03-25.pdf	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.cdg21.fr/index.php/actualites/524-covid-19	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.cdg21.fr/index.php/covid-19/la-gestion-de-l-agent	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cdg21.fr/index.php/10-actualites/528-plan-de-continuite-d-activite	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.cdg21.fr/index.php/10-actualites/532-informations-covid-19	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.cdg21.fr/index.php/actualites/520-epidemie-coronavirus	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.cdg21.fr/index.php/10-actualites/537-prorogation-de-l-etat-d-urgence-sanitaire	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.cdg21.fr/index.php/covid-19/vos-questions-nos-reponses	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cdg21.fr/index.php/covid-19/la-continuite-des-services	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cdg21.fr/index.php/covid-19/boite-a-outils	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cdg21.fr/index.php/10-actualites/526-informations-covid19	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.cdg21.fr/index.php/covid-19/vos-questions-nos-reponses	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cdg21.fr/index.php/covid-19/la-gestion-de-l-agent	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cdg21.fr/index.php/covid-19/la-continuite-des-services	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cdg21.fr/index.php/covid-19/boite-a-outils	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cote-dor.gouv.fr/coronavirus-covid-19-toutes-les-informations-r3115.html	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.bourgogne-franche-comte.ars.sante.fr/liste-communiques-presse?themes_publications%5b13983%5d=13983&archive=all	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.cote-dor.gouv.fr/covid-m885.html	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cote-dor.gouv.fr/point-de-situation-r3430.html	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cote-dor.gouv.fr/coronavirus-m881.html	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cote-dor.gouv.fr/coronavirus-covid-19-toutes-les-informations-m883.html	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cote-dor.gouv.fr/informations-interdictions-recommandations-regles-r3431.html	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cote-dor.gouv.fr/covid-19-conseils-et-bonne-pratiques-de-l-r3484.html	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cote-dor.gouv.fr/economie-entreprises-artisans-independants-r3436.html	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cote-dor.gouv.fr/coronavirus-m882.html	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cote-dor.gouv.fr/fermeture-des-centres-commerciaux-de-20-000-m%c2%b2-et-a9339.html	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.cote-dor.gouv.fr/la-vaccination-r3501.html	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.cote-dor.gouv.fr/communiques-nationaux-discours-legislation-r3429.html	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.cote-dor.gouv.fr/deconfinement-r3453.html 	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.cote-dor.gouv.fr/communiques-nationaux-discours-legislation-r3429.html 	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.cote-dor.gouv.fr/deconfinement-r3453.html 	Institutionnel		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.doubs.gouv.fr/actualites/actualites-2020	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.jura.gouv.fr/actualites/breves	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.jura.gouv.fr/politiques-publiques/sante/covid-19/covid-19-informations-recommandations-mesures-sanitaires	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.jura.gouv.fr/actualites/salle-de-presse/communiques-de-presse/communiques-2020	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.jura.gouv.fr/actualites/breves/(offset)/40	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.nievre.gouv.fr/covid-19-r781.html	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.nievre.gouv.fr/salle-de-presse-r281.html	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.nievre.gouv.fr/mars-2020-r765.html	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.nievre.gouv.fr/avril-2020-r767.html	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.nievre.gouv.fr/mai-2020-r768.html	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.saone-et-loire.gouv.fr/informations-coronavirus-covid-2019-r2997.html	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.saone-et-loire.gouv.fr/septembre-r2915.html	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.saone-et-loire.gouv.fr/la-vaccination-r3165.html	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.saone-et-loire.gouv.fr/aout-r2914.html	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.saone-et-loire.gouv.fr/juillet-r2913.html	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.saone-et-loire.gouv.fr/juin-r2912.html	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.saone-et-loire.gouv.fr/decembre-r2919.html	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.saone-et-loire.gouv.fr/novembre-r2917.html	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.saone-et-loire.gouv.fr/fevrier-r3175.html	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.saone-et-loire.gouv.fr/octobre-r2916.html	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.saone-et-loire.gouv.fr/janvier-r3159.html	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.tarbes.fr/gp/covid-19/728/0	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://agriculture.gouv.fr/covid-19-informations-sur-les-secteurs-du-ministere-de-lagriculture-et-de-lalimentation	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://bourgogne-franche-comte.dreets.gouv.fr/corona-covid19	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://bourgogne-franche-comte.direccte.gouv.fr/coronavirus-covid19	Institutionnel		FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://coronavirus.pasteur-lille.fr	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://covid19.reserve-civique.gouv.fr	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://etats-generaux-du-numerique.education.gouv.fr	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://etats-generaux-du-numerique.education.gouv.fr/uploads/decidim/attachment/file/506/propositions_egn_2020.pdf	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://idip.unistra.fr/analyse-et-reflexions/	Institutionnel		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://info-entreprises-covid19.economie.gouv.fr/kb/fr	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://institut-sommeil-vigilance.org/limiter-les-risques-dinsomnie-en-periode-de-confinement/	Institutionnel	Science, Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://mesconseilscovid.sante.gouv.fr	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://travail-emploi.gouv.fr/le-ministere-en-action/coronavirus-covid-19/	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://travail-emploi.gouv.fr/le-ministere-en-action/coronavirus-covid-19/proteger-les-travailleurs/article/fiches-conseils-metiers-et-guides-pour-les-salaries-et-les-employeurs	Institutionnel		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/assure/covid-19	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/assure/covid-19/assurance-maladie-contact-droits-et-demarches-pendant-la-crise-sanitaire	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/assure/covid-19/arrets-travail/covid-19-dispositif-dindemnisation-des-interruptions-de-travail	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/assure/covid-19/isolement-principes-et-regles-respecter	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/assure/covid-19/comprendre-la-covid-19-se-proteger	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/assure/covid-19/prendre-soin-de-sa-sante-pendant-la-crise-sanitaire	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/assure/covid-19/tester-alerter-proteger-comprendre-la-strategie-pour-stopper-lepidemie	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/assure/covid-19/travailleur-independant-des-aides-la-mise-en-oeuvre-des-mesures-de-protection/travailleur-independant-des-aides-la-mise-en-oeuvre-les-mesures-de-protection	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/industrie-conseils-outils-proteger-salaries	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/contact-tracing-procedures-arret-travail	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/batiment-conseils-outils-proteger-salaries	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/gestion-dechets-conseils-outils-proteger-salaries	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/proprete-conseils-outils-proteger-salaries	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/hotellerie-restauration-conseils-outils-proteger-salaries	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/ou-trouver-des-informations	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/transport-routier-voyageurs-conseils-proteger-salaries	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/industrie-agro-alimentaire-outils-proteger-salaries	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/protocole-sanitaire-en-entreprise-un-guide-pour-aider-employeurs-et-salaries	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/transport-marchandises-logistique-outils-proteger-salaries	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/aide-soins-domicile-conseils-outils-proteger-salaries	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/les-solutions-et-actions-mener-face-aux-risques-sanitaires-et-professionnels	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/plan-daction-covid-un-outil-en-ligne-gratuit-pour-proteger-ses-salaries	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/commerce-non-alimentaire-conseils-outils-proteger-salaries	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/ehpad-conseils-outils-proteger-salaries	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/commerce-alimentaire-conseils-outils-proteger-salaries	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/entreprise/covid-19/service-automobile-conseils-outils-proteger-salaries	Institutionnel	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/etablissement/actualites?f%5b0%5d=field_actu_main_second_category%3a145276	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/etablissement/actualites?f%5b0%5d=field_actu_main_second_category%3a145276&page=1	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/exercice-coordonne/actualites?f%5b0%5d=field_actu_main_second_category%3a145276	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/exercice-coordonne/actualites?f%5b0%5d=field_actu_main_second_category%3a145276&page=1	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/exercice-coordonne/actualites?f%5b0%5d=field_actu_main_second_category%3a145276&page=3	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/exercice-coordonne/actualites?f%5b0%5d=field_actu_main_second_category%3a145276&page=2	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/infirmier/actualites?f%5b0%5d=field_actu_main_second_category%3a145276	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/infirmier/actualites?f%5b0%5d=field_actu_main_second_category%3a145276&page=2	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/infirmier/actualites?f%5b0%5d=field_actu_main_second_category%3a145276&page=1	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/laboratoire-danalyses-medicales/actualites?f%5b0%5d=field_actu_main_second_category%3a145276	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/laboratoire-danalyses-medicales/actualites?f%5b0%5d=field_actu_main_second_category%3a145276&page=1	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/medecin/actualites?f%5b0%5d=field_actu_main_second_category%3a145276	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/medecin/actualites?f%5b0%5d=field_actu_main_second_category%3a145276&page=2	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/medecin/actualites?f%5b0%5d=field_actu_main_second_category%3a145276&page=1	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/medecin/actualites?f%5b0%5d=field_actu_main_second_category%3a145276&page=3	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/medecin/actualites?f%5b0%5d=field_actu_main_second_category%3a145276&page=4	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/pharmacien/actualites?f%5b0%5d=field_actu_main_second_category%3a145276	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/pharmacien/actualites?f%5b0%5d=field_actu_main_second_category%3a145276&page=1	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/pharmacien/actualites?f%5b0%5d=field_actu_main_second_category%3a145276&page=2	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/professionnel-de-la-lpp/actualites?f%5b0%5d=field_actu_main_second_category%3a145276	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/professionnel-de-la-lpp/actualites?f%5b0%5d=field_actu_main_second_category%3a145276&page=1	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/transporteur-sanitaire/actualites?f%5b0%5d=field_actu_main_second_category%3a145276	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ameli.fr/cote-d-or/transporteur-sanitaire/actualites?f%5b0%5d=field_actu_main_second_category%3a145276&page=1	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.bourgogne-franche-comte.ars.sante.fr/coronavirus-les-informations-utiles	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.bourgogne-franche-comte.ars.sante.fr/covid-19-tests-laboratoires-ouverts-au-public-realisant-des-prelevements	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.bourgogne-franche-comte.ars.sante.fr/liste-communiques-presse?themes_publications%5b13983%5d=13983	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.bourgogne-franche-comte.ars.sante.fr/liste-actualites?themes_publications%5b13983%5d=13983	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.bourgogne-franche-comte.ars.sante.fr/liste-actualites?themes_publications%5b13983%5d=13983	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.bourgogne-franche-comte.ars.sante.fr/covid-19-tests-laboratoires-ouverts-au-public-realisant-des-prelevements	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.bourgogne-franche-comte.ars.sante.fr/liste-communiques-presse?themes_publications%5b13983%5d=13983	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.bourgogne-franche-comte.ars.sante.fr/coronavirus-covid-19-informations-aux-esms	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.bourgogne-franche-comte.ars.sante.fr/coronavirus-les-informations-utiles	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://hopitaux-jura.fr/point-dinformation-sur-le-covid-19/	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.chru-strasbourg.fr/toutes-les-actualit-s/covid-19-les-chiffres-cles-du-chu-de-strasbourg	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://covid-chu-tours.fr	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.chu-grenoble.fr	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.chu-limoges.fr/actualites.html	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.chu-nancy.fr	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.chu-nancy.fr/images/espace_presse/20200324_cp_essai_discovery_nancy.pdf	Institutionnel	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.chu-nimes.fr/actu-cht/informations-et-recommandations-sur-le-coronavirus-covid-19.html	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.chu-rouen.fr/page/coronavirus	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.chu-rouen.fr/ensemble-contre-le-covid-19/	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.chu-st-etienne.fr	Institutionnel	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://don.chu-dijon.fr/covid_19	Institutionnel	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://curiologie.fr	Vulgarisation	Science, Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://curiologie.fr/2020/03/information-incertaine/	Vulgarisation	Science, Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://curiologie.fr/2020/05/checknews-covid19/	Vulgarisation	Science, Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://curiologie.fr/2020/03/fake-news-gens-bien/	Vulgarisation	Science, Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://curiologie.fr/2020/03/chloroquine/	Vulgarisation	Science, Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://le-bars.net/yoann/fr/	Vulgarisation	Science	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.apajh.org/covid19/	Syndicat / Association		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.apajh.org/covid19/coronavirus-explique-simplement/	Syndicat / Association		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://couleur-science.eu/?d=3eefbb--comment-fonctionnent-les-masques-ffp2	Vulgarisation	Science	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://couleur-science.eu/?d=d6c10b--quest-ce-quun-virus	Vulgarisation	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://kezacovid19.wordpress.com	Vulgarisation	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://kezacovid19.wordpress.com/productions/	Vulgarisation	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://kidiscience.cafe-sciences.org/articles/cest-quoi-le-coronavirus/	Vulgarisation	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://quoidansmonassiette.fr/category/sante/maladies-infectieuses-et-virales/	Vulgarisation	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://quoidansmonassiette.fr/coronavirus-2019-ncov-sras-premiers-resultats-analyses-malades-chinois-symptomes-transmission-etat-des-lieux/	Vulgarisation	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://quoidansmonassiette.fr/covid-19-fake-news-mesinformation-coronavirus-ou-trouver-des-informations-fiables/	Vulgarisation	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://quoidansmonassiette.fr/covid-19-analyse-synthese-informations-fiables-symptome-dynamique-epidemie-traitement/	Vulgarisation	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://quoidansmonassiette.fr/coronavirus-2019-ncov-evolution-cartes-nombre-de-cas-deces-precedentes-epidemies-sras-mers-ebola-h5n1-en-graphiques/	Vulgarisation	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://sciencepost.fr/?s=coronavirus	Vulgarisation	Science, Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://sciencepost.fr/?s=covid-19	Vulgarisation	Science, Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://sciencetonnante.wordpress.com/2020/03/12/epidemie-nuage-radioactif-et-distanciation-sociale/	Vulgarisation	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://souslemicroscope.com/2020/03/quelle-est-la-stabilite-du-coronavirus-sur-des-surfaces-inertes/	Vulgarisation	Science, Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.cafe-sciences.org/covid-19-ressources/	Vulgarisation	Science	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.cafe-sciences.org/?s=covid-19	Vulgarisation	Science	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.cocovirus.net	Vulgarisation	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.cocovirus.net/pdf	Vulgarisation	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.grandlabo.com/tag/scicomm/	Vulgarisation	Science	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.ouvrirlascience.fr/?s=covid-19	Vulgarisation	Science, Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.ouvrirlascience.fr/wp-content/uploads/2020/04/covid-19-et-communication-scientifique_blog-lse_5mars2020-fr.pdf	Vulgarisation	Science, Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.pseudo-sciences.org/+-coronavirus-376-+	Vulgarisation	Science	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.redactionmedicale.fr/2021/09/le-comite-dethique-du-cnrs-a-des-couilles-bravo-cest-une-bonne-surprise	Vulgarisation	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://agent-hospitalier.simplesite.com	Syndicat / Association	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://amuf.fr	Syndicat / Association	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://cgtfuneraire.reference-syndicale.fr/tag/coronavirus/	Syndicat / Association		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://e-adarpef.fr/covid-19/	Syndicat / Association	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://ugtg.org	Syndicat / Association		FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.adesm.fr/covid-19/	Syndicat / Association	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.adesm.fr/covid-19/faq-covid-19/	Syndicat / Association	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+http://www.lesml.org/fr/12-actualites-du-sml.php	Syndicat / Association	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.ordre.pharmacien.fr/communications/les-actualites/coronavirus-recommandations-pour-les-professionnels-de-sante	Syndicat / Association	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.ordre.pharmacien.fr/les-pharmaciens/champs-d-activites/covid-19	Syndicat / Association	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.ordremk.fr/actualites/patients/coronavirus-2019-ncov-vraies-recommandations-et-fake-news/	Syndicat / Association	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+http://www.ordremk.fr/covid-19-questions-frequentes-des-kinesitherapeutes/	Syndicat / Association	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://afpa.org/covid-19/	Syndicat / Association	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://bourgogne-franchecomte.apf-francehandicap.org/page-de-contenu/comite-ethique-interassociatif-23250	Syndicat / Association		TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://compare.aphp.fr	Syndicat / Association	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://compare.aphp.fr/actualites/182-consequences-a-long-terme-de-la-covid-19.html	Syndicat / Association	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://recherche.ordre.pharmacien.fr/myapps/apps/onp/?query=covid-19&constraint=cespharm	Syndicat / Association	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://snmpmi.org/covid-19-des-informations-sur-le-site-du-ministere-de-la-santeet-des-donnees.html	Syndicat / Association	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://uspo-aura.fr	Syndicat / Association	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://uspo-bourgogne-franche-comte.fr/category/informations/	Syndicat / Association	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.adapeidudoubs.fr/une-association-de-parents/se-tenir-informe/info-coronavirus-covid-19/	Syndicat / Association		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.aftc-bfc.fr/2020/03/	Syndicat / Association	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.aftc-bfc.fr/2020/03/31/confinement-survivre-avec-des-enfants-en-periode-de-confinement/	Syndicat / Association	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.aftc-bfc.fr/2020/04/	Syndicat / Association	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.aftc-bfc.fr/2020/05/	Syndicat / Association	Santé	FALSE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.aftc-bfc.fr/wp-content/uploads/2020/03/aftc-organisation-parents-confinement.pdf	Syndicat / Association	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.aftc-bfc.fr/wp-content/uploads/2020/03/aftc-pr%c3%a9server-son-bien-%c3%aatre.pdf	Syndicat / Association	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.anemf.org/blog/2020/	Syndicat / Association	Santé	TRUE	FALSE	Crawlé	Pas crawlé	Crawlé	
+https://www.syndicatdermatos.org/ci-dessous-nos-articles-au-sujet-du-covid-19/	Syndicat / Association	Santé	TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.uriopss-occitanie.fr	Syndicat / Association	Santé	FALSE	TRUE	Crawlé	Crawlé	Crawlé	
+https://www.covid19-infos-aux-entreprises.fr/	Syndicat / Association		TRUE	TRUE	Crawlé	Crawlé	Crawlé	
+https://yonnelautre.fr/spip.php?rubrique2036	Presse généraliste et locale		TRUE	TRUE				
+https://www.francebleu.fr/infos/sante-sciences/coronavirus-le-temoignage-poignant-d-une-infirmiere-des-urgences-covid-de-l-hopital-de-perpignan-1584795361	Presse généraliste et locale		TRUE	FALSE				
+http://echo-drome-ardeche.com	Presse généraliste et locale		TRUE	TRUE				
+http://ecoaustral.com/et-si-lon-avait-tout-faux	Presse généraliste et locale		FALSE	TRUE				
+http://outremers360.com/societe/live-covid-19-1-126-cas-confirmes-en-outre-mer-lepidemie-marque-le-pas/	Presse généraliste et locale		TRUE	FALSE				
+http://www.asso-sfc.org/asfc-actualites.php	Syndicat / Association	Santé	FALSE	TRUE				
+https://www.factuel.info/coronavirus-la-necessaire-refondation-de-nos-systemes-agricoles-et-alimentaires	Presse généraliste et locale		FALSE	TRUE				
+http://www.factuel.info/rubriques/faire-face	Presse généraliste et locale		FALSE	TRUE				
+http://www.factuel.info/rubriques/entraide	Presse généraliste et locale		FALSE	TRUE				
+http://www.factuel.info/rubriques/communiques	Presse généraliste et locale		FALSE	TRUE				
+https://www.lamarseillaise.fr/societe/une-societe-savante-depose-plainte-contre-didier-raoult-aupres-de-l-ordre-xe4464743	Presse généraliste et locale		FALSE	FALSE				
+http://www.factuel.info/rubriques/covid-19	Presse généraliste et locale		FALSE	TRUE				
+http://www.leparisien.fr/hauts-de-seine-92/journal-d-une-famille-confinee-a-boulogne-billancourt-le-confinement-rapproche-les-gens-30-03-2020-8290998.php	Presse généraliste et locale		TRUE	FALSE				
+http://www.leparisien.fr/oise-60/coronavirus-l-oise-n-est-pas-epargnee-par-les-vols-de-materiel-medical-11-03-2020-8277978.php	Presse généraliste et locale		TRUE	FALSE				
+http://www.leparisien.fr/paris-75/coronavirus-a-paris-belleville-la-chinoise-victime-de-la-phobie-13-02-2020-8258754.php	Presse généraliste et locale		TRUE	FALSE				
+http://www.lepelican-journal.com/saint-martin/economie/seules-16-des-entreprises-ont-retrouve-leur-activite-d-avant-la-crise-18901.html	Presse généraliste et locale		FALSE	FALSE				
+http://www.lepelican-journal.com/saint-martin/transport/les-deplacements-aeriens-entre-saint-martin-et-la-guadeloupe-limites-aux-motifs-imperieux-18867.html	Presse généraliste et locale		FALSE	FALSE				
+http://www.letarnlibre.com	Presse généraliste et locale		TRUE	TRUE				
+http://www.mag2lyon.com/m-3387-covid-19-pres-de-300-deces-dans-la-region.html	Presse généraliste et locale		TRUE	FALSE				
+http://www.psycom.org/espace-presse/actualites-du-psycom/epidemie-et-confinement-ressources-utiles-pour-notre-sante-mentale	Presse généraliste et locale	Santé	FALSE	FALSE				
+http://www.solidaritefemmes.org/revue-de-presse-speciale-associations-confinement	Syndicat / Association		TRUE	TRUE				
+http://www.soualigapost.com/fr/actualite/37414/sant%c3%a9/173-cas-actifs-de-covid-19-sur-l%c3%aele	Presse généraliste et locale		FALSE	FALSE				
+https://actu.fr/lot/societe/coronavirus	Presse généraliste et locale		FALSE	TRUE				
+https://actu.fr/societe/coronavirus/ce-que-les-syndicats-le-patronat-et-l-elysee-proposent-pour-sauver-l-emploi_34089321.html	Presse généraliste et locale		TRUE	TRUE				
+https://actu.fr/societe/vols-voici-dans-quelles-conditions-nous-pourrons-voyager-en-avion-cet-ete_34065683.html	Presse généraliste et locale		TRUE	TRUE				
+https://actu.fr/sports/football/coronavirus-le-football-amateur-va-recevoir-30-millions-d-euros-d-aides-supplementaires_34078206.html	Presse généraliste et locale		TRUE	TRUE				
+https://actu.fr/loisirs-culture/distanciation-port-du-masque-recommande-comment-les-cinemas-vont-rouvrir-leurs-portes_34068667.html	Presse généraliste et locale		TRUE	TRUE				
+https://actu.fr/loisirs-culture/pendant-le-confinement-les-francais-en-profitent-pour-apprendre-l-anglais-ou-l-allemand_34081196.html	Presse généraliste et locale		TRUE	TRUE				
+https://actu.fr/societe/coronavirus/covid-19-44-deces-en-plus-toujours-moins-de-patients-en-reanimation-le-point-en-france_34082662.html	Presse généraliste et locale		TRUE	TRUE				
+https://actu.fr/societe/coronavirus/trois-des-quatre-auteurs-de-l-etude-controversee-sur-l-hydroxychloroquine-se-retractent_34091062.html	Presse généraliste et locale		TRUE	TRUE				
+https://actu.fr/societe/coronavirus	Presse généraliste et locale		TRUE	TRUE				
+https://actu.fr/toulouse/societe/coronavirus	Presse généraliste et locale		FALSE	TRUE				
+https://angers.maville.com/info/coronavirus/	Presse généraliste et locale		TRUE	TRUE				
+https://covid19criticalcare.com/fr/ivermectine-dans-covid-19/analyses-%c3%a9pid%c3%a9miologiques-sur-la-covid19-et-l%27ivermectine/	Syndicat / Association	Santé	FALSE	FALSE				
+https://covid19criticalcare.com/fr/ivermectine-dans-covid-19/	Syndicat / Association	Santé	FALSE	TRUE				
+https://covid19criticalcare.com/fr/vid%c3%a9os-et-presse/versions-flccc/d%c3%a9claration-de-l%27alliance-du-flccc-sur-les-actions-irr%c3%a9guli%c3%a8res-des-agences-de-sant%c3%a9-publique-et-la-vaste-campagne-de-d%c3%a9sinformation-contre-l%27ivermectine/	Syndicat / Association	Santé	FALSE	FALSE				
+https://covid19criticalcare.com/fr/	Syndicat / Association	Santé	FALSE	TRUE				
+https://esprit.presse.fr/theme/covid-19-63	Presse généraliste et locale		TRUE	TRUE				
+https://etudiant.lefigaro.fr/article/comment-le-covid-19-a-bouleverse-l-enseignement-superieur_7d252220-4476-11eb-9cda-7ec6d3088ecd/	Presse généraliste et locale		FALSE	TRUE				
+https://etudiant.lefigaro.fr/article/lerclerc-va-mettre-en-place-un-panier-repas-a-moins-de-trois-euros-pour-les-etudiants_e54555a6-66c1-11eb-b428-291134851382/	Presse généraliste et locale		FALSE	TRUE				
+https://factuel.afp.com/list/all/all/35799/all/130	Presse généraliste et locale		TRUE	TRUE				
+https://factuel.afp.com/le-coronavirus-les-verifications-faites-par-lafp	Presse généraliste et locale		TRUE	TRUE				
+https://gazette-ariegeoise.fr	Presse généraliste et locale		TRUE	TRUE				
+https://graphics.reuters.com/world-coronavirus-tracker-and-maps/fr/countries-and-territories/france/	Presse généraliste et locale		FALSE	TRUE				
+https://hebdo25.net/haut-doubs-pontarlier-centre-de-depistage-covid-lenvers-du-decor/	Presse généraliste et locale		FALSE	TRUE				
+https://hebdo25.net/category/sante/page/2/	Presse généraliste et locale		TRUE	TRUE				
+https://hebdo25.net/category/sante/	Presse généraliste et locale		TRUE	TRUE				
+https://hebdo25.net/category/edito/	Presse généraliste et locale		TRUE	TRUE				
+https://hebdo39.net/?s=covid	Presse généraliste et locale		FALSE	TRUE				
+https://infodujour.fr/societe/54986-petition-non-au-pass-vaccinal	Presse généraliste et locale		FALSE	FALSE				
+https://ladeviation.com/author/lesconfinees/	Syndicat / Association		FALSE	TRUE				
+https://lejournaldugers.fr	Presse généraliste et locale		TRUE	TRUE				
+https://lepetitquotidien.playbacpresse.fr/dossiers-actualite/lepq/general/coronavirus	Presse généraliste et locale		TRUE	FALSE				
+https://lepetitquotidien.playbacpresse.fr/article-gratuit/retrouve-ici-les-principaux-articles-sur-le-coronavirus-parus-dans-le-petit-quotidien	Presse généraliste et locale		TRUE	TRUE				
+https://lesinguliersete.fr/category/societe/coronavirus/	Presse généraliste et locale		FALSE	TRUE				
+https://letc.fr/capituler-or-not-capituler	Presse généraliste et locale		FALSE	TRUE				
+https://letc.fr/tag/covid-19	Presse généraliste et locale		FALSE	TRUE				
+https://letrois.info/dossiers/dossier-covid-19/	Presse généraliste et locale		TRUE	TRUE				
+https://limpartial.fr/lactualite/social-et-sante/coronavirus/	Presse généraliste et locale		TRUE	TRUE				
+https://linformateurdebourgogne.com/?s=couvre-feu	Presse généraliste et locale		FALSE	TRUE				
+https://linformateurdebourgogne.com/?s=crise+sanitaire	Presse généraliste et locale		FALSE	FALSE				
+https://linformateurdebourgogne.com/?s=reconfinement	Presse généraliste et locale		FALSE	TRUE				
+https://linformateurdebourgogne.com/cat/sante/	Presse généraliste et locale		TRUE	TRUE				
+https://lopinion.com/articles/sante	Presse généraliste et locale		FALSE	TRUE				
+https://madeinmarseille.net/75947-lunion-sacree-pour-defendre-le-territoire-face-aux-mesures-du-gouvernement/	Presse généraliste et locale		FALSE	TRUE				
+https://madeinmarseille.net/78907-retour-sur-la-visite-de-jean-castex-a-marseille-aux-cotes-de-michele-rubirola-et-renaud-muselier/	Presse généraliste et locale		FALSE	TRUE				
+https://madeinmarseille.net/79229-confinement-economie-entreprise-tpe-pme/	Presse généraliste et locale		FALSE	FALSE				
+https://madeinmarseille.net/79211-confinement-la-liste-des-commerces-qui-resteront-ouverts-apres-vendredi/	Presse généraliste et locale		FALSE	FALSE				
+https://madeinmarseille.net/75886-le-president-de-lupe13-invite-emmanuel-macron-et-jean-castex-a-venir-a-marseille/	Presse généraliste et locale		FALSE	TRUE				
+https://madeinmarseille.net/76014-marseille-les-bars-et-restaurants-fermeront-dimanche-pour-vider-les-stocks/	Presse généraliste et locale		FALSE	FALSE				
+https://madeinmarseille.net/78991-hydroxychloroquine-ansm-raoult-muselier-sanofi/	Presse généraliste et locale		FALSE	FALSE				
+https://madeinmarseille.net/actualite/marseille/	Presse généraliste et locale		TRUE	TRUE				
+https://madeinmarseille.net/90419-journalisme-chloroquine-jeune-reporter-presse/	Presse généraliste et locale		FALSE	TRUE				
+https://madeinmarseille.net/economie-marseille/sante/	Presse généraliste et locale		TRUE	TRUE				
+https://madeinperpignan.com/jour-apres-jour-lactualite-du-reconfinement-des-pyrenees-orientales/	Presse généraliste et locale		FALSE	TRUE				
+https://madeinperpignan.com/category/coronavirus/	Presse généraliste et locale		TRUE	TRUE				
+https://marsactu.fr/category/theme-sante	Presse généraliste et locale		FALSE	TRUE				
+https://marsactu.fr/?s=covid-19	Presse généraliste et locale		FALSE	FALSE				
+https://met.grandlyon.com/category/coronavirus/	Presse généraliste et locale		TRUE	TRUE				
+https://mrmondialisation.org/tag/coronavirus/	Presse généraliste et locale		TRUE	TRUE				
+https://musiquesactuelles.net/covid-19-aides-enquetes-revue-de-presse/	Presse généraliste et locale		TRUE	FALSE				
+https://news.un.org/fr/story/2020/12/1085202	Presse généraliste et locale		FALSE	TRUE				
+https://noumeapost.com/category/covid-19/	Presse généraliste et locale		TRUE	TRUE				
+https://nouveaulyon.fr/actualite/	Presse généraliste et locale		TRUE	TRUE				
+https://nouvellessemaine.fr/nag-actus/3364-un-ton-pas-moralisateur-mais-juste-catastrophique.html	Presse généraliste et locale		FALSE	TRUE				
+https://nouvellessemaine.fr/actualite.html	Presse généraliste et locale		FALSE	TRUE				
+https://outremers360.com/category/covid-19/	Presse généraliste et locale		TRUE	TRUE				
+https://plus.lefigaro.fr/tag/coronavirus	Presse généraliste et locale		TRUE	TRUE				
+https://portail.bastamag.net/coronavirus	Presse généraliste et locale		FALSE	FALSE				
+https://presse-evasion.fr	Presse généraliste et locale		TRUE	TRUE				
+https://reporterre.net/special-outremer-a-mayotte-le-coronavirus-s-installe-dans-un-departement-sinistre	Presse généraliste et locale		FALSE	FALSE				
+https://reporterre.net/origine-du-covid-19-fermes-a-fourrure-plutot-que-fuite-en-labo	Presse généraliste et locale		FALSE	FALSE				
+https://reporterre.net/coronavirus	Presse généraliste et locale		FALSE	FALSE				
+https://ruedesconfines.com	Presse généraliste et locale		FALSE	TRUE				
+https://sante.journaldesfemmes.fr/maladies/2660101-vivre-avec-le-virus-questions-pratiques-et-protocoles	Presse généraliste et locale		FALSE	TRUE				
+https://sante.journaldesfemmes.fr/maladies/2660103-traitements-vaccins-covid-19	Presse généraliste et locale		FALSE	TRUE				
+https://sante.journaldesfemmes.fr/maladies/2660105-se-proteger-du-coronavirus-masques-accessoires-et-gestes-barriere	Presse généraliste et locale		FALSE	TRUE				
+https://sante.journaldesfemmes.fr/maladies/2660099-gestion-de-l-epidemie-de-coronavirus	Presse généraliste et locale		FALSE	TRUE				
+https://sante.journaldesfemmes.fr/fiches-maladies/2605417-covid-19-france-coronavirus-chiffres-nombre-cas-morts-bilan-evolution-actus-vaccin	Presse généraliste et locale		FALSE	TRUE				
+https://sante.journaldesfemmes.fr/maladies/2619933-signification-maladie-covid-19-definition-origine-nom-incubation-traitement-depistage-prevention-duree-evolution	Presse généraliste et locale		FALSE	TRUE				
+https://sante.journaldesfemmes.fr/maladies/2659825-coronavirus-epidemie-traitements-protocoles-covid-19/	Presse généraliste et locale		FALSE	TRUE				
+https://smg-pratiques.info/continuer-a-accueillir-et-soigner-les-non-vaccine-e-s	Syndicat / Association	Santé	FALSE	FALSE				
+https://theconversation.com/covid-19-comment-sont-soignes-les-patients-atteints-de-formes-severes-132852	Presse généraliste et locale		TRUE	TRUE				
+https://theconversation.com/la-frontiere-nationale-brouillee-par-le-covid-19-134443	Presse généraliste et locale		TRUE	TRUE				
+https://theconversation.com/comment-la-france-compte-t-elle-ses-morts-135586	Presse généraliste et locale		TRUE	TRUE				
+https://theconversation.com/fr/covid-19	Presse généraliste et locale		TRUE	TRUE				
+https://theconversation.com/fr/topics/coronavirus-81702	Presse généraliste et locale		TRUE	TRUE				
+https://theconversation.com/les-clefs-pour-comprendre-ces-graphes-qui-ont-fleuri-lors-lepidemie-de-covid-19-165185	Presse généraliste et locale		FALSE	TRUE				
+https://tribunedelyon.fr/rubriques/societe/	Presse généraliste et locale		TRUE	TRUE				
+https://webactu.fr/covid19-confinement-socialmedias-florilege-de-posts-dhumour-de-derision-de-blagues-et-dimages-chocs-sur-les-reseaux-sociaux-pour-decompresser/	Presse généraliste et locale		TRUE	FALSE				
+https://wukali.fr/2020/04/30/epidemies-et-pandemies-de-la-prehistoire-jusquau-covid-19/5805/	Presse généraliste et locale		TRUE	FALSE				
+https://wukali.fr/2020/05/15/un-reseau-francais-de-chercheurs-mobilises-pour-discriminer-de-nouvelles-molecules-actives-contre-le-covid-19/6018/	Presse généraliste et locale		TRUE	FALSE				
+https://www.20minutes.fr/societe/2747159-20200325-coronavirus-lyon-conditions-plus-remplies-maintienne-quelqu-facon-totalement-illicite-retention	Presse généraliste et locale		TRUE	FALSE				
+https://www.ajpja.fr/actualites/communique-de-presse-27-03-2020-covid-19-sante-mentale-une-mobilisation-commune-pour-mutualiser-nos-ressources	Presse généraliste et locale		TRUE	FALSE				
+https://www.ajpja.fr/actualites/communique-de-presse-covid-19-soins-de-reanimation-troubles-psychiques	Syndicat / Association	Santé	FALSE	FALSE				
+https://www.ajpja.fr/actualites/covid-19-sante-mentale-psychiatrie-toutes-les-ressources-et-informations-pratiques	Syndicat / Association	Santé	TRUE	TRUE				
+https://www.alterpresse68.info/2021/07/18/absurdistan-autoritaire-une-manifestation-contre-le-pass-sanitaire-a-mulhouse/	Presse généraliste et locale		FALSE	TRUE				
+https://www.azinat.com	Presse généraliste et locale		TRUE	TRUE				
+https://www.bondamanjak.com/tag/coronavirus/	Presse généraliste et locale		TRUE	TRUE				
+https://www.bondamanjak.com/tag/covid-19/	Presse généraliste et locale		TRUE	TRUE				
+https://www.bourgogne-franche-comte.ars.sante.fr/covid-19-tests-laboratoires-ouverts-au-public-realisant-des-prelevements	Institutionnel	Santé	TRUE	TRUE				
+https://www.bourgogne-franche-comte.ars.sante.fr/liste-communiques-presse?themes_publications%5b13983%5d=13983	Institutionnel	Santé	FALSE	FALSE				
+https://www.bourgogne-franche-comte.ars.sante.fr/liste-actualites?themes_publications%5b13983%5d=13983	Institutionnel	Santé	FALSE	FALSE				
+https://www.bourgogne-franche-comte.ars.sante.fr/coronavirus-les-informations-utiles	Institutionnel	Santé	TRUE	TRUE				
+https://www.bourgogne-franche-comte.ars.sante.fr/covid-19-tests-laboratoires-ouverts-au-public-realisant-des-prelevements	Institutionnel	Santé	TRUE	TRUE				
+https://www.dna.fr/sante/coronavirus	Presse généraliste et locale		TRUE	TRUE				
+https://www.ewag.fr/category/covid19/	Presse généraliste et locale		TRUE	TRUE				
+https://www.ipreunion.com/factchecking/reportage/2022/01/14/-40-de-non-vaccines-faute-d-acces-a-la-vaccination-un-phenomene-complexe-pas-de-chiffre-precis,146011.html	Presse généraliste et locale		FALSE	FALSE				
+https://www.ipreunion.com/coronavirus,113	Presse généraliste et locale		FALSE	FALSE				
+https://www.ipreunion.com/factchecking/reportage/2022/01/14/-40-de-non-vaccines-faute-d-acces-a-la-vaccination-un-phenomene-complexe-pas-de-chiffre-precis,146011.html	Presse généraliste et locale		FALSE	FALSE				
+https://www.ipreunion.com/actualites-reunion/reportage/2020/08/19/pres-de-9-000-signatures-une-petition-demande-la-septaine-et-le-test-a-j-7-obligatoires-pour-les-voyageurs,123320.html	Presse généraliste et locale		FALSE	TRUE				
+https://www.ipreunion.com/coronavirus,113/	Presse généraliste et locale		TRUE	TRUE				
+https://www.lepelerin.com/?post_type=post&s=covid-19	Presse généraliste et locale		FALSE	TRUE				
+https://www.leravi.org/politique/ideologies/complotisme/face-au-complotisme-il-ny-a-pas-de-secret-il-faut-bien-sinformer-mars-2021/	Presse généraliste et locale		FALSE	TRUE				
+https://www.leravi.org	Presse généraliste et locale		TRUE	TRUE				
+https://www.lnc.nc/article-direct/sante/maj-covid-19-16-deces-et-plus-de-1-300-cas-actifs-en-polynesie-francaise	Presse généraliste et locale		FALSE	TRUE				
+https://www.lnc.nc/sante	Presse généraliste et locale		FALSE	TRUE				
+https://www.lnc.nc/article-direct/covid-19-trois-deces-supplementaires-en-polynesie-francaise	Presse généraliste et locale		FALSE	TRUE				
+https://www.lnc.nc/article-direct/nouvelle-caledonie/sante/foyers-de-contamination-masque-attestations-ce-qu-il-faut-retenir-du-point-presse	Presse généraliste et locale		FALSE	TRUE				
+https://www.lnc.nc/search?t=coronavirus	Presse généraliste et locale		TRUE	TRUE				
+https://www.martinique.gouv.fr/politiques-publiques/environnement-sante-publique/sante/informations-covid-19/les-communiques-de-presse/les-communiques-de-presse-de-la-prefecture	Institutionnel		FALSE	FALSE				
+https://www.mediapart.fr/journal/dossier/culture-idees/le-monde-dapres-0	Presse généraliste et locale		TRUE	TRUE				
+https://www.mediapart.fr/journal/dossier/france/face-l-epidemie-le-journal-de-bord-des-internes	Presse généraliste et locale		TRUE	TRUE				
+https://www.mediapart.fr/journal/international/130320/la-crise-du-coronavirus-en-direct-lavertissement-dagnes-buzyn-avant-dabandonner-le-navire	Presse généraliste et locale		TRUE	TRUE				
+https://www.mediapart.fr/journal/international/220120/un-nouveau-virus-fait-craindre-la-chine-une-contagion-avant-l-annee-du-rat	Presse généraliste et locale		TRUE	TRUE				
+https://www.mediapart.fr/journal/international/dossier/notre-dossier-le-monde-destabilise-par-le-coronavirus	Presse généraliste et locale		TRUE	TRUE				
+https://www.mediapart.fr/studio/videos/emissions/l-air-libre	Presse généraliste et locale		TRUE	TRUE				
+https://www.presse-citron.net/covid-19-plusieurs-centaines-de-sites-pris-en-flagrant-delit-de-mensonge/	Presse généraliste et locale		FALSE	FALSE				
+https://www.presse-citron.net/tag/sante/	Presse généraliste et locale		TRUE	TRUE				
+https://www.usinenouvelle.com/covid-19/	Presse généraliste et locale		TRUE	TRUE				
+https://www.apresj20.fr/temoignages/categories/t%c3%a9moignage	Syndicat / Association, Santé		FALSE	FALSE				
+https://www.apresj20.fr/temoignages	Syndicat / Association, Santé		FALSE	TRUE				
+https://www.apresj20.fr	Syndicat / Association, Santé		FALSE	TRUE				
+https://www.madinin-art.net/urgence-absolue-des-tests-et-des-masques-en-martinique/	Presse généraliste et locale		TRUE	FALSE				
+https://www.parmafenetre.fr	Blog		TRUE	TRUE				
+https://moissac.blog/2021/11/24/hopital-moissac-il-y-a-urgence/	Collectivité territoriale		FALSE	TRUE				
+https://moissac.blog	Collectivité territoriale		FALSE	TRUE				
+http://www.recitsconfines.net	Blog		TRUE	TRUE				
+https://www.lemonde.fr/blog/expertiseclinique/	Blog, Chemin		TRUE	TRUE				
+https://www.lemonde.fr/blog/lavventura/2020/06/08/la-belle-indifference-les-effets-neuro-psychiatriques-du-covid/	Blog, Chemin		TRUE	TRUE				
+https://www.lemonde.fr/blog/lavventura/2021/01/07/apres-la-covid-cest-encore-la-covid-le-virus-insidieux/	Blog, Chemin		FALSE	TRUE				
+https://www.lemonde.fr/blog/realitesbiomedicales/	Blog, Chemin		TRUE	TRUE				
+https://www.lemonde.fr/blog/realitesbiomedicales/?s=covid-19	Blog, Chemin		TRUE	TRUE				
+https://www.lemonde.fr/blog/realitesbiomedicales/2021/02/14/amour-et-sexualite-a-lheure-de-la-covid-19/	Blog, Chemin		FALSE	TRUE				
+https://www.lemonde.fr/blog/realitesbiomedicales/2021/04/22/covid-19-ce-quon-sait-et-ce-quon-ignore-sur-le-variant-indien/	Blog, Chemin		FALSE	TRUE				
+http://bellaciao.org/fr/spip.php?page=articles	Media influence / Infox		TRUE	FALSE				
+http://bellaciao.org/fr/spip.php?article163172	Media influence / Infox		TRUE	FALSE				
+http://blog.cnam.fr/sante/	Vulgarisation		TRUE	FALSE				
+http://blog.cnam.fr	Vulgarisation		TRUE	TRUE				
+http://blog.textile-alsace.com/notice-port-masque-textile-alsace/	Blog		FALSE	TRUE				
+http://blog.ville-poussan.fr/?cat=12648	Collectivité territoriale		FALSE	TRUE				
+http://confines.over-blog.com	Blog		TRUE	TRUE				
+http://dden30.canalblog.com	Syndicat / Association		TRUE	FALSE				
+http://evasionscat66.canalblog.com	Blog		TRUE	TRUE				
+http://fangfang.blog.caixin.com	Blog		TRUE	FALSE				
+http://histoiregeofontainebouillante.eklablog.com/ecrire-pour-l-histoire-je-raconte-mon-experience-du-cov-19-a183587970	Blog		TRUE	FALSE				
+https://www.factuel.info/rubriques/covid-19	Media influence / Infox		FALSE	TRUE				
+http://www.factuel.info/blogs	Media influence / Infox		FALSE	TRUE				
+http://www.feuillesderoute.net/surivanoroc.htm	Blog		TRUE	TRUE				
+http://www.fredsabourin.com	Blog		TRUE	FALSE				
+https://archives.bordeaux-metropole.fr/actualites/actualites-2/memoiredeconfinement-les-archives-bordeaux-de-metropole-collectent-vos-temoignages-224/n:63	Collectivité territoriale		TRUE	TRUE				
+https://blog.insee.fr/mourir-de-la-grippe-ou-du-coronavirus-faire-parler-les-chiffres-de-deces-publies-par-linsee-avec-discernement/	Institutionnel		TRUE	TRUE				
+https://blog.reseau-morphee.fr/2020/04/02/sommeil-et-rythmes-en-confinement/	Syndicat / Association, Santé		TRUE	TRUE				
+https://blog.santelog.com/2020/04/	Vulgarisation, Santé		TRUE	TRUE				
+https://blog-fatigue-chronique.fr/vaccination-synthese-de-lenquete-de-thierry-casasnova/	Blog		FALSE	TRUE				
+https://blog-fatigue-chronique.fr/faut-il-vacciner-effet-secondaires-des-vaccins-chez-des-enfants-de-6-a-12-ans/	Blog		FALSE	TRUE				
+https://blogs.mediapart.fr/amadouba19gmailcom/blog/080420/jour-23-soleil-anxiete-et-espoir-par-amadou-bal-ba	Blog, Chemin		TRUE	FALSE				
+https://blogs.mediapart.fr/barnik/blog/100821/appel-urgent-aux-parlementaires-de-la-martinique	Blog, Chemin		FALSE	FALSE				
+https://blogs.mediapart.fr/benjamin-joyeux/blog/141120/hold-sur-la-liberte-d-expression-et-d-information	Blog, Chemin		FALSE	TRUE				
+https://blogs.mediapart.fr/bernard-sudan	Blog, Vulgarisation, Santé, Chemin		TRUE	TRUE				
+https://blogs.mediapart.fr/jean-marc-b/blog/100620/tests-covid-19-revelations-sur-un-nouveau-scandale-sanitaire-video-le-media	Blog, Chemin		FALSE	FALSE				
+https://blogs.mediapart.fr/jean-marc-b/blog/201121/guadeloupe-blindes-coloniaux-contre-greve-generale-jacques-chastaing	Blog, Chemin		FALSE	TRUE				
+https://blogs.mediapart.fr/paul-cassia/blog/210321/l-etat-d-attestation	Blog, Chemin		FALSE	TRUE				
+https://blogs.mediapart.fr/pierre-jacques-raybaud	Blog, Vulgarisation, Santé, Chemin		TRUE	TRUE				
+https://blogs.mediapart.fr/yves-guillerault	Blog, Chemin		TRUE	TRUE				
+https://covid-19.museum	Blog		FALSE	TRUE				
+https://covidorg.com/blog/	Vulgarisation, Santé		TRUE	FALSE				
+https://covidorg.com	Vulgarisation, Santé		TRUE	TRUE				
+https://dessinetafenetre.org	Blog		TRUE	TRUE				
+https://jdmichel.blog.tdg.ch/archive/2020/08/06/le-masque-et-la-vie-308035.html	Blog		FALSE	TRUE				
+https://jeanyvesnau.com/category/epidemiologie/	Blog		TRUE	TRUE				
+https://lamergelee.tumblr.com/archive	Blog		FALSE	TRUE				
+https://legrandcontinent.eu/fr/2020/03/10/coronavirus-un-temoignage-du-front/	Presse généraliste et locale		TRUE	TRUE				
+https://lejournal.cnrs.fr/nos-blogs/covid-19-la-parole-a-la-science/covid-19-quelles-sont-les-strategies-possibles-pour-un	Institutionnel, Science, Santé		TRUE	TRUE				
+https://lookingaround.agencevu.com	Blog		TRUE	TRUE				
+https://magalilambert.wordpress.com	Blog		TRUE	TRUE				
+https://marsactu.fr/une-vie-sous-confinement-en-recits/	Presse généraliste et locale		TRUE	FALSE				
+https://medium.com/@paideiaconseil/critiques-du-journal-de-confinement-de-le%c3%afla-slimani-disciples-de-roland-barthes-89f3bebf571a	Blog, Chemin		FALSE	FALSE				
+https://perruchenautomne.eu/wordpress/?m=202005	Blog		FALSE	TRUE				
+https://perruchenautomne.eu/wordpress/?m=202004	Blog		FALSE	TRUE				
+https://perruchenautomne.eu/wordpress/?m=202006	Blog		FALSE	TRUE				
+https://perruchenautomne.eu/wordpress/?m=202003	Blog		FALSE	TRUE				
+https://perruchenautomne.eu/wordpress/?p=5998	Blog		FALSE	TRUE				
+https://perruchenautomne.eu/wordpress/	Blog		TRUE	TRUE				
+https://positivr.fr/?s=covid19	Presse généraliste et locale		FALSE	FALSE				
+https://unmondelitteraire.com/ces-ecrivains-qui-tiennent-un-journal-de-confinement	Blog		FALSE	TRUE				
+https://wordspics.wordpress.com	Blog		TRUE	TRUE				
+https://www.andrelejarre.fr/blog/	Blog		TRUE	TRUE				
+https://www.archives-loiret.fr/decouverte-des-archives/notre-actualite-1/2020/memoire-de-confinement--collecte-de-temoignages-loiretains	Collectivité territoriale		TRUE	TRUE				
+https://www.bondamanjak.com/2020-le-tour-des-yoles-naura-pas-lieu/	Presse généraliste et locale		TRUE	TRUE				
+https://www.bondamanjak.com/23-avril-2020-pas-de-nouveau-cas-de-covid-19-confirme-en-martinique-pourvu-que-ca-dure/	Presse généraliste et locale		TRUE	TRUE				
+https://www.bondamanjak.com/covid-19-2-nouveaux-cas-confirmes-en-martinique/	Presse généraliste et locale		TRUE	FALSE				
+https://www.bondamanjak.com/la-martinique-les-100-000-masques-de-paris-et-les-tables-de-lunicef/	Presse généraliste et locale		TRUE	FALSE				
+https://www.echo-languedoc.fr/les-mesaventures-dolivier-bonnes-rescape-covid-qui-revient-de-loin/	Presse généraliste et locale		FALSE	TRUE				
+https://www.echo-languedoc.fr/face-a-la-covid-19-dans-laude-un-air-de-deja-vu/	Presse généraliste et locale		FALSE	TRUE				
+https://www.ewag.fr/2020/04/de-la-perception-du-risque-aux-antilles/	Presse généraliste et locale		TRUE	TRUE				
+https://www.ewag.fr/2020/04/temoignages-confinement-jom/	Presse généraliste et locale		TRUE	TRUE				
+https://www.larepubliquedespyrenees.fr/2020/03/19/coronavirus-vos-plus-beaux-textes-publies-dans-notre-groupe-facebook,2677884.php	Presse et plateforme médicale		FALSE	TRUE				
+https://www.lechorepublicain.fr/dreux-28100/actualites/covid-19-un-habitant-de-dreux-raconte-comment-le-teletravail-a-eu-raison-de-sa-sante-mentale_13949809/	Presse et plateforme médicale		FALSE	TRUE				
+https://www.letelegramme.fr/dossiers/journal-des-confines/	Presse généraliste et locale		TRUE	FALSE				
+https://www.madinin-art.net/coronavirus-des-deputes-demandent-que-les-outre-mer-soient-territoires-pilote-du-depistage-generalise/	Presse généraliste et locale		TRUE	FALSE				
+https://www.madinin-art.net/coronavirus-en-guadeloupe-en-guyane-en-martinique-et-a-mayotte-la-crainte-dune-possible-catastrophe-sanitaire/	Presse généraliste et locale		TRUE	TRUE				
+https://www.madinin-art.net/kovid-d/	Presse généraliste et locale		TRUE	TRUE				
+https://www.madinin-art.net/la-crise-du-coronavirus-sera-un-accelerateur-du-changement-de-modele-economique-et-social-aux-antilles/	Presse généraliste et locale		TRUE	TRUE				
+https://www.madinin-art.net/lettre-ouverte-au-president-de-la-republique/	Presse généraliste et locale		TRUE	TRUE				
+https://www.makacla.com/communique-des-eveques-de-france-de-confinement-le-monde-de-l-eglise-n-est-pas-tres-content-_a7625.html	Presse généraliste et locale		FALSE	FALSE				
+https://www.martinique.franceantilles.fr/actualite/societe/le-realisateur-martiniquais-patrick-baucelin-declare-gueri-du-covid-19-553724.php	Presse généraliste et locale		TRUE	FALSE				
+https://www.martinique.franceantilles.fr/regions/sud/danielle-s-est-battue-seule-face-au-covid-19-553879.php	Presse généraliste et locale		TRUE	FALSE				
+https://www.telerama.fr/tag/chronique-dune-confinee	Presse généraliste et locale		TRUE	FALSE				
+https://www.usinenouvelle.com/blogs/cabinet-dechert/covid-19-brevets-et-licences-d-office.n968961	Presse généraliste et locale		FALSE	FALSE				
+http://dadoubd.com	Blog		FALSE	TRUE				
+http://docteurdu16.blogspot.com/search/label/coronavirus	Vulgarisation, Santé		FALSE	FALSE				
+http://docteurdu16.blogspot.com/2021/	Vulgarisation, Santé		FALSE	TRUE				
+http://docteurdu16.blogspot.com/2020/	Vulgarisation, Santé		TRUE	TRUE				
+http://www.covid-x.fr	Blog		TRUE	FALSE				
+https://blog.gerardmaudrux.lequotidiendumedecin.fr	Vulgarisation, Santé		TRUE	TRUE				
+https://caducee-blanc.webnode.fr	Blog		TRUE	FALSE				
+https://didierraoult.com	Vulgarisation, Santé		FALSE	FALSE				
+https://www.clubdesmedecinsblogueurs.com/category/covid-19/	Vulgarisation, Santé		TRUE	TRUE				
+https://www.amf70.org/index.php?idpage=13669890562	Collectivité territoriale		FALSE	FALSE				
+http://freepawol.com/articles/covid-19-alfred-marie-jeanne-accelere-larrivee-des-medecins-cubains-en-renfort	Presse généraliste et locale		TRUE	FALSE				
+http://freepawol.com/articles/des-medecins-cubains-en-renfort-au-centre-hospitalier-pour-peyi	Presse généraliste et locale		TRUE	FALSE				
+http://freepawol.com/articles/qui-veut-empecher-le-renfort-de-medecins-cubains-en-martinique	Presse généraliste et locale		TRUE	FALSE				
+http://freepawol.com/articles/faire-face-au-covid-19-un-projet-martiniquais	Presse généraliste et locale		TRUE	FALSE				
+http://freepawol.com/articles/retour-lecole-et-sort-des-etudiants-de-loutre-mer-jean-philippe-nilor-interroge-les	Collectivité territoriale		TRUE	FALSE				
+http://freepawol.com/articles/retour-lecole-pour-sylvia-saithsoothane-ce-sera-dans-la-concertation	Collectivité territoriale		TRUE	TRUE				
+http://herveferon.fr	Collectivité territoriale		TRUE	TRUE				
+http://juvisy.fr/services-infos-pratiques/sante	Collectivité territoriale		TRUE	TRUE				
+http://meurthe-et-moselle.fr/actu/coronavirus-le-d%c3%a9partement-active-son-plan-d%e2%80%99urgence	Institutionnel		FALSE	FALSE				
+http://meurthe-et-moselle.fr/actu	Institutionnel		TRUE	TRUE				
+http://outremers360.com/politique/covid-19-agriculture-cette-periode-a-fait-la-demonstration-de-la-solidite-de-la-production-locale-souligne-benoit-lombriere-de-leurodom/	Presse généraliste et locale		TRUE	FALSE				
+http://politiques-publiques.com/martinique/20h-5h-couvre-feu-en-martinique/	Presse généraliste et locale		TRUE	TRUE				
+http://www.ac-martinique.fr/cid151420/covid-19-les-initiatives-des-personnels-de-l-academie.html	Institutionnel		TRUE	FALSE				
+http://www.caraibcreolenews.com/index.php/cma-actu/item/17310-martinique-operation-rapatriement-des-etudiants-martiniquais-reussie-bienvenue-chez-vous	Presse généraliste et locale		TRUE	TRUE				
+http://www.cnfpt.fr/sinformer/covid-19-accompagner-collectivites-leurs-agents/national	Collectivité territoriale		TRUE	TRUE				
+http://www.dm.martinique.developpement-durable.gouv.fr/arrete-prefectoral-nor02-2020-04-02-008-du-2-avril-a348.html	Collectivité territoriale		TRUE	FALSE				
+http://www.eco-bretons.info/mobilisation-generale-contre-le-covid19-en-bretagne/	Media influence / Infox		TRUE	FALSE				
+http://www.grandangouleme.fr/category/actualites/	Collectivité territoriale		TRUE	TRUE				
+http://www.grandangouleme.fr/category/actualites/sante/	Collectivité territoriale		TRUE	TRUE				
+http://www.grandangouleme.fr/category/a-la-une/	Collectivité territoriale		TRUE	TRUE				
+http://www.haute-loire-paysanne.fr/public/index.php	Institutionnel		TRUE	FALSE				
+http://www.haute-savoie.gouv.fr/actualites/actualites/coronavirus-covid-19/coronavirus-covid-19-s-informer	Institutionnel		FALSE	FALSE				
+http://www.kitani.org/2020/04/merci.html	Blog		TRUE	TRUE				
+http://www.lemans.fr	Collectivité territoriale		TRUE	TRUE				
+http://www.mairie-athis-mons.fr/?p=actualite/	Collectivité territoriale		TRUE	FALSE				
+http://www.mairie-athis-mons.fr/actualite/article_3227.htm	Collectivité territoriale		TRUE	FALSE				
+http://www.martinique.gouv.fr/actualites	Institutionnel		FALSE	FALSE				
+http://www.martinique.gouv.fr/politiques-publiques/environnement-sante-publique/sante/informations-covid-19/covid-19-instauration-d-un-couvre-feu-entre-20h-et-5h-et-fermeture-des-commerces-a-19h	Institutionnel		FALSE	FALSE				
+http://www.martinique.gouv.fr/politiques-publiques/mer-littoral-et-securite-maritime/covid-19-le-point-sur-les-mesures-applicables-en-mer	Institutionnel		FALSE	FALSE				
+http://www.petit-bulletin.fr/lyon/recherche-article.html?recherche=covid	Presse généraliste et locale		TRUE	TRUE				
+http://www.remoulins.fr/actualites/prevention-du-covid-19-lors-des-elections-municipales/	Collectivité territoriale		TRUE	TRUE				
+http://www.saint-etienne.fr/coronavirus-covid-19/coronavirus-covid-19-plan-communal-protection-solidarit%c3%a9-v2	Collectivité territoriale		FALSE	FALSE				
+http://www.villefranche.net/index.php	Collectivité territoriale		TRUE	TRUE				
+https://actu.fr/societe/coronavirus/chru-nancy-emmanuel-macron-va-limoger-directeur-lars-grand-est_32876691.html	Presse généraliste et locale		TRUE	FALSE				
+https://actulocale365.fr/occitanie/pyrenees-orientales/	Presse généraliste et locale		FALSE	TRUE				
+https://agiralyon.fr/agir-en-temps-de-confinement/	Collectivité territoriale		TRUE	TRUE				
+https://agirlocal.org	Collectivité territoriale		FALSE	TRUE				
+https://clermont-ferrand.fr/actualite/informations-covid-19	Collectivité territoriale		TRUE	TRUE				
+https://diocese40.fr/coronavirus-forum-diocesain/	Collectivité territoriale		TRUE	FALSE				
+https://dordogne-perigord.fff.fr/simple/communique-district-situation-coronavirus/	Syndicat / Association		TRUE	FALSE				
+https://ecologistecitoyen-crpdl.fr/billet-relocaliser-la-production-automobile-cest-possible-2/	Media influence / Infox		FALSE	TRUE				
+https://jeparticipe.bordeaux.fr/entraide	Collectivité territoriale		TRUE	TRUE				
+https://jeparticipe.bordeaux.fr	Collectivité territoriale		TRUE	TRUE				
+https://labogue.info/spip.php?mot67	Media influence / Infox		TRUE	TRUE				
+https://langerienlibre.fr/?s=covid	Presse généraliste et locale		TRUE	FALSE				
+https://langerienlibre.fr/?s=coronavirus	Presse généraliste et locale		TRUE	FALSE				
+https://local.attac.org/tarn/index.php/covid19	Syndicat / Association		FALSE	FALSE				
+https://participons.orleans-metropole.fr/project/solidarite-covid-19/collect/depot	Collectivité territoriale		TRUE	TRUE				
+https://plusforts-grandest.fr	Collectivité territoriale		TRUE	TRUE				
+https://rebellyon.info/+-covid-19-+	Media influence / Infox		FALSE	FALSE				
+https://rue89bordeaux.com/tag/coronavirus/	Presse généraliste et locale		TRUE	TRUE				
+https://sante.journaldesfemmes.fr/maladies/2609189-masque-coronavirus-protection-ffp2-ffp3-efficace-chirurgicaux-jetables-reutilisable/	Presse et plateforme médicale		TRUE	TRUE				
+https://sante.journaldesfemmes.fr/maladies/2605417-coronavirus-france-italie-epidemie-evolution-courbe-deces-chiffres-direct-carte-regions-odorat/	Presse et plateforme médicale		TRUE	FALSE				
+https://tours-metropole.fr/guide-aides-entreprises-covid	Collectivité territoriale		TRUE	TRUE				
+https://tousoccitariens.fr	Collectivité territoriale		TRUE	TRUE				
+https://www.agglo-lepuyenvelay.fr/info-coronavirus/	Collectivité territoriale		TRUE	FALSE				
+https://www.autun-infos.com/news/grand-autunois-morvan/	Collectivité territoriale		TRUE	TRUE				
+https://www.autun-infos.com/news/faits-divers/	Collectivité territoriale		TRUE	TRUE				
+https://www.autun-infos.com/news/saone-et-loire/	Collectivité territoriale		TRUE	TRUE				
+https://www.autun-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/	Collectivité territoriale		TRUE	TRUE				
+https://www.autun-infos.com/news/medias/	Collectivité territoriale		TRUE	TRUE				
+https://www.autun-infos.com/news/vie-locale/	Collectivité territoriale		TRUE	TRUE				
+https://www.autun-infos.com/news/autour-d-autun/	Collectivité territoriale		TRUE	TRUE				
+https://www.autun-infos.com	Collectivité territoriale		TRUE	TRUE				
+https://www.blois.fr/mediatheque/2020/covid19-mobilisation	Collectivité territoriale		TRUE	TRUE				
+https://www.boulognebillancourt.com/information-transversale/actualites	Collectivité territoriale		TRUE	TRUE				
+https://www.boulognebillancourt.com/information-transversale/actualites/covid-19-mise-en-place-dun-couvre-feu-a-compter-du-vendredi-16-octobre-a-minuit-1811	Collectivité territoriale		FALSE	TRUE				
+https://www.boulognebillancourt.com/information-transversale/actualites/covid-19-une-campagne-de-depistage-lancee-aupres-des-aines-et-des-professionnels-de-sante-1355	Collectivité territoriale		TRUE	TRUE				
+https://www.chateauroux-metropole.fr/les-institutions/coronavirus-la-situation-a-chateauroux-1522.html	Collectivité territoriale		TRUE	FALSE				
+https://www.collectivites-locales.gouv.fr/covid19	Institutionnel		TRUE	TRUE				
+https://www.corsenetinfos.corsica/l-actualite_r6.html	Collectivité territoriale		FALSE	FALSE				
+https://www.grandnancy.eu/actualites/	Collectivité territoriale		TRUE	TRUE				
+https://www.grenoble.fr	Collectivité territoriale		TRUE	TRUE				
+https://www.grenoble.fr/1699-covid-19.htm	Collectivité territoriale		TRUE	TRUE				
+https://www.issy.com/actualites/covid-19-couvre-feu-nocturne-toutes-les-informations-utiles	Collectivité territoriale		FALSE	TRUE				
+https://www.lebec.info/coronavirus/	Collectivité territoriale		TRUE	FALSE				
+https://www.madinin-art.net/de-la-solidarite-necessaire-a-la-martinique-en-temps-de-confinement/	Presse généraliste et locale		TRUE	FALSE				
+https://www.martinique.franceantilles.fr/actualite/sante/melissa-lance-l-application-kovid-sante-553916.php	Presse généraliste et locale		TRUE	FALSE				
+https://www.nancy.fr/publications-131/hors-serie-nancy-mag-special-covid-19-17432.html?chash=9846baf6c9308e750a5e7e983047998b	Collectivité territoriale		FALSE	FALSE				
+https://www.nancy.fr/a-la-une-109/covid-19-la-ville-de-nancy-prend-des-mesures-exceptionnelles-17271.html?chash=80f641ae211aa7fc502b807d31f5e653	Collectivité territoriale		FALSE	FALSE				
+https://www.nancy.fr/a-la-une-109/covid-19-couvre-feu-a-nancy-des-vendredi-27-mars-17370.html?chash=2ac973941962c910ba790e5a9aee895c	Collectivité territoriale		FALSE	FALSE				
+https://www.nancy.fr/a-la-une-109/	Collectivité territoriale		TRUE	FALSE				
+https://www.parolesdecorse.fr/quand-lespoir-renaitra/	Presse généraliste et locale		TRUE	FALSE				
+https://www.parolesdecorse.fr/paroles/	Presse généraliste et locale		TRUE	FALSE				
+https://www.parolesdecorse.fr/au-soleil-des-polemiques/	Presse généraliste et locale		FALSE	FALSE				
+https://www.parolesdecorse.fr/lete-des-visages-pales/	Presse généraliste et locale		TRUE	FALSE				
+https://www.parolesdecorse.fr/sous-lempire-du-mal/	Presse généraliste et locale		TRUE	FALSE				
+https://www.parolesdecorse.fr/les-elections-a-lepreuve-de-la-crise/	Presse généraliste et locale		TRUE	FALSE				
+https://www.parolesdecorse.fr/?s=covid-19	Presse généraliste et locale		TRUE	FALSE				
+https://www.ra-sante.com/tag/coronavirus-auvergne-rhone-alpes	Presse et plateforme médicale		TRUE	FALSE				
+https://www.rennes-infos-autrement.fr/category/coronavirus	Collectivité territoriale		TRUE	FALSE				
+https://www.revolutionpermanente.fr/a-bordeaux-comme-ailleurs-les-hospitaliers-ont-des-procedures-de-securite-contradictoires-qui	Media influence / Infox		FALSE	FALSE				
+https://reussirmonmandat.unccas.org/guide-durgence-de-lelu-municipal-confine/	Collectivité territoriale		TRUE	TRUE				
+https://aluces.org	Media influence / Infox		FALSE	FALSE				
+https://coronavictimes.net	Media influence / Infox		TRUE	TRUE				
+https://millionsmissing.fr/article11/lettre-autorites-france	Media influence / Infox		FALSE	TRUE				
+https://millionsmissing.fr/article14/covid-long-encore-du-chemin	Media influence / Infox		FALSE	TRUE				
+https://millionsmissing.fr/blog	Media influence / Infox		FALSE	TRUE				
+https://www.aimsib.org/2021/01/03/covid-19-un-simple-changement-de-methode-et-cest-fini/	Media influence / Infox		FALSE	TRUE				
+https://www.aimsib.org/blog/	Media influence / Infox		FALSE	TRUE				
+https://www.syndicat-liberte-sante.com/se-defendre/	Media influence / Infox		FALSE	FALSE				
+https://gomet.net/muselier-defend-le-professeur-raoult/	Media influence / Infox		FALSE	FALSE				
+https://marie-claire-tellier.over-blog.com/2021/04/les-injections-pour-decimer-la-population-mondiale-previent-le-microbiologiste.et-cela-se-passe-deja-en-inde-et-au-bresil.html	Media influence / Infox		FALSE	TRUE				
+https://marie-claire-tellier.over-blog.com/2021/08/des-camps-de-quarantaine-pour-les-personnes-a-haut-risque.sans-blague.html	Media influence / Infox		FALSE	TRUE				
+https://marie-claire-tellier.over-blog.com/2021/01/vous-pensez-que-les-passeports-mondiaux-pour-les-vaccins-sont-effrayants-attendez-de-voir-la-suite-5.html	Media influence / Infox		FALSE	TRUE				
+https://marie-claire-tellier.over-blog.com/2021/08/un-medecin-s-eleve-contre-le-mandat-vaccinal-pour-tous-en-particulier-pour-les-enfants-et-les-personnes-ayant-une-immunite-naturelle?fbclid=iwar26rx-ktgy7ikswgkarpghffrwxhxdedi4qnxliusaqfuiad73oljwrb54	Media influence / Infox		FALSE	FALSE				
+https://reinfocovid.fr/temoignages/	Media influence / Infox		FALSE	TRUE				
+https://portail.bastamag.net/coronavirus	Media influence / Infox		FALSE	FALSE				
+https://www.alterpresse68.info/2021/07/18/absurdistan-autoritaire-une-manifestation-contre-le-pass-sanitaire-a-mulhouse/	Media influence / Infox		FALSE	TRUE				
+https://www.leslignesbougent.org/petitions/non-au-passeport-vaccinal/	Media influence / Infox		FALSE	TRUE				
+https://www.leslignesbougent.org/petitions/non-au-vaccin-obligatoire-coronavirus/	Media influence / Infox		FALSE	TRUE				
+https://blog.leslignesbougent.org/information-importante-piratage/	Media influence / Infox		FALSE	FALSE				
+https://www.leslignesbougent.org/petitions/non-au-pass-vaccinal-5503/	Media influence / Infox		FALSE	FALSE				
+https://www.revolutionpermanente.fr/variant-omicron	Media influence / Infox		FALSE	FALSE				
+https://www.revolutionpermanente.fr/coronavirus	Media influence / Infox		FALSE	FALSE				
+http://pressibus.org/covid/index.html	Media influence / Infox		FALSE	FALSE				
+https://fr.sputniknews.com/france/202011191044794308-une-ministre-francaise-nexclut-pas-des-coupures-delectricite-en-cas-de-grosses-vagues-de-froid--/	Media influence / Infox		FALSE	FALSE				
+https://fr.sputniknews.com/pandemie-covid-19/	Media influence / Infox		FALSE	TRUE				
+https://17juin.noblogs.org	Media influence / Infox		TRUE	TRUE				
+https://blog.saxx.fr/2022/01/03/p%c3%a9tition-pass-vaccinal-comment-la-discr%c3%a9diter-techniquement-ou-historique-dune-d%c3%a9cr%c3%a9dibilisation-daction-citoyenne/	Media influence / Infox		FALSE	FALSE				
+https://jbl1960blog.wordpress.com/2020/12/	Media influence / Infox		FALSE	TRUE				
+https://les-interdits.lesmoutonsenrages.fr/	Media influence / Infox		FALSE	TRUE				
+https://les-interdits.lesmoutonsenrages.fr/index.php/2020/04/	Media influence / Infox		FALSE	FALSE				
+https://lesmoutonsenrages.fr/charte-des-commentaires-du-blog/	Media influence / Infox		FALSE	TRUE				
+https://lesmoutonsenrages.fr	Media influence / Infox		TRUE	TRUE				
+https://les-interdits.lesmoutonsenrages.fr	Media influence / Infox		FALSE	TRUE				
+https://lesmoutonsenrages.fr	Media influence / Infox		TRUE	TRUE				
+https://www.affordance.info/mon_weblog/2020/11/compol-et-complot-hold-up.html	Media influence / Infox		FALSE	TRUE				
+https://www.covid-factuel.fr	Media influence / Infox		FALSE	TRUE				
+https://www.covid-factuel.fr/category/forum/	Media influence / Infox		FALSE	TRUE				
+https://www.egaliteetreconciliation.fr/chiffres-insee-et-covid-mythes-et-realite-de-la-surmortalite-en-2020-62515.html	Media influence / Infox		FALSE	FALSE				
+https://www.egaliteetreconciliation.fr/a-la-recherche-des-effets-secondaires-des-vaccins-62107.html	Media influence / Infox		FALSE	FALSE				
+https://www.etresouverain.com	Media influence / Infox		FALSE	FALSE				
+https://www.jeremie-mercier.com/blog/	Media influence / Infox		FALSE	TRUE				
+https://www.jovanovic.com/blog-reportage-coronavirus-mai-2020.htm	Media influence / Infox		FALSE	FALSE				
+https://www.leblogducommunicant2-0.com/2021/07/18/guerre-reputationnelle-les-complotistes-de-v_v-inaugurent-une-nouvelle-technique-invasive-qui-risque-de-perdurer/?cn-reloaded=1	Media influence / Infox		FALSE	FALSE				
+https://www.lesalonbeige.fr	Media influence / Infox		TRUE	TRUE				
+https://www.medicalement-geek.com	Vulgarisation, Santé		FALSE	TRUE				
+https://www.sfpo.com/blog/2020/04/29/covid-19-et-pharmacie-oncologique-la-sfpo-publie-ses-recommandations/	Syndicat / Association, Santé		TRUE	TRUE				
+https://www.synerpa.fr/a_la_une-2.html	Etablissement de santé		TRUE	TRUE				
+http://covid-documentation.aphp.fr/ethique-et-droit/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/information-des-professionnels/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/restauration/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/urgences-et-regulation/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/deces/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/transferts-de-patients/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/reanimation/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/fonctions-supports/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/imagerie/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/hospitalisation-a-domicile/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/protection-des-professionnels/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/architecture-batiment-ingenierie/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/geriatrie/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/autres-logistiques/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/visiteurs/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/obstetrique/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/kinesitherapie/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/dechets/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/e-learning-covid-19/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/handicap/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/neurologie/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/soins-palliatifs/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/hebergement-pour-patients-covid-ne-pouvant-rentrer-chez-eux/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/information-aux-patients-et-proches/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/organisation/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/endocrinologie-diabetologie-nutrition/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/structures-de-prevention/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/ssr/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/systeme-dinformation/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/pedopsychiatrie/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/transports/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/prise-en-charge-des-patients/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/professionnels-de-sante/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/laboratoire/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/pneumologie/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/bionettoyage/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/anesthesie/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/douleur/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/psychiatrie/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/cancerologie-et-hematologie/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/mesures-barrieres/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/hepato-gastro-enterologie/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/chirurgie/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/pediatrie/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/odontologie/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/retour-et-suivi-a-domicile/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/approvisionnement-medical-et-pharmaceutique/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/depistage/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/neurologie-2/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/maladies-infectieuses-hors-covid-19/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/linge/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/adaptation-des-prises-en-charge/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/nephrologie-et-dialyse/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/telemedecine/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/cardiologie/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/organisation-generale-des-soins/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/renforts-covid-19/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/budget-et-finances/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr/soutien-aux-professionnels/	Etablissement de santé		TRUE	FALSE				
+http://covid-documentation.aphp.fr	Etablissement de santé		TRUE	TRUE				
+http://cesu21.chu-dijon.fr/actualites/	Etablissement de santé		TRUE	TRUE				
+http://covid-chu-tours.fr	Etablissement de santé		TRUE	FALSE				
+http://hopitaux-jura.fr/wp-content/uploads/2020/03/commpresse-rep-p-pelloux-1803.pdf	Etablissement de santé		FALSE	FALSE				
+http://hopitaux-jura.fr/wp-content/uploads/2020/04/communiqu%c3%a9-de-presse-co-sign%c3%a9-avec-m-lagha-et-d-draou-lundi-06.pdf	Etablissement de santé		FALSE	FALSE				
+http://hopitaux-jura.fr/point-dinformation-sur-le-covid-19/	Etablissement de santé		TRUE	TRUE				
+http://politiques-publiques.com/martinique/masques-les-ehpad-du-francois/	Presse généraliste et locale		TRUE	TRUE				
+http://www.chru-strasbourg.fr/toutes-les-actualit-s/covid-19-les-chiffres-cles-du-chu-de-strasbourg	Etablissement de santé		FALSE	FALSE				
+http://www.chu-grenoble.fr	Etablissement de santé		TRUE	TRUE				
+http://www.chu-limoges.fr/actualites.html	Etablissement de santé		TRUE	TRUE				
+http://www.chu-nancy.fr/images/espace_presse/20200324_cp_essai_discovery_nancy.pdf	Etablissement de santé		FALSE	FALSE				
+http://www.chu-nancy.fr	Etablissement de santé		TRUE	TRUE				
+http://www.chu-nimes.fr/actu-cht/informations-et-recommandations-sur-le-coronavirus-covid-19.html	Etablissement de santé		TRUE	FALSE				
+https://www.chu-rouen.fr/ensemble-contre-le-covid-19/	Etablissement de santé		TRUE	TRUE				
+http://www.chu-rouen.fr/page/coronavirus	Etablissement de santé		TRUE	FALSE				
+http://www.chu-st-etienne.fr	Etablissement de santé		TRUE	TRUE				
+http://www.lesresidencesdebellevue.fr/page-informations-coronavirus-118.html	Etablissement de santé		TRUE	TRUE				
+https://doccismef.chu-rouen.fr/dc/#q=covid19	Etablissement de santé		TRUE	TRUE				
+https://don.chu-dijon.fr/covid_19	Etablissement de santé		TRUE	FALSE				
+https://neptune.chu-besancon.fr/rfclin/trame.php?page=800	Etablissement de santé		TRUE	TRUE				
+https://neptune.chu-besancon.fr/rfclin/trame.php?page=801	Etablissement de santé		TRUE	TRUE				
+https://neptune.chu-besancon.fr/rfclin/trame.php?page=0	Etablissement de santé		TRUE	TRUE				
+https://rbh.docchu-lyon.fr/littecovid	Etablissement de santé		TRUE	TRUE				
+https://tout-metz.com/evacuation-coronavirus-helico-militaire-metz-28-03-2020-84622.php	Collectivité territoriale		TRUE	TRUE				
+https://tout-metz.com/situation-covid-19-chr-metz-thionville-mi-avril-2020-23981.php	Collectivité territoriale		TRUE	TRUE				
+https://tout-metz.com/directeur-ars-grand-est-limoge-gouvernement-2020-4898.php	Collectivité territoriale		TRUE	TRUE				
+https://tout-metz.com/coronavirus-570-morts-ehpad-grand-est-avril-2020-6796.php	Collectivité territoriale		TRUE	TRUE				
+https://tout-metz.com/dementi-couvre-feu-moselle-prefecture-2020-65321.php	Collectivité territoriale		TRUE	TRUE				
+https://tout-metz.com/t/coronavirus-covid-19	Collectivité territoriale		TRUE	TRUE				
+https://www.chu-angers.fr/le-chu-angers/a-la-une/communiques-de-presse/communiques-annee-2020/covid-19-informations-pour-le-public-et-les-hospitaliers-92554.kjsp	Etablissement de santé		TRUE	FALSE				
+https://www.chu-besancon.fr/rechercher.html?q=covid	Etablissement de santé		FALSE	TRUE				
+https://www.chu-besancon.fr/infos-pratiques/dossier-coronavirus-covid-19.html	Etablissement de santé		FALSE	TRUE				
+https://www.chu-besancon.fr/le-chru/actualites-du-chru/actualite/le-chu-de-besancon-participe-a-lessai-discovery.html	Etablissement de santé		TRUE	TRUE				
+https://www.chu-bordeaux.fr/espace-média/communiqués-de-presse/	Etablissement de santé		FALSE	FALSE				
+https://www.chu-bordeaux.fr/espace-média/actualités/	Etablissement de santé		FALSE	FALSE				
+https://www.chu-dijon.fr/tags/covid-19	Etablissement de santé		FALSE	TRUE				
+https://www.chu-dijon.fr/informations-covid-19	Etablissement de santé		FALSE	TRUE				
+https://www.chu-lille.fr/actualite/point-information-coronavirus	Etablissement de santé		TRUE	FALSE				
+https://www.chu-lyon.fr/fr/coronavirus-covid-19-informations-medicales	Etablissement de santé		TRUE	TRUE				
+https://www.chu-lyon.fr/fr/covid-19	Etablissement de santé		TRUE	TRUE				
+https://www.chu-montpellier.fr/fr/professionnels/journalistes-media/actualites/coronavirus-3985	Etablissement de santé		TRUE	TRUE				
+https://www.chu-poitiers.fr/service-presse/	Etablissement de santé		TRUE	TRUE				
+https://www.chu-toulouse.fr/-foire-aux-questions-2201-	Etablissement de santé		FALSE	TRUE				
+https://www.chu-toulouse.fr/-vaccination-covid-19-	Etablissement de santé		FALSE	TRUE				
+https://www.chu-toulouse.fr/-passe-sanitaire-et-obligation-vaccinale-2202-	Etablissement de santé		FALSE	FALSE				
+https://www.chu-toulouse.fr/-tests-de-depistage-covid-19-	Etablissement de santé		FALSE	TRUE				
+https://www.chu-tours.fr/actualites/liste-des-actualites/	Etablissement de santé		TRUE	TRUE				
+https://www.chu-tours.fr/?s=coronavirus	Etablissement de santé		TRUE	FALSE				
+https://www.korian.fr/les-actualites/coronavirus-protegeons-nos-aines-et-maintenons-le-lien	Etablissement de santé		TRUE	FALSE				
+https://www.korian.fr/les-actualites/foire-aux-questions-nos-mesures-face-au-coronavirus-covid19	Etablissement de santé		TRUE	TRUE				
+https://www.masantefacile.com/le-mag-coronavirus-charente-salaries-ehpad-confines-volontaires-residents.php	Presse et plateforme médicale		TRUE	FALSE				
+https://www.notretemps.com/sante-bien-etre/dossier-coronavirus	Presse généraliste et locale		FALSE	TRUE				
+https://www.silvereco.fr/etude-comment-les-seniors-vont-ils-vivre-le-deconfinement/31120763	Presse généraliste et locale		FALSE	TRUE				
+https://www.silvereco.fr/wp-content/uploads/2020/05/enquete-les-seniors-et-le-confinement_mai-2020.pdf	Presse généraliste et locale		FALSE	FALSE				
+https://www.silvereco.fr/dossier-covid-19-quelles-mesures-pour-les-seniors-suite-a-lallocution-demmanuel-macron/31118571	Presse généraliste et locale		FALSE	TRUE				
+https://www.silvereco.fr/etude-covid-19-ethique-et-vulnerabilites/31122104	Presse généraliste et locale		FALSE	TRUE				
+https://www.silvereco.fr/dossier-coronavirus-quelles-mesures-pour-nos-aines/31117183	Presse généraliste et locale		FALSE	TRUE				
+https://coorpacademy.com/covid19/	Etablissement de santé		TRUE	TRUE				
+https://covigie.org	Presse et plateforme médicale		TRUE	TRUE				
+https://francais.medscape.com/voirarticle/3606117?nlid=136743_2401&src=wnl_mdplsnews_200807_mscpedit_fr&uac=347442hr&faf=1#vp_1	Presse et plateforme médicale		FALSE	FALSE				
+https://francais.medscape.com/voirarticle/3606994	Presse et plateforme médicale		FALSE	TRUE				
+https://francais.medscape.com/ressources/coronavirus	Presse et plateforme médicale		FALSE	TRUE				
+https://medcritic.fr/origine-du-covid-une-partie-de-cluedo/	Presse et plateforme médicale		FALSE	TRUE				
+https://medcritic.fr/est-ce-que-seul-le-vaccin-peut-nous-sauver-de-la-covid/	Presse et plateforme médicale		FALSE	TRUE				
+https://medcritic.fr/tag/covid19/	Presse et plateforme médicale		FALSE	TRUE				
+https://neurologie-covid.fr	Presse et plateforme médicale		TRUE	TRUE				
+https://psychologues-solidaires.fr	Presse et plateforme médicale		TRUE	TRUE				
+https://romdes-pro.fr/alerte-denutrition-post-covid/	Presse et plateforme médicale		FALSE	FALSE				
+https://romdes-pro.fr/special-coronavirus/	Presse et plateforme médicale		FALSE	FALSE				
+https://www.agence-biomedecine.fr/?page=recherche&recherche=covid	Presse et plateforme médicale		TRUE	FALSE				
+https://www.allodocteurs.fr/covid/	Presse et plateforme médicale		FALSE	TRUE				
+https://www.allodocteurs.fr/maladies/covid/origines-du-covid-des-scientifiques-relancent-lhypothese-dun-accident-de-laboratoire_31235.html	Presse et plateforme médicale		FALSE	TRUE				
+https://www.allodocteurs.fr/maladies/maladies-infectieuses-et-tropicales/coronavirus/des-cas-de-covid-en-alsace-des-le-mois-de-novembre_29252.html	Presse et plateforme médicale		TRUE	TRUE				
+https://www.allodocteurs.fr/maladies/maladies-infectieuses-et-tropicales/coronavirus/	Presse et plateforme médicale		TRUE	TRUE				
+https://www.coreb.infectiologie.com/fr/hospitalisation.html	Presse et plateforme médicale		FALSE	TRUE				
+https://www.coreb.infectiologie.com/fr/tests-virologiques.html	Presse et plateforme médicale		FALSE	TRUE				
+https://www.coreb.infectiologie.com/fr/covid-19-prise-en-charge-et-suivi-du-patient-hospitalise.html	Presse et plateforme médicale		FALSE	TRUE				
+https://www.coreb.infectiologie.com/fr/covid-19-prise-en-charge-et-suivi-du-patient-en-medecine-de-ville.html	Presse et plateforme médicale		FALSE	TRUE				
+https://www.coreb.infectiologie.com/fr/covid-19.html	Presse et plateforme médicale		FALSE	TRUE				
+https://covid19-presse.fr/categories/	Presse et plateforme médicale		TRUE	TRUE				
+https://www.covid19-presse.fr	Presse et plateforme médicale		TRUE	TRUE				
+https://www.docteurclic.com/questions-reponses/questions-covid-19-coronavirus.aspx	Presse et plateforme médicale		TRUE	TRUE				
+https://www.espaceinfirmier.fr/recherche/actualite.html?query=coronavirus	Presse et plateforme médicale		TRUE	TRUE				
+https://www.espaceinfirmier.fr/recherche/actualite.html?query=covid	Presse et plateforme médicale		TRUE	TRUE				
+https://www.futura-sciences.com/sante/medecine/coronavirus/	Presse généraliste et locale		TRUE	TRUE				
+https://www.futura-sciences.com/sante/medecine/coronavirus/	Presse généraliste et locale		TRUE	TRUE				
+https://www.hospitalia.fr/tags/%c3%a9pid%c3%a9mie/	Presse et plateforme médicale		FALSE	FALSE				
+https://www.infectiologie.com/fr/actualites/covid-19-actualites-mises-a-jour_-n.html	Presse et plateforme médicale		TRUE	TRUE				
+https://www.infectiologie.com/fr/covid-19.html	Presse et plateforme médicale		TRUE	TRUE				
+https://www.infectiologie.com/fr/actualites.html	Presse et plateforme médicale		TRUE	TRUE				
+https://www.infirmiers.com/actualites/revue-de-presse/covid-le-synerpa-plaide-pour-le-rappel-vaccinal-obligatoire-des-soignants-en-ehpad.html	Presse et plateforme médicale		FALSE	TRUE				
+https://www.infirmiers.com/les-grands-dossiers/epidemiologie/infection-nouveau-coronavirus-covid-19.html	Presse et plateforme médicale		TRUE	TRUE				
+https://www.infirmiers.com/recherche/anciennete-croissante.html?searchphrase=all&searchword=2019-ncov	Presse et plateforme médicale		FALSE	FALSE				
+https://www.jeunesmedecins.fr/actualites/covid-19-saison-2-ou-quand-letat-se-desengage	Presse et plateforme médicale		FALSE	TRUE				
+https://www.jeunesmedecins.fr/actualites/distanciation-physique-masques-et-tests-ne-suffiront-pas-protegeons-les-plus-vulnerables	Presse et plateforme médicale		FALSE	TRUE				
+https://www.jeunesmedecins.fr/actualites	Presse et plateforme médicale		FALSE	TRUE				
+https://www.jim.fr/medecin/debats/interview/e-docs/pr_bricaire_la_balance_benefice_risque_du_confinement_doit_etre_evaluee_et_guider_les_decisions__182618/document_interview.phtml	Presse et plateforme médicale		TRUE	FALSE				
+https://www.jim.fr/medecin/debats/image_semaine/index.phtml	Presse et plateforme médicale		TRUE	TRUE				
+https://www.jeunesmedecins.fr/actualites/distanciation-physique-masques-et-tests-ne-suffiront-pas-protegeons-les-plus-vulnerables	Presse et plateforme médicale		FALSE	TRUE				
+https://www.jeunesmedecins.fr/actualites	Presse et plateforme médicale		FALSE	TRUE				
+https://www.jim.fr/medecin/debats/interview/e-docs/pr_bricaire_la_balance_benefice_risque_du_confinement_doit_etre_evaluee_et_guider_les_decisions__182618/document_interview.phtml	Presse et plateforme médicale		TRUE	FALSE				
+https://www.jim.fr/medecin/debats/image_semaine/index.phtml	Presse et plateforme médicale		TRUE	TRUE				
+https://www.lequotidiendumedecin.fr/specialites/infectiologie	Presse et plateforme médicale		TRUE	TRUE				
+https://www.lequotidiendumedecin.fr/recherche?search_text_form=coronavirus&changed%5bmin%5d%5bdate%5d=2020-01-01&changed%5bmax%5d%5bdate%5d=2020-12-31	Presse et plateforme médicale		FALSE	FALSE				
+https://www.msf.fr/recherche?text=coronavirus	Presse et plateforme médicale		TRUE	FALSE				
+https://www.msf.fr/eclairages/coronavirus-les-systemes-de-sante-a-l-epreuve-de-la-pandemie?	Presse et plateforme médicale		TRUE	FALSE				
+https://www.msf.fr/actualites/epidemie-de-coronavirus-que-font-les-equipes-msf	Presse et plateforme médicale		TRUE	TRUE				
+https://www.msf-crash.org/fr/blog/medecine-et-sante-publique	Presse et plateforme médicale		FALSE	TRUE				
+https://www.msf-crash.org/fr/blog/communiquer-et-convaincre-un-regard-dhumanitaires-sur-la-reponse-francaise-lepidemie-de	Presse et plateforme médicale		FALSE	TRUE				
+https://www.pourquoidocteur.fr/articles/question-d-actu/32184-exclusif-pour-pr-montagnier-sars-cov-2-serait-virus-manipule-chinois-l-adn-de-vih-podcast	Presse et plateforme médicale		FALSE	FALSE				
+https://www.pourquoidocteur.fr/dossier/17902-covid-19	Presse et plateforme médicale		FALSE	FALSE				
+https://www.pourquoidocteur.fr/dossier/17984-confinement	Presse et plateforme médicale		FALSE	FALSE				
+https://www.pourquoidocteur.fr/dossier/11298-coronavirus	Presse et plateforme médicale		FALSE	FALSE				
+https://www.pourquoidocteur.fr/articles/question-d-actu/33506-paris-extension-l-obligation-port-du-masque-exterieur-facilitation-de-l-acces-rapide-tests	Presse et plateforme médicale		FALSE	FALSE				
+https://www.pourquoidocteur.fr/dossier/17902-covid-19	Presse et plateforme médicale		FALSE	FALSE				
+https://www.preventioninfection.fr/boites-a-outils/prevention-des-infections-respiratoires/	Presse et plateforme médicale		FALSE	FALSE				
+https://www.preventioninfection.fr/informations-sur-lepidemie-de-nouveau-coronavirus-2019-ncov/	Presse et plateforme médicale		TRUE	TRUE				
+https://www.preventioninfection.fr/emetteur_document/cpias-bourgogne-franche-comte/	Presse et plateforme médicale		TRUE	TRUE				
+https://www.sf2h.net/publications/coronavirus-2019-ncov	Syndicat / Association, Santé		TRUE	TRUE				
+https://www.srlf.org/recommandations-dexperts-sars-cov2/	Institutionnel, Santé		FALSE	TRUE				
+https://www.srlf.org/coronavirus-formation-infirmiere/	Institutionnel, Santé		FALSE	FALSE				
+https://www.srlf.org/coronavirus/	Institutionnel, Santé		FALSE	FALSE				
+https://www.terrafemina.com/article/coronavirus-tous-les-soirs-a-20h-onapplaudit-le-personnel-soignant_a352939/1	Presse et plateforme médicale		TRUE	FALSE				
+https://www.terrafemina.com/article/coronavirus-une-caissiere-du-grand-est-obligee-de-travailler-temoigne_a352933/1	Presse généraliste et locale		TRUE	FALSE				
+https://www.terrafemina.com/article/coronavirus-la-romantisation-du-confinement-le-luxe-de-femmes-privilegiees_a352945/1	Presse généraliste et locale		TRUE	FALSE				
+https://www.topsante.com/medecine/maladies-infectieuses/zoonoses/tocilizumab-coronavirus-ameliore-le-pronostic-des-patients-moderes-et-severes-636555	Presse et plateforme médicale		TRUE	FALSE				
+https://www.topsante.com/medecine/maladies-infectieuses/zoonoses	Presse et plateforme médicale		TRUE	TRUE				
+https://www.adbs.fr/groupes/adbs-info/covid19-professionnels-de-287213	Syndicat / Association		TRUE	TRUE				
+https://www.france-assos-sante.org/communique_presse/tribune-non-vaccines-hopitaux-satures-personnel-epuise-plan-blanc-soutenons-les-professionnels-de-sante/	Syndicat / Association, Santé		FALSE	FALSE				
+https://www.ordre-infirmiers.fr/actualites-presse/actualite-covid-19.html	Syndicat / Association, Santé		TRUE	TRUE				
+https://www.isula.corsica/Chjama-a-un-operata-di-sulidarita-fraiutu-sustegnu-a-i-servizii-e-partenarii_a1327.html	Collectivité territoriale		TRUE	TRUE				
+https://www.isula.corsica/search/covid-19/	Collectivité territoriale		TRUE	TRUE				
+https://www.isula.corsica/Sauvez-des-vies-stateincasa_a1343.html	Collectivité territoriale		TRUE	TRUE				
+https://www.isula.corsica/Covid-19-A-Corsica-sempri-in-attesa-di-risposti-a-certi-dumandi-essenziali-la-Corse-reste-dans-l-attente-de-reponses-a_a1302.html	Collectivité territoriale		TRUE	TRUE				
+https://www.isula.corsica/assemblea/Lutter-contre-le-covid-19-le-rapport-du-President_a512.html	Collectivité territoriale		TRUE	TRUE				
+https://fr.wikipedia.org/wiki/Pand%C3%A9mie_de_Covid-19_en_Martinique	Wikipédia		TRUE	TRUE				
+https://fr.wikipedia.org/wiki/Ivermectine	Wikipédia		TRUE	TRUE				
+https://fr.wikipedia.org/wiki/Coronavirus	Wikipédia		TRUE	TRUE				
+https://fr.wikipedia.org/wiki/Pand%C3%A9mie_de_Covid-19	Wikipédia		TRUE	TRUE				
+https://www.gouvernement.fr/info-coronavirus/tousanticovid	Institutionnel		FALSE	TRUE				
+https://www.atousante.com/risques-professionnels/risques-infectieux/sars-cov-2-coronavirus-covid-19/	Presse et plateforme médicale		TRUE	TRUE				
+https://www.atousante.com/actualites/nouveau-coronavirus-2019-ncov/	Presse et plateforme médicale		TRUE	TRUE				
+https://www.atousante.com/risques-professionnels/risques-infectieux/sars-cov-2-coronavirus-covid-19/covid-controle-temperature-corporelle/	Presse et plateforme médicale		TRUE	TRUE				
+https://ducotedelascience.org/	Vulgarisation, Santé		FALSE	TRUE				

@@ -1,0 +1,79 @@
+Segment;Name;Regex
+Domain+Path;Instagram;instagram\.com\/(?:p\/([^\/]+)\/?|([^\/]+)\/?)
+Domain+Path;Twitter;^(?:mobile\.|support\.)?twitter\.com\/([^\/]+)\/?
+Domain+Path;Amazon;amazon\.(com|fr|ca|es)\/(?:dp\/([^\/]+)|([^\/]+)\/(?:dp|e|product\-reviews)\/([^\/]+)|gp\/product\/([^\/]+)|product\-reviews\/([^\/]+))
+Domain+Path;Gravatar;^(fr\.)?gravatar\.com\/([^\/]+)
+Domain+Path;Babelio;babelio\.com\/(?:auteur\/([^\/]+)\/([0-9]+)|livres\/([^\/]+)\/([0-9]+))
+Domain+Path;Wikipedia;^(.+)\.wikipedia\.org\/wiki\/([^\/]+)
+Domain+Path;Wikisource;^(.+)\.wikisource\.org\/wiki\/([^\/]+)
+Domain+Path;Ebooks publie.net;(?:librairie\.)?publie\.net\/(?:fr\/ebook\/([0-9]+)|livre\/([^\/]+))
+Domain+Path;Big-Net;^big\.or\.jp\/([^\/]+)
+Domain+Path;Blogs lemonde.fr (nouvelles URLs);^lemonde\.fr\/blog\/([^\/]+)
+Domain+Path;Ning arts et lettres (blogs);artsrtlettres\.ning\.com\/profiles\/blogs?
+Domain+Path;blogs.mediapart.fr;^blogs\.mediapart\.fr\/(?:edition\/([^\/]+)\/|([^\/]+)\/blog)
+Domain+Path;blogs.mediapart.fr (autres URLs);^blogs\.mediapart\.fr\/([^\/]+)\/?
+Domain+Path;medium.com;medium\.com\/\@([^\/]+)
+Domain+Path;clusterXXX.ovh.net;cluster([0-9]+)\.ovh\.net\/([^\/]+)
+Domain+Path;myspace.com;^myspace\.com\/([^\/]+)
+Domain+Path;cargocollective.com;^cargocollective\.com/([^\/]+)
+Domain+Path;pages.videotron.com;^pages\.videotron\.(com|ca)/([^\/]+)
+Domain+Path;wordpress.com (posts);^wordpress\.com\/(?:post\/([^\/]+)|read\/blogs\/([0-9]+))
+Domain;wordpress.com;^(.+)\.wordpress\.com$
+Domain;LinkedIn;(?:es\.|fr\.|ca\.)?linkedin\.com$
+Domain+Path;Google Sites;^sites\.google\.com\/site\/([^\/]+)
+Domain+Path;users.skynet.be;^users\.skynet\.be\/([^\/]+)
+Domain+Path;Dailymotion;^dailymotion\.com\/(?:(?:embed\/)?video\/([^\/]+)|swf\/([^\/]+)|([^\/]+))
+Domain+Path;YouTube;(?:^m\.|^fr\.|^)youtube\.com\/(?:channel\/([^\/]+)|user\/([^\/]+)|watch\?([^\/]+))
+Domain+Path;Facebook;^(?:web\.|m\.|fr\-fr\.|fr\-ca\.|)facebook\.com(?:\/events\/([^\/]+)|\/people\/([^\/]+)|\/pages\/([^\/]+)|\/groups\/([^\/]+)|\/profile\.php\?([^\/]+)|\/group\.php\?([^\/]+)|\/photo\.php\?([^\/]+)|\/([^\/]+)\/?|)
+Domain;Blogs lemonde.fr (anciennes URLs);^(.+)\.blog\.lemonde\.fr$
+Domain;Blogspot;^(.+)\.blogspot\.(ca|com|fr|ro|be|co\.uk|ch|ru|bg|es|lu|it|de)$
+Domain;Eklablog;^(.+)\.(eklablog\.fr|eklablog\.com|kazeo\.com)$
+Domain;Jimdo;(.+)\.(?:jimdofree|jimdo)\.com$
+Domain;Over-Blog;^(.+)\.(over-blog\.com|overblog\.com|over-blog\.fr|over-blog\.net|over-blog\.org)$
+Domain;Tumblr;^(.+)\.tumblr\.com$
+Domain;Typepad;^(.+)\.typepad\.(fr|com)$
+Domain;blog.24heures.ch;^(.+)\.blog\.24heures\.ch$
+Domain;blog4ever.com;(.+)\.blog4ever\.com$
+Domain;blog50.com;^(.+)\.blog50\.com$
+Domain;blogg.org;^(.+)\.blogg\.org$
+Domain;blogs.com;(.+)\.blogs\.com$
+Domain;blogs.nouvelobs.com;^(.+)\.blogs\.nouvelobs\.com$
+Domain;blogs.sudouest.fr;^(.+)\.blogs\.sudouest\.fr$
+Domain;blogspirit.com;^(.+)\.blogspirit\.com$
+Domain;canalblog.com;^(.+)\.canalblog\.com$
+Domain;centerblog.net;^(.+)\.centerblog\.net$
+Domain;chez-alice.fr;^(.+)\.chez-alice\.fr$
+Domain;chez.com;(.+)\.chez\.com$
+Domain;courriers.info;^(.+)\.courriers\.info$
+Domain;e-monsite.com;^(.+)\.e-monsite\.com$
+Domain;eljazeir.com;(.+)\.eljazeir\.com$
+Domain;erudit.org;^(.+)\.erudit\.org$
+Domain;free.fr;^(.+)\.free\.fr$
+Domain;blog.free.fr;^(.+)\.blog\.free\.fr$
+Domain;hautetfort.com;^(.+)\.hautetfort\.com$
+Domain;hypotheses.org;^(.+)\.hypotheses\.org$
+Domain;ifrance.com;^(.+)\.ifrance\.com$
+Domain;lewebpro.net;^(.+)\.lewebpro\.net$
+Domain;livejournal.com;^(.+)\.livejournal\.com$
+Domain;livreaucentre.fr;^(.+)\.livreaucentre\.fr$
+Domain;monsite-orange.fr;^(.+)\.monsite-orange\.fr$
+Domain;online.fr;^(.+)\.online\.fr$
+Domain;pagesperso-orange.fr;^(.+)\.pagesperso-orange\.fr$
+Domain;perso.neuf.fr;^(.+)\.perso\.neuf\.fr$
+Domain;revues.org;^(.+)\.revues\.org$
+Domain;simplesite.com;^(.+)\.simplesite\.com$
+Domain;skyrock.com;(.+)\.skyrock\.com$
+Domain;squarespace.com;^(.+)\.squarespace\.com$
+Domain;srwebworks.com;^(.+)\.srwebworks\.com$
+Domain;tempslibres.org;^(.+)\.tempslibres\.org$
+Domain;togocultures.com;^(.+)\.togocultures\.com$
+Domain;toile-libre.org;^(.+)\.toile-libre\.org$
+Domain;unblog.fr;^(.+)\.unblog\.fr$
+Domain;voila.net;^(.+)\.voila\.net$
+Domain;web.officelive.com;^(.+)\.web\.officelive\.com$
+Domain;webobjet.com;^(.+)\.webobjet\.com$
+Domain;weebly.com;(.+)\.weebly\.com$
+Domain;wifeo.com;^(.+)\.wifeo\.com$
+Domain;wixsite.com;(.+)\.wixsite\.com$
+Domain;xanga.com;^(.+)\.xanga\.com$
+Domain;zeblog.com;(.+)\.zeblog\.com$

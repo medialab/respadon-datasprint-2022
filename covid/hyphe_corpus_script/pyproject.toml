@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "01_corpus_builder"
+version = "0.1.0"
+description = ""
+authors = ["Kévin Locoh-Donou <kevin.locoh-donou@bnf.fr>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.26.0"
+
+[tool.poetry.dev-dependencies]
+mypy = "^0.930"
+types-requests = "^2.26.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.mypy]
+files = "main.py, src"
+mypy_path = "stubs"
+warn_return_any = true

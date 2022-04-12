@@ -80,4 +80,4 @@ with open(
 ) as f:
     json.dump(all_queries, f, indent=2)
 with open(os.path.join(DATA_PATH, "solr_webentities_themes_curl.sh"), "w") as f:
-    f.write("\n".join(curl_bash_script))
+    f.write(";\n".join(curl_bash_script))

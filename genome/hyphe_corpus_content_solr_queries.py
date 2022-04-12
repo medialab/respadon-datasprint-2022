@@ -40,7 +40,9 @@ with open(os.path.join(DATA_PATH, *THEMES_TERMS), "r") as f:
         if term["new_term"] in themes_list:
             terms[term["new_term"]].add(term["term"])
 
-terms_facets = {"facet.query": [" OR ".join(ts) for (theme, ts) in terms.items()]}
+terms_facets = [
+    ("facet.query", f'text:({" OR ".join(ts)})') for (theme, ts) in terms.items()
+]
 
 curl_bash_script = []
 all_queries = []
@@ -64,10 +66,14 @@ with open(os.path.join(DATA_PATH, CORPUS_FILE), "r") as webs_f:
         prefixes_filters = [f'url_search:"{url}"*' for url in prefix_normalize]
         if len(prefixes_filters) > 0:
 
-            query_string = urlencode(
-                {"q": " OR ".join(prefixes_filters)} | terms_facets
-            )
-
+            query_o = [
+                ("rows", 0),
+                ("facet", "on"),
+                ("q", " OR ".join(prefixes_filters)),
+            ] + terms_facets
+            query_string = urlencode(query_o)
+            print(query_o)
+            print(query_string)
             query = f"{SOLR_URL}?{query_string}"
             all_queries.append(query)
             curl_bash_script.append(f"curl '{query}' > {web_entity['ID']}.json")

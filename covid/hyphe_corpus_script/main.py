@@ -15,7 +15,7 @@ def main() -> None:
     args = parser.parse_args()
     log_file_level = getattr(logging, args.log_file_level)
     configure_logging(args.log_file, log_file_level)
-    run_task(args.corpus_name)
+    run_task()
 
 if __name__ == "__main__":
     main()

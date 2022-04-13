@@ -7,8 +7,8 @@ from ural import normalize_url, force_protocol
 
 from themes import get_themes_facets
 
-CORPUS_FILE = "genom2002_mercredi13-04.json"
-DATA_PATH = "hyphe_data"
+CORPUS_PATH = os.path.join("hyphe_data", "genom2002_mercredi13-04.json")
+THEMES_DATA_PATH = "themes_data"
 SOLR_URL = "http://nemo10.bnf.fr:8983/solr/netarchivebuilder/select"
 
 terms_facets_dict = get_themes_facets()
@@ -17,7 +17,7 @@ terms_facets = list(terms_facets_dict.values())
 curl_bash_script = []
 all_queries = []
 
-with open(os.path.join(DATA_PATH, CORPUS_FILE), "r") as webs_f:
+with open(CORPUS_PATH, "r") as webs_f:
     hyphe = json.load(webs_f)
     for web_entity in hyphe["webentities"]:
         if web_entity["STATUS"] in ["IN", "UNDECIDED"]:
@@ -54,8 +54,8 @@ with open(os.path.join(DATA_PATH, CORPUS_FILE), "r") as webs_f:
                     f'missing http without www prefix in {web_entity["NAME"]} {web_entity["PREFIXES AS URL"]}'
                 )
 with open(
-    os.path.join(DATA_PATH, "solr_webentities_themes_search_bodies.json"), "w"
+    os.path.join(THEMES_DATA_PATH, "solr_webentities_themes_search_bodies.json"), "w"
 ) as f:
     json.dump(all_queries, f, indent=2)
-with open(os.path.join(DATA_PATH, "solr_webentities_themes_curl.sh"), "w") as f:
+with open(os.path.join(THEMES_DATA_PATH, "solr_webentities_themes_curl.sh"), "w") as f:
     f.write(";\n".join(curl_bash_script))

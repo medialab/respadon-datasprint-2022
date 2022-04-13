@@ -35,7 +35,7 @@
       "text:(adn OR dadn OR ladn)": 5350,
       "text:(cellulessouche OR souche OR souches)": 1330,
       "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)": 3554,
-      "text:(avort* OR avortement OR lavortement)": 19315
+      "text:(avort* OR avortement OR ivg OR lavortement OR livg)": 19315
     },
     "facet_fields": {
       "domain": [

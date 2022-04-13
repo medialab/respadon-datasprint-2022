@@ -7,7 +7,7 @@ from textwrap import indent
 from themes import get_themes_facets
 
 
-THEME_PATH = "./hyphe_data/themes_web_entities"
+THEME_PATH = "./themes_data/themes_web_entities"
 
 themes_facets = get_themes_facets()
 

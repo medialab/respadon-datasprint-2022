@@ -7,7 +7,7 @@ from ural import ensure_protocol
 
 from themes import THEMES_LIST
 
-CORPUS_FILE = "génome élections 2002 v2 complet.json"
+CORPUS_FILE = "genome_elections_2002.json"
 # CORPUS_FILE = "génome incunable.json"
 
 DATA_PATH = "bcweb_data"
@@ -77,16 +77,16 @@ fields = ["Thème", "candidat", "parti"]
 # prepare themes tags
 # themes tags
 themes_tags = defaultdict(dict)
-if os.path.exists("./hyphe_data/webentity_theme_per_1000.tags.csv"):
+if os.path.exists("./themes_data/webentity_theme_per_1000.tags.csv"):
     fields += list(THEMES_LIST)
-    with open("./hyphe_data/webentity_theme_per_1000.tags.csv", "r") as f:
+    with open("./themes_data/webentity_theme_per_1000.tags.csv", "r") as f:
         themes_by_web_entities = csv.DictReader(f)
         for themes_data in themes_by_web_entities:
             for k, v in themes_data.items():
                 if k != "web_entity_id":
                     themes_tags[int(themes_data["web_entity_id"])][k] = v
 
-with open(os.path.join(DATA_PATH, CORPUS_FILE), "r") as webs_f:
+with open(os.path.join("hyphe_data", CORPUS_FILE), "r") as webs_f:
     hyphe = json.load(webs_f)
     for web_entity in hyphe["webentities"]:
         if web_entity["ID"] in output_data:

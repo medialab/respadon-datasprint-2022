@@ -3,8 +3,6 @@ import csv
 import os
 from typing import Dict
 
-THEMES_TERMS = ["ELECTIONS", "terms-tfudf_election2002_harmonized-data.csv"]
-DATA_PATH = "bcweb_data"
 THEMES_LIST = set(
     [
         "brevets",
@@ -31,7 +29,9 @@ THEMES_LIST = set(
 def get_themes_facets() -> Dict:
 
     terms = defaultdict(set)
-    with open(os.path.join(DATA_PATH, *THEMES_TERMS), "r") as f:
+    with open(
+        os.path.join("themes_data", "terms-tfudf_election2002_harmonized-data.csv"), "r"
+    ) as f:
         terms_csv = csv.DictReader(f)
         for term in terms_csv:
             if term["new_term"] in THEMES_LIST:

@@ -1,0 +1,76 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 182,
+    "params": {
+      "facet.query": [
+        "text:(bayer)",
+        "text:(clonage OR clôn* OR clonés OR clon* OR cloné OR cloning)",
+        "text:(lembryon OR dembryons OR embryons OR embryon* OR embryonnaires OR lembryonest OR embryonnaire)",
+        "text:(organisme génétiquement modifié OR ogm OR dogm)",
+        "text:(brevetabilité OR brevetabiliser OR brevet* OR brevetabilite OR brevetable OR brevetage OR brevetablité OR breveter OR brevets)",
+        "text:(ladn OR dadn OR adn)",
+        "text:(cellulessouche OR souche OR souches)",
+        "text:(fécondation OR gamèt* OR implanté OR fécondé* OR reproductif OR vitro OR préimplantatoire OR spermatozoïde OR ovul* OR prénatal OR préimplantation OR gamète)",
+        "text:(avort* OR avortement OR lavortement)"
+      ],
+      "q": "url_search:\"http://chiennesdegarde.org\"*",
+      "rows": "0",
+      "facet": "on"
+    }
+  },
+  "response": {
+    "numFound": 145972,
+    "start": 0,
+    "maxScore": 32.084675,
+    "docs": []
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "text:(bayer)": 0,
+      "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)": 3763,
+      "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)": 7184,
+      "text:(dogm OR ogm OR organisme génétiquement modifié)": 3,
+      "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)": 373,
+      "text:(adn OR dadn OR ladn)": 5350,
+      "text:(cellulessouche OR souche OR souches)": 1330,
+      "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)": 3554,
+      "text:(avort* OR avortement OR lavortement)": 19315
+    },
+    "facet_fields": {
+      "domain": [
+        "chiennesdegarde.org",
+        145972
+      ],
+      "crawl_year": [
+        "2002",
+        145972
+      ],
+      "public_suffix": [
+        "org",
+        145972
+      ],
+      "content_type_norm": [
+        "text",
+        60278,
+        "html",
+        58283,
+        "other",
+        27264,
+        "image",
+        147
+      ],
+      "status_code": [
+        "200",
+        145972
+      ],
+      "host": [
+        "chiennesdegarde.org",
+        145972
+      ]
+    },
+    "facet_ranges": {},
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

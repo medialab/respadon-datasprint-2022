@@ -5,6 +5,8 @@ import json
 from ural.lru import LRUTrie
 from ural import ensure_protocol
 
+from themes import THEMES_LIST
+
 CORPUS_FILE = "génome élections 2002 v2 complet.json"
 # CORPUS_FILE = "génome incunable.json"
 
@@ -63,36 +65,6 @@ with open(
         urls[url] = new_tag
         trie.set(url, new_tag)
 
-# tags from tf-idf analysis
-with open(
-    "domaine_theme.tags.csv",
-    "r",
-) as f:
-    dr = csv.DictReader(f)
-    for row in dr:
-        domaine = ensure_protocol(row["domaine"])
-        new_tag = {"tfidf": row["themes"]}
-        if domaine in urls:
-            new_tag = new_tag | urls[domaine]
-        urls[domaine] = new_tag
-        trie.set(domaine, new_tag)
-
-themes_fields = set()
-with open("domaine_theme.json", "r") as f:
-    domaine_theme = json.load(f)
-    for (domaine, themes) in domaine_theme.items():
-        url = ensure_protocol(domaine)
-        nb_page_total = 0
-        for (theme, nb_page) in themes.items():
-            nb_page_total += nb_page
-            print(url, theme, nb_page)
-            themes_fields.add(theme)
-            new_tag = {theme: nb_page}
-            if url in urls:
-                new_tag = new_tag | urls[url]
-            urls[url] = new_tag
-            trie.set(url, new_tag)
-        trie.set(url, {"total_tfidf": nb_page_total} | urls[url])
 
 # on part d'un corpus hyphe
 # pour chauque préfixe de WE on cherche un match dans l'arbre des tags
@@ -100,28 +72,50 @@ with open("domaine_theme.json", "r") as f:
 
 output_data = defaultdict(dict)
 
-fields = ["Thème", "candidat", "parti", "tfidf", "total_tfidf"] + list(themes_fields)
+fields = ["Thème", "candidat", "parti"]
+
+# prepare themes tags
+# themes tags
+themes_tags = defaultdict(dict)
+if os.path.exists("./hyphe_data/webentity_theme_per_1000.tags.csv"):
+    fields += list(THEMES_LIST)
+    with open("./hyphe_data/webentity_theme_per_1000.tags.csv", "r") as f:
+        themes_by_web_entities = csv.DictReader(f)
+        for themes_data in themes_by_web_entities:
+            for k, v in themes_data.items():
+                if k != "web_entity_id":
+                    themes_tags[int(themes_data["web_entity_id"])][k] = v
 
 with open(os.path.join(DATA_PATH, CORPUS_FILE), "r") as webs_f:
-    hyphe_incunable = json.load(webs_f)
-    for web_entity in hyphe_incunable["webentities"]:
+    hyphe = json.load(webs_f)
+    for web_entity in hyphe["webentities"]:
+        if web_entity["ID"] in output_data:
+            existing_tags = output_data[web_entity["ID"]]
+        else:
+            existing_tags = {}
         for url in web_entity["PREFIXES AS URL"]:
             tag = trie.match(url)
             if tag:
-                output_data[web_entity["ID"]]["name"] = web_entity["NAME"]
-                existing_tags = output_data[web_entity["ID"]]
                 for field in fields:
                     if field in tag:
                         if "field" in existing_tags:
                             existing_tags[field].add(tag[field])
                         else:
                             existing_tags[field] = {tag[field]}
+        # add themes tags
+        if web_entity["ID"] in themes_tags:
+            existing_tags = existing_tags | themes_tags[web_entity["ID"]]
+        if len(existing_tags.keys()) > 0:
+            existing_tags["name"] = web_entity["NAME"]
+            output_data[web_entity["ID"]] = existing_tags
+
 
 print(f"{len(output_data.keys())} web entities with at least one tag")
-with open(os.path.join(DATA_PATH, f"{CORPUS_FILE.split('.')[0]}.tags.csv"), "w") as f:
-    writer = csv.DictWriter(f, ["web_entity_id", "name"] + fields)
+with open(f"./hyphe_data/{CORPUS_FILE.split('.')[0]}.tags.csv", "w") as f:
+    writer = csv.DictWriter(f, ["web_entity_id", "name", "total_themes_pages"] + fields)
     writer.writeheader()
     for (web_entity_id, values) in output_data.items():
+
         writer.writerow(
             {"web_entity_id": web_entity_id}
             | {

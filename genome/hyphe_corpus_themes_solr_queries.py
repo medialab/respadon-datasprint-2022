@@ -7,7 +7,7 @@ from ural import normalize_url, force_protocol
 
 from themes import get_themes_facets
 
-CORPUS_PATH = os.path.join("hyphe_data", "genom2002_mercredi13-04.json")
+CORPUS_PATH = os.path.join("hyphe_data", "genome_elections_2002.json")
 THEMES_DATA_PATH = "themes_data"
 SOLR_URL = "http://nemo10.bnf.fr:8983/solr/netarchivebuilder/select"
 
@@ -20,7 +20,7 @@ all_queries = []
 with open(CORPUS_PATH, "r") as webs_f:
     hyphe = json.load(webs_f)
     for web_entity in hyphe["webentities"]:
-        if web_entity["STATUS"] in ["IN", "UNDECIDED"]:
+        if web_entity["STATUS"] in ["DISCOVERED", "IN", "UNDECIDED"]:
             # using filter looks like an optimization but not sure...
             prefix_normalize = set(
                 [

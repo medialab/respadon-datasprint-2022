@@ -77,13 +77,18 @@ fields = ["Thème", "candidat", "parti"]
 # prepare themes tags
 # themes tags
 themes_tags = defaultdict(dict)
-if os.path.exists("./themes_data/webentity_theme_per_1000.tags.csv"):
-    fields += list(THEMES_LIST)
-    with open("./themes_data/webentity_theme_per_1000.tags.csv", "r") as f:
+if os.path.exists("./hyphe_data/webentity_theme_per_1000.tags.csv"):
+
+    with open("./hyphe_data/webentity_theme_per_1000.tags.csv", "r") as f:
         themes_by_web_entities = csv.DictReader(f)
+        fields += [
+            f
+            for f in themes_by_web_entities.fieldnames
+            if f not in ["web_entity_id", "name"]
+        ]
         for themes_data in themes_by_web_entities:
             for k, v in themes_data.items():
-                if k != "web_entity_id":
+                if k not in ["web_entity_id", "name"]:
                     themes_tags[int(themes_data["web_entity_id"])][k] = v
 
 with open(os.path.join("hyphe_data", CORPUS_FILE), "r") as webs_f:

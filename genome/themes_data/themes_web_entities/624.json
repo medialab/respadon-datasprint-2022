@@ -1,0 +1,67 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":8,
+    "params":{
+      "facet.query":["text:(genopole OR génopole OR généthon OR téléthon)",
+        "text:(bayer)",
+        "text:(bioethiqu* OR bioéthique OR bioéthiquecitoyenneté OR bioéthiques)",
+        "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)",
+        "text:(gene OR genes OR genetique* OR gène OR gènemédicament OR gènes OR génique OR génétique OR génétiquement OR génétiques OR monogéniques)",
+        "text:(chrétien OR chrétiennes OR diocèse OR diocèses OR eglises OR evangélique OR leglise OR léglise OR méthodiste OR pastorale OR église OR évangélique OR évêques)",
+        "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)",
+        "text:(dogm OR ogm OR organisme génétiquement modifié)",
+        "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)",
+        "text:(adn OR dadn OR ladn)",
+        "text:(\"esb\" OR vache folle OR vachefolle)",
+        "text:(deugénis* OR eugenis* OR eugénis* OR eugéniste OR eugénistes OR leugenis* OR leugénis*)",
+        "text:(cellulessouche OR souche OR souches)",
+        "text:(transgen* OR transgèn* OR transgène OR transgènes OR transgénique OR transgéniques)",
+        "text:(genhomme OR genom* OR genome OR genomics OR génom* OR génomechaque OR génomes OR génomique OR génonme OR laprèsgénome)",
+        "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)",
+        "text:(avort* OR avortement OR ivg OR lavortement OR livg)"],
+      "q":"url_search:\"http://lavoixdunord.fr\"*",
+      "rows":"0",
+      "facet":"on"}},
+  "response":{"numFound":11710,"start":0,"maxScore":32.74791,"docs":[]
+  },
+  "facet_counts":{
+    "facet_queries":{
+      "text:(genopole OR génopole OR généthon OR téléthon)":0,
+      "text:(bayer)":0,
+      "text:(bioethiqu* OR bioéthique OR bioéthiquecitoyenneté OR bioéthiques)":20,
+      "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)":12,
+      "text:(gene OR genes OR genetique* OR gène OR gènemédicament OR gènes OR génique OR génétique OR génétiquement OR génétiques OR monogéniques)":16,
+      "text:(chrétien OR chrétiennes OR diocèse OR diocèses OR eglises OR evangélique OR leglise OR léglise OR méthodiste OR pastorale OR église OR évangélique OR évêques)":12,
+      "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)":8,
+      "text:(dogm OR ogm OR organisme génétiquement modifié)":0,
+      "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)":12,
+      "text:(adn OR dadn OR ladn)":0,
+      "text:(\"esb\" OR vache folle OR vachefolle)":20,
+      "text:(deugénis* OR eugenis* OR eugénis* OR eugéniste OR eugénistes OR leugenis* OR leugénis*)":0,
+      "text:(cellulessouche OR souche OR souches)":4,
+      "text:(transgen* OR transgèn* OR transgène OR transgènes OR transgénique OR transgéniques)":4,
+      "text:(genhomme OR genom* OR genome OR genomics OR génom* OR génomechaque OR génomes OR génomique OR génonme OR laprèsgénome)":0,
+      "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)":24,
+      "text:(avort* OR avortement OR ivg OR lavortement OR livg)":12},
+    "facet_fields":{
+      "domain":[
+        "lavoixdunord.fr",11690,
+        "estrosi.com",20],
+      "crawl_year":[
+        "2002",11710],
+      "public_suffix":[
+        "fr",11690,
+        "com",20],
+      "content_type_norm":[
+        "html",11079,
+        "image",630,
+        "text",1],
+      "status_code":[
+        "200",11710],
+      "host":[
+        "lavoixdunord.fr",11690,
+        "estrosi.com",20]},
+    "facet_ranges":{},
+    "facet_intervals":{},
+    "facet_heatmaps":{}}}

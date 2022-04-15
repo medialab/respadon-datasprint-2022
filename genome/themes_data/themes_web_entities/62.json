@@ -1,0 +1,64 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":4,
+    "params":{
+      "facet.query":["text:(genopole OR génopole OR généthon OR téléthon)",
+        "text:(bayer)",
+        "text:(bioethiqu* OR bioéthique OR bioéthiquecitoyenneté OR bioéthiques)",
+        "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)",
+        "text:(gene OR genes OR genetique* OR gène OR gènemédicament OR gènes OR génique OR génétique OR génétiquement OR génétiques OR monogéniques)",
+        "text:(chrétien OR chrétiennes OR diocèse OR diocèses OR eglises OR evangélique OR leglise OR léglise OR méthodiste OR pastorale OR église OR évangélique OR évêques)",
+        "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)",
+        "text:(dogm OR ogm OR organisme génétiquement modifié)",
+        "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)",
+        "text:(adn OR dadn OR ladn)",
+        "text:(\"esb\" OR vache folle OR vachefolle)",
+        "text:(deugénis* OR eugenis* OR eugénis* OR eugéniste OR eugénistes OR leugenis* OR leugénis*)",
+        "text:(cellulessouche OR souche OR souches)",
+        "text:(transgen* OR transgèn* OR transgène OR transgènes OR transgénique OR transgéniques)",
+        "text:(genhomme OR genom* OR genome OR genomics OR génom* OR génomechaque OR génomes OR génomique OR génonme OR laprèsgénome)",
+        "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)",
+        "text:(avort* OR avortement OR ivg OR lavortement OR livg)"],
+      "q":"url_search:\"http://lemaquis.ouvaton.org\"*",
+      "rows":"0",
+      "facet":"on"}},
+  "response":{"numFound":4124,"start":0,"maxScore":48.58438,"docs":[]
+  },
+  "facet_counts":{
+    "facet_queries":{
+      "text:(genopole OR génopole OR généthon OR téléthon)":0,
+      "text:(bayer)":0,
+      "text:(bioethiqu* OR bioéthique OR bioéthiquecitoyenneté OR bioéthiques)":0,
+      "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)":55,
+      "text:(gene OR genes OR genetique* OR gène OR gènemédicament OR gènes OR génique OR génétique OR génétiquement OR génétiques OR monogéniques)":182,
+      "text:(chrétien OR chrétiennes OR diocèse OR diocèses OR eglises OR evangélique OR leglise OR léglise OR méthodiste OR pastorale OR église OR évangélique OR évêques)":48,
+      "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)":0,
+      "text:(dogm OR ogm OR organisme génétiquement modifié)":8,
+      "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)":56,
+      "text:(adn OR dadn OR ladn)":16,
+      "text:(\"esb\" OR vache folle OR vachefolle)":30,
+      "text:(deugénis* OR eugenis* OR eugénis* OR eugéniste OR eugénistes OR leugenis* OR leugénis*)":31,
+      "text:(cellulessouche OR souche OR souches)":31,
+      "text:(transgen* OR transgèn* OR transgène OR transgènes OR transgénique OR transgéniques)":40,
+      "text:(genhomme OR genom* OR genome OR genomics OR génom* OR génomechaque OR génomes OR génomique OR génonme OR laprèsgénome)":16,
+      "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)":8,
+      "text:(avort* OR avortement OR ivg OR lavortement OR livg)":37},
+    "facet_fields":{
+      "domain":[
+        "ouvaton.org",4124],
+      "crawl_year":[
+        "2002",4124],
+      "public_suffix":[
+        "org",4124],
+      "content_type_norm":[
+        "html",3803,
+        "text",309,
+        "image",12],
+      "status_code":[
+        "200",4124],
+      "host":[
+        "lemaquis.ouvaton.org",4124]},
+    "facet_ranges":{},
+    "facet_intervals":{},
+    "facet_heatmaps":{}}}

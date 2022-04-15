@@ -16,12 +16,12 @@ THEMES_LIST = set(
         "ogm",
         "bayer",
         "souches",
-        "genes",
+        "gene",
         "clonage",
         "genome",
         "embryon",
-        "vache_folle",
-        "transgenetique",
+        "vache folle",
+        "transgenique",
     ]
 )
 

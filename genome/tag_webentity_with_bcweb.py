@@ -107,8 +107,11 @@ with open(os.path.join("hyphe_data", CORPUS_FILE), "r") as webs_f:
                             existing_tags[field].add(tag[field])
                         else:
                             existing_tags[field] = {tag[field]}
-        # add themes tags
-        if web_entity["ID"] in themes_tags:
+        # add themes tags only for web entities which has been indexed in SOLR
+        if (
+            web_entity["ID"] in themes_tags
+            and themes_tags[web_entity["ID"]]["indexed_in_solr"] == "True"
+        ):
             existing_tags = existing_tags | themes_tags[web_entity["ID"]]
         if len(existing_tags.keys()) > 0:
             existing_tags["name"] = web_entity["NAME"]

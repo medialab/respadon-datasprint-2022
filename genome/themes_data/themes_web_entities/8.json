@@ -1,0 +1,76 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":1086,
+    "params":{
+      "facet.query":["text:(genopole OR génopole OR généthon OR téléthon)",
+        "text:(bayer)",
+        "text:(bioethiqu* OR bioéthique OR bioéthiquecitoyenneté OR bioéthiques)",
+        "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)",
+        "text:(gene OR genes OR genetique* OR gène OR gènemédicament OR gènes OR génique OR génétique OR génétiquement OR génétiques OR monogéniques)",
+        "text:(chrétien OR chrétiennes OR diocèse OR diocèses OR eglises OR evangélique OR leglise OR léglise OR méthodiste OR pastorale OR église OR évangélique OR évêques)",
+        "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)",
+        "text:(dogm OR ogm OR organisme génétiquement modifié)",
+        "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)",
+        "text:(adn OR dadn OR ladn)",
+        "text:(\"esb\" OR vache folle OR vachefolle)",
+        "text:(deugénis* OR eugenis* OR eugénis* OR eugéniste OR eugénistes OR leugenis* OR leugénis*)",
+        "text:(cellulessouche OR souche OR souches)",
+        "text:(transgen* OR transgèn* OR transgène OR transgènes OR transgénique OR transgéniques)",
+        "text:(genhomme OR genom* OR genome OR genomics OR génom* OR génomechaque OR génomes OR génomique OR génonme OR laprèsgénome)",
+        "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)",
+        "text:(avort* OR avortement OR ivg OR lavortement OR livg)"],
+      "q":"url_search:\"http://parti-socialiste.fr\"*",
+      "rows":"0",
+      "facet":"on"}},
+  "response":{"numFound":2970769,"start":0,"maxScore":27.511654,"docs":[]
+  },
+  "facet_counts":{
+    "facet_queries":{
+      "text:(genopole OR génopole OR généthon OR téléthon)":391,
+      "text:(bayer)":0,
+      "text:(bioethiqu* OR bioéthique OR bioéthiquecitoyenneté OR bioéthiques)":254,
+      "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)":776,
+      "text:(gene OR genes OR genetique* OR gène OR gènemédicament OR gènes OR génique OR génétique OR génétiquement OR génétiques OR monogéniques)":6186,
+      "text:(chrétien OR chrétiennes OR diocèse OR diocèses OR eglises OR evangélique OR leglise OR léglise OR méthodiste OR pastorale OR église OR évangélique OR évêques)":5288,
+      "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)":256,
+      "text:(dogm OR ogm OR organisme génétiquement modifié)":0,
+      "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)":5874,
+      "text:(adn OR dadn OR ladn)":0,
+      "text:(\"esb\" OR vache folle OR vachefolle)":3709,
+      "text:(deugénis* OR eugenis* OR eugénis* OR eugéniste OR eugénistes OR leugenis* OR leugénis*)":0,
+      "text:(cellulessouche OR souche OR souches)":232,
+      "text:(transgen* OR transgèn* OR transgène OR transgènes OR transgénique OR transgéniques)":204,
+      "text:(genhomme OR genom* OR genome OR genomics OR génom* OR génomechaque OR génomes OR génomique OR génonme OR laprèsgénome)":76,
+      "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)":120,
+      "text:(avort* OR avortement OR ivg OR lavortement OR livg)":9749},
+    "facet_fields":{
+      "domain":[
+        "parti-socialiste.fr",2970750,
+        "lioneljospin.net",14,
+        "chiracvsjospin.com",4,
+        "lentreprise.com",1],
+      "crawl_year":[
+        "2002",2970678,
+        "2001",91],
+      "public_suffix":[
+        "fr",2970750,
+        "net",14,
+        "com",5],
+      "content_type_norm":[
+        "html",2961300,
+        "image",8164,
+        "other",1096,
+        "pdf",164,
+        "text",41,
+        "audio",4],
+      "status_code":[
+        "200",2970769],
+      "host":[
+        "parti-socialiste.fr",2970750,
+        "lioneljospin.net",14,
+        "chiracvsjospin.com",4,
+        "lentreprise.com",1]},
+    "facet_ranges":{},
+    "facet_intervals":{},
+    "facet_heatmaps":{}}}

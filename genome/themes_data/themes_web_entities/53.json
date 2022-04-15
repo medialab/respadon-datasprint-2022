@@ -1,76 +1,65 @@
 {
-  "responseHeader": {
-    "status": 0,
-    "QTime": 182,
-    "params": {
-      "facet.query": [
+  "responseHeader":{
+    "status":0,
+    "QTime":59,
+    "params":{
+      "facet.query":["text:(genopole OR génopole OR généthon OR téléthon)",
         "text:(bayer)",
-        "text:(clonage OR clôn* OR clonés OR clon* OR cloné OR cloning)",
-        "text:(lembryon OR dembryons OR embryons OR embryon* OR embryonnaires OR lembryonest OR embryonnaire)",
-        "text:(organisme génétiquement modifié OR ogm OR dogm)",
-        "text:(brevetabilité OR brevetabiliser OR brevet* OR brevetabilite OR brevetable OR brevetage OR brevetablité OR breveter OR brevets)",
-        "text:(ladn OR dadn OR adn)",
+        "text:(bioethiqu* OR bioéthique OR bioéthiquecitoyenneté OR bioéthiques)",
+        "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)",
+        "text:(gene OR genes OR genetique* OR gène OR gènemédicament OR gènes OR génique OR génétique OR génétiquement OR génétiques OR monogéniques)",
+        "text:(chrétien OR chrétiennes OR diocèse OR diocèses OR eglises OR evangélique OR leglise OR léglise OR méthodiste OR pastorale OR église OR évangélique OR évêques)",
+        "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)",
+        "text:(dogm OR ogm OR organisme génétiquement modifié)",
+        "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)",
+        "text:(adn OR dadn OR ladn)",
+        "text:(\"esb\" OR vache folle OR vachefolle)",
+        "text:(deugénis* OR eugenis* OR eugénis* OR eugéniste OR eugénistes OR leugenis* OR leugénis*)",
         "text:(cellulessouche OR souche OR souches)",
-        "text:(fécondation OR gamèt* OR implanté OR fécondé* OR reproductif OR vitro OR préimplantatoire OR spermatozoïde OR ovul* OR prénatal OR préimplantation OR gamète)",
-        "text:(avort* OR avortement OR lavortement)"
-      ],
-      "q": "url_search:\"http://chiennesdegarde.org\"*",
-      "rows": "0",
-      "facet": "on"
-    }
+        "text:(transgen* OR transgèn* OR transgène OR transgènes OR transgénique OR transgéniques)",
+        "text:(genhomme OR genom* OR genome OR genomics OR génom* OR génomechaque OR génomes OR génomique OR génonme OR laprèsgénome)",
+        "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)",
+        "text:(avort* OR avortement OR ivg OR lavortement OR livg)"],
+      "q":"url_search:\"http://chiennesdegarde.org\"*",
+      "rows":"0",
+      "facet":"on"}},
+  "response":{"numFound":145972,"start":0,"maxScore":32.084675,"docs":[]
   },
-  "response": {
-    "numFound": 145972,
-    "start": 0,
-    "maxScore": 32.084675,
-    "docs": []
-  },
-  "facet_counts": {
-    "facet_queries": {
-      "text:(bayer)": 0,
-      "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)": 3763,
-      "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)": 7184,
-      "text:(dogm OR ogm OR organisme génétiquement modifié)": 3,
-      "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)": 373,
-      "text:(adn OR dadn OR ladn)": 5350,
-      "text:(cellulessouche OR souche OR souches)": 1330,
-      "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)": 3554,
-      "text:(avort* OR avortement OR ivg OR lavortement OR livg)": 19315
-    },
-    "facet_fields": {
-      "domain": [
-        "chiennesdegarde.org",
-        145972
-      ],
-      "crawl_year": [
-        "2002",
-        145972
-      ],
-      "public_suffix": [
-        "org",
-        145972
-      ],
-      "content_type_norm": [
-        "text",
-        60278,
-        "html",
-        58283,
-        "other",
-        27264,
-        "image",
-        147
-      ],
-      "status_code": [
-        "200",
-        145972
-      ],
-      "host": [
-        "chiennesdegarde.org",
-        145972
-      ]
-    },
-    "facet_ranges": {},
-    "facet_intervals": {},
-    "facet_heatmaps": {}
-  }
-}
+  "facet_counts":{
+    "facet_queries":{
+      "text:(genopole OR génopole OR généthon OR téléthon)":3,
+      "text:(bayer)":0,
+      "text:(bioethiqu* OR bioéthique OR bioéthiquecitoyenneté OR bioéthiques)":49,
+      "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)":3763,
+      "text:(gene OR genes OR genetique* OR gène OR gènemédicament OR gènes OR génique OR génétique OR génétiquement OR génétiques OR monogéniques)":15177,
+      "text:(chrétien OR chrétiennes OR diocèse OR diocèses OR eglises OR evangélique OR leglise OR léglise OR méthodiste OR pastorale OR église OR évangélique OR évêques)":9747,
+      "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)":7184,
+      "text:(dogm OR ogm OR organisme génétiquement modifié)":3,
+      "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)":373,
+      "text:(adn OR dadn OR ladn)":5350,
+      "text:(\"esb\" OR vache folle OR vachefolle)":21028,
+      "text:(deugénis* OR eugenis* OR eugénis* OR eugéniste OR eugénistes OR leugenis* OR leugénis*)":323,
+      "text:(cellulessouche OR souche OR souches)":1330,
+      "text:(transgen* OR transgèn* OR transgène OR transgènes OR transgénique OR transgéniques)":1171,
+      "text:(genhomme OR genom* OR genome OR genomics OR génom* OR génomechaque OR génomes OR génomique OR génonme OR laprèsgénome)":31,
+      "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)":3554,
+      "text:(avort* OR avortement OR ivg OR lavortement OR livg)":28377},
+    "facet_fields":{
+      "domain":[
+        "chiennesdegarde.org",145972],
+      "crawl_year":[
+        "2002",145972],
+      "public_suffix":[
+        "org",145972],
+      "content_type_norm":[
+        "text",60278,
+        "html",58283,
+        "other",27264,
+        "image",147],
+      "status_code":[
+        "200",145972],
+      "host":[
+        "chiennesdegarde.org",145972]},
+    "facet_ranges":{},
+    "facet_intervals":{},
+    "facet_heatmaps":{}}}

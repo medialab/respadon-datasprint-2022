@@ -1,0 +1,70 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":12,
+    "params":{
+      "facet.query":["text:(genopole OR génopole OR généthon OR téléthon)",
+        "text:(bayer)",
+        "text:(bioethiqu* OR bioéthique OR bioéthiquecitoyenneté OR bioéthiques)",
+        "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)",
+        "text:(gene OR genes OR genetique* OR gène OR gènemédicament OR gènes OR génique OR génétique OR génétiquement OR génétiques OR monogéniques)",
+        "text:(chrétien OR chrétiennes OR diocèse OR diocèses OR eglises OR evangélique OR leglise OR léglise OR méthodiste OR pastorale OR église OR évangélique OR évêques)",
+        "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)",
+        "text:(dogm OR ogm OR organisme génétiquement modifié)",
+        "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)",
+        "text:(adn OR dadn OR ladn)",
+        "text:(\"esb\" OR vache folle OR vachefolle)",
+        "text:(deugénis* OR eugenis* OR eugénis* OR eugéniste OR eugénistes OR leugenis* OR leugénis*)",
+        "text:(cellulessouche OR souche OR souches)",
+        "text:(transgen* OR transgèn* OR transgène OR transgènes OR transgénique OR transgéniques)",
+        "text:(genhomme OR genom* OR genome OR genomics OR génom* OR génomechaque OR génomes OR génomique OR génonme OR laprèsgénome)",
+        "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)",
+        "text:(avort* OR avortement OR ivg OR lavortement OR livg)"],
+      "q":"url_search:\"http://noelmamere.eu.org\"*",
+      "rows":"0",
+      "facet":"on"}},
+  "response":{"numFound":16869,"start":0,"maxScore":45.178684,"docs":[]
+  },
+  "facet_counts":{
+    "facet_queries":{
+      "text:(genopole OR génopole OR généthon OR téléthon)":0,
+      "text:(bayer)":0,
+      "text:(bioethiqu* OR bioéthique OR bioéthiquecitoyenneté OR bioéthiques)":1764,
+      "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)":230,
+      "text:(gene OR genes OR genetique* OR gène OR gènemédicament OR gènes OR génique OR génétique OR génétiquement OR génétiques OR monogéniques)":1019,
+      "text:(chrétien OR chrétiennes OR diocèse OR diocèses OR eglises OR evangélique OR leglise OR léglise OR méthodiste OR pastorale OR église OR évangélique OR évêques)":52,
+      "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)":212,
+      "text:(dogm OR ogm OR organisme génétiquement modifié)":0,
+      "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)":2503,
+      "text:(adn OR dadn OR ladn)":54,
+      "text:(\"esb\" OR vache folle OR vachefolle)":606,
+      "text:(deugénis* OR eugenis* OR eugénis* OR eugéniste OR eugénistes OR leugenis* OR leugénis*)":48,
+      "text:(cellulessouche OR souche OR souches)":190,
+      "text:(transgen* OR transgèn* OR transgène OR transgènes OR transgénique OR transgéniques)":196,
+      "text:(genhomme OR genom* OR genome OR genomics OR génom* OR génomechaque OR génomes OR génomique OR génonme OR laprèsgénome)":108,
+      "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)":244,
+      "text:(avort* OR avortement OR ivg OR lavortement OR livg)":693},
+    "facet_fields":{
+      "domain":[
+        "eu.org",16866,
+        "free.fr",3],
+      "crawl_year":[
+        "2002",16863,
+        "2001",6],
+      "public_suffix":[
+        "org",16866,
+        "fr",3],
+      "content_type_norm":[
+        "html",12375,
+        "image",3728,
+        "other",459,
+        "pdf",177,
+        "text",130],
+      "status_code":[
+        "200",16869],
+      "host":[
+        "noelmamere.eu.org",16866,
+        "vertsmp.free.fr",3]},
+    "facet_ranges":{},
+    "facet_intervals":{},
+    "facet_heatmaps":{}}}

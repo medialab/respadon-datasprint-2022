@@ -1,0 +1,78 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":14,
+    "params":{
+      "facet.query":["text:(genopole OR génopole OR généthon OR téléthon)",
+        "text:(bayer)",
+        "text:(bioethiqu* OR bioéthique OR bioéthiquecitoyenneté OR bioéthiques)",
+        "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)",
+        "text:(gene OR genes OR genetique* OR gène OR gènemédicament OR gènes OR génique OR génétique OR génétiquement OR génétiques OR monogéniques)",
+        "text:(chrétien OR chrétiennes OR diocèse OR diocèses OR eglises OR evangélique OR leglise OR léglise OR méthodiste OR pastorale OR église OR évangélique OR évêques)",
+        "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)",
+        "text:(dogm OR ogm OR organisme génétiquement modifié)",
+        "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)",
+        "text:(adn OR dadn OR ladn)",
+        "text:(\"esb\" OR vache folle OR vachefolle)",
+        "text:(deugénis* OR eugenis* OR eugénis* OR eugéniste OR eugénistes OR leugenis* OR leugénis*)",
+        "text:(cellulessouche OR souche OR souches)",
+        "text:(transgen* OR transgèn* OR transgène OR transgènes OR transgénique OR transgéniques)",
+        "text:(genhomme OR genom* OR genome OR genomics OR génom* OR génomechaque OR génomes OR génomique OR génonme OR laprèsgénome)",
+        "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)",
+        "text:(avort* OR avortement OR ivg OR lavortement OR livg)"],
+      "q":"url_search:\"http://online.fr\"*",
+      "rows":"0",
+      "facet":"on"}},
+  "response":{"numFound":18114,"start":0,"maxScore":32.87259,"docs":[]
+  },
+  "facet_counts":{
+    "facet_queries":{
+      "text:(genopole OR génopole OR généthon OR téléthon)":4,
+      "text:(bayer)":24,
+      "text:(bioethiqu* OR bioéthique OR bioéthiquecitoyenneté OR bioéthiques)":4,
+      "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)":30,
+      "text:(gene OR genes OR genetique* OR gène OR gènemédicament OR gènes OR génique OR génétique OR génétiquement OR génétiques OR monogéniques)":118,
+      "text:(chrétien OR chrétiennes OR diocèse OR diocèses OR eglises OR evangélique OR leglise OR léglise OR méthodiste OR pastorale OR église OR évangélique OR évêques)":268,
+      "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)":24,
+      "text:(dogm OR ogm OR organisme génétiquement modifié)":0,
+      "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)":78,
+      "text:(adn OR dadn OR ladn)":12,
+      "text:(\"esb\" OR vache folle OR vachefolle)":232,
+      "text:(deugénis* OR eugenis* OR eugénis* OR eugéniste OR eugénistes OR leugenis* OR leugénis*)":48,
+      "text:(cellulessouche OR souche OR souches)":74,
+      "text:(transgen* OR transgèn* OR transgène OR transgènes OR transgénique OR transgéniques)":30,
+      "text:(genhomme OR genom* OR genome OR genomics OR génom* OR génomechaque OR génomes OR génomique OR génonme OR laprèsgénome)":24,
+      "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)":4,
+      "text:(avort* OR avortement OR ivg OR lavortement OR livg)":84},
+    "facet_fields":{
+      "domain":[
+        "online.fr",17941,
+        "9online.fr",151,
+        "topchretien.com",22],
+      "crawl_year":[
+        "2002",18114],
+      "public_suffix":[
+        "fr",18092,
+        "com",22],
+      "content_type_norm":[
+        "html",14100,
+        "image",3929,
+        "other",53,
+        "pdf",27,
+        "text",5],
+      "status_code":[
+        "200",18114],
+      "host":[
+        "solidariteetprogres.online.fr",9944,
+        "fn30.online.fr",1288,
+        "fn79.online.fr",240,
+        "pgerard-cesclattier.9online.fr",151,
+        "fn34.online.fr",147,
+        "fn22.online.fr",132,
+        "fn41.online.fr",126,
+        "lesmursdelaville.online.fr",121,
+        "fn47.online.fr",102,
+        "fn11.online.fr",99]},
+    "facet_ranges":{},
+    "facet_intervals":{},
+    "facet_heatmaps":{}}}

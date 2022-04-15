@@ -1,0 +1,78 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":69,
+    "params":{
+      "facet.query":["text:(genopole OR génopole OR généthon OR téléthon)",
+        "text:(bayer)",
+        "text:(bioethiqu* OR bioéthique OR bioéthiquecitoyenneté OR bioéthiques)",
+        "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)",
+        "text:(gene OR genes OR genetique* OR gène OR gènemédicament OR gènes OR génique OR génétique OR génétiquement OR génétiques OR monogéniques)",
+        "text:(chrétien OR chrétiennes OR diocèse OR diocèses OR eglises OR evangélique OR leglise OR léglise OR méthodiste OR pastorale OR église OR évangélique OR évêques)",
+        "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)",
+        "text:(dogm OR ogm OR organisme génétiquement modifié)",
+        "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)",
+        "text:(adn OR dadn OR ladn)",
+        "text:(\"esb\" OR vache folle OR vachefolle)",
+        "text:(deugénis* OR eugenis* OR eugénis* OR eugéniste OR eugénistes OR leugenis* OR leugénis*)",
+        "text:(cellulessouche OR souche OR souches)",
+        "text:(transgen* OR transgèn* OR transgène OR transgènes OR transgénique OR transgéniques)",
+        "text:(genhomme OR genom* OR genome OR genomics OR génom* OR génomechaque OR génomes OR génomique OR génonme OR laprèsgénome)",
+        "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)",
+        "text:(avort* OR avortement OR ivg OR lavortement OR livg)"],
+      "q":"url_search:\"http://lcr-rouge.org\"*",
+      "rows":"0",
+      "facet":"on"}},
+  "response":{"numFound":154485,"start":0,"maxScore":38.427628,"docs":[]
+  },
+  "facet_counts":{
+    "facet_queries":{
+      "text:(genopole OR génopole OR généthon OR téléthon)":54,
+      "text:(bayer)":56,
+      "text:(bioethiqu* OR bioéthique OR bioéthiquecitoyenneté OR bioéthiques)":54,
+      "text:(clon* OR clonage OR cloning OR cloné OR clonés OR clôn*)":392,
+      "text:(gene OR genes OR genetique* OR gène OR gènemédicament OR gènes OR génique OR génétique OR génétiquement OR génétiques OR monogéniques)":1460,
+      "text:(chrétien OR chrétiennes OR diocèse OR diocèses OR eglises OR evangélique OR leglise OR léglise OR méthodiste OR pastorale OR église OR évangélique OR évêques)":1667,
+      "text:(dembryons OR embryon* OR embryonnaire OR embryonnaires OR embryons OR lembryon OR lembryonest)":495,
+      "text:(dogm OR ogm OR organisme génétiquement modifié)":193,
+      "text:(brevet* OR brevetabiliser OR brevetabilite OR brevetabilité OR brevetable OR brevetablité OR brevetage OR breveter OR brevets)":1333,
+      "text:(adn OR dadn OR ladn)":108,
+      "text:(\"esb\" OR vache folle OR vachefolle)":2811,
+      "text:(deugénis* OR eugenis* OR eugénis* OR eugéniste OR eugénistes OR leugenis* OR leugénis*)":270,
+      "text:(cellulessouche OR souche OR souches)":222,
+      "text:(transgen* OR transgèn* OR transgène OR transgènes OR transgénique OR transgéniques)":1001,
+      "text:(genhomme OR genom* OR genome OR genomics OR génom* OR génomechaque OR génomes OR génomique OR génonme OR laprèsgénome)":245,
+      "text:(fécondation OR fécondé* OR gamèt* OR gamète OR implanté OR ovul* OR préimplantation OR préimplantatoire OR prénatal OR reproductif OR spermatozoïde OR vitro)":389,
+      "text:(avort* OR avortement OR ivg OR lavortement OR livg)":1920},
+    "facet_fields":{
+      "domain":[
+        "lcr-rouge.org",154479,
+        "chiracvsjospin.com",4,
+        "lycos.fr",2],
+      "crawl_year":[
+        "2002",153202,
+        "2000",744,
+        "2001",526,
+        "1996",8,
+        "1999",5],
+      "public_suffix":[
+        "org",154479,
+        "com",4,
+        "fr",2],
+      "content_type_norm":[
+        "html",133438,
+        "image",12591,
+        "text",3106,
+        "video",2070,
+        "pdf",2025,
+        "other",1240,
+        "audio",15],
+      "status_code":[
+        "200",154485],
+      "host":[
+        "lcr-rouge.org",154479,
+        "chiracvsjospin.com",4,
+        "membres.lycos.fr",2]},
+    "facet_ranges":{},
+    "facet_intervals":{},
+    "facet_heatmaps":{}}}

@@ -42,7 +42,6 @@ with open(
             "parti": tag["Parti"],
             "candidat": tag["Candidat"],
         }
-        new_tag = tag
         if tag["URL de départ"] in urls:
             new_tag = tag | urls[tag["URL de départ"]]
         urls[tag["URL de départ"]] = new_tag

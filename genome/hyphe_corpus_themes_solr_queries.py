@@ -53,9 +53,9 @@ with open(CORPUS_PATH, "r") as webs_f:
                 print(
                     f'missing http without www prefix in {web_entity["NAME"]} {web_entity["PREFIXES AS URL"]}'
                 )
-with open(
-    os.path.join(THEMES_DATA_PATH, "solr_webentities_themes_search_bodies.json"), "w"
-) as f:
-    json.dump(all_queries, f, indent=2)
+# with open(
+#     os.path.join(THEMES_DATA_PATH, "solr_webentities_themes_search_bodies.json"), "w"
+# ) as f:
+#     json.dump(all_queries, f, indent=2)
 with open(os.path.join(THEMES_DATA_PATH, "solr_webentities_themes_curl.sh"), "w") as f:
     f.write(";\n".join(curl_bash_script))

@@ -20,12 +20,16 @@ export const LAYERS: { path: string; year: string; graph: Graph | null }[] = [
   // { path: '/data/20220407/Covid_2020.gexf', year: '2020', graph: null },
   // { path: '/data/20220407/Covid_2022.gexf', year: '2022', graph: null },
   // 3. All data from today:
-  // { path: '/data/20220408/covid_2020.gexf', year: '2020', graph: null },
-  // { path: '/data/20220408/covid_2021.gexf', year: '2021', graph: null },
-  // { path: '/data/20220408/covid_2022.gexf', year: '2022', graph: null },
+   { path: '/data/20220408/covid_2020.gexf', year: '2020', graph: null },
+   { path: '/data/20220408/covid_2021.gexf', year: '2021', graph: null },
+   { path: '/data/20220408/covid_2022.gexf', year: '2022', graph: null },
   // 4. Today, 2 years, updated:
-  { path: '/data/20220408/covid_2020_latest.gexf', year: '2020', graph: null },
-  { path: '/data/20220408/covid_2021_latest.gexf', year: '2021', graph: null },
+  // { path: '/data/20220408/covid_2020_latest.gexf', year: '2020', graph: null },
+  // { path: '/data/20220408/covid_2021_latest.gexf', year: '2021', graph: null },
+  // 5. Later, 3 years, updated:
+  //{ path: '/data/20220415/covid_2020.gexf', year: '2020', graph: null },
+  //{ path: '/data/20220415/covid_2021.gexf', year: '2021', graph: null },
+  //{ path: '/data/20220415/covid_2022.gexf', year: '2021', graph: null },
 ];
 
 // 1, 2

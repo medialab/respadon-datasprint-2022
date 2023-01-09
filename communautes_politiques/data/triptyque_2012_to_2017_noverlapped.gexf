@@ -58,7 +58,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-1930.513845850579" y="4.49592812498301"/>
+        <viz:position x="-1930.513845850579" y="-4.49592812498301"/>
       </node>
       <node id="1" label="Alternatifs.org">
         <attvalues>
@@ -87,7 +87,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="16"/>
-        <viz:position x="-1899.128263097726" y="32.99208670688785"/>
+        <viz:position x="-1899.128263097726" y="-32.99208670688785"/>
       </node>
       <node id="2" label="M-Pep.org">
         <attvalues>
@@ -116,7 +116,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="17.2664991614216"/>
-        <viz:position x="-1973.0661128022318" y="10.180243921720248"/>
+        <viz:position x="-1973.0661128022318" y="-10.180243921720248"/>
       </node>
       <node id="3" label="Pcf-Gresivaudan.blogspot.com">
         <attvalues>
@@ -145,7 +145,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="8"/>
-        <viz:position x="-2009.2103652588664" y="24.501982075110774"/>
+        <viz:position x="-2009.2103652588664" y="-24.501982075110774"/>
       </node>
       <node id="4" label="mcvergiat.Over-Blog.com">
         <attvalues>
@@ -174,7 +174,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="-1934.3530073678062" y="-29.211697278396414"/>
+        <viz:position x="-1934.3530073678062" y="29.211697278396414"/>
       </node>
       <node id="5" label="Convergencesetalternative.org">
         <attvalues>
@@ -203,7 +203,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="14.583005244258363"/>
-        <viz:position x="-1885.3269444609705" y="-14.884588166286306"/>
+        <viz:position x="-1885.3269444609705" y="14.884588166286306"/>
       </node>
       <node id="6" label="danactu-resistance.Over-Blog.com">
         <attvalues>
@@ -232,7 +232,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="8"/>
-        <viz:position x="-1872.5507117197735" y="-115.51144355068645"/>
+        <viz:position x="-1872.5507117197735" y="115.51144355068645"/>
       </node>
       <node id="7" label="Lepartidelagauche.fr">
         <attvalues>
@@ -260,7 +260,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="4"/>
-        <viz:position x="-1767.4723484503202" y="-728.2242248748219"/>
+        <viz:position x="-1767.4723484503202" y="228.2242248748219"/>
       </node>
       <node id="8" label="Jacquesgenereux.fr">
         <attvalues>
@@ -289,7 +289,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="17.2664991614216"/>
-        <viz:position x="-1945.896170218867" y="53.571400984338055"/>
+        <viz:position x="-1945.896170218867" y="-53.571400984338055"/>
       </node>
       <node id="9" label="Olivier-Dartigolles.com">
         <attvalues>
@@ -318,7 +318,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-2003.0540697105566" y="-23.688561395230494"/>
+        <viz:position x="-2003.0540697105566" y="23.688561395230494"/>
       </node>
       <node id="10" label="Twitter.com /LePartideGauche">
         <attvalues>
@@ -347,7 +347,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="-1815.827757605825" y="-83.50436598186005"/>
+        <viz:position x="-1815.827757605825" y="83.50436598186005"/>
       </node>
       <node id="11" label="Romain-Jammes.fr">
         <attvalues>
@@ -376,7 +376,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="-1968.0514273845145" y="95.69450026928797"/>
+        <viz:position x="-1968.0514273845145" y="-95.69450026928797"/>
       </node>
       <node id="12" label="Eric-Coquerel.fr">
         <attvalues>
@@ -405,7 +405,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="15.313708498984761"/>
-        <viz:position x="-1885.6326287579695" y="79.04386326315696"/>
+        <viz:position x="-1885.6326287579695" y="-79.04386326315696"/>
       </node>
       <node id="13" label="Penseelibre.fr">
         <attvalues>
@@ -434,7 +434,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="18.42220510185596"/>
-        <viz:position x="-2005.6187282251026" y="65.07205585833532"/>
+        <viz:position x="-2005.6187282251026" y="-65.07205585833532"/>
       </node>
       <node id="14" label="Francoisdelapierre.fr">
         <attvalues>
@@ -463,7 +463,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="18.42220510185596"/>
-        <viz:position x="-1842.717847647543" y="39.290379813239554"/>
+        <viz:position x="-1842.717847647543" y="-39.290379813239554"/>
       </node>
       <node id="15" label="fatimabenomar.Wordpress.com">
         <attvalues>
@@ -492,7 +492,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="-1928.6039839702166" y="98.75379835588575"/>
+        <viz:position x="-1928.6039839702166" y="-98.75379835588575"/>
       </node>
       <node id="16" label="Blogfinel.com">
         <attvalues>
@@ -521,7 +521,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="13.797958971132712"/>
-        <viz:position x="-1838.4060417353578" y="-8.156413754427433"/>
+        <viz:position x="-1838.4060417353578" y="8.156413754427433"/>
       </node>
       <node id="17" label="Martine-Billard.fr">
         <attvalues>
@@ -550,7 +550,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="19.491933384829668"/>
-        <viz:position x="-1930.3991119352227" y="50.01132493713649"/>
+        <viz:position x="-1930.3991119352227" y="-50.01132493713649"/>
       </node>
       <node id="18" label="Despasperdus.com">
         <attvalues>
@@ -579,7 +579,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="17.856406460551018"/>
-        <viz:position x="-2061.0472812119506" y="73.40609577532152"/>
+        <viz:position x="-2061.0472812119506" y="-73.40609577532152"/>
       </node>
       <node id="19" label="Dynamique-Frontdegauche.fr">
         <attvalues>
@@ -608,7 +608,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12"/>
-        <viz:position x="-1979.1633278011718" y="28.871282569375808"/>
+        <viz:position x="-1979.1633278011718" y="-28.871282569375808"/>
       </node>
       <node id="20" label="andrechassaigne.Over-Blog.com">
         <attvalues>
@@ -637,7 +637,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-2032.5639601128992" y="0.8701729254407695"/>
+        <viz:position x="-2032.5639601128992" y="-0.8701729254407695"/>
       </node>
       <node id="21" label="Lutopick.fr">
         <attvalues>
@@ -665,7 +665,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12"/>
-        <viz:position x="-1988.3347262949796" y="130.38695489386294"/>
+        <viz:position x="-1988.3347262949796" y="-130.38695489386294"/>
       </node>
       <node id="22" label="longerinas.Typepad.fr">
         <attvalues>
@@ -694,7 +694,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="-1970.0901411296927" y="-42.68216405074812"/>
+        <viz:position x="-1970.0901411296927" y="42.68216405074812"/>
       </node>
       <node id="23" label="lecridupeuple.Wordpress.com">
         <attvalues>
@@ -723,7 +723,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="16.64911064067352"/>
-        <viz:position x="-2069.8004610290077" y="22.249913508052188"/>
+        <viz:position x="-2069.8004610290077" y="-22.249913508052188"/>
       </node>
       <node id="24" label="Marc-Dolez.net">
         <attvalues>
@@ -752,7 +752,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12"/>
-        <viz:position x="-1985.935800230614" y="67.60029400754914"/>
+        <viz:position x="-1985.935800230614" y="-67.60029400754914"/>
       </node>
       <node id="25" label="Jackyhenin.fr">
         <attvalues>
@@ -781,7 +781,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12"/>
-        <viz:position x="-2049.13480098734" y="-31.670880244074304"/>
+        <viz:position x="-2049.13480098734" y="31.670880244074304"/>
       </node>
       <node id="26" label="Yetiblog.org">
         <attvalues>
@@ -810,7 +810,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="-2105.6360112211864" y="47.84427097380873"/>
+        <viz:position x="-2105.6360112211864" y="-47.84427097380873"/>
       </node>
       <node id="27" label="Lariposte.com">
         <attvalues>
@@ -839,7 +839,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="-1967.66829897345" y="-84.9729907037084"/>
+        <viz:position x="-1967.66829897345" y="84.9729907037084"/>
       </node>
       <node id="28" label="European-Left.org">
         <attvalues>
@@ -868,7 +868,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="14.583005244258363"/>
-        <viz:position x="-1908.861924274367" y="-61.08434742327308"/>
+        <viz:position x="-1908.861924274367" y="61.08434742327308"/>
       </node>
       <node id="29" label="Lhumaindabord2012.fr">
         <attvalues>
@@ -897,7 +897,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="-1864.4098723845389" y="-54.9349577534194"/>
+        <viz:position x="-1864.4098723845389" y="54.9349577534194"/>
       </node>
       <node id="30" label="Lagaucheparlexemple.fr">
         <attvalues>
@@ -926,7 +926,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="13.797958971132712"/>
-        <viz:position x="-1801.73743022107" y="14.824179438506391"/>
+        <viz:position x="-1801.73743022107" y="-14.824179438506391"/>
       </node>
       <node id="31" label="Lepartidegauche45.com">
         <attvalues>
@@ -955,7 +955,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12"/>
-        <viz:position x="-1805.628357552983" y="-32.1278721031178"/>
+        <viz:position x="-1805.628357552983" y="32.1278721031178"/>
       </node>
       <node id="32" label="Frontdegauche-Alters.fr">
         <attvalues>
@@ -984,7 +984,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="13.797958971132712"/>
-        <viz:position x="-1833.358874803485" y="91.71958160099382"/>
+        <viz:position x="-1833.358874803485" y="-91.71958160099382"/>
       </node>
       <node id="33" label="Pascale-Le-Neouannic.fr">
         <attvalues>
@@ -1013,7 +1013,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="17.2664991614216"/>
-        <viz:position x="-1876.9486575844594" y="126.03606911520751"/>
+        <viz:position x="-1876.9486575844594" y="-126.03606911520751"/>
       </node>
       <node id="34" label="Gauchemip.org">
         <attvalues>
@@ -1042,7 +1042,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="-1924.8478932860428" y="-6.010741322001792"/>
+        <viz:position x="-1924.8478932860428" y="6.010741322001792"/>
       </node>
       <node id="35" label="57Lepartidegauche.fr">
         <attvalues>
@@ -1071,7 +1071,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="-1830.3721100608877" y="-54.95429320480955"/>
+        <viz:position x="-1830.3721100608877" y="54.95429320480955"/>
       </node>
       <node id="36" label="Christophe-Miqueu.fr">
         <attvalues>
@@ -1100,7 +1100,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-1939.2917320791908" y="137.17267529200166"/>
+        <viz:position x="-1939.2917320791908" y="-137.17267529200166"/>
       </node>
       <node id="37" label="legavroche.Wordpress.com">
         <attvalues>
@@ -1129,7 +1129,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12"/>
-        <viz:position x="-1917.0946325850718" y="112.93476623883888"/>
+        <viz:position x="-1917.0946325850718" y="-112.93476623883888"/>
       </node>
       <node id="38" label="Patricklehyaric.net">
         <attvalues>
@@ -1158,7 +1158,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="17.856406460551018"/>
-        <viz:position x="-2013.7538896893589" y="-66.5922911660613"/>
+        <viz:position x="-2013.7538896893589" y="66.5922911660613"/>
       </node>
       <node id="39" label="Audit-Citoyen.org">
         <attvalues>
@@ -1187,7 +1187,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="16"/>
-        <viz:position x="-1950.0734463952576" y="-44.51806004503122"/>
+        <viz:position x="-1950.0734463952576" y="44.51806004503122"/>
       </node>
       <node id="40" label="Pcf-Pg-Paris.org">
         <attvalues>
@@ -1216,7 +1216,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12"/>
-        <viz:position x="-1871.364906269133" y="5.241263739279077"/>
+        <viz:position x="-1871.364906269133" y="-5.241263739279077"/>
       </node>
       <node id="41" label="cassetoi-vlp.Over-Blog.com">
         <attvalues>
@@ -1245,7 +1245,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12"/>
-        <viz:position x="-2033.1258647317968" y="113.23620490296955"/>
+        <viz:position x="-2033.1258647317968" y="-113.23620490296955"/>
       </node>
       <node id="42" label="Francoisasensi.com">
         <attvalues>
@@ -1274,7 +1274,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12"/>
-        <viz:position x="-1760.901977536514" y="15.771053884751367"/>
+        <viz:position x="-1760.901977536514" y="-15.771053884751367"/>
       </node>
       <node id="43" label="ianbrossat.Typepad.fr">
         <attvalues>
@@ -1303,7 +1303,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12"/>
-        <viz:position x="-2001.0910609117573" y="108.5064875026356"/>
+        <viz:position x="-2001.0910609117573" y="-108.5064875026356"/>
       </node>
       <node id="44" label="Partageux.blogspot.com">
         <attvalues>
@@ -1332,7 +1332,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="14.583005244258363"/>
-        <viz:position x="-2105.222754287543" y="97.58891413761916"/>
+        <viz:position x="-2105.222754287543" y="-97.58891413761916"/>
       </node>
       <node id="45" label="Agauchepourdevrai.fr">
         <attvalues>
@@ -1361,7 +1361,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="14.583005244258363"/>
-        <viz:position x="-2149.0657394229593" y="57.71762765978866"/>
+        <viz:position x="-2149.0657394229593" y="-57.71762765978866"/>
       </node>
       <node id="46" label="letang-moderne.Over-Blog.com">
         <attvalues>
@@ -1390,7 +1390,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12.94427190999916"/>
-        <viz:position x="-2024.163575576364" y="77.66403839213677"/>
+        <viz:position x="-2024.163575576364" y="-77.66403839213677"/>
       </node>
       <node id="47" label="Gauchedecombat.com">
         <attvalues>
@@ -1419,7 +1419,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="17.856406460551018"/>
-        <viz:position x="-2074.6773941355104" y="136.46488523675407"/>
+        <viz:position x="-2074.6773941355104" y="-136.46488523675407"/>
       </node>
       <node id="48" label="lepartidegauche23.Over-Blog.fr">
         <attvalues>
@@ -1448,7 +1448,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="-1768.947571864886" y="-18.654131603546347"/>
+        <viz:position x="-1768.947571864886" y="18.654131603546347"/>
       </node>
       <node id="49" label="jeunesfg37.Over-Blog.fr">
         <attvalues>
@@ -1476,7 +1476,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="-1911.4737960764182" y="157.2266586547022"/>
+        <viz:position x="-1911.4737960764182" y="-157.2266586547022"/>
       </node>
       <node id="50" label="cafemusique.Wordpress.com">
         <attvalues>
@@ -1505,7 +1505,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12"/>
-        <viz:position x="-2129.3948321463076" y="10.779233698908271"/>
+        <viz:position x="-2129.3948321463076" y="-10.779233698908271"/>
       </node>
       <node id="51" label="Lheninois.com">
         <attvalues>
@@ -1534,7 +1534,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12"/>
-        <viz:position x="-2090.2830480956154" y="-20.596832948364693"/>
+        <viz:position x="-2090.2830480956154" y="20.596832948364693"/>
       </node>
       <node id="52" label="partidegauche66.Over-Blog.fr">
         <attvalues>
@@ -1563,7 +1563,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-1794.9977462177285" y="-0.3676540274346394"/>
+        <viz:position x="-1794.9977462177285" y="0.3676540274346394"/>
       </node>
       <node id="53" label="marc-dolez.Over-Blog.fr">
         <attvalues>
@@ -1592,7 +1592,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="-1939.9506208726384" y="175.14366542290355"/>
+        <viz:position x="-1939.9506208726384" y="-175.14366542290355"/>
       </node>
       <node id="54" label="reveilcommuniste.Over-Blog.fr">
         <attvalues>
@@ -1621,7 +1621,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-1998.363227546571" y="-110.46402115410028"/>
+        <viz:position x="-1998.363227546571" y="110.46402115410028"/>
       </node>
       <node id="55" label="pg51.Over-Blog.fr">
         <attvalues>
@@ -1650,7 +1650,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-1733.6646677812705" y="-14.318284509305215"/>
+        <viz:position x="-1733.6646677812705" y="14.318284509305215"/>
       </node>
       <node id="56" label="Bab007-Babelouest.blogspot.fr">
         <attvalues>
@@ -1679,7 +1679,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12"/>
-        <viz:position x="-2169.410727634325" y="11.111363555721368"/>
+        <viz:position x="-2169.410727634325" y="-11.111363555721368"/>
       </node>
       <node id="57" label="adsblog.Unblog.fr">
         <attvalues>
@@ -1708,7 +1708,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="8"/>
-        <viz:position x="-1794.925008086816" y="51.403375133241866"/>
+        <viz:position x="-1794.925008086816" y="-51.403375133241866"/>
       </node>
       <node id="58" label="jeanlouisberland.Unblog.fr">
         <attvalues>
@@ -1737,7 +1737,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="9.65685424949238"/>
-        <viz:position x="-1844.8491464960625" y="-27.525881216331044"/>
+        <viz:position x="-1844.8491464960625" y="27.525881216331044"/>
       </node>
       <node id="59" label="atoucoeur.Unblog.fr">
         <attvalues>
@@ -1766,7 +1766,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="8"/>
-        <viz:position x="-1932.6688280708372" y="-94.01957781080799"/>
+        <viz:position x="-1932.6688280708372" y="94.01957781080799"/>
       </node>
       <node id="60" label="communistefeigniesunblogfr.Unblog.fr">
         <attvalues>
@@ -1795,7 +1795,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-2036.2111993606586" y="42.17028787860792"/>
+        <viz:position x="-2036.2111993606586" y="-42.17028787860792"/>
       </node>
       <node id="61" label="pcfmaubeuge.Unblog.fr">
         <attvalues>
@@ -1824,7 +1824,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="10.928203230275509"/>
-        <viz:position x="-2078.09404020876" y="-60.10289423327259"/>
+        <viz:position x="-2078.09404020876" y="60.10289423327259"/>
       </node>
       <node id="62" label="Twitter.com /Auditcitoyen">
         <attvalues>
@@ -1853,7 +1853,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="8"/>
-        <viz:position x="-1934.8142960208072" y="-81.06456961955973"/>
+        <viz:position x="-1934.8142960208072" y="81.06456961955973"/>
       </node>
       <node id="63" label="autonpourprinten.Skyrock.com">
         <attvalues>
@@ -1882,7 +1882,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="8"/>
-        <viz:position x="-1894.8172756173935" y="-96.9420443300294"/>
+        <viz:position x="-1894.8172756173935" y="96.9420443300294"/>
       </node>
       <node id="64" label="lepartidegauche81.Blog.fr">
         <attvalues>
@@ -1911,7 +1911,7 @@
         </attvalues>
         <viz:color r="201" g="43" b="8"/>
         <viz:size value="12"/>
-        <viz:position x="-1751.5611124971979" y="-51.47979443320452"/>
+        <viz:position x="-1751.5611124971979" y="51.47979443320452"/>
       </node>
       <node id="65" label="Lafederation.org">
         <attvalues>
@@ -1940,7 +1940,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="9"/>
-        <viz:position x="-1329.0044400150023" y="2.516908868823535"/>
+        <viz:position x="-1329.0044400150023" y="-2.516908868823535"/>
       </node>
       <node id="66" label="Pcf.fr">
         <attvalues>
@@ -1969,7 +1969,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="16.41640786499874"/>
-        <viz:position x="-1294.6756228637198" y="-17.40320974179305"/>
+        <viz:position x="-1294.6756228637198" y="17.40320974179305"/>
       </node>
       <node id="67" label="Placeaupeuple2012.fr">
         <attvalues>
@@ -1998,7 +1998,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="11.485281374238571"/>
-        <viz:position x="-1296.2935603326075" y="30.038315171130336"/>
+        <viz:position x="-1296.2935603326075" y="-30.038315171130336"/>
       </node>
       <node id="68" label="Lepartidegauche.fr">
         <attvalues>
@@ -2027,7 +2027,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="16.076696830622023"/>
-        <viz:position x="-1341.3373896039584" y="42.525078066018324"/>
+        <viz:position x="-1341.3373896039584" y="-42.525078066018324"/>
       </node>
       <node id="69" label="Gauche-Unitaire.fr">
         <attvalues>
@@ -2056,7 +2056,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="9.70820393249937"/>
-        <viz:position x="-1365.1821970256085" y="-8.22234866670702"/>
+        <viz:position x="-1365.1821970256085" y="8.22234866670702"/>
       </node>
       <node id="70" label="Jean-Luc-Melenchon.fr">
         <attvalues>
@@ -2085,7 +2085,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="16.076696830622023"/>
-        <viz:position x="-1250.1954885309442" y="7.711802446249678"/>
+        <viz:position x="-1250.1954885309442" y="-7.711802446249678"/>
       </node>
       <node id="71" label="Communistesunitaires.net">
         <attvalues>
@@ -2114,7 +2114,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="9"/>
-        <viz:position x="-1374.5215275052005" y="22.778671605985025"/>
+        <viz:position x="-1374.5215275052005" y="-22.778671605985025"/>
       </node>
       <node id="72" label="Clementineautain.fr">
         <attvalues>
@@ -2143,7 +2143,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="9"/>
-        <viz:position x="-1338.249957743474" y="-29.818973677608668"/>
+        <viz:position x="-1338.249957743474" y="29.818973677608668"/>
       </node>
       <node id="73" label="Jeunes-Communistes.org">
         <attvalues>
@@ -2172,7 +2172,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="9.70820393249937"/>
-        <viz:position x="-1328.6285751866308" y="-59.59848448153461"/>
+        <viz:position x="-1328.6285751866308" y="59.59848448153461"/>
       </node>
       <node id="74" label="Gabrielperi.fr">
         <attvalues>
@@ -2200,7 +2200,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-1401.0618402338537" y="-7.177057795926771"/>
+        <viz:position x="-1401.0618402338537" y="7.177057795926771"/>
       </node>
       <node id="75" label="Groupe-Crc.org">
         <attvalues>
@@ -2229,7 +2229,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="10.348469228349533"/>
-        <viz:position x="-1255.862822199232" y="-34.22055107617813"/>
+        <viz:position x="-1255.862822199232" y="34.22055107617813"/>
       </node>
       <node id="76" label="Pierrelaurent.org">
         <attvalues>
@@ -2258,7 +2258,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="10.348469228349533"/>
-        <viz:position x="-1210.9697889967485" y="-15.382757375512227"/>
+        <viz:position x="-1210.9697889967485" y="15.382757375512227"/>
       </node>
       <node id="77" label="Guengl.eu">
         <attvalues>
@@ -2287,7 +2287,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="10.348469228349533"/>
-        <viz:position x="-1285.4911806122586" y="-59.90887474353095"/>
+        <viz:position x="-1285.4911806122586" y="59.90887474353095"/>
       </node>
       <node id="78" label="Republiqueetsocialisme.fr">
         <attvalues>
@@ -2316,7 +2316,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-1225.6088749387661" y="-44.88568938138062"/>
+        <viz:position x="-1225.6088749387661" y="44.88568938138062"/>
       </node>
       <node id="79" label="Alexis-Corbiere.com">
         <attvalues>
@@ -2345,7 +2345,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="9"/>
-        <viz:position x="-1266.2257040146587" y="48.433030353435896"/>
+        <viz:position x="-1266.2257040146587" y="-48.433030353435896"/>
       </node>
       <node id="80" label="Facebook.com /events">
         <attvalues>
@@ -2373,7 +2373,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="14.618950038622252"/>
-        <viz:position x="-1370.0105357408547" y="-53.80608453456715"/>
+        <viz:position x="-1370.0105357408547" y="53.80608453456715"/>
       </node>
       <node id="81" label="Bruno-Leprince.fr">
         <attvalues>
@@ -2400,7 +2400,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-1298.6222035616192" y="66.16701530927347"/>
+        <viz:position x="-1298.6222035616192" y="-66.16701530927347"/>
       </node>
       <node id="82" label="Daniellesimonnet.fr">
         <attvalues>
@@ -2429,7 +2429,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-1321.3144543266465" y="11.99746944045485"/>
+        <viz:position x="-1321.3144543266465" y="-11.99746944045485"/>
       </node>
       <node id="83" label="Jean-Jaures.org">
         <attvalues>
@@ -2456,7 +2456,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="9"/>
-        <viz:position x="-1404.7202306156064" y="-38.60877780593079"/>
+        <viz:position x="-1404.7202306156064" y="38.60877780593079"/>
       </node>
       <node id="84" label="Frontdegauche-Pcfguac-Idf.org">
         <attvalues>
@@ -2485,7 +2485,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="7.242640687119285"/>
-        <viz:position x="-1428.9773230830747" y="-59.337813951684076"/>
+        <viz:position x="-1428.9773230830747" y="59.337813951684076"/>
       </node>
       <node id="85" label="Cerisesenligne.fr">
         <attvalues>
@@ -2514,7 +2514,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="9.70820393249937"/>
-        <viz:position x="-1408.660979986555" y="23.843553688094346"/>
+        <viz:position x="-1408.660979986555" y="-23.843553688094346"/>
       </node>
       <node id="86" label="Raquel-Garrido.net">
         <attvalues>
@@ -2543,7 +2543,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-1325.7469789371107" y="79.21634776603287"/>
+        <viz:position x="-1325.7469789371107" y="-79.21634776603287"/>
       </node>
       <node id="87" label="Twitter.com /alexiscorbiere">
         <attvalues>
@@ -2572,7 +2572,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="12.9498743710662"/>
-        <viz:position x="-1215.7052356967088" y="42.25463750649709"/>
+        <viz:position x="-1215.7052356967088" y="-42.25463750649709"/>
       </node>
       <node id="88" label="Gabrielamard.fr">
         <attvalues>
@@ -2601,7 +2601,7 @@
         </attvalues>
         <viz:color r="79" g="99" b="203"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-1242.6414648341251" y="66.74845995464463"/>
+        <viz:position x="-1242.6414648341251" y="-66.74845995464463"/>
       </node>
       <node id="89" label="Frontdegauche.eu">
         <attvalues>
@@ -2630,7 +2630,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="10.937253933193773"/>
-        <viz:position x="-758.5279751077283" y="13.946104415858457"/>
+        <viz:position x="-758.5279751077283" y="-13.946104415858457"/>
       </node>
       <node id="90" label="Placeaupeuple.fr">
         <attvalues>
@@ -2659,7 +2659,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="10.348469228349533"/>
-        <viz:position x="-714.3318366278542" y="12.974677015467591"/>
+        <viz:position x="-714.3318366278542" y="-12.974677015467591"/>
       </node>
       <node id="91" label="Frontdegauche-Europe.fr">
         <attvalues>
@@ -2688,7 +2688,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-736.8992765353386" y="39.64348198505246"/>
+        <viz:position x="-736.8992765353386" y="-39.64348198505246"/>
       </node>
       <node id="92" label="Convergencesetalternative.blogspot.fr">
         <attvalues>
@@ -2717,7 +2717,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="6"/>
-        <viz:position x="-735.1795466047661" y="-7.8482741798945455"/>
+        <viz:position x="-735.1795466047661" y="7.8482741798945455"/>
       </node>
       <node id="93" label="Eurocitoyenne.fr">
         <attvalues>
@@ -2746,7 +2746,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9.70820393249937"/>
-        <viz:position x="-768.3086449639113" y="49.10706009673257"/>
+        <viz:position x="-768.3086449639113" y="-49.10706009673257"/>
       </node>
       <node id="94" label="Melenchon.fr">
         <attvalues>
@@ -2775,7 +2775,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="16.74772708486752"/>
-        <viz:position x="-672.0991161627057" y="6.948205572307415"/>
+        <viz:position x="-672.0991161627057" y="-6.948205572307415"/>
       </node>
       <node id="95" label="Ensemble-Fdg.org">
         <attvalues>
@@ -2804,7 +2804,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="11.485281374238571"/>
-        <viz:position x="-718.1739649605472" y="-34.134053064801265"/>
+        <viz:position x="-718.1739649605472" y="34.134053064801265"/>
       </node>
       <node id="96" label="Antoineleaument.fr">
         <attvalues>
@@ -2833,7 +2833,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="7.242640687119285"/>
-        <viz:position x="-686.7543661338151" y="-27.4384624691736"/>
+        <viz:position x="-686.7543661338151" y="27.4384624691736"/>
       </node>
       <node id="97" label="Marxiste.org">
         <attvalues>
@@ -2862,7 +2862,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-711.4116717772738" y="-9.437668744948724"/>
+        <viz:position x="-711.4116717772738" y="9.437668744948724"/>
       </node>
       <node id="98" label="Youtube.com /.../PlaceauPeuple">
         <attvalues>
@@ -2891,7 +2891,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="12"/>
-        <viz:position x="-681.3827932763115" y="49.991222205929375"/>
+        <viz:position x="-681.3827932763115" y="-49.991222205929375"/>
       </node>
       <node id="99" label="Jlm2017.fr">
         <attvalues>
@@ -2920,7 +2920,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="15.727922061357855"/>
-        <viz:position x="-717.2266300909994" y="71.23494965296939"/>
+        <viz:position x="-717.2266300909994" y="-71.23494965296939"/>
       </node>
       <node id="100" label="Insoumis.online">
         <attvalues>
@@ -2949,7 +2949,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="7.242640687119285"/>
-        <viz:position x="-710.3573269429799" y="34.74051280202565"/>
+        <viz:position x="-710.3573269429799" y="-34.74051280202565"/>
       </node>
       <node id="101" label="Laec.fr">
         <attvalues>
@@ -2978,7 +2978,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="10.937253933193773"/>
-        <viz:position x="-628.8470388249682" y="22.921743715873518"/>
+        <viz:position x="-628.8470388249682" y="-22.921743715873518"/>
       </node>
       <node id="102" label="Gaucherevolutionnaire.fr">
         <attvalues>
@@ -3007,7 +3007,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="6"/>
-        <viz:position x="-949.0384496295476" y="60.41390008893967"/>
+        <viz:position x="-949.0384496295476" y="-60.41390008893967"/>
       </node>
       <node id="103" label="Initiative-Communiste.fr">
         <attvalues>
@@ -3036,7 +3036,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="7.242640687119285"/>
-        <viz:position x="-661.9792063035616" y="-38.84300275808666"/>
+        <viz:position x="-661.9792063035616" y="38.84300275808666"/>
       </node>
       <node id="104" label="fraternitecitoyenne.Blog4Ever.com">
         <attvalues>
@@ -3065,7 +3065,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="3"/>
-        <viz:position x="-115.73814541965851" y="471.27027234797106"/>
+        <viz:position x="-115.73814541965851" y="-171.27027234797106"/>
       </node>
       <node id="105" label="Etudiants-Communistes.org">
         <attvalues>
@@ -3094,7 +3094,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9.70820393249937"/>
-        <viz:position x="-727.8609243695917" y="-68.29555005596782"/>
+        <viz:position x="-727.8609243695917" y="68.29555005596782"/>
       </node>
       <node id="106" label="Frontdegauche.fr">
         <attvalues>
@@ -3123,7 +3123,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9"/>
-        <viz:position x="-771.9586464191738" y="-19.667043266046434"/>
+        <viz:position x="-771.9586464191738" y="19.667043266046434"/>
       </node>
       <node id="107" label="Pcf-Gresivaudan.blogspot.fr">
         <attvalues>
@@ -3152,7 +3152,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="3"/>
-        <viz:position x="-747.420627218252" y="-24.99927993072707"/>
+        <viz:position x="-747.420627218252" y="24.99927993072707"/>
       </node>
       <node id="108" label="Twitter.com /LePG">
         <attvalues>
@@ -3181,7 +3181,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="12.48683298050514"/>
-        <viz:position x="-629.4735484082416" y="-38.11352426000997"/>
+        <viz:position x="-629.4735484082416" y="38.11352426000997"/>
       </node>
       <node id="109" label="Twitter.com /cmoreldarleux">
         <attvalues>
@@ -3210,7 +3210,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="12"/>
-        <viz:position x="-677.4093066312537" y="-68.9137218285824"/>
+        <viz:position x="-677.4093066312537" y="68.9137218285824"/>
       </node>
       <node id="110" label="Twitter.com /ericcoquerel">
         <attvalues>
@@ -3239,7 +3239,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="16.41640786499874"/>
-        <viz:position x="-601.4876804196847" y="-74.45158948423608"/>
+        <viz:position x="-601.4876804196847" y="74.45158948423608"/>
       </node>
       <node id="111" label="Mouvement6Erepublique.fr">
         <attvalues>
@@ -3268,7 +3268,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9.70820393249937"/>
-        <viz:position x="-756.7405199413417" y="-47.549531450263565"/>
+        <viz:position x="-756.7405199413417" y="47.549531450263565"/>
       </node>
       <node id="112" label="Facebook.com /JLMelenchon">
         <attvalues>
@@ -3297,7 +3297,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="14.618950038622252"/>
-        <viz:position x="-764.7754746556279" y="89.77769868798029"/>
+        <viz:position x="-764.7754746556279" y="-89.77769868798029"/>
       </node>
       <node id="113" label="plus.Google.com /+JLMelenchon">
         <attvalues>
@@ -3326,7 +3326,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="11.485281374238571"/>
-        <viz:position x="-675.6502919717497" y="89.86895383422316"/>
+        <viz:position x="-675.6502919717497" y="-89.86895383422316"/>
       </node>
       <node id="114" label="Linkedin.com /.../jlmelenchon">
         <attvalues>
@@ -3355,7 +3355,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-796.1062736263378" y="35.12972827722817"/>
+        <viz:position x="-796.1062736263378" y="-35.12972827722817"/>
       </node>
       <node id="115" label="Twitter.com /JLMelenchon">
         <attvalues>
@@ -3384,7 +3384,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="22.209372712298546"/>
-        <viz:position x="-589.626761401797" y="-8.366392664363957"/>
+        <viz:position x="-589.626761401797" y="8.366392664363957"/>
       </node>
       <node id="116" label="Lafranceinsoumise.fr">
         <attvalues>
@@ -3413,7 +3413,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="12.48683298050514"/>
-        <viz:position x="-599.7775670633819" y="51.252937137109484"/>
+        <viz:position x="-599.7775670633819" y="-51.252937137109484"/>
       </node>
       <node id="117" label="18Mars2017.fr">
         <attvalues>
@@ -3442,7 +3442,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9.70820393249937"/>
-        <viz:position x="-646.1096080709477" y="56.05692722373533"/>
+        <viz:position x="-646.1096080709477" y="-56.05692722373533"/>
       </node>
       <node id="118" label="Younousomarjee.eu">
         <attvalues>
@@ -3471,7 +3471,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-954.2393794457544" y="93.05781990592925"/>
+        <viz:position x="-954.2393794457544" y="-93.05781990592925"/>
       </node>
       <node id="119" label="Twitter.com /Ensemble_FdG">
         <attvalues>
@@ -3500,7 +3500,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-648.5610160778708" y="-87.65995347107886"/>
+        <viz:position x="-648.5610160778708" y="87.65995347107886"/>
       </node>
       <node id="120" label="Twitter.com /LaurencePache">
         <attvalues>
@@ -3529,7 +3529,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="12.48683298050514"/>
-        <viz:position x="-559.4337873143605" y="-50.828373868517076"/>
+        <viz:position x="-559.4337873143605" y="50.828373868517076"/>
       </node>
       <node id="121" label="Twitter.com /slegrain75">
         <attvalues>
@@ -3558,7 +3558,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9.70820393249937"/>
-        <viz:position x="-706.1968286195704" y="-94.30209023945103"/>
+        <viz:position x="-706.1968286195704" y="94.30209023945103"/>
       </node>
       <node id="122" label="Twitter.com /patricklehyaric">
         <attvalues>
@@ -3587,7 +3587,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-801.3874097641134" y="-6.144861834024397"/>
+        <viz:position x="-801.3874097641134" y="6.144861834024397"/>
       </node>
       <node id="123" label="Facebook.com /lehyaric">
         <attvalues>
@@ -3616,7 +3616,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9"/>
-        <viz:position x="-820.6563646970876" y="17.47431277465789"/>
+        <viz:position x="-820.6563646970876" y="-17.47431277465789"/>
       </node>
       <node id="124" label="Twitter.com /gabrielamard">
         <attvalues>
@@ -3645,7 +3645,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-542.4889742352077" y="-21.424369807062234"/>
+        <viz:position x="-542.4889742352077" y="21.424369807062234"/>
       </node>
       <node id="125" label="Patrick-Le-Hyaric.fr">
         <attvalues>
@@ -3674,7 +3674,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="10.348469228349533"/>
-        <viz:position x="-773.6808316453044" y="-77.94885089041396"/>
+        <viz:position x="-773.6808316453044" y="77.94885089041396"/>
       </node>
       <node id="126" label="Avenirencommun.fr">
         <attvalues>
@@ -3703,7 +3703,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="13.816653826391969"/>
-        <viz:position x="-629.0121574512586" y="88.77547779093126"/>
+        <viz:position x="-629.0121574512586" y="-88.77547779093126"/>
       </node>
       <node id="127" label="Twitter.com /jlmelenchon">
         <attvalues>
@@ -3732,7 +3732,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9"/>
-        <viz:position x="-698.5412170690298" y="-60.06401872254147"/>
+        <viz:position x="-698.5412170690298" y="60.06401872254147"/>
       </node>
       <node id="128" label="Twitter.com /Action_Insoumis">
         <attvalues>
@@ -3761,7 +3761,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="10.348469228349533"/>
-        <viz:position x="-563.4136168062773" y="-93.5664735028378"/>
+        <viz:position x="-563.4136168062773" y="93.5664735028378"/>
       </node>
       <node id="129" label="Nationbuilder.com">
         <attvalues>
@@ -3789,7 +3789,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-646.1198384691071" y="121.90912673915892"/>
+        <viz:position x="-646.1198384691071" y="-121.90912673915892"/>
       </node>
       <node id="130" label="Twitter.com /PCF">
         <attvalues>
@@ -3818,7 +3818,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="12.9498743710662"/>
-        <viz:position x="-693.3523591226508" y="-131.39173162048536"/>
+        <viz:position x="-693.3523591226508" y="131.39173162048536"/>
       </node>
       <node id="131" label="Twitter.com /Francois_Ruffin">
         <attvalues>
@@ -3847,7 +3847,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="13.816653826391969"/>
-        <viz:position x="-617.4178426094013" y="-121.90672082591516"/>
+        <viz:position x="-617.4178426094013" y="121.90672082591516"/>
       </node>
       <node id="132" label="Fondation-Copernic.org">
         <attvalues>
@@ -3876,7 +3876,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="10.937253933193773"/>
-        <viz:position x="-831.6071874947271" y="48.966494434246414"/>
+        <viz:position x="-831.6071874947271" y="-48.966494434246414"/>
       </node>
       <node id="133" label="Twitter.com /Simonnet2">
         <attvalues>
@@ -3905,7 +3905,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="14.618950038622252"/>
-        <viz:position x="-528.2028370296849" y="-77.19717242963011"/>
+        <viz:position x="-528.2028370296849" y="77.19717242963011"/>
       </node>
       <node id="134" label="Melenphone.fr">
         <attvalues>
@@ -3934,7 +3934,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-563.2218991447726" y="41.039470884219014"/>
+        <viz:position x="-563.2218991447726" y="-41.039470884219014"/>
       </node>
       <node id="135" label="Christian-Picquet.fr">
         <attvalues>
@@ -3963,7 +3963,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9"/>
-        <viz:position x="-857.5383823169775" y="26.234755661980472"/>
+        <viz:position x="-857.5383823169775" y="-26.234755661980472"/>
       </node>
       <node id="136" label="Patrick-Le-Hyaric.eu">
         <attvalues>
@@ -3992,7 +3992,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9.70820393249937"/>
-        <viz:position x="-819.9379861383441" y="-32.608854244441275"/>
+        <viz:position x="-819.9379861383441" y="32.608854244441275"/>
       </node>
       <node id="137" label="Facebook.com /JLM2017">
         <attvalues>
@@ -4020,7 +4020,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-659.1828292707082" y="-25.070278889799226"/>
+        <viz:position x="-659.1828292707082" y="25.070278889799226"/>
       </node>
       <node id="138" label="Lepcf.fr">
         <attvalues>
@@ -4049,7 +4049,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9"/>
-        <viz:position x="-744.5655276999646" y="-12.566380078996858"/>
+        <viz:position x="-744.5655276999646" y="12.566380078996858"/>
       </node>
       <node id="139" label="Twitter.com /deputesFdG">
         <attvalues>
@@ -4078,7 +4078,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="10.348469228349533"/>
-        <viz:position x="-653.0609590122044" y="-133.71674292215278"/>
+        <viz:position x="-653.0609590122044" y="133.71674292215278"/>
       </node>
       <node id="140" label="Twitter.com /Vannier75">
         <attvalues>
@@ -4107,7 +4107,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="10.937253933193773"/>
-        <viz:position x="-670.3210729626255" y="-103.58203271491377"/>
+        <viz:position x="-670.3210729626255" y="103.58203271491377"/>
       </node>
       <node id="141" label="Twitter.com /AQuatennens">
         <attvalues>
@@ -4136,7 +4136,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="11.485281374238571"/>
-        <viz:position x="-571.4995189033966" y="-131.05182666152587"/>
+        <viz:position x="-571.4995189033966" y="131.05182666152587"/>
       </node>
       <node id="142" label="Twitter.com /UEC_org">
         <attvalues>
@@ -4165,7 +4165,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-744.3979537781157" y="-97.94871545001745"/>
+        <viz:position x="-744.3979537781157" y="97.94871545001745"/>
       </node>
       <node id="143" label="Twitter.com /younousomarjee">
         <attvalues>
@@ -4194,7 +4194,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-542.2493783103178" y="12.780657525725942"/>
+        <viz:position x="-542.2493783103178" y="-12.780657525725942"/>
       </node>
       <node id="144" label="Twitter.com /PatrickLeHyaric">
         <attvalues>
@@ -4223,7 +4223,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="10.937253933193773"/>
-        <viz:position x="-775.0592754932834" y="-114.82038019545082"/>
+        <viz:position x="-775.0592754932834" y="114.82038019545082"/>
       </node>
       <node id="145" label="Twitter.com /_MJCF">
         <attvalues>
@@ -4252,7 +4252,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9.70820393249937"/>
-        <viz:position x="-728.7980288409801" y="-127.13169177217017"/>
+        <viz:position x="-728.7980288409801" y="127.13169177217017"/>
       </node>
       <node id="146" label="Facebook.com /jeunes.communistes">
         <attvalues>
@@ -4281,7 +4281,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-793.903259686722" y="-50.160431211769065"/>
+        <viz:position x="-793.903259686722" y="50.160431211769065"/>
       </node>
       <node id="147" label="Elianeassassi.fr">
         <attvalues>
@@ -4310,7 +4310,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-722.7463391138491" y="-160.45751873857836"/>
+        <viz:position x="-722.7463391138491" y="160.45751873857836"/>
       </node>
       <node id="148" label="Instagram.com /jlmelenchon">
         <attvalues>
@@ -4339,7 +4339,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="12"/>
-        <viz:position x="-586.0144078117606" y="98.59855207289971"/>
+        <viz:position x="-586.0144078117606" y="-98.59855207289971"/>
       </node>
       <node id="149" label="Instagram.com /lebonsensyt">
         <attvalues>
@@ -4368,7 +4368,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="3"/>
-        <viz:position x="-173.65386165499558" y="537.2677882667482"/>
+        <viz:position x="-173.65386165499558" y="-237.2677882667482"/>
       </node>
       <node id="150" label="Instagram.com /parti_communiste">
         <attvalues>
@@ -4397,7 +4397,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="6"/>
-        <viz:position x="-975.0441217503972" y="9.574502082142118"/>
+        <viz:position x="-975.0441217503972" y="-9.574502082142118"/>
       </node>
       <node id="151" label="Twitter.com /crcsenat">
         <attvalues>
@@ -4426,7 +4426,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="10.348469228349533"/>
-        <viz:position x="-688.3470345192494" y="-171.61637603006756"/>
+        <viz:position x="-688.3470345192494" y="171.61637603006756"/>
       </node>
       <node id="152" label="Youtube.com /.../frontdegaucheidf">
         <attvalues>
@@ -4455,7 +4455,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-840.1546851567925" y="-5.38325988760667"/>
+        <viz:position x="-840.1546851567925" y="5.38325988760667"/>
       </node>
       <node id="153" label="Twitter.com /FranceInsoumise">
         <attvalues>
@@ -4484,7 +4484,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="18"/>
-        <viz:position x="-491.60890742195966" y="-45.42125069369119"/>
+        <viz:position x="-491.60890742195966" y="45.42125069369119"/>
       </node>
       <node id="154" label="Twitter.com /ElianeAssassi">
         <attvalues>
@@ -4513,7 +4513,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-758.3765652149714" y="-143.98356069832312"/>
+        <viz:position x="-758.3765652149714" y="143.98356069832312"/>
       </node>
       <node id="155" label="Twitter.com /plaurent_pcf">
         <attvalues>
@@ -4542,7 +4542,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="12.9498743710662"/>
-        <viz:position x="-764.1131586787972" y="-178.1731912827823"/>
+        <viz:position x="-764.1131586787972" y="178.1731912827823"/>
       </node>
       <node id="156" label="Twitter.com /RaphaelQnouch">
         <attvalues>
@@ -4571,7 +4571,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9.70820393249937"/>
-        <viz:position x="-740.2900397012447" y="-76.28589976689717"/>
+        <viz:position x="-740.2900397012447" y="76.28589976689717"/>
       </node>
       <node id="157" label="jceyraud.Blogspirit.com">
         <attvalues>
@@ -4600,7 +4600,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="7.242640687119285"/>
-        <viz:position x="-729.081615477955" y="15.068225572320614"/>
+        <viz:position x="-729.081615477955" y="-15.068225572320614"/>
       </node>
       <node id="158" label="Francoisruffin.fr">
         <attvalues>
@@ -4629,7 +4629,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-637.766104548178" y="-90.64651343101885"/>
+        <viz:position x="-637.766104548178" y="90.64651343101885"/>
       </node>
       <node id="159" label="Twitter.com /IanBrossat">
         <attvalues>
@@ -4658,7 +4658,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9"/>
-        <viz:position x="-650.3816177342931" y="-116.16905350589806"/>
+        <viz:position x="-650.3816177342931" y="116.16905350589806"/>
       </node>
       <node id="160" label="solidarite-internationale-pcf.Over-Blog.net">
         <attvalues>
@@ -4687,7 +4687,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-804.6073252807604" y="-93.99850319183265"/>
+        <viz:position x="-804.6073252807604" y="93.99850319183265"/>
       </node>
       <node id="161" label="Twitter.com /stephane1peu">
         <attvalues>
@@ -4716,7 +4716,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9.70820393249937"/>
-        <viz:position x="-631.6057679925955" y="-159.73484345487972"/>
+        <viz:position x="-631.6057679925955" y="159.73484345487972"/>
       </node>
       <node id="162" label="Twitter.com /sebastienjumel">
         <attvalues>
@@ -4745,7 +4745,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9.70820393249937"/>
-        <viz:position x="-654.1122347270506" y="-184.47890142736566"/>
+        <viz:position x="-654.1122347270506" y="184.47890142736566"/>
       </node>
       <node id="163" label="Twitter.com /Obono2017">
         <attvalues>
@@ -4774,7 +4774,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="10.348469228349533"/>
-        <viz:position x="-640.3979767786303" y="-62.32422045566089"/>
+        <viz:position x="-640.3979767786303" y="62.32422045566089"/>
       </node>
       <node id="164" label="Twitter.com /MartineBillard">
         <attvalues>
@@ -4803,7 +4803,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9.70820393249937"/>
-        <viz:position x="-514.517633412037" y="-5.888385767173958"/>
+        <viz:position x="-514.517633412037" y="5.888385767173958"/>
       </node>
       <node id="165" label="Twitter.com /charligarotte">
         <attvalues>
@@ -4832,7 +4832,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9.70820393249937"/>
-        <viz:position x="-480.2883580348441" y="-2.76335737624764"/>
+        <viz:position x="-480.2883580348441" y="2.76335737624764"/>
       </node>
       <node id="166" label="Twitter.com /CarolineFiat54">
         <attvalues>
@@ -4861,7 +4861,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="10.937253933193773"/>
-        <viz:position x="-525.8686693856671" y="-116.72845164452568"/>
+        <viz:position x="-525.8686693856671" y="116.72845164452568"/>
       </node>
       <node id="167" label="Twitter.com /millerofficiel">
         <attvalues>
@@ -4890,7 +4890,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-592.1272753198845" y="-49.16629232879299"/>
+        <viz:position x="-592.1272753198845" y="49.16629232879299"/>
       </node>
       <node id="168" label="Twitter.com /LachaudB">
         <attvalues>
@@ -4919,7 +4919,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9"/>
-        <viz:position x="-529.6510521931102" y="-31.894874798669292"/>
+        <viz:position x="-529.6510521931102" y="31.894874798669292"/>
       </node>
       <node id="169" label="Twitter.com /AmraniRabate17">
         <attvalues>
@@ -4948,7 +4948,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-563.8831920817876" y="29.394567404613554"/>
+        <viz:position x="-563.8831920817876" y="-29.394567404613554"/>
       </node>
       <node id="170" label="Twitter.com /Clem_Autain">
         <attvalues>
@@ -4977,7 +4977,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="13.392304845413264"/>
-        <viz:position x="-594.570908224206" y="-166.1203507004377"/>
+        <viz:position x="-594.570908224206" y="166.1203507004377"/>
       </node>
       <node id="171" label="Twitter.com /Deputee_Obono">
         <attvalues>
@@ -5006,7 +5006,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9"/>
-        <viz:position x="-562.031694622924" y="-184.51583316256034"/>
+        <viz:position x="-562.031694622924" y="184.51583316256034"/>
       </node>
       <node id="172" label="Twitter.com /Ugobernalicis">
         <attvalues>
@@ -5035,7 +5035,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-587.2576057960746" y="-106.78972271813161"/>
+        <viz:position x="-587.2576057960746" y="106.78972271813161"/>
       </node>
       <node id="173" label="Twitter.com /HugoTouzet">
         <attvalues>
@@ -5064,7 +5064,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-657.7114934074427" y="-58.971821478944555"/>
+        <viz:position x="-657.7114934074427" y="58.971821478944555"/>
       </node>
       <node id="174" label="Twitter.com /FI_Paris18">
         <attvalues>
@@ -5093,7 +5093,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-717.4152786330565" y="-100.68125463852134"/>
+        <viz:position x="-717.4152786330565" y="100.68125463852134"/>
       </node>
       <node id="175" label="Twitter.com /ElsaFaucillon">
         <attvalues>
@@ -5122,7 +5122,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="10.937253933193773"/>
-        <viz:position x="-620.5385232639032" y="-198.0475800163017"/>
+        <viz:position x="-620.5385232639032" y="198.0475800163017"/>
       </node>
       <node id="176" label="Twitter.com /pdharreville">
         <attvalues>
@@ -5151,7 +5151,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9"/>
-        <viz:position x="-649.0162687959579" y="-219.29990099729287"/>
+        <viz:position x="-649.0162687959579" y="219.29990099729287"/>
       </node>
       <node id="177" label="Twitter.com /RaquelGarridoFI">
         <attvalues>
@@ -5180,7 +5180,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="10.937253933193773"/>
-        <viz:position x="-539.960429026164" y="-149.85719000192418"/>
+        <viz:position x="-539.960429026164" y="149.85719000192418"/>
       </node>
       <node id="178" label="Twitter.com /MathildePanot">
         <attvalues>
@@ -5209,7 +5209,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="10.937253933193773"/>
-        <viz:position x="-527.4897782779841" y="-185.70030859215603"/>
+        <viz:position x="-527.4897782779841" y="185.70030859215603"/>
       </node>
       <node id="179" label="Twitter.com /GillesWobedo">
         <attvalues>
@@ -5238,7 +5238,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="8.196152422706632"/>
-        <viz:position x="-530.1601168055153" y="-218.73364849229964"/>
+        <viz:position x="-530.1601168055153" y="218.73364849229964"/>
       </node>
       <node id="180" label="Twitter.com /ALeaument">
         <attvalues>
@@ -5267,7 +5267,7 @@
         </attvalues>
         <viz:color r="38" g="139" b="60"/>
         <viz:size value="9"/>
-        <viz:position x="-446.01693341723535" y="-55.78940055770201"/>
+        <viz:position x="-446.01693341723535" y="55.78940055770201"/>
       </node>
     </nodes>
     <edges>

@@ -1,5 +1,5 @@
 pandas
 jupyterlab
-ipysigma
+ipysigma==0.24.1
 pelote
 seaborn

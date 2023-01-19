@@ -389,7 +389,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="4"/>
-        <viz:position x="105.89244842529297" y="511.90753173828125"/>
+        <viz:position x="285.89244842529297" y="181.90753173828125"/>
       </node>
       <node id="82" label="Jacquesgenereux.fr">
         <attvalues>

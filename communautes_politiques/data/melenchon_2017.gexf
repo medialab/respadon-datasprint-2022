@@ -528,7 +528,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="3"/>
-        <viz:position x="428.9638366699219" y="-345.08831787109375"/>
+        <viz:position x="428.9638366699219" y="-245.08831787109375"/>
       </node>
       <node id="168" label="Communistesunitaires.net">
         <attvalues>
@@ -1969,7 +1969,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="3"/>
-        <viz:position x="387.3894348144531" y="-392.5706787109375"/>
+        <viz:position x="387.3894348144531" y="-242.5706787109375"/>
       </node>
       <node id="3732" label="Instagram.com /parti_communiste">
         <attvalues>
@@ -2682,7 +2682,7 @@
         </attvalues>
         <viz:color r="51" g="51" b="51"/>
         <viz:size value="9"/>
-        <viz:position x="240.337158203125" y="172.07054138183594"/>
+        <viz:position x="239.337158203125" y="172.07054138183594"/>
       </node>
     </nodes>
     <edges>

@@ -714,7 +714,7 @@
         </attvalues>
         <viz:size value="26.363636"/>
         <viz:position x="-671.3134" y="-1092.1324"/>
-        <viz:color r="0" g="175" b="135"/>
+        <viz:color r="228" g="175" b="181"/>
       </node>
       <node id="2289" label="Twitter.com /Vannier75">
         <attvalues>
@@ -1174,7 +1174,7 @@
         </attvalues>
         <viz:size value="24.545454"/>
         <viz:position x="-57.944622" y="-313.169"/>
-        <viz:color r="0" g="175" b="135"/>
+        <viz:color r="228" g="175" b="181"/>
       </node>
       <node id="262" label="18Mars2017.fr">
         <attvalues>
@@ -2639,7 +2639,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2211.1187" y="-333.31696"/>
-        <viz:color r="0" g="175" b="135"/>
+        <viz:color r="228" g="175" b="181"/>
       </node>
       <node id="203" label="Pcf-Gresivaudan.blogspot.fr">
         <attvalues>

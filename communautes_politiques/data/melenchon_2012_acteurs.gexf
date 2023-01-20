@@ -370,7 +370,7 @@
         </attvalues>
         <viz:size value="22.5"/>
         <viz:position x="-316.56302" y="85.6826"/>
-        <viz:color r="128" g="107" b="104"/>
+        <viz:color r="228" g="175" b="181"/>
       </node>
       <node id="82" label="Jacquesgenereux.fr">
         <attvalues>
@@ -967,7 +967,7 @@
         </attvalues>
         <viz:size value="19.615385"/>
         <viz:position x="-432.3547" y="395.3052"/>
-        <viz:color r="128" g="107" b="104"/>
+        <viz:color r="228" g="175" b="181"/>
       </node>
       <node id="957" label="Lhumaindabord2012.fr">
         <attvalues>

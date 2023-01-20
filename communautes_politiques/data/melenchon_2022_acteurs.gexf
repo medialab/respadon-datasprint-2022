@@ -750,7 +750,7 @@
         </attvalues>
         <viz:size value="26.382978"/>
         <viz:position x="272.90112" y="-1555.0853"/>
-        <viz:color r="211" g="179" b="176"/>
+        <viz:color r="228" g="175" b="181"/>
       </node>
       <node id="465" label="Discord.gg">
         <attvalues>
@@ -2964,7 +2964,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="1974.4484" y="-1356.5598"/>
-        <viz:color r="211" g="179" b="176"/>
+        <viz:color r="228" g="175" b="181"/>
       </node>
       <node id="239" label="Lafaqdelavenirencommun.com">
         <attvalues>
